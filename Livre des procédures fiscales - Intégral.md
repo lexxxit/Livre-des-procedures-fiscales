@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-07-01
+Version Consolidée au 2004-07-16
 
 # Partie législative
 
@@ -14385,6 +14385,97 @@ dispositions du d de l'article R. 80 B-5 ont été mises en oeuvre, à compter d
 	**Créé par**:
 
 	  - Décret n°97-496 du 16 mai 1997 - art. 1 () JORF 18 mai 1997
+
+
+###### Article R*80 C-1
+
+La demande mentionnée à l'article L. 80 C, établie conformément à un modèle fixé par voie réglementaire, précise le nom de
+l'organisme et son adresse ainsi que l'identité du signataire. Elle fournit une présentation précise et complète de
+l'activité exercée par l'organisme ainsi que toutes les informations nécessaires pour permettre à l'administration
+d'apprécier si celui-ci relève de l'une des catégories mentionnées aux articles 200 et 238 bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 (VT)
+	  - Code général des impôts, CGI. - art. 238 bis (V)
+	  - Livre des procédures fiscales - art. L80 C (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 C-2 (V)
+	  - Livre des procédures fiscales - art. R*80 C-3 (V)
+
+
+###### Article R*80 C-2
+
+La demande mentionnée à l'article R.* 80 C-1 est adressée, par pli recommandé avec demande d'avis de réception, à la
+direction des services fiscaux du siège de l'organisme. Elle peut également faire l'objet d'un dépôt contre décharge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 C-3 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales R80 C-1
+
+
+###### Article R*80 C-3
+
+Si la demande mentionnée à l'article R. *80 C-1 ne permet pas d'apprécier la situation de l'organisme au regard des
+dispositions des articles 200 et 238 bis du code général des impôts, le directeur invite l'auteur de la demande, par lettre
+recommandée avec demande d'avis de réception, à fournir les éléments complémentaires nécessaires. Ces éléments sont produits
+dans les conditions prévues à l'article R. *80 C-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 200 (VT)
+	  - Code général des impôts, CGI. - art. 238 bis (V)
+	  - Livre des procédures fiscales - art. R*80 C-1 (V)
+	  - Livre des procédures fiscales - art. R*80 C-2 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 C-4 (V)
+
+
+###### Article R*80 C-4
+
+Le délai de six mois prévu à l'article L. 80 C court à compter de la réception de la demande ou, si les dispositions de
+l'article R. * 80 C-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-692 du 12 juillet 2004 - art. 1 () JORF 16 juillet 2004
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 C (V)
+	  - Livre des procédures fiscales - art. R*80 C-3 (V)
 
 
 #### Chapitre I bis : Le droit d'enquête
