@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-12-28
+Version Consolidée au 1988-12-30
 
 # Partie législative
 
@@ -9261,6 +9261,22 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	  - Code des postes et des communications électronique - art. R*70-1 (Ab)
 	  - Livre des procédures fiscales - art. L261 (VT)
+
+
+###### Article L257 A
+
+Les avis de mises en recouvrement peuvent être signés et rendus exécutoires et les mises en demeure peuvent être signées,
+sous l'autorité et la responsabilité du comptable, par les agents de la recette ayant au moins le grade de contrôleur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V) JORF 30 décembre 1988
+
+	**Cité par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V)
 
 
 ##### Section II : Exercice des poursuites
