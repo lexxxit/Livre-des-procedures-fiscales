@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1990-01-13
+Version Consolidée au 1990-06-15
 
 # Partie législative
 
@@ -1625,25 +1625,54 @@ vérifications.
 1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du
 code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents
 de l'administration des impôts, habilités à cet effet par le directeur général des impôts, peuvent effectuer des visites en
-tous lieux, même privés, où les pièces et documents se rapportant à ces infractions sont susceptibles d'être détenus et
-procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
+tous lieux, même privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions sont susceptibles
+d'être détenus et procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du président du tribunal de grande
-instance dans le ressort duquel sont situés les locaux à visiter.
-
-L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale ; ce
-pourvoi n'est pas suspensif.
+instance dans le ressort duquel sont situés les locaux à visiter ou d'un juge délégué par lui.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
 
 Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
 
+L'ordonnance comporte :
+
+- le cas échéant, mention de la délégation du président du tribunal de grande instance ;
+
+- l'adresse des lieux à visiter ;
+
+- le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de
+visite.
+
+Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
+l'espèce, l'existence des infractions dont la preuve est recherchée.
+
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
+la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
+infractions visées au 1. sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge
+qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
+verbal prévu au 4.
+
 La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
 
 Il peut se rendre dans les locaux pendant l'intervention.
 
 A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+
+L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale. Les
+délais de pourvoi courent à compter de la notification ou de la signification de l'ordonnance. Ce pourvoi n'est pas
+suspensif.
+
+L'ordonnance est notifiée, verbalement et sur place au moment de la visite, à l'occupant des lieux ou à son représentant qui
+en reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au 4. En l'absence de l'occupant des lieux ou
+de son représentant, l'ordonnance est notifiée après la visite par lettre recommandée avec avis de réception. La notification
+est réputée faite à la date de réception figurant sur l'avis.
+
+A défaut de réception, il est procédé à la signification de l'ordonnance dans les conditions prévues par les articles 550 et
+suivants du code de procédure pénale.
+
+Les délai et modalités de la voie de recours sont mentionnés sur les actes de notification et de signification.
 
 3. La visite ne peut être commencée avant six heures ni après vingt et une heures ; dans les lieux ouverts au public elle
 peut également être commencée pendant les heures d'ouverture de l'établissement. Elle est effectuée en présence de l'occupant
@@ -1680,7 +1709,7 @@ visées aux premier et deuxième alinéas de l'article L. 47 du présent livre.
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
+	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P) JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -1691,12 +1720,16 @@ visées aux premier et deuxième alinéas de l'article L. 47 du présent livre.
 	  - Livre des procédures fiscales - art. L80 H (V)
 	  - Livre des procédures fiscales - art. R*135 S-2 (V)
 
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
 	**Cite**:
 
 	  - CGI L212
 	  - CGI L47
 	  - CODE DE PROCEDURE PENALE - art. 58 (M)
-	  - Code de procédure pénale 56 al. 3
+	  - Code de procédure pénale 550 et s.
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
@@ -1834,6 +1867,37 @@ Un décret fixe les conditions d'application de cet article.
 	  - Livre des procédures fiscales - art. R45 D-1 (P)
 
 
+###### Article L45 E
+
+Les agents dépendant du ministère chargé de l'emploi sont compétents pour constater et contrôler les éléments servant au
+calcul du crédit d'impôt pour augmentation de la durée d'utilisation des équipements et réduction de la durée hebdomadaire du
+travail prévu à l'article 244 quater E du code général des impôts, ainsi que les conditions auxquelles l'octroi du crédit
+d'impôt est subordonné, sans préjudice des pouvoirs de contrôle de l'administration des impôts qui demeure seule compétente
+pour l'application des procédures de redressement.
+
+Un décret fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater E
+
+	**Créé par**:
+
+	  - Loi n°89-935 1989-12-29 art. 121 IX, X Finances pour 1990, JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-662 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+
+
 ###### Article L46
 
 Les autorités civiles et militaires et la force publique prêtent aide et assistance aux agents de l'administration des impôts
@@ -1893,6 +1957,54 @@ contribuable de se faire assister par un conseil.
 	**Modifié par**:
 
 	  - Loi n°89-936 1989-12-29 art. 35 I Finances rectificative pour 1989, JORF 30 décembre 1989
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+
+###### Article L47 A
+
+Lorsque la comptabilité est tenue au moyen de systèmes informatisés, les agents de l'administration fiscale peuvent effectuer
+la vérification sur le matériel utilisé par le contribuable.
+
+Celui-ci peut demander à effectuer lui-même tout ou partie des traitements informatiques nécessaires à la vérification. Dans
+ce cas, l'administration précise par écrit au contribuable, ou à un mandataire désigné à cet effet, les travaux à réaliser
+ainsi que le délai accordé pour les effectuer.
+
+Le contribuable peut également demander que le contrôle ne soit pas effectué sur le matériel de l'entreprise. Il met alors à
+la disposition de l'administration les copies des documents, données et traitements soumis à contrôle.
+
+Ces copies seront produites sur un support informatique fourni par l'entreprise, répondant à des normes fixées par arrêté.
+
+Le contribuable est informé des noms et adresses administratives des agents par qui ou sous le contrôle desquels les
+opérations sont réalisées.
+
+Les copies des documents transmis à l'administration ne doivent pas être reproduites par cette dernière et doivent être
+restituées au contribuable avant la mise en recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Cité par**:
+
+	  - Arrêté du 28 décembre 2007 (V)
+	  - Code général des impôts, CGI. - art. 1729 D (M)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Q (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 bis F (V)
+	  - Livre des procédures fiscales - art. A47 A-1 (V)
+	  - Livre des procédures fiscales - art. A47 A-2 (V)
+	  - Livre des procédures fiscales - art. A47 A-3 (V)
+	  - Livre des procédures fiscales - art. L52 (V)
+	  - Livre des procédures fiscales - art. L57 (V)
+	  - Livre des procédures fiscales - art. L74 (VD)
+	  - Livre des procédures fiscales - art. L80 K (VT)
+	  - Livre des procédures fiscales - art. L80 L (V)
 
 	**Liens**:
 
@@ -3476,16 +3588,14 @@ grade d'inspecteur principal qui vise à cet effet le document comportant la mot
 ###### Article L81
 
 Le droit de communication permet aux agents de l'administration des impôts, pour l'établissement de l'assiette et le contrôle
-des impôts, d'avoir connaissance des documents mentionnés aux articles L. 82 A à L. 96 dans les conditions qui y sont
-précisées.
+des impôts, d'avoir connaissance des documents et des renseignements mentionnés aux articles du présent chapitre dans les
+conditions qui y sont précisées.
 
-L'obligation prevue a l'alinea precedent est applicable quel que soit le support utilise pour la conservation des documents,
-y compris lorsqu'il est magnétique (1).
+Le droit prévu à l'alinéa précédent s'exerce quel que soit le support utilisé pour la conservation des documents, y compris
+lorsqu'il est magnétique.
 
-Ce droit est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des agents des
-administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts.
-
-(1) Disposition de caractére interprétatif (loi n° 82-1126 du 29 décembre 1982, art. 75).
+Le droit de communication est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des
+agents des administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -3501,9 +3611,9 @@ administrations chargés du recouvrement des impôts, droits et taxes prévus pa
 	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (M)
 	  - Décret n°2010-1023 du 1 septembre 2010 - art. 4 (Ab)
 	  - Arrêté du 13 septembre 2013 - art. 4 (V)
-	  - Arrêté du 29 février 2016 - art. 6 (V)
 	  - Décret n°2015-531 du 12 mai 2015 (V)
 	  - Décret n°2015-1091 du 28 août 2015 (V)
+	  - Arrêté du 29 février 2016 - art. 6 (V)
 	  - Code des transports - art. R1261-8 (V)
 	  - Livre des procédures fiscales - art. R*135 S-2 (V)
 	  - Livre des procédures fiscales - art. R*81-1 (V)
@@ -3511,27 +3621,28 @@ administrations chargés du recouvrement des impôts, droits et taxes prévus pa
 	  - Livre des procédures fiscales - art. R*81-4 (P)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
-	**Cite**:
+	**Codifié par**:
 
-	  - Loi n°82-1126 1982-12-29 art. 5 Finances pour 1983
-	  - CGI L82 A, L82 B, L 83, L84, L85, L85 A, L86 A, L86, L87, L88, L89, L90, L91, L92, L93, L94, L95
+	  - Décret n°90-799 1990-09-10
 
 	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°86-1087 1986-10-07
+	  - CGI L83, L84, L85, L85 A, L86, L86 A, L87, L88, L89, L90, L91, L92, L94, L95
 
 
-##### Personnes versant des honoraires ou des droits d'auteur.
+##### Section I : Conditions d'exercice du droit de communication
+
+##### 1° : Personnes versant des honoraires ou des droits d'auteur
 
 ###### Article L82 A
 
 Les personnes qui doivent souscrire la déclaration prévue à l'article 240 du code général des impôts doivent tenir à la
 disposition des agents de l'administration les documents comptables permettant de connaître le montant annuel des honoraires
-et revenus assimilés qu'elles versent à des tiers.
+et revenus assimilés qu'elles versent à des tiers. 
 
 La même obligation s'impose aux personnes qui procèdent à l'encaissement et au versement de droits d'auteur ou d'inventeur
 qu'elles sont tenues de déclarer en application de l'article 241 du même code.
@@ -3540,19 +3651,20 @@ qu'elles sont tenues de déclarer en application de l'article 241 du même code.
 
 	**Cite**:
 
-	  - CGI 240
-	  - CGI 241
+	  - CGI 240, 241
+	  - Code général des impôts, CGI. - art. 240 (V)
+	  - Code général des impôts, CGI. - art. 241 (V)
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 241 bis
+	  - Décret n°90-799 1990-09-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 
-##### Employeurs et débirentiers.
+##### 2° : Employeurs et débirentiers
 
 ###### Article L82 B
 
@@ -3561,16 +3673,62 @@ sur sa demande, les documents sur lesquels sont enregistrés les paiements.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 86 (V)
 
 
-##### Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative.
+##### Ministère public.
+
+###### Article L82 C
+
+A l'occasion de toute instance devant les juridictions civiles ou criminelles, le ministère public peut communiquer les
+dossiers à l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°81-859 du 15 septembre 1981 - art. 1 (V)
+	  - Décret n°81-859 du 15 septembre 1981 - art. 2 ()
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
+	**Cité par**:
+
+	  - Arrêté du 16 janvier 2008 (V)
+	  - Arrêté du 16 janvier 2008 - art. 4 (V)
+	  - Code de la sécurité sociale. - art. L114-20 (V)
+	  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
+	  - Code général des impôts, CGI. - art. 1649 quater-0 B ter (V)
+	  - Livre des procédures fiscales - art. L12 (V)
+	  - Livre des procédures fiscales - art. R81-5 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+	**Anciens textes**:
+
+	  - Livre des procédures fiscales L100
+
+	**Créé par**:
+
+	  - Loi n°1926-04-04 art. 6 Finances pour 1926 JORF 4 avril 1926
+
+
+##### 4° : Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative
 
 ###### Article L83
 
@@ -3581,40 +3739,31 @@ pouvoir opposer le secret professionnel.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
 	**Cité par**:
 
 	  - Arrêté du 21 août 1995 - art. 4 (V)
 	  - Arrêté du 8 mars 1996 - art. 5 (V)
+	  - Décret n°99-1090 du 21 décembre 1999 - art. 5 (V)
 	  - Code monétaire et financier - art. L561-14-2 (V)
 	  - Code monétaire et financier - art. L563-2 (V)
 	  - Code monétaire et financier - art. L711-18 (V)
 	  - Code monétaire et financier - art. L725-3 (V)
 	  - Code monétaire et financier - art. L745-13 (MMN)
 	  - Code monétaire et financier - art. L755-13 (MMN)
-	  - Décret n°99-1090 du 21 décembre 1999 - art. 5 (V)
 	  - Livre des procédures fiscales - art. L81 (V)
 	  - Livre des procédures fiscales - art. L84 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 1987 (al. 1)
-	  - Décret n°1948-12-09 art. 2126
-	  - Décret n°71-290 1971-04-15 art. 5
-	  - Loi n°1920-07-31 art. 31
-	  - Loi n°1933-02-28 art. 38
-	  - Loi n°1941-01-13 annexe I art. 151
-	  - Loi n°45-195 1945-12-31 art. 30
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
+	  - HISTO: Edition du 15 juin 1990
 
-	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
-
+##### Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative.
 
 ###### Article L84
 
@@ -3625,28 +3774,30 @@ ne sont pas tenues par l'obligation découlant de l'article L. 83.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1987 (AL. 2)
-	  - Loi n°51-711 du 7 juin 1951 - art. 6 (M)
-
 	**Cite**:
 
 	  - CGI L83
 	  - Loi n°51-711 1951-06-07
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Loi n°81-1179 1981-12-31 ART. 7 FINANCES RECTIFICATIVE POUR 1981 : "Le droit de communication prévu aux articles L. 81 à L. 95 du livre des procédures fiscales du nouveau code des impôts est étendu au profit des agents des administrations chargés du re
-	  - HISTO: date d'entrée en vigueur 1er janvier 1982)
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990 :
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L114-20 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
+	**Liens**:
 
-##### Personnes ayant la qualité de commerçant.
+	  - HISTO: modification de la table des matières à la date du 15 juin 1990)
+
+
+##### 6° : Personnes ayant la qualité de commerçant
 
 ###### Article L85
 
@@ -3659,13 +3810,13 @@ et sur les feuilles de présence aux assemblées générales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 1991 (AL. 1, AL. 2, 1ERE PHRASE)
-	  - Décret n°1934-07-20 ANNEXE ART. 154 (LOI 1934-07-06 ART. 13)
-	  - Décret n°1937-07-08 ART. 14 (LOI 1937-06-30 ART. UNIQUE)
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°1941-12-31 ART. 35
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 	**Cite**:
 
@@ -3684,16 +3835,8 @@ et sur les feuilles de présence aux assemblées générales.
 	  - Livre des procédures fiscales - art. R*85-1 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
-	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
-
-
-##### Agriculture.
+##### 7° : Agriculture
 
 ###### Article L85 A
 
@@ -3706,29 +3849,29 @@ activité.
 
 	**Codifié par**:
 
-	  - Décret n°84-876 1984-10-01
+	  - Décret n°90-799 1990-09-10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 88 (V) JORF 30 décembre 1983
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
 
-##### Membres de certaines professions non commerciales.
+##### 8° : Membres de certaines professions non commerciales
 
 ###### Article L86
 
 Les agents de l'administration ont un droit de communication à l'égard des membres des professions non commerciales définies
-ci-après :
+ci-après : 
 
 a. Les professions dont l'exercice autorise l'intervention dans des transactions, la prestation de services à caractère
-juridique, financier ou comptable ou la détention de biens ou de fonds pour le compte de tiers ;
+juridique, financier ou comptable ou la détention de biens ou de fonds pour le compte de tiers ; 
 
 b. Les professions consistant à titre principal en la prestation de services à caractère décoratif ou architectural ou en la
-création et la vente de biens ayant le même caractère.
+création et la vente de biens ayant le même caractère. 
 
 Le droit prévu au premier alinéa ne porte que sur l'identité du client, le montant, la date et la forme du versement ainsi
 que les pièces annexes de ce versement. Il ne peut entraîner pour les personnes auprès desquelles il est exercé
@@ -3737,14 +3880,20 @@ articles L. 47 et suivants.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI L47 et s.
+	  - Décret n°90-799 1990-09-10
 
 	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L47 (V)
+
+
+##### Membres de certaines professions non commerciales.
 
 ###### Article L86 A
 
@@ -3752,15 +3901,26 @@ La nature des prestations fournies par l'adhérent d'une association agréée ne
 renseignements de la part de l'administration des impôts lorsque cet adhérent est membre d'une profession non commerciale
 soumis au secret professionnel en application de l'article 378 du code pénal.
 
+**Nota:**
+
+NOTA : Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par la
+référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378 du
+code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 73 () JORF 30 décembre 1982 date d'entrée en vigueur 1er janvier 1983
 
 	**Codifié par**:
 
-	  - Décret n°83-900 1983-10-06
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990 :
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
+	  - HISTO: modification de la table des matières à la date du 15 juin 1990)
 
 	**Cité par**:
 
@@ -3771,7 +3931,7 @@ soumis au secret professionnel en application de l'article 378 du code pénal.
 	  - Code pénal 378
 
 
-##### Institutions et organismes versant des rémunérations ou répartissant des fonds.
+##### 9° : Institutions et organismes versant des rémunérations ou répartissant des fonds
 
 ###### Article L87
 
@@ -3782,20 +3942,13 @@ activité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 1995 (SAUF 2 DERNIERES LIGNES)
-	  - Décret n°1934-07-20 ANNEXE ART. 155 (LOI 1934-07-06 ART. 13)
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°1941-01-13 ANNEXE I ART. 155 1
-
-	**Cite**:
-
-	  - CGI L14
+	  - Décret n°90-799 1990-09-10
 
 	**Modifié par**:
 
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 	**Cité par**:
 
@@ -3808,47 +3961,48 @@ activité.
 	  - Livre des procédures fiscales - art. R*81-1 (M)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Livre des procédures fiscales - art. L14 (V)
 
 
-##### Personnes effectuant des opérations immobilières.
+##### 10° : Personnes effectuant des opérations immobilières
 
 ###### Article L88
 
-Les personnes qui réalisent des opérations mentionnées à l'article 257-6° du code général des impôts, portant sur des
+Les personnes qui réalisent des opérations mentionnées au 6° de l'article 257 du code général des impôts, portant sur des
 immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières dont les résultats doivent être compris
 dans les bases de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux, doivent communiquer à
-l'administration, sur sa demande, leurs livres, registres, titres, pièces de recettes, de dépenses et de comptabilité.
+l'administration, sur sa demande, leurs livres, registres, titres, pièces de recettes, de dépenses et de comptabilité
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1999
-	  - Décret n°55-566 1955-05-20 ART. 11 1 (LOI 54-809 1954-08-14)
-	  - Loi n°1925-07-13 ART. 39
-	  - Loi n°66-10 1966-01-06 ART. 414
 
 	**Cite**:
 
 	  - CGI 257 6°
 
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+	**Abrogé par**:
+
+	  - Loi n°2010-237 du 9 mars 2010 - art. 16
+
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 290 (Ab)
 
-	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
-
-
-##### Personnes effectuant des opérations d'assurance.
+##### 11° : Personnes effectuant des opérations d'assurance
 
 ###### Article L89
 
@@ -3871,9 +4025,13 @@ moins de six ans.
 	  - CGI 1002
 	  - Code des assurances - art. L310-1 (M)
 
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
 	**Modifié par**:
 
-	  - Décret n°86-686 du 14 mars 1986, v. init.
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 	**Cité par**:
 
@@ -3885,7 +4043,7 @@ moins de six ans.
 	  - Code monétaire et financier - art. L755-13 (MMN)
 
 
-##### Entrepreneurs de transport.
+##### 12° : Entrepreneurs de transport
 
 ###### Article L90
 
@@ -3897,27 +4055,24 @@ Le refus de communication est constaté par procès-verbal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 2000 1 (AL. 1 P.)
-	  - CGI 626 (AL. 1 1ERE PHRASE, AL. 2 P.)
-	  - Loi n°1871-08-23 ART. 22
-	  - Loi n°1941-05-19 ART. 3
-
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°90-799 1990-09-10
 
 	**Modifié par**:
 
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
 
-##### Redevables du droit d'accroissement.
+##### 13° : Redevables du droit d'accroissement
 
 ###### Article L91
 
@@ -3927,29 +4082,24 @@ demande, les polices d'assurances, les livres, registres, titres, pièces de rec
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1005
-
-	**Anciens textes**:
-
-	  - CGI 2000 (AL. 1 P.)
-	  - Loi n°1884-12-29 ART. 9 (AL. 3)
-
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°90-799 1990-09-10
 
 	**Modifié par**:
 
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1005 (V)
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L114-20 (V)
 
 
-##### Dépositaires de documents publics.
+##### 14° : Dépositaires de documents publics
 
 ###### Article L92
 
@@ -3968,88 +4118,19 @@ Les communications prévues au présent article ne peuvent être exigées les jo
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 1988
-	  - Loi n°22 Frimaire AN VII art. 54
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 932 (Ab)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
-
-
-##### Caisses de mutualité sociale agricole.
-
-###### Article L95
-
-Les caisses de mutualité sociale agricole doivent communiquer à l'administration, sur sa demande, les documents d'assiette
-des cotisations des prestations sociales agricoles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1996
-	  - Loi n°49-946 1949-07-16 ART. 11 (AL. 2)
-	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V)
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15 applicable le 1er septembre 1982
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. L114-20 (V)
-	  - Livre des procédures fiscales - art. R81-5 (V)
-
-
-##### Formules de chèques non barrées.
-
-###### Article L96
-
-L'identité des personnes auxquelles sont délivrées des formules de chèques non barrées et qui ne sont pas rendues, par une
-mention expresse du banquier, intransmissibles par voie d'endossement, sauf au profit d'un établissement de crédit, d'une
-caisse d'épargne, ou d'un établissement assimilé, doit être communiquée à tout moment à l'administration des impôts, sur sa
-demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2001 quinquies
-	  - Loi n°78-1239 1978-12-29 ART. 85 I
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Cité par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 96 (M)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 107 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater B (M)
-	  - Code monétaire et financier - art. L112-8 (VD)
-	  - Code monétaire et financier - art. L112-9 (An)
-
-	**Modifié par**:
-
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
-
-
-##### Section I : Conditions d'exercice du droit de communication
 
 ##### 15° : Intermédiaires professionnels des bourses de valeurs
 
@@ -4063,24 +4144,118 @@ timbre sur les opérations de bourse ne mentionne pas la contrepartie d'une opé
 l'administration peut demander la communication des livres et documents comptables des deux assujettis, à la condition d'en
 limiter l'examen à une période de deux jours au plus.
 
+**Nota:**
+
+_Modifications effectuées en conséquence de l'article 11 I de la loi n° 2007-1822 du 24 décembre 2007._
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2000 4
-	  - Loi n°1893-04-28 ART. 30
 
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°90-799 1990-09-10
 
 	**Modifié par**:
 
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-295 du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R*94-1 (P)
+
+
+##### 16° : Caisses de mutualité sociale agricole
+
+###### Article L95
+
+Les caisses de mutualité sociale agricole doivent communiquer à l'administration, sur sa demande, les documents d'assiette
+des cotisations des prestations sociales agricoles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L114-20 (V)
+	  - Livre des procédures fiscales - art. R81-5 (V)
+
+
+##### 17° : Formules de chèques non barrées
+
+###### Article L96
+
+L'identité des personnes auxquelles sont délivrées des formules de chèques non barrées et qui ne sont pas rendues, par une
+mention expresse du banquier, intransmissibles par voie d'endossement, sauf au profit d'un établissement de crédit, d'une
+caisse d'épargne, ou d'un établissement assimilé, doit être communiquée à tout moment à l'administration des impôts, sur sa
+demande.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 96 (M)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 107 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater B (M)
+	  - Code monétaire et financier - art. L112-8 (VD)
+	  - Code monétaire et financier - art. L112-9 (An)
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
+	**Modifié par**:
+
+	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+
+
+##### Opérations de transfert de fonds à l'étranger.
+
+###### Article L96 A
+
+Tout organisme soumis à la loi n° 84-46 du 24 janvier 1984 ou cité à l'article 8 de ladite loi doit communiquer à
+l'administration, sur sa demande, la date et le montant des sommes transférées à l'étranger par les personnes visées au
+deuxième alinéa de l'article 1649 A du code général des impôts, l'identification de l'auteur du transfert et du bénéficiaire
+ainsi que les références des comptes concernés en France et à l'étranger.
+
+Ces dispositions s'appliquent également aux opérations effectuées pour le compte de ces personnes sur des comptes de non-
+résidents.
+
+Les dispositions de l'article L. 102 B sont applicables.
+
+Un décret en Conseil d'Etat fixe les règles particulières relatives à la conservation et à la communication des informations
+détenues par les organismes visés au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-46 1984-01-24 art. 8
+	  - CGI 1649 A al. 2
+	  - CGI L102 B
+
+	**Créé par**:
+
+	  - Loi n°89-935 1989-12-29 art. 98 Finances pour 1990 JORF 30 décembre 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
+	**Cité par**:
+
+	  - Arrêté du 25 novembre 2009 - art. 3 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 bis (M)
+	  - Code général des impôts, CGI. - art. 1735 (V)
 
 
 ##### 20° : Intermédiaires sur le MATIF, le MONEP et en matière de bons d'options.
@@ -4214,31 +4389,6 @@ aux impôts et taxes en vigueur [*obligation*].
 	  - Décret n°2004-581 du 21 juin 2004 - art. 4 (V)
 
 
-###### Article L100
-
-A l'occasion de toute instance devant les juridictions civiles ou criminelles, le ministère public peut communiquer les
-dossiers à l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1990
-	  - Loi n°1926-04-04 art. 6 Finances pour 1926
-
-	**Nouveaux textes**:
-
-	  - CGI L82 C
-
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
-
-	**Transféré par**:
-
-	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
-
-
 ###### Article L101
 
 L'autorité judiciaire doit communiquer à l'administration des impôts toute indication qu'elle peut recueillir, de nature à
@@ -4297,6 +4447,107 @@ décès établis au cours du trimestre. Ces relevés sont certifiés par le mair
 	**Créé par**:
 
 	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+
+
+#### Chapitre II bis : Obligation et délais de conservation des documents
+
+###### Article L102 B
+
+Les livres, registres, documents ou pièces sur lesquels peuvent s'exercer les droits de communication et de contrôle de
+l'administration doivent être conservés pendant un délai de six ans à compter de la date de la dernière opération mentionnée
+sur les livres ou registres ou de la date à laquelle les documents ou pièces ont été établis.
+
+Sans préjudice des dispositions du premier alinéa, lorsque les livres, registres, documents ou pièces mentionnés au premier
+alinéa sont établis ou reçus sur support informatique, ils doivent être conservés sous cette forme pendant une durée au moins
+égale au délai prévu à l'article L. 169.
+
+Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
+chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
+
+Lorsqu'ils ne sont pas déjà visés aux alinéas précédents, les informations, données ou traitements soumis au contrôle prévu
+au deuxième alinéa de l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai prévu à
+l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des traitements doit être
+conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
+	**Cité par**:
+
+	  - Arrêté du 8 mars 1993 - art. Annexe (V)
+	  - Arrêté du 4 mars 1996 - art. Annexe (Ab)
+	  - Arrêté du 6 février 1998 - art. Annexe (V)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 98 (M)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 16 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 303 (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 178 octies C (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 244 novodecies (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 244 tervicies (T)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 313 O (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 38 sexdecies RD (AbD)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 124 A (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 124 B (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 126 E (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 17 D (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 54 F (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 86 (V)
+	  - Code du cinéma et de l'image animée - art. L212-26 (V)
+	  - Code du cinéma et de l'image animée - art. L212-32 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 89 (Ab)
+	  - Code général des impôts, CGI. - art. 1561 (VT)
+	  - Code général des impôts, CGI. - art. 1562 (VT)
+	  - Code général des impôts, CGI. - art. 286 (VD)
+	  - Code général des impôts, CGI. - art. 289 bis (Ab)
+	  - Code général des impôts, CGI. - art. 54 septies (V)
+	  - Code général des impôts, CGI. - art. 99 (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 I (VD)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 286 J (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 E (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 HB (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 111-0 HC (VD)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 181 (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 182 (P)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38 sexdecies P (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 58 R (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 F bis (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 G (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 96 I (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 98 bis (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 121 KL ter (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 137 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 17 A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 29 E (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 41 quater (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50 sexies H (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 A (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-0 A bis (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 I (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 50-00 J (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 AM (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 56 J quaterdecies (V)
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 93 H quater E (V)
+	  - Code monétaire et financier - art. L152-3 (V)
+	  - Code rural - art. D666-19 (V)
+	  - Livre des procédures fiscales - art. A102 B-1 (V)
+	  - Livre des procédures fiscales - art. L102 B (M)
+	  - Livre des procédures fiscales - art. L102 C (V)
+	  - Livre des procédures fiscales - art. L96 A (V)
+	  - Livre des procédures fiscales - art. R80 F-3 (V)
+
+	**Cite**:
+
+	  - CGI L13
+	  - CGI L169
 
 
 #### Chapitre III : Le secret professionnel en matière fiscale
@@ -4660,8 +4911,8 @@ Des dérogations à la règle du secret professionnel sont établies au profit d
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 136, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans les termes
-de l'article 378 du code pénal.
+D, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans
+les termes de l'article 378 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -4675,6 +4926,7 @@ de l'article 378 du code pénal.
 	  - CGI L130
 	  - CGI L135
 	  - CGI L136
+	  - CGI L139 A
 	  - CGI L152 A
 	  - CGI L154
 	  - CGI L156
@@ -4684,11 +4936,11 @@ de l'article 378 du code pénal.
 
 	**Modifié par**:
 
-	  - Loi n°88-1088 1988-12-01 art. 22 JORF 3 décembre 1988, incorporée au Livre des procédures fiscales le 14 juillet 1989
+	  - Loi n°89-1010 1989-12-31 art. 7 JORF 2 janvier 1990 en vigueur le 1er mars
 
 	**Codifié par**:
 
-	  - Décret n°89-802 1989-10-27
+	  - Décret n°90-799 1990-09-10
 
 	**Cité par**:
 
@@ -5567,6 +5819,32 @@ années.
 	  - Décret n°86-1087 1986-10-07
 
 
+###### Article L139 A
+
+La commission départementale prévue à l'article 2 de la loi n° 89-1010 du 31 décembre 1989 relative à la prévention et au
+règlement des difficultés liées au surendettement des particuliers et des familles peut obtenir de l'administration des
+impôts communication de tout renseignement de nature à lui donner une exacte information sur la situation du débiteur,
+l'évolution possible de celle-ci et les procédures de conciliation amiables en cours.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°89-1010 1989-12-31 art. 2
+
+	**Créé par**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 3 (Ab) JORF 2 janvier 1990 en vigueur le 1er mars 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions
 
 ###### Article L140
@@ -5776,6 +6054,29 @@ permanents de ces dirigeants personnes morales.
 	**Codifié par**:
 
 	  - Décret n°86-1087 1986-10-07
+
+
+###### Article L145 D
+
+Pour l'application des dispositions des articles 180 à 182 de la loi n° 85-98 du 25 janvier 1985, relative au redressement et
+à la liquidation judiciaire des entreprises, le tribunal peut charger le juge-commissaire ou, à défaut, un membre de la
+juridiction qu'il désigne, d'obtenir de l'administration des impôts communication de tout document ou information sur la
+situation patrimoniale des dirigeants personnes physiques ou morales ainsi que des personnes physiques représentants
+permanents de ces dirigeants personnes morales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25 art. 180 à art. 182
+
+	**Créé par**:
+
+	  - Loi n°89-1010 du 31 décembre 1989 - art. 11 (Ab) JORF 2 janvier 1990 en vigueur le 1er mars 1990
+
+	**Codifié par**:
+
+	  - Décret n°90-799 1990-09-10
 
 
 ###### Article L146
@@ -12441,8 +12742,8 @@ En conséquence de l'article 20-XX [3°] de la loi n° 2013-1279 du 29 décembre
 ###### Article R*172 D-1
 
 En ce qui concerne la redevance fixe des mines prévue par l'article 234 du code général des impôts, le droit de reprise de
-l'administration s'exerce dans le délai fixé par l'article L. 173 pour les impôts directs locaux autres que la taxe
-professionnelle.
+l'administration s'exerce dans le délai fixé au premier alinéa de l'article L. 173 pour les impôts directs locaux autres que
+la taxe professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -12451,13 +12752,18 @@ professionnelle.
 	  - CGI 234
 	  - CGI L173
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN2 158 (al. 1 p.)
+	  - Loi n°89-935 1989-12-29 art. 6 IV Finances pour 1990 JORF 30 décembre 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°90-799 1990-09-10
+	  - Décret n°92-837 1992-08-27
+
+	**Liens**:
+
+	  - PEREMPTION: Loi - art. 32 () JORF 31 décembre 1991
 
 
 ##### Section III : Contributions indirectes
@@ -13101,28 +13407,29 @@ fiscale, c'est ce service qui statue.
 
 En cas de rejet total ou partiel de la réclamation, la décision doit être motivée [*obligation*].
 
-Les décisions de l'administration sont notifiées dans les mêmes conditions que celles prévues par l'article R. 200-4 pour les
-notifications faites au cours de la procédure devant le tribunal administratif.
+Les décisions de l'administration sont notifiées dans les mêmes conditions que celles prévues pour les notifications faites
+au cours de la procédure devant le tribunal administratif.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1938 1, 4, 5
-
-	**Cite**:
-
-	  - CGI R200-4
+	  - Décret n°89-948 1989-12-29 art. 5 JORF 31 décembre 1989 en vigueur le 1er janvier 1990
+	  - Décret n°89-641 du 7 septembre 1989 - art. 1 (V) JORF 10 septembre 1989 en vigueur le 1er janvier 1990
 
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°90-799 1990-09-10
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
 	  - Livre des procédures fiscales - art. R*199-1 (V)
 	  - Livre des procédures fiscales - art. R*200-4 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
 ##### Section II : Procédure devant les tribunaux
