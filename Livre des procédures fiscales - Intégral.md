@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2002-03-31
+Version Consolidée au 2002-08-31
 
 # Partie législative
 
@@ -17651,20 +17651,25 @@ présence de l'autorité qui l'a saisie et du contribuable.
 
 ###### Article R*228-6
 
-Le président notifie l'avis de la commission au ministre. Cet avis n'est pas motivé.
+Le président ou, en cas d'absence ou d'empêchement, son suppléant, notifie l'avis de la commission au ministre. Cet avis
+n'est pas motivé.
 
 Le contribuable est informé de l'avis de la commission par le secrétariat si cet avis est défavorable à l'engagement de
 poursuites ou, dans le cas contraire, par l'administration lors du dépôt de la plainte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+	  - Décret n°2002-1102 du 29 août 2002 - art. 1 () JORF 31 août 2002
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies-0 B (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 ##### III : Dispositions particulières aux contributions indirectes
@@ -17813,19 +17818,15 @@ son refus.
 
 ###### Article R*247-4
 
-Sauf en matière de contributions indirectes, de taxe professionnelle et de taxes additionnelles à cette taxe, la décision sur
-les demandes des contribuables tendant à obtenir une modération, remise ou transaction appartient :
+Sauf en matière de contributions indirectes, la décision sur les demandes des contribuables tendant à obtenir une modération,
+remise ou transaction appartient :
 
-a) Au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 114 336,76 euros par cote, exercice ou affaire, selon la nature des impôts ;
+a) Au directeur chargé d'une direction des services fiscaux ou au directeur chargé d'un service à compétence nationale ou
+d'une direction spécialisée pour les affaires relatives à des impositions établies à l'initiative des agents placés sous son
+autorité, lorsque les sommes faisant l'objet de la demande n'excèdent pas 150 000 Euros par cote, exercice ou affaire, selon
+la nature des impôts ;
 
-b) Au directeur chargé d'un service à compétence nationale ou d'une direction spécialisée, pour les affaires relatives à des
-impositions établies à l'initiative des agents placés sous son autorité, lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 167 693,92 euros par cote, exercice ou affaire ;
-
-c) Abrogé.
-
-d) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
+b) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
 changes, dans les autres cas.
 
 **Liens relatifs à cet article**
@@ -17836,28 +17837,30 @@ changes, dans les autres cas.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 	  - Livre des procédures fiscales - art. R*247-12 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
 	**Modifié par**:
 
-	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1108 du 30 août 2002 - art. 1 () JORF 1er septembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-1208 2002-09-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+	  - TXT_ASSOCIE: Instruction 2002-10-18 13S-1-02
 
 
 ###### Article R*247-5
 
-En matière de contributions indirectes la décision sur les demandes tendant à obtenir une transaction, remise ou modération
+En matière de contributions indirectes, la décision sur les demandes tendant à obtenir une transaction, remise ou modération
 appartient :
 
 a) Au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
 droits ou la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes
-n'excède pas 114 336,76 euros et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce
-chiffre ;
+n'excède pas 150 000 Euros et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ;
 
-b) Abrogé.
+b) (Abrogé à compter du 1er janvier 1998)
 
 c) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
 changes, dans les autres cas.
@@ -17867,12 +17870,6 @@ douanier et des changes n'est pas saisi.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 3, art. 13
-	  - HISTO: Edition du 31 mars 2002
-	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
-
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 3 (V)
@@ -17880,47 +17877,76 @@ douanier et des changes n'est pas saisi.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
+	  - Décret n°2002-1108 du 30 août 2002 - art. 1 () JORF 1er septembre 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-1208 2002-09-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+	  - TXT_ASSOCIE: Instruction 2002-10-18 13S-1-02
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L249 (V)
 
 
+###### Article R*247-5 C
+
+En matière d'amendes prévues à l'article 1788 octies du code général des impôts prononcées par les agents des douanes et
+droits indirects, la décision sur les demandes tendant à obtenir une remise, modération ou transaction appartient :
+
+a) Au directeur régional des douanes et droits indirects, lorsque le montant des amendes n'excède pas 150 000 euros ;
+
+b) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
+changes, dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1788 octies
+
+	**Créé par**:
+
+	  - Décret n°2002-1109 du 30 août 2002 - art. 1 () JORF 1er septembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*247-12 (V)
+
+
 ###### Article R*247-12
 
-Le comité du contentieux fiscal, douanier et des changes intervenant dans les cas fixés par le d de l'article R 247-4 est
+Le comité du contentieux fiscal, douanier et des changes intervenant dans les cas fixés par le b de l'article R 247-4 est
 saisi par le ministre de l'économie, des finances et de l'industrie. Il en est de même lorsque le comité susmentionné
-intervient dans les cas fixés par le c de l'article R 247-5.
+intervient dans les cas fixés par le c de l'article R 247-5 et le b de l'article R 247-5 C.
 
-Il invite le contribuable, par lettre recommandée avec avis de réception, à produire dans un délai de trente jours, les
+Il invite le contribuable, par lettre recommandée avec avis de réception, à produire, dans un délai de trente jours, les
 observations écrites que celui-ci juge utile de présenter à l'appui de sa demande de transaction ou de remise, ou à présenter
 des observations orales à la séance où il sera convié. Il l'avertit également qu'il peut se faire assister ou représenter par
 un conseil ou représentant de son choix, tenu pour les faits de l'espèce au respect du secret professionnel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1965 J (al. 1, al. 5)
-	  - CGIAN2 396 octies, 396 nonies (al. 1, al. 2 in fine, al. 3)
-
 	**Modifié par**:
 
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
+	  - Décret n°2002-1109 du 30 août 2002 - art. 2 () JORF 1er septembre 2002
+	  - Décret n°2002-1108 du 30 août 2002 - art. 1 () JORF 1er septembre 2002
 
 	**Codifié par**:
 
-	  - Décret n°98-401 1998-05-22
+	  - Décret n°2002-1208 2002-09-27
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2002
 
 	**Cité par**:
 
@@ -17928,7 +17954,7 @@ un conseil ou représentant de son choix, tenu pour les faits de l'espèce au re
 
 	**Cite**:
 
-	  - Livre des procédures fiscales R247-4, R247-5
+	  - Livre des procédures fiscales R247-4, R247-5, R247-5 C
 
 
 ###### Article R*247-13
