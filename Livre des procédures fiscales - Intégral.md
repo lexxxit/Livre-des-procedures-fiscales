@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1989-12-30
 
 # Partie législative
 
@@ -523,14 +523,23 @@ lorsque le contribuable a pu disposer de revenus à l'étranger ou en provenance
 	  - Livre des procédures fiscales - art. L52 (V)
 
 
-##### Dispositions relatives aux vérifications des comptabilités.
+##### 2° : Dispositions relatives aux vérifications des comptabilités
 
 ###### Article L13
 
 Les agents de l'administration des impôts vérifient sur place, en suivant les règles prévues par le présent livre, la
 comptabilité des contribuables astreints à tenir et à présenter des documents comptables.
 
+Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contrôle porte sur l'ensemble des informations,
+données et traitements informatiques qui concourent directement ou indirectement à la formation des résultats comptables ou
+fiscaux et à l'élaboration des déclarations rendues obligatoires par le code général des impôts ainsi que sur la
+documentation relative aux analyses, à la programmation et à l'exécution des traitements.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -546,12 +555,10 @@ comptabilité des contribuables astreints à tenir et à présenter des document
 	  - Livre des procédures fiscales - art. L52 (V)
 	  - Livre des procédures fiscales - art. R*13-1 (V)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Décret n°55-457 1955-04-30 ART. 21 (LOI 55-349 1955-04-02)
+	  - HISTO: Edition du 15 juin 1990
 
-
-##### 2° : Dispositions relatives aux vérifications des comptabilités
 
 ###### Article L13 A
 
@@ -630,15 +637,14 @@ des explications orales.
 ###### Article L16
 
 En vue de l'établissement de l'impôt sur le revenu, l'administration peut demander au contribuable des éclaircissements. Elle
-peut, en outre, lui demander des justifications au sujet de sa situation et de ses charges de famille, ainsi que des charges
-retranchées du revenu net global ouvrant droit à une réduction d'impôt sur le revenu en application des articles 156, 199
-sexies et 199 septies du code général des impôts.
+peut, en outre, lui demander des justifications au sujet de sa situation et de ses charges de famille, des charges
+retranchées du revenu net global ou ouvrant droit à une réduction d'impôt sur le revenu en application des articles 156, 199
+sexies et 199 septies du code général des impôts, ainsi que des avoirs ou revenus d'avoirs à l'étranger.
 
 L'administration peut demander au contribuable des justifications sur tous les éléments servant de base à la détermination du
-revenu foncier tels qu'ils sont définis aux articles 28 à 33 quater du code général des impôts.
-
-Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et mentionner
-à l'intéressé le délai de réponse dont il dispose en fonction des textes en vigueur.
+revenu foncier tels qu'ils sont définis aux articles 28 à 33 quater du code général des impôts.    Les demandes visées aux
+alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et mentionner à l'intéressé le délai
+de réponse dont il dispose en fonction des textes en vigueur.
 
 Elle peut également lui demander des justifications lorsqu'elle a réuni des éléments permettant d'établir que le contribuable
 peut avoir des revenus plus importants que ceux qu'il a déclarés. En particulier, si le contribuable allègue la possession de
@@ -676,7 +682,8 @@ l'intéressé, pour fournir sa réponse, un délai qui ne peut être inférieur 
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 9 II JORF 9 juillet 1987
+	  - Loi n°89-935 du 29 décembre 1989 - art. 98 7° Finances pour 1990 JORF du 30 décembre 1989(V)
+	  - Modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article L16 A
@@ -704,21 +711,37 @@ les compléments de réponse qu'elle souhaite.
 
 ###### Article L16 B
 
-I. Lorsque l'autorité judiciaire, saisie par l'administration fiscale, estime qu'il existe des présomptions [*de fraude*]
-qu'un contribuable se soustrait à l'établissement ou au paiement des impôts sur le revenu ou sur les bénéfices ou de la taxe
-sur la valeur ajoutée en se livrant à des achats ou à des ventes sans facture, en utilisant ou en délivrant des factures ou
-des documents ne se rapportant pas à des opérations réelles ou en omettant sciemment de passer ou de faire passer des
-écritures ou en passant ou en faisant passer sciemment des écritures inexactes ou fictives dans des documents comptables dont
-la tenue est imposée par le code général des impôts, elle peut, dans les conditions prévues au II, autoriser les agents de
+I. Lorsque l'autorité judiciaire, saisie par l'administration fiscale, estime qu'il existe des présomptions qu'un
+contribuable se soustrait à l'établissement ou au paiement des impôts sur le revenu ou sur les bénéfices ou de la taxe sur la
+valeur ajoutée en se livrant à des achats ou à des ventes sans facture, en utilisant ou en délivrant des factures ou des
+documents ne se rapportant pas à des opérations réelles ou en omettant sciemment de passer ou de faire passer des écritures
+ou en passant ou en faisant passer sciemment des écritures inexactes ou fictives dans des documents comptables dont la tenue
+est imposée par le code général des impôts, elle peut, dans les conditions prévues au II, autoriser les agents de
 l'administration des impôts, ayant au moins le grade d'inspecteur et habilités à cet effet par le directeur général des
 impôts, à rechercher la preuve de ces agissements, en effectuant des visites en tous lieux, même privés, où les pièces et
 documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie. 
 
 II. Chaque visite doit être autorisée par une ordonnance du président du tribunal de grande instance dans le ressort duquel
-sont situés les lieux à visiter ou d'un juge délégué par lui [*autorité compétente*].
+sont situés les lieux à visiter ou d'un juge délégué par lui.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
+
+L'ordonnance comporte :
+
+Le cas échéant, mention de la délégation du président du tribunal de grande instance ;
+
+L'adresse des lieux à visiter ;
+
+Le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
+
+Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
+l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.
+
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
+la personne occupant les lieux visités est titulaire et où des pièces et documents se rapportant aux agissements visés au I
+sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance,
+procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-verbal prévu au IV.
 
 La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. A cette fin, il
 donne toutes instructions aux agents qui participent à ces opérations.
@@ -729,15 +752,29 @@ Il peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention.
 
 A tout moment, il peut décider la suspension ou l'arrêt de la visite.
 
+L'ordonnance est notifiée verbalement et sur place au moment de la visite, à l'occupant des lieux ou à son représentant qui
+en reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au IV. En l'absence de l'occupant des lieux
+ou de son représentant, l'ordonnance est notifiée, après la visite, par lettre recommandée avec avis de réception. La
+notification est réputée faite à la date de réception figurant sur l'avis.
+
+A défaut de réception, il est procédé à la signification de l'ordonnance dans les conditions prévues par les articles 550 et
+suivants du code de procédure pénale.
+
+Les délai et modalités de la voie de recours sont mentionnés sur les actes de notification et de signification.
+
 L'ordonnance mentionnée au premier alinéa n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le
-code de procédure pénale ; ce pourvoi n'est pas suspensif [*contrôle de la régularité des opérations*].
+code de procédure pénale ; ce pourvoi n'est pas suspensif [*contrôle de la régularité des opérations*]. Les délais de pourvoi
+courent à compter de la notification ou de la signification de l'ordonnance.
 
 III. La visite, qui ne peut être commencée avant six heures ni après vingt et une heures, est effectuée en présence de
 l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins
 choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des impôts.
 
-Les agents des impôts mentionnés au I, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent
-seuls prendre connaissance des pièces et documents avant leur saisie.
+Les agents de l'administration des impôts mentionnés au I peuvent être assistés d'autres agents des impôts habilités dans les
+mêmes conditions que les inspecteurs.
+
+Les agents des impôts habilités, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent seuls
+prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
@@ -764,13 +801,16 @@ alinéas de l'article L. 47.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°84-1208 du 29 décembre 1984 - art. 94 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+	  - HISTO: Edition du 15 juin 1990
+	  - TXT_ASSOCIE: Instruction 1996-05-16 13L-3-96
+	  - TXT_ASSOCIE: Instruction 1996-05-16 13L-4-96
+	  - TXT_ASSOCIE: Jurisprudence 1998-07-17 13L-5-98
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1008 1985-09-24
+	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P) JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -787,9 +827,10 @@ alinéas de l'article L. 47.
 
 	**Cite**:
 
-	  - CGI L47
+	  - Livre des procédures fiscales - art. L47 (M)
 	  - CODE DE PROCEDURE PENALE - art. 56 (M)
 	  - CODE DE PROCEDURE PENALE - art. 58 (M)
+	  - Code de procédure pénale 550 et s.
 
 
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt de solidarité sur la fortune et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
@@ -1816,34 +1857,17 @@ pour l'exercice de leurs fonctions, toutes les fois qu'elles en sont requises.
 
 ##### 1° : Garanties accordées au contribuable en matière de vérification
 
-###### Article L49
-
-Quand elle a procédé à un examen contradictoire de l'ensemble de la situation fiscale personnelle d'une personne physique au
-regard de l'impôt sur le revenu ou à une vérification de comptabilité, l'administration des impôts doit en porter les
-résultats à la connaissance du contribuable, même en l'absence de redressement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1649 quinquies A 5 (1RE PHRASE)
-	  - Loi n°75-1278 du 30 décembre 1975 - art. 67, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 9 I B, art. 11 JORF 9 juillet 1987
-
-
-##### Garanties accordées au contribuable en matière de vérification.
-
 ###### Article L47
 
 Un examen contradictoire de l'ensemble de la situation fiscale personnelle d'une personne physique au regard de l'impôt sur
 le revenu ou une vérification de comptabilité ne peut être engagée sans que le contribuable en ait été informé par l'envoi ou
-la remise d'un avis de vérification [*formalité obligatoire*].
+la remise d'un avis de vérification.
 
 Cet avis doit préciser les années soumises à vérification et mentionner expressément, sous peine de nullité de la procédure,
 que le contribuable a la faculté de se faire assister par un conseil de son choix.
+
+L'avis envoyé ou remis au contribuable avant l'engagement d'un examen contradictoire de l'ensemble de la situation fiscale
+personnelle peut comporter une demande des relevés de compte.
 
 En cas de contrôle inopiné tendant à la constatation matérielle des éléments physiques de l'exploitation ou de l'existence et
 de l'état des documents comptables, l'avis de vérification de comptabilité est remis au début des opérations de constatations
@@ -1868,22 +1892,63 @@ contribuable de se faire assister par un conseil.
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 9 I B JORF 9 juillet 1987
+	  - Loi n°89-936 1989-12-29 art. 35 I Finances rectificative pour 1989, JORF 30 décembre 1989
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
-###### Article L48
+###### Article L49
 
-Lorsque des redressements sont envisagés à l'issue d'un examen contradictoire de l'ensemble de la situation fiscale
-personnelle au regard de l'impôt sur le revenu ou d'une vérification de comptabilité, l'administration doit indiquer aux
-contribuables qui en font la demande, les conséquences de leur acceptation éventuelle sur l'ensemble des droits et taxes dont
-ils sont ou pourraient devenir débiteurs. Dans ce cas, une nouvelle notification est faite aux contribuables qui disposent
-d'un délai de trente jours pour y répondre.
+Quand elle a procédé à un examen contradictoire de l'ensemble de la situation fiscale personnelle d'une personne physique au
+regard de l'impôt sur le revenu ou à une vérification de comptabilité, l'administration des impôts doit en porter les
+résultats à la connaissance du contribuable, même en l'absence de redressement.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - CGI 1649 quinquies A 5 (1RE PHRASE)
+	  - Loi n°75-1278 du 30 décembre 1975 - art. 67, v. init.
+
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 11 JORF 9 juillet 1987
+	  - Loi n°87-502 1987-07-08 art. 9 I B, art. 11 JORF 9 juillet 1987
+
+
+##### Garanties accordées au contribuable en matière de vérification.
+
+###### Article L48
+
+A l'issue d'un examen contradictoire de l'ensemble de la situation fiscale personnelle au regard de l'impôt sur le revenu ou
+d'une vérification de comptabilité, lorsque des redressements sont envisagés, l'administration doit indiquer, avant que le
+contribuable présente ses observations ou accepte les rehaussements proposés, dans la notification prévue à l'article L. 57
+le montant des droits, taxes et pénalités résultant de ces redressements.
+
+Pour une société membre d'un groupe mentionné à l'article 223 A du code général des impôts, l'information prévue au premier
+alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forfaitaire annuelle, le précompte et les pénalités
+correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe.
+
+Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des rappels de droits et pénalités consécutifs aux
+redressements ou le bénéfice des dispositions visées au 3° du premier alinéa de l'article L. 247, l'administration en informe
+les contribuables dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 223 A
+	  - CGI L247
+	  - CGI L57
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 101 () JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -2162,6 +2227,9 @@ les véhicules à moteur prévue à l'article 1599 C du code général des impô
 L'administration adresse au contribuable une notification de redressement qui doit être motivée de manière à lui permettre de
 formuler ses observations ou de faire connaître son acceptation.
 
+En cas d'application des dispositions de l'article L. 47 A, l'administration précise au contribuable la nature des
+traitements effectués.
+
 Lorsque l'administration rejette les observations du contribuable sa réponse doit également être motivée [*obligation de
 motivation*].
 
@@ -2172,6 +2240,15 @@ motivation*].
 	  - CGI 1649 QUINQUIES A 2 (AL. 1 1ère PHRASE, AL. 4)
 	  - Loi n°77-1453 du 29 décembre 1977 - art. 5 ()
 	  - Loi n°77-1453 du 29 décembre 1977 - art. 6 ()
+
+	**Cite**:
+
+	  - CGI L47 A
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+	  - Modification directe incorporée dans l'édition du 15 juin 1990
 
 	**Cité par**:
 
@@ -2895,19 +2972,28 @@ Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation 
 Les bases d'imposition sont évaluées d'office lorsque le contrôle fiscal ne peut avoir lieu du fait du contribuable ou de
 tiers.
 
+Ces dispositions s'appliquent en cas d'opposition à la mise en oeuvre du contrôle dans les conditions prévues à l'article L.
+47 A.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CGI 1649 septies D
-	  - Décret n°57-734 1957-06-28 ART. 1 (LOI 57-716 1957-06-26 ART. 1)
-	  - Décret n°54-1073 1954-11-04 ART. 8 (LOI 54-809 1954-08-14 ART. UNIQUE)
+	  - CGI L47 A
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1755 (M)
 	  - Code général des impôts, CGI. - art. 1732 (V)
 	  - Loi n°87-502 du 8 juillet 1987 - art. 2 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 
 ##### IV : Notification et suite des impositions d'office
@@ -2992,26 +3078,30 @@ l'article L. 190.
 ###### Article L77
 
 En cas de vérification simultanée des taxes sur le chiffre d'affaires et taxes assimilées, de l'impôt sur le revenu ou de
-l'impôt sur les sociétés, les contribuables peuvent demander que le supplément de taxes sur le chiffre d'affaires et taxes
-assimilées afférent aux opérations d'un exercice donné soit déduit, pour l'assiette de l'impôt sur le revenu ou de l'impôt
-sur les sociétés, des résultats du même exercice.
+l'impôt sur les sociétés, le supplément de taxes sur le chiffre d'affaires et taxes assimilées afférent à un exercice donné
+est déduit, pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés, des résultats du même exercice, sauf
+demande expresse des contribuables, formulée dans le délai qui leur est imparti pour répondre à la notification de
+redressements. Dans ce dernier cas, la prescription est réputée interrompue, au sens des articles L. 76 et L. 189, à hauteur
+des bases de l'impôt sur le revenu ou de l'impôt sur les sociétés notifiées avant déduction du supplément de taxes sur le
+chiffre d'affaires et taxes assimilées.
 
-De même, les entreprises soumises à l'impôt sur les sociétés peuvent, dans la mesure où le bénéfice correspondant aux
-redressements effectués est considéré comme distribué, par application des articles 109 et suivants du code général des
-impôts, à des associés ou actionnaires dont le domicile ou le siège est situé en France, demander que l'impôt sur le revenu
-supplémentaire dû par les bénéficiaires en raison de cette distribution soit établi sur le montant du rehaussement soumis à
-l'impôt sur les sociétés diminué du montant de ce dernier impôt.
+Les entreprises soumises à l'impôt sur les sociétés peuvent, dans la mesure où le bénéfice correspondant aux redressements
+effectués est considéré comme distribué, par application des articles 109 et suivants du code général des impôts, à des
+associés ou actionnaires dont le domicile ou le siège est situé en France, demander que l'impôt sur le revenu supplémentaire
+dû par les bénéficiaires en raison de cette distribution soit établi sur le montant du rehaussement soumis à l'impôt sur les
+sociétés diminué du montant de ce dernier impôt.
 
-Lorsque les associés ou actionnaires sont domiciliés ou ont leur siège hors de France [*étrangers*], la retenue à la source
-sur le revenu des capitaux mobiliers due en raison de cette distribution par application des dispositions de l'article 119
-bis-2 du code précité, est, à la demande des entreprises, établie sur le montant du redressement soumis à l'impôt sur les
-sociétés, diminué du montant de ce dernier impôt. En outre, le montant de cette retenue à la source constitue un crédit
-d'impôt déductible de l'impôt sur le revenu dû par les bénéficiaires.
+Lorsque les associés ou actionnaires sont domiciliés ou ont leur siège hors de France, la retenue à la source sur le revenu
+des capitaux mobiliers due en raison de cette distribution par application des dispositions du 2 de l'article 119 bis du code
+précité, est, à la demande des entreprises, établie sur le montant du redressement soumis à l'impôt sur les sociétés, diminué
+du montant de ce dernier impôt. En outre, le montant de cette retenue à la source constitue un crédit d'impôt déductible de
+l'impôt sur le revenu dû par les bénéficiaires.
 
-Les demandes que les contribuables peuvent présenter au titre du présent article doivent être faites avant l'établissement
-des cotisations d'impôt sur le revenu ou d'impôt sur les sociétés résultant de la vérification.
+Les demandes que les contribuables peuvent présenter au titre des deuxième et troisième alinéas doivent être faites au plus
+tard dans le délai de trente jours consécutif à la réception de la réponse aux observations prévue à l'article L. 57 ou, à
+défaut, d'un document spécifique les invitant à formuler lesdites demandes.
 
-L'imputation prévue aux deuxième et troisième alinéas est soumise à la condition que les associés ou actionnaires reversent
+L'imputation prévue aux troisième et quatrième alinéas est soumise à la condition que les associés ou actionnaires reversent
 dans la caisse sociale les sommes nécessaires au paiement des taxes sur le chiffre d'affaires et des taxes assimilées, de
 l'impôt sur les sociétés et de la retenue à la source sur les revenus de capitaux mobiliers se rapportant aux sommes qui leur
 ont été distribuées.
@@ -3020,15 +3110,19 @@ ont été distribuées.
 
 	**Cite**:
 
-	  - CGI 119 ET S.
 	  - CGI 119 bis 2
+	  - CGI 119 et s.
+	  - CGI L189
+	  - CGI L57
+	  - CGI L76
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 1649 septies E 1, 2
-	  - Décret n°54-1073 1954-11-04 ART. 3 I, II (LOI 54-809 1954-08-14 ART. UNIQUE)
-	  - Loi n°59-1472 1959-12-28 ART. 19 I, ART. 20
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 20, v. init.
+	  - HISTO: Edition du 15 juin 1990
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 101 () JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -3280,6 +3374,38 @@ L'intervention, auprès d'un contribuable, sur le territoire national, d'un agen
 	  - HISTO: Edition du 31 mars 2000
 
 
+###### Article L80 CA
+
+Lorsqu'une erreur non substantielle, qui n'a pas porté atteinte aux intérêts de la partie qu'elle concerne, a été commise
+dans la mise en oeuvre des articles L. 48, L. 49, L. 54 B, L. 57, L. 59, L. 76, L. 77, L. 80 D et L. 80 E du présent livre
+ainsi que dans la rédaction de l'avis de vérification mentionné à l'article L. 47 et qu'elle ne peut être rectifiée
+spontanément par l'administration, le juge peut autoriser celle-ci, sur sa demande, à la rectifier dans un délai maximum d'un
+mois suivant sa décision.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 89-268 DC du 29 décembre
+1989.] cette autorisation peut être accordée [Dispositions déclarées non conformes à la Constitution par décision du Conseil
+constitutionnel n° 89-268 DC du 29 décembre 1989.] En cas de saisine d'un tribunal, elle ne peut toutefois intervenir après
+le jugement rendu en première instance.
+
+" Lorsque la rectification concerne les dispositions des articles L. 54 B, L. 57 premier alinéa, L. 76 et L. 77, le juge
+peut, dans les mêmes conditions, autoriser l'administration à engager une nouvelle procédure de redressements sans que
+puissent être opposées les dispositions des articles L. 12 et L. 50.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L12, L47, L48, L49, L50, L54 B, L57, L59, L76, L77, L80 D, L80 E
+
+	**Abrogé par**:
+
+	  - Loi n°90-1169 1990-12-30 art. 45 II Finances rectificative pour 1990 JORF 30 décembre 1990
+
+	**Créé par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 102 () JORF 30 décembre 1989
+
+
 ##### Section VII : Sanctions fiscales
 
 ###### Article L80 D
@@ -3397,44 +3523,6 @@ administrations chargés du recouvrement des impôts, droits et taxes prévus pa
 	**Codifié par**:
 
 	  - Décret n°86-1087 1986-10-07
-
-
-###### Article L82
-
-Les livres, registres, documents ou pièces sur lesquels peut s'exercer le droit de communication de l'administration doivent
-être conservés pendant un délai de six ans à compter de la date de la dernière opération mentionnée sur les livres ou
-registres ou de la date à laquelle les documents ou pièces ont été établis.
-
-Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
-chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
-
-L'obligation prévue aux alinéas précédents est applicable quel que soit le support utilisé pour la conservation des
-documents, y compris lorsqu'il est magnétique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2002 BIS
-	  - Loi n°63-1316 1963-12-27 ART. 55
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 76 ()
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 77 (P)
-
-	**Codifié par**:
-
-	  - Décret n°83-900 1983-10-06
-
-	**Abrogé par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 286 (M)
 
 
 ##### Personnes versant des honoraires ou des droits d'auteur.
@@ -6320,7 +6408,8 @@ communication de la répartition entre les associés du capital de la société 
 L'administration des impôts doit communiquer aux présidents des centres de gestion agréés ou des associations agréées, les
 renseignements qui sont nécessaires à ces organismes pour leur permettre de prononcer, en tant que de besoin, l'exclusion des
 adhérents qui ne respectent pas les obligations leur incombant en vertu des statuts ou du règlement intérieur de ces centres
-de gestion ou associations.
+de gestion ou associations. Ces renseignements peuvent porter sur la nature et le montant des redressements dont l'adhérent a
+fait l'objet.
 
 Elle peut également porter à la connaissance de la commission régionale prévue par l'article 371 G de l'annexe II au code
 général des impôts, qui émet un avis sur la demande de renouvellement ou de retrait de l'agrément accordé à un centre de
@@ -6333,14 +6422,22 @@ sont soumises.
 
 	  - CGIAN2 371 G
 
-	**Anciens textes**:
-
-	  - Loi n°80-30 1980-01-18 ART. 76 I, II
-
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 158 (V)
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
+
+	**Anciens textes**:
+
+	  - Loi n°80-30 1980-01-18 ART. 76 I, II
+
+	**Modifié par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989
 
 
 ##### Syndicats.
@@ -6580,20 +6677,24 @@ NOTA : Cet article est abrogé pour les bénéfices réalisés au titre des exer
 ###### Article L170
 
 Même si les délais de reprise prévus à l'article L. 169 sont écoulés, les omissions ou insuffisances d'imposition révélées
-par une instance devant les tribunaux répressifs ou par une réclamation contentieuse peuvent être réparées par
-l'administration des impôts jusqu'à la fin de l'année suivant celle de la décision qui a clos l'instance.
+par une instance devant les tribunaux ou par une réclamation contentieuse peuvent être réparées par l'administration des
+impôts jusqu'à la fin de l'année suivant celle de la décision qui a clos l'instance et, au plus tard, jusqu'à la fin de la
+dixième année qui suit celle au titre de laquelle l'imposition est due.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 1966 3
-	  - Loi n°1941-01-13 ANNEXE I ART. 139 3
-	  - Loi n°1943-08-10 ART. 1
+	  - HISTO: Edition du 15 juin 1990
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI L169
+	  - Loi n°89-935 1989-12-29 art. 104 I, II Finances pour 1990 JORF 30 décembre 1989
+	  - Loi n°89-936 du 29 décembre 1989 - art. 104 () JORF 30 décembre 1989
+
+	**Abrogé par**:
+
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 10 (VD)
 
 
 ##### B : Dispositions particulières à certains impôts
@@ -6777,15 +6878,25 @@ divers organismes, à l'exception de la taxe professionnelle et de ses taxes add
 l'administration des impôts s'exerce jusqu'à la fin de l'année suivant celle au titre de laquelle l'imposition est due
 [*délai*].
 
+Toutefois, lorsque le revenu imposable ou la cotisation d'impôt sur le revenu à raison desquels le contribuable a bénéficié
+d'un dégrèvement en application des articles 1391, 1414, 1414 A, 1414 B et 1414 C du code général des impôts fait
+ultérieurement l'objet d'un rehaussement, l'imposition correspondant au montant du dégrèvement accordé à tort est établie et
+mise en recouvrement dans le même délai que l'impôt sur le revenu correspondant au rehaussement.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CGI 1967
-	  - Décret n°48-1986 1948-12-09 art. 2103, art. 1, art. 115
-	  - Décret n°50-478 1950-04-06 art. 1967
-	  - Loi n°48-1268 1948-08-07 art. 5
-	  - Loi n°63-1316 1963-12-27 art. 17 1
+	  - CGI 1391
+	  - CGI 1414
+	  - CGI 1414 A
+	  - CGI 1414 B
+	  - CGI 1414 C
+
+	**Modifié par**:
+
+	  - Loi n°89-935 1989-12-29 art. 6 IV, VII Finances pour 1990 JORF 30 décembre 1989
+	  - Modification directe incorporée dans l'édition du 15 juin 1990
 
 	**Cité par**:
 
@@ -7292,16 +7403,23 @@ mention portée sur la notification de redressements qu'elles pourront être év
 Les réclamations relatives aux impôts, contributions, droits, taxes, redevances, soultes et pénalités de toute nature,
 établis ou recouvrés par les agents de la direction générale des impôts, relèvent de la juridiction contentieuse lorsqu'elles
 tendent à obtenir soit la réparation d'erreurs commises dans l'assiette ou le calcul des impositions, soit le bénéfice d'un
-droit résultant d'une disposition législative ou réglementaire.
+droit résultant d'une disposition législative ou réglementaire.    Sont instruites et jugées selon les règles du présent
+chapitre toutes actions tendant à la décharge ou à la réduction d'une imposition ou à l'exercice de droits à déduction,
+fondées sur la non-conformité de la règle de droit dont il a été fait application à une règle de droit supérieure.
+
+Lorsque cette non-conformité a été révélée par une décision juridictionnelle, l'action en restitution des sommes versées ou
+en paiement des droits à déduction non exercés ou l'action en réparation du préjudice subi ne peut porter que sur la période
+postérieure au 1er janvier de la quatrième année précédant celle où la décision révélant la non-conformité est intervenue.(1)
+
+(1) Ces dispositions sont applicables à tous les litiges engagés par des réclamations présentées après l'entrée en vigueur de
+la loi de Finances rectificative.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1930 1
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°63-1316 1963-12-27 art. 3 I
-	  - Décret n°1948-12-09 art. 2065
+	  - Loi n°89-936 1989-12-29 art. 36 I, II Finances rectificative pour 1989 JORF 30 décembre 1989
+	  - Modification directe incorporée dans l'édition du 15 juin 1990
 
 	**Cité par**:
 
@@ -9244,6 +9362,10 @@ prévues aux articles 1658 à 1659 A du code général des impôts.
 L'avis d'imposition mentionne le total par nature d'impôt des sommes à acquitter, les conditions d'exigibilité, la date de
 mise en recouvrement et la date limite de paiement.
 
+Une notice annexée à l'avis d'imposition est établie au titre de chaque taxe directe locale. Cette notice fait apparaître les
+éléments des variations des impositions perçues au profit de chaque collectivité locale, groupement de collectivités locales
+ou organisme concerné.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -9252,14 +9374,9 @@ mise en recouvrement et la date limite de paiement.
 	  - CGI 1659
 	  - CGI 1659 A
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1661 (AL. 1)
-	  - Décret-loi 1935-08-08 ART. 3
-	  - Loi n°1818-05-15 ART. 50, ART. 51
-	  - Loi n°1928-07-12 ART. 11
-	  - Loi n°1943-08-10 ART. 5
-	  - Loi n°77-574 du 7 juin 1977 - art. 6, v. init.
+	  - Loi n°89-936 du 29 décembre 1989 - art. 91 () JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -9267,6 +9384,10 @@ mise en recouvrement et la date limite de paiement.
 	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-7 (V)
 	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-5 (M)
 	  - Loi - art. 37 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article L254
@@ -10507,10 +10628,6 @@ procéder à la saisie.
 	  - Code général de la propriété des personnes publ... - art. L2323-13 (V)
 	  - Livre des procédures fiscales - art. R*283-1 (V)
 
-
-## LE CONTROLE DE L'IMPOT
-
-### LE DROIT DE CONTROLE DE L'ADMINISTRATION
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
