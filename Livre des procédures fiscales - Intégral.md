@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-07-10
+Version Consolidée au 1983-10-09
 
 # Partie législative
 
@@ -71,6 +71,69 @@ f) La répartition du revenu imposable entre le bailleur et le métayer dans le 
 
 #### Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales
 
+###### Article L5
+
+L'administration des impôts adresse à l'exploitant placé sous le régime du forfait de bénéfice industriel et commercial et de
+chiffre d'affaires, une notification mentionnant pour chacune des années de la période biennale, d'une part le bénéfice
+imposable et d'autre part les éléments qui concourent à la détermination des taxes sur le chiffre d'affaires.
+
+L'intéressé dispose d'un délai de trente jours à partir de la date de réception de cette notification, soit pour faire
+parvenir son acceptation, soit pour formuler ses observations en indiquant les chiffres qu'il serait disposé à accepter.
+
+En cas d'acceptation globale ou d'absence de réponse dans le délai fixé, les forfaits de bénéfice et de chiffre d'affaires
+notifiés servent de base à l'imposition. Si l'intéressé n'accepte explicitement ou tacitement que l'un des deux forfaits,
+celui-ci sert également de base à l'imposition correspondante.
+
+Dans le cas où l'administration accepte les contre-propositions concernant les deux forfaits ou l'un des deux seulement, elle
+informe expressément le contribuable de son accord.
+
+Si l'intéressé n'accepte pas le forfait qui lui a été notifié et si l'administration ne retient pas les contre-propositions
+qu'il a faites, le forfait sur lequel porte le désaccord est fixé par la commission départementale des impôts directs et des
+taxes sur le chiffre d'affaires. Le chiffre arrêté par cette commission selon la procédure suivie à l'article L. 60 sert de
+base à l'imposition.
+
+Dans tous les cas, l'intéressé conserve la possibilité, après la fixation du forfait, de demander la réduction de
+l'imposition au moyen d'une réclamation contentieuse, dans les conditions fixées aux articles L. 190 à L. 198.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 265 2, 265 6 (1re ET 2ème PHRASE, 1re ET 2ème LIGNE)
+	  - CGI 51 (AL. 2, AL. 3, AL. 4, 1re ET 2ème PHRASE, 1er MEMBRE)
+	  - Décret n°1934-07-20 ANNEXE ART. 14 (LOI 1934-07-06 ART. 13)
+	  - Décret n°48-1986 1948-12-09 ART. 9 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
+	  - Décret n°55-465 1955-04-30 ART. 16 I (LOI 55-349 1955-05-02)
+	  - Décret n°71-290 1971-04-15 ART. 5
+	  - Loi n°1941-01-13 ANNEXE I ART. 14
+	  - Loi n°48-809 1948-05-13 ART. 3
+	  - Loi n°63-1316 1963-12-27 ART. 27
+	  - Loi n°66-10 1966-01-06 ART. 20 10, ART. 53 6
+	  - Loi n°78-1240 1978-12-30 ART. 2
+
+	**Cite**:
+
+	  - CGI L190 A CGI L198
+	  - CGI L60
+	  - CGI L9
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
+	  - Livre des procédures fiscales - art. R5-1 (P)
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
+
+	**Abrogé par**:
+
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+
 ###### Article L6
 
 A compter d'une date qui est fixée par décret, les forfaits de chiffre d'affaires et de bénéfice sont conclus pour les mêmes
@@ -105,6 +168,56 @@ Cette disposition peut n'être appliquée provisoirement qu'à certaines parties
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 111 terdecies (P)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
+
+
+#### Chapitre III : Dispositions relatives aux professions non commerciales
+
+###### Article L7
+
+Lorsqu'il est fait application pour la détermination d'un bénéfice non commercial du régime de l'évaluation administrative,
+l'administration des impôts adresse chaque année au titulaire du bénéfice une notification mentionnant le bénéfice imposable.
+L'intéressé dispose du délai de trente jours prévu à l'article L. 11 à partir de la date de réception de cette notification,
+soit pour faire parvenir son acceptation, soit pour formuler ses observations en indiquant le chiffre qu'il serait disposé à
+accepter.
+
+En cas d'acceptation ou d'absence de réponse dans le délai fixé, le montant du bénéfice évalué par l'administration sert de
+base à l'imposition.
+
+En cas de désaccord, le bénéfice imposable est fixé par la commission départementale des impôts directs et des taxes sur le
+chiffre d'affaires selon la procédure suivie à l'article L. 60.
+
+Dans tous les cas, l'intéressé conserve la possibilité, après la fixation de l'imposition, d'en demander la réduction au
+moyen d'une réclamation contentieuse, dans les conditions fixées par les articles L. 190 à L. 198.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 102 (AL. 2, AL. 3, AL. 4, LES 3 PREMIERES LIGNES)
+	  - Décret n°48-1986 1948-12-09 ART. 29 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
+	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
+	  - Décret n°71-290 1971-04-15 ART. 5
+	  - Loi n°48-809 1948-05-13 ART. 9
+	  - Loi n°78-1240 1978-12-30 ART. 2
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L11, L60, L190 à L198
+
+	**Abrogé par**:
+
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 1999
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 103 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
 
 
 #### Chapitre IV : Dispositions communes aux procédures forfaitaires et d'évaluation administrative de l'assiette de l'impôt
@@ -152,6 +265,37 @@ contribuable remplit encore les conditions prévues pour bénéficier du régime
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
+
+
+##### 2° : Procédure de fixation des bases d'imposition.
+
+###### Article L9
+
+Les procédures de fixation forfaitaire ou d'évaluation administrative des bases d'imposition des revenus provenant d'une
+activité dont les produits relèvent de la catégorie des bénéfices agricoles, des bénéfices industriels et commerciaux ou des
+des bénéfices non commerciaux sont suivies entre l'administration des impôts et celui des époux titulaire des revenus. ces
+procédures produisent directement effet pour la determination du revenu global.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 155 B (AL. 1, 2ème PHRASE P. ET 3ème PHRASE)
+	  - Loi n°78-1240 1978-12-29 ART. 2 (AL. 1, 2ème PHRASE P., ET 3ème PHRASE)
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
+
+	**Abrogé par**:
+
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L54 A (V)
 
 
 ### Titre II : Le contrôle de l'impôt
@@ -985,6 +1129,44 @@ suivie entre l'administration des impôts et la société elle-même.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article L54
+
+Les procédures de fixation des bases d'imposition ou de rectification des déclarations relatives aux revenus provenant d'une
+activité dont les produits relèvent de la catégorie des bénéfices agricoles, des bénéfices industriels et commerciaux et des
+bénéfices non commerciaux, ou des revenus visés à l'article 62 du code général des impôts, sont suivies entre
+l'administration des impôts et celui des époux titulaire des revenus. Ces procédures produisent directement effet pour la
+détermination du revenu global.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 155 B (al. 1 2eme phrase P., 3eme phrase)
+	  - Loi n°78-1240 1978-12-29 art. 2 (al. 1 2eme, 3eme phrase)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 62 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L54 A (V)
+
+
+###### Article L54 A
+
+Sous réserve des dispositions des articles L. 9 et L. 54, chacun des époux a qualité pour suivre les procédures relatives à
+l'impôt dû à raison de l'ensemble des revenus du foyer. Les déclarations, les réponses, les actes de procédure faits par l'un
+des conjoints ou notifiés à l'un d'eux sont opposables de plein droit à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L54 (V)
+	  - Livre des procédures fiscales - art. L9 (Ab)
 
 
 ##### Section IV : Procédures de rectification
@@ -3694,6 +3876,37 @@ initiale.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L169 (V)
+
+
+###### Article L172
+
+Même si les délais de reprise prévus à l'article L. 169 sont écoulés, lorsque, à la suite de l'ouverture de la succession
+d'un contribuable ou de L'UN DES epoux soumis a une imposition commune, il est constate que le defunt n'a pas ete impose ou a
+ete insuFfisamment impose au titre de l'annee du deces ou de l'une des quatre annees anterieures, l'impot sur le revenu qui
+n'a pas ete etabli  peut etre mis en recouvrement jusqu'a la fin de la deuxieme annee  suivant l'année de la déclaration de
+succession ou, si cette déclaration n'a pas été faite, l'année du paiement par les héritiers des droits de mutation par
+décès.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1966 4
+	  - Décret n°48-1986 1948-12-09 art. 1, art. 115, art. 2102 4
+	  - Décret n°50-478 1950-04-06 art. 1966 4
+	  - Loi n°1914-07-15 art. 20
+	  - Loi n°1932-03-31 art. 10
+	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
+	  - Loi n°63-1316 1963-12-27 art. 15 2
+	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
+
+	**Cite**:
+
+	  - CGI L169
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 204 (V)
 
 
 ###### Article L172 A
@@ -6418,136 +6631,6 @@ leurs observations. Cette décision, qui est définitive, est notifiée à l'adm
 	  - Livre des procédures fiscales - art. R*4-1 (V)
 
 
-### DISPOSITIONS RELATIVES AUX ENTREPRISES INDUSTRIELLES, COMMERCIALES ET ARTISANALES
-
-###### Article L5
-
-L'administration des impôts adresse au contribuable placé sous le régime du forfait de bénéfice industriel et commercial et
-de chiffre d'affaires ou, dans le cas prévu à l'article L. 9, à son conjoint, une notification mentionnant pour chacune des
-années de la période biennale, d'une part le bénéfice imposable et d'autre part les éléments qui concourent à la
-détermination des taxes sur le chiffre d'affaires.
-
-L'intéressé dispose d'un délai de trente jours à partir de la date de réception de cette notification [*point de départ*],
-soit pour faire parvenir son acceptation, soit pour formuler ses observations en indiquant les chiffres qu'il serait disposé
-à accepter.
-
-En cas d'acceptation globale ou d'absence de réponse dans le délai fixé, les forfaits de bénéfice et de chiffre d'affaires
-notifiés servent de base à l'imposition. Si l'intéressé n'accepte explicitement ou tacitement que l'un des deux forfaits,
-celui-ci sert également de base à l'imposition correspondante.
-
-Dans le cas où l'administration accepte les contre-propositions concernant les deux forfaits ou l'un des deux seulement, elle
-informe expressément le contribuable de son accord.
-
-Si l'intéressé n'accepte pas le forfait qui lui a été notifié et si l'administration ne retient pas les contre-propositions
-qu'il a faites, le forfait sur lequel porte le désaccord est fixé par la commission départementale des impôts directs et des
-taxes sur le chiffre d'affaires. Le chiffre arrêté par cette commission selon la procédure suivie à l'article L. 60 sert de
-base à l'imposition.
-
-Dans tous les cas, l'intéressé conserve la possibilité, après la fixation du forfait, de demander la réduction de
-l'imposition au moyen d'une réclamation contentieuse, dans les conditions fixées aux articles L. 190 à L. 198.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 265 2, 265 6 (1re ET 2ème PHRASE, 1re ET 2ème LIGNE)
-	  - CGI 51 (AL. 2, AL. 3, AL. 4, 1re ET 2ème PHRASE, 1er MEMBRE)
-	  - Décret n°48-1986 1948-12-09 ART. 9 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Loi n°63-1316 1963-12-27 ART. 27
-	  - Loi n°66-10 1966-01-06 ART. 20 10, ART. 53 6
-	  - Décret n°1934-07-20 ANNEXE ART. 14 (LOI 1934-07-06 ART. 13)
-	  - Décret n°55-465 1955-04-30 ART. 16 I (LOI 55-349 1955-05-02)
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°1941-01-13 ANNEXE I ART. 14
-	  - Loi n°48-809 1948-05-13 ART. 3
-	  - Loi n°78-1240 1978-12-30 ART. 2
-
-	**Cite**:
-
-	  - CGI L190 A CGI L198
-	  - CGI L60
-	  - CGI L9
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
-	  - Livre des procédures fiscales - art. R5-1 (P)
-
-
-## LES PROCEDURES D'EVALUATION ADMINISTRATIVE DES BASES IMPOSABLES
-
-### DISPOSITIONS RELATIVES AUX PROFESSIONS NON COMMERCIALES
-
-###### Article L7
-
-Lorsqu'il est fait application pour la détermination d'un bénéfice non commercial du régime de l'évaluation administrative,
-l'administration des impôts adresse chaque année au contribuable ou, dans le cas prévu à l'article L. 9, à son conjoint, une
-notification mentionnant le bénéfice imposable. L'intéressé dispose du délai de trente jours prévu à l'article L. 11 à partir
-de la date de réception de cette notification [*point de départ*], soit pour faire parvenir son acceptation, soit pour
-formuler ses observations en indiquant le chiffre qu'il serait disposé à accepter.
-
-En cas d'acceptation ou d'absence de réponse dans le délai fixé, le montant du bénéfice évalué par l'administration sert de
-base à l'imposition.
-
-En cas de désaccord, le bénéfice imposable est fixé par la commission départementale des impôts directs et des taxes sur le
-chiffre d'affaires selon la procédure suivie à l'article L. 60.
-
-Dans tous les cas, l'intéressé conserve la possibilité, après la fixation de l'imposition, d'en demander la réduction au
-moyen d'une réclamation contentieuse, dans les conditions fixées par les articles L. 190 à L. 198.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 102 (AL. 2, AL. 3, AL. 4, LES 3 PREMIERES LIGNES)
-	  - Décret n°48-1986 1948-12-09 ART. 29 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°48-809 1948-05-13 ART. 9
-	  - Loi n°78-1240 1978-12-30 ART. 2
-
-	**Cite**:
-
-	  - CGI L11
-	  - CGI L190 A CGI L198
-	  - CGI L60
-	  - CGI L9
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 103 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-
-
-## LES PROCEDURES DE DETERMINATION FORFAITAIRE ET D'EVALUATION ADMINISTRATIVE DES BASES IMPOSABLES
-
-### DISPOSITIONS COMMUNES AUX PROCEDURES FORFAITAIRES ET D'EVALUATION ADMINISTRATIVE DE L'ASSIETTE DE L'IMPOT
-
-###### Article L9
-
-Les procédures de fixation forfaitaire ou d'évaluation administrative des bases d'imposition sont suivies entre
-l'administration des impôts et la femme mariée qui exerce personnellement une activité dont les produits relèvent de la
-catégorie des bénéfices agricoles, des bénéfices industriels et commerciaux ou des bénéfices non commerciaux ou revenus
-assimilés. Lorsque ces bases d'imposition doivent être comprises dans la déclaration d'ensemble des revenus du foyer, ces
-procédures produisent directement effet pour la détermination du revenu global, le mari conservant le droit de réclamation.
-
-Sur la demande que le contribuable souscrit en même temps que la déclaration d'ensemble des revenus du foyer,
-l'administration lui fait connaître distinctement, par lettre recommandée avec accusé de réception, les compléments ou
-modifications qu'elle a décidé d'apporter à cette déclaration du fait des procédures mentionnées au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 155 B (AL. 1, 2ème PHRASE P. ET 3ème PHRASE)
-	  - Loi n°78-1240 1978-12-29 ART. 2 (AL. 1, 2ème PHRASE P., ET 3ème PHRASE)
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L54 A (V)
-
-
 ## LE CONTROLE DE L'IMPOT
 
 ### LE DROIT DE CONTROLE DE L'ADMINISTRATION
@@ -6598,7 +6681,8 @@ L'administration des impôts peut procéder à la vérification approfondie de l
 physiques au regard de l'impôt sur le revenu dans les conditions prévues au présent livre.
 
 A l'occasion de cette vérification, l'administration peut contrôler la cohérence entre, d'une part les revenus déclarés et,
-d'autre part, la situation patrimoniale, la situation de trésorerie et les éléments du train de vie du contribuable.
+d'autre part, la situation patrimoniale, la situation de trésorerie et les éléments du train de vie dES MEMBRES DU FOYER
+FISCAL.
 
 **Liens relatifs à cet article**
 
@@ -6635,12 +6719,12 @@ bons ou de titres dont les intérêts ou arrérages sont exclus du décompte des
 même code, l'administration peut exiger la preuve de la possession de ces bons ou titres et celle de la date à laquelle ils
 sont entrés dans le patrimoine de l'intéressé. Le contribuable ne peut pas alléguer la vente ou le remboursement de bons
 mentionnés à l'article 125 A-III bis-2° du code général des impôts, quelle que soit leur date d'émission, lorsqu'il n'avait
-pas communiqué son identité et son domicile fiscal à l'établissement payeur dans les conditions prévues au 4° du III bis du
-même article. Il en va de même pour les ventes d'or monnayé ou d'or en barres ou en lingots de poids et de titres admis par
-la Banque de France, lorsque l'identité et le domicile du vendeur n'avaient pas été enregistrés par l'intermédiaire dans les
-conditions prévues par le décret n° 81-888 du 30 septembre 1981.
+pas communiqué son identité et son domicile fiscal à l'établissement payeur dans les conditions prévues au 4° et 6° du III
+bis du même article. Il en va de même pour les ventes d'or monnayé ou d'or en barres ou en lingots de poids et de titres
+admis par la Banque de France, lorsque l'identité et le domicile du vendeur n'avaient pas été enregistrés par l'intermédiaire
+dans les conditions prévues par le décret n° 81-888 du 30 septembre 1981.
 
-Les demandes adressées aux contribuables doivent indiquer explicitement les points sur lesquels elles portent et fixer à
+Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et fixer à
 l'intéressé, pour fournir sa réponse, un délai qui ne peut être inférieur au délai de trente jours prévu à l'article L. 11.
 
 Ce délai est porté à deux mois lorsque la demande faite par lettre recommandée avec avis de réception, concerne des revenus
@@ -6656,7 +6740,7 @@ l'étranger ou encaissés à l'étranger.
 	  - CGI 156
 	  - CGI 157
 	  - CGI L11
-	  - Décret n°81-888 1981-09-30
+	  - CGIAN3 211 A
 
 	**Anciens textes**:
 
@@ -6670,21 +6754,21 @@ l'étranger ou encaissés à l'étranger.
 	  - Loi n°61-1396 1961-12-21 ART. 79 I
 	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code général des impôts, CGI. - art. 204 (V)
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 91 (V)
-	  - Livre des procédures fiscales - art. L192 (VD)
-	  - Livre des procédures fiscales - art. L69 (V)
-	  - Livre des procédures fiscales - art. L73 (V)
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 6 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
 
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°83-900 1983-10-06
 
-	**Modifié par**:
+	**Cité par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 95 () JORF 31 DECEMBRE 1981
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 91 (V)
+	  - Code général des impôts, CGI. - art. 204 (V)
+	  - Livre des procédures fiscales - art. L192 (VD)
+	  - Livre des procédures fiscales - art. L69 (V)
+	  - Livre des procédures fiscales - art. L73 (V)
 
 
 ###### Article L17
@@ -7555,10 +7639,6 @@ Les bases ou les éléments servant au calcul des impositions d'office sont port
 jours au moins avant la mise en recouvrement des impositions [*délai minimum*], au moyen d'une notification qui précise les
 modalités de leur détermination. Cette notification est interruptive de prescription.
 
-La notification est adressée à la femme mariée qui exerce personnellement une activité dont les produits relèvent de la
-catégorie des bénéfices agricoles, des bénéfices industriels et commerciaux ou des bénéfices non commerciaux ou revenus
-assimilés.
-
 Les dispositions du présent article ne sont pas applicables dans les cas prévus à l'article L. 68.
 
 **Liens relatifs à cet article**
@@ -8351,36 +8431,6 @@ la fin de la quatrième année qui suit celle au titre de laquelle l'imposition 
 	  - CGI L185
 
 
-###### Article L172
-
-Même si les délais de reprise prévus à l'article L. 169 sont écoulés, lorsque, à la suite de l'ouverture de la succession
-d'un contribuable ou de son conjoint, il est constaté que ce contribuable n'a pas été imposé ou a été insuffisamment imposé
-au titre de l'année du décès ou de l'une des quatre années antérieures, l'impôt sur le revenu qui n'a pas été établi peut
-être mis en recouvrement jusqu'à la fin de la deuxième année suivant l'année de la déclaration de succession ou, si cette
-déclaration n'a pas été faite, l'année du paiement par les héritiers des droits de mutation par décès.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1966 4
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Décret n°48-1986 1948-12-09 art. 1, art. 115, art. 2102 4
-	  - Décret n°50-478 1950-04-06 art. 1966 4
-	  - Loi n°1914-07-15 art. 20
-	  - Loi n°1932-03-31 art. 10
-	  - Loi n°63-1316 1963-12-27 art. 15 2
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-
-	**Cite**:
-
-	  - CGI L169
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 204 (V)
-
-
 #### TAXES SUR LE CHIFFRE D'AFFAIRES.
 
 ###### Article L176
@@ -8760,30 +8810,6 @@ plusieurs catégories différentes d'impôts ou de taxes.
 	  - Loi n°94-1163 du 29 décembre 1994 - art. 15 (V)
 	  - Loi - art. 15 (V)
 	  - Livre des procédures fiscales - art. L52 A (V)
-
-
-###### Article L54
-
-Les procédures de fixation des bases d'imposition ou de rectification des déclarations sont suivies entre l'administration
-des impôts et la femme mariée qui exerce personnellement une activité dont les produits relèvent de la catégorie des
-bénéfices agricoles, des bénéfices industriels et commerciaux ou des bénéfices non commerciaux ou revenus assimilés. Lorsque
-les bases d'imposition doivent être comprises dans la déclaration d'ensemble des revenus du foyer, ces procédures produisent
-directement effet pour la détermination du revenu global, le mari conservant le droit de réclamation.
-
-Sur la demande que le contribuable présente en même temps que la déclaration d'ensemble des revenus du foyer,
-l'administration lui fait connaître distinctement, par lettre recommandée avec accusé de réception, les compléments ou
-modifications qu'elle a décidé d'apporter à cette déclaration du fait des procédures mentionnées au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 155 B (AL. 1 2EME PHRASE P., 3EME PHRASE)
-	  - Loi n°78-1240 1978-12-29 ART. 2 (AL. 1 2EME, 3EME PHRASE)
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L54 A (V)
 
 
 ## LE CONTENTIEUX DE L'IMPOT
