@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-08-10
+Version Consolidée au 1987-10-23
 
 # Partie législative
 
@@ -16154,36 +16154,37 @@ l'établissement de crédit par le comptable.
 	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-## LE RECOUVREMENT DE L'IMPOT
-
-### LE SURSIS DE PAIEMENT.
-
 ###### Article A277-7
 
-Les valeurs mobilières sur lesquelles la Banque de France consent des avances sur titres sont admises pour la somme
-déterminée par l'application au dernier cours coté au jour du dépôt du tarif appliqué par cet établissement pour la fixation
-du montant des avances.
+Les valeurs mobilières, y compris les actions de Sicav, sur lesquelles la Banque de France consent des avances sur titres,
+sont admises pour la somme déterminée, au jour du dépôt, par l'application au dernier cours coté pour les valeurs mobilières,
+ou au dernier prix de rachat pour les actions de Sicav, du tarif appliqué par cet établissement pour la fixation du montant
+des avances.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN4 207 K
+	  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
 
 
 ###### Article A277-8
 
-Les autres valeurs mobilières cotées à une bourse française sont admises pour la valeur déterminée par l'application au
-dernier cours coté d'un pourcentage inférieur d'au moins 10 p. 100 au pourcentage minimal appliqué par la Banque de France en
-matière d'avances sur titres.
-
-En aucun cas, ce pourcentage ne peut être supérieur à 40 p. 100 [*limite*].
+Les autres valeurs mobilières cotées en bourse, les parts de fonds communs de placement autres que ceux prévus par la loi n°
+83-1 du 3 janvier 1983 et les actions de Sicav composées au moins pour moitié de valeurs françaises de première catégorie ou
+de valeur assimilées et gérées par la Caisse des dépôts et consignations ou un établissement de crédit agréé en qualité de
+banque par le comité des établissements de crédit sont admises pour une valeur égale à 60 p. 100 du dernier cours pour les
+valeurs cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et pour les actions de Sicav.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN4 207 L
+	  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
+
+	**Cite**:
+
+	  - Loi n°83-1 1983-01-03
 
 	**Cité par**:
 
@@ -16192,25 +16193,30 @@ En aucun cas, ce pourcentage ne peut être supérieur à 40 p. 100 [*limite*].
 
 ###### Article A277-9
 
-Les valeurs mobilières qui ne sont pas cotées à une bourse française ne peuvent être admises que si elles sont accompagnées
-d'une caution agréée par les comptables responsables du recouvrement et pour le montant de la somme cautionnée.
+Les valeurs mobilières qui ne sont pas cotées à une bourse française et les actions de Sicav autres que celles visées par
+l'article A. 277-8 ne peuvent être admises que si elles sont accompagnées d'une caution bancaire souscrite pour la différence
+entre le montant de l'évaluation des titres et le montant des impôts contestés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN4 207 M
+	  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. A277-8 (V)
 
 
 ###### Article A277-10
 
-Des garanties supplémentaires peuvent être exigées lorsque le cours en bourse des titres déposés est inférieur à la valeur
-pour laquelle ces titres ont été admis en garantie.
+Des garanties supplémentaires peuvent être exigées lorsque le cours ou le prix de rachat, selon le cas, des titres déposés
+est inférieur à la valeur pour laquelle ces titres ont été admis en garantie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN4 207 N
+	  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
 
 
