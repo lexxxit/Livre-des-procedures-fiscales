@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-01-01
+Version Consolidée au 1985-01-05
 
 # Partie législative
 
@@ -8883,6 +8883,50 @@ au I détenue par la direction des services fiscaux dans le ressort de laquelle 
 
 #### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
 
+###### Article L113
+
+Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
+collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
+
+Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 126, L. 127, L. 130, L. 135, L. 136,
+L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans les termes de l'article
+378 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L123
+	  - CGI L124
+	  - CGI L126
+	  - CGI L127
+	  - CGI L130
+	  - CGI L135
+	  - CGI L136
+	  - CGI L152 A
+	  - CGI L154
+	  - CGI L156
+	  - CGI L158
+	  - CGI L161
+	  - CGI L166
+	  - Code pénal 378
+
+	**Modifié par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
+	  - Loi n°85-17 du 4 janvier 1985 - art. 14 () JORF 5 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L651-5-1 (V)
+	  - Livre des procédures fiscales - art. R*113-1 (V)
+	  - Livre des procédures fiscales - art. R135 D-1 (V)
+
+
 ###### Article L116
 
 L'administration des impôts ne peut opposer le secret professionnel aux fonctionnaires désignés à l'article 13 de
@@ -9025,34 +9069,12 @@ par celle-ci et nécessaires à l'instruction des demandes tendant à l'attribut
 	  - Code de la sécurité sociale L645
 
 
-###### Article L159
-
-Conformément à l'article L. 543-15 du code de la sécurité sociale, les organismes débiteurs de l'allocation de parent isolé
-peuvent recevoir de l'administration des impôts, sur leur demande, communication des renseignements qu'elle détient et qui
-concernent les revenus dont disposent les bénéficiaires de cette allocation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2023 (1RE PHRASE)
-	  - Loi n°76-617 du 9 juillet 1976 - art. 2 ()
-
-	**Abrogé par**:
-
-	  - Loi n°85-17 du 4 janvier 1985 - art. 22 () JORF 5 janvier 1985
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L543-15
-
-
 ###### Article L160
 
 L'administration des impôts est tenue de communiquer aux agents assermentés des organismes et services qui procèdent au
-paiement des allocations de logement prévues par l'article L. 510-5° du code de la sécurité sociale et par la loi n° 71-582
-du 16 juillet 1971 relative à l'allocation de logement, tous les renseignements et pièces nécessaires au contrôle du montant
-des loyers et des ressources des demandeurs ou des bénéficiaires.
+paiement des allocations de logement prévues par l'article L. 510 du code de la sécurité sociale et par la loi n° 71-582 du
+16 juillet 1971 relative à l'allocation de logement, tous les renseignements et pièces nécessaires au contrôle du montant des
+loyers et des ressources des demandeurs ou des bénéficiaires.
 
 L'administration est tenue de communiquer ces mêmes renseignements pour le contrôle des déclarations des demandeurs ou des
 bénéficiaires de l'aide personnalisée au logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction et
@@ -9060,19 +9082,19 @@ de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 2016
-	  - Loi n°48-1360 1948-09-01 ART. 16 f
-	  - Loi n°71-582 du 16 juillet 1971 - art. 15 (Ab)
-	  - Loi n°77-1 du 3 janvier 1977 - art. 17, v. init.
-	  - Décret n°78-621 1978-05-31 ART. 1, ART. 2
-
 	**Cite**:
 
 	  - Code de la construction L351-1 A Code de la construction L351-14
 	  - Loi n°71-582 1971-07-16
-	  - Code de la sécurité sociale L510 5°
+	  - Code de la sécurité sociale L510
+
+	**Modifié par**:
+
+	  - Loi n°85-17 du 4 janvier 1985 - art. 1 () JORF 5 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
 
 
 ###### Article L167
@@ -9147,6 +9169,33 @@ renseignements nécessaires à la mise en oeuvre des procédures prévues par l'
 	**Liens**:
 
 	  - PEREMPTION: Loi n°86-1210 1986-11-27 art. 7 III JORF 28 novembre 1986
+
+
+##### DEROGATIONS AU PROFIT DES AUTORITES ET DES ORGANISMES CHARGES DE L'APPLICATION DE LA LEGISLATION SOCIALE *DROIT DE COMMUNICATION*.
+
+###### Article L152 A
+
+Conformément à l'article L. 554 du code de la sécurité sociale, l'administration des impôts est tenue de communiquer aux
+organismes débiteurs de prestations familiales toutes les informations nécessaires au contrôle des déclarations des
+allocataires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-17 du 4 janvier 1985 - art. 14 () JORF 5 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L554
 
 
 ### LES DELAIS DE PRESCRIPTION
