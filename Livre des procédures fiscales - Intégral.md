@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1989-01-01
+Version Consolidée au 1989-06-07
 
 # Partie législative
 
@@ -10411,30 +10411,6 @@ l'article 885 X du code général des impôts en ce qui concerne l'impôt sur le
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
 
 
-#### PROCEDURE D'ARBITRAGE DES DROITS.
-
-###### Article L76 B
-
-A défaut de souscription de la déclaration prévue au titre de l'impôt sur les grandes fortunes par l'article 885 w du code
-général des impôts, l'administration, après mise en demeure restée sans effet dans un délai de deux mois, fixe provisoirement
-le montant de l'impôt. Les droits ainsi arbitrés ne peuvent être remis en cause par le redevable que par la souscription de
-la déclaration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 885 W
-
-	**Modifié par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 8 (V) JORF 31 DECEMBRE 1981 en vigueur le 1er JANVIER 1982
-
-	**Abrogé par**:
-
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
-
-
 ### LES DELAIS DE PRESCRIPTION
 
 #### IMPOT SUR LES GRANDES FORTUNES.
@@ -11140,6 +11116,26 @@ Les résultats de ce contrôle sont notifiés à l'entreprise et sont communiqu�
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article R45 D-1
+
+Les conclusions des contrôles des dépenses de formation exposées au titre du crédit d'impôt-formation mentionné à l'article
+L45 D sont communiquées à l'administration des impôts qui les notifie dans les conditions prévues au présent livre.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L45 D
+
+	**Liens**:
+
+	  - TXT_SOURCE: Loi n°88-1149 1988-12-23 art. 15 V Finances pour 1989
+
+	**Créé par**:
+
+	  - Décret n°89-353 du 5 juin 1989 - art. 2 () JORF 7 juin 1989
 
 
 ##### Section IV : Procédures de rectification
