@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-08-05
+Version Consolidée au 1982-09-01
 
 # Partie législative
 
@@ -160,6 +160,29 @@ contribuable remplit encore les conditions prévues pour bénéficier du régime
 
 ##### Section I : Dispositions générales
 
+###### Article L11
+
+A moins qu'un délai plus long ne soit prévu par le présent livre, le délai accordé aux contribuables pour répondre aux
+demandes de renseignements, de justifications ou d'éclaircissements et, d'une manière générale, à toute notification émanant
+d'un agent de l'administration des impôts est fixé à trente jours à compter de la réception de cette notification.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°81-859 1981-09-15
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L16 (V)
+	  - Livre des procédures fiscales - art. L21 B (V)
+	  - Livre des procédures fiscales - art. L57 (V)
+
+
 ##### Dispositions relatives aux vérifications des comptabilités.
 
 ###### Article L13
@@ -186,6 +209,39 @@ comptabilité des contribuables astreints à tenir et à présenter des document
 	**Anciens textes**:
 
 	  - Décret n°55-457 1955-04-30 ART. 21 (LOI 55-349 1955-04-02)
+
+
+##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant
+
+###### Article L14
+
+L'administration des impôts peut exercer le droit de contrôle prévu à l'article L. 10 auprès des institutions et organismes
+qui n'ont pas la qualité de commerçant, et qui payent des salaires, des honoraires ou des rémunérations de toute nature, ou
+qui encaissent, gèrent ou distribuent des fonds pour le compte de leurs adhérents. 
+
+A cette fin les institutions et organismes concernés doivent présenter à l'administration des impôts, sur sa demande, les
+livres de comptabilité et pièces annexes dont ils disposent ainsi que les documents relatifs à leur activité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1995 (AVANT-DERNIERE LIGNE)
+	  - Décret n°1934-07-20 ANNEXE ART. 155 (LOI 1934-07-06 ART. 13)
+	  - Décret n°71-290 1971-04-15 ART. 5
+	  - Loi n°1941-01-13 ANNEXE I ART. 155
+
+	**Codifié par**:
+
+	  - Décret n°81-859 1981-09-15
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L10 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L87 (V)
 
 
 ##### Section II : Dispositions particulières à certains impôts
@@ -1747,6 +1803,35 @@ Les communications prévues au présent article ne peuvent être exigées les jo
 	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
 
 
+##### Caisses de mutualité sociale agricole.
+
+###### Article L95
+
+Les caisses de mutualité sociale agricole doivent communiquer à l'administration, sur sa demande, les documents d'assiette
+des cotisations des prestations sociales agricoles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1996
+	  - Loi n°49-946 1949-07-16 ART. 11 (AL. 2)
+	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15 applicable le 1er septembre 1982
+
+	**Modifié par**:
+
+	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L114-20 (V)
+	  - Livre des procédures fiscales - art. R81-5 (V)
+
+
 ##### Section I : Conditions d'exercice du droit de communication
 
 ##### 15° : Intermédiaires professionnels des bourses de valeurs
@@ -2298,6 +2383,36 @@ législation économique.
 
 	  - Décret n°2011-1032 du 29 août 2011 (V)
 	  - Livre des procédures fiscales - art. R119-1 (V)
+
+
+###### Article L120
+
+Les agents du crédit d'équipement des petites et moyennes entreprises peuvent recevoir de l'administration des impôts
+communication des renseignements nécessaires aux enquêtes et contrôles auxquels ils procèdent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+	**Anciens textes**:
+
+	  - CGI 2020 1 5.
+	  - Loi n°1936-08-19 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°80-1076 du 23 décembre 1980 - art. 1 (V) JORF 28 DECEMBRE 1980
+	  - Décret n°80-1076 du 23 décembre 1980 - art. 4 (V) JORF 28 DECEMBRE 1980
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er septembre 1982
 
 
 ###### Article L121
@@ -7604,25 +7719,6 @@ opération qu'ils relatent.
 	  - PEREMPTION: Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
 
 
-###### Article L95
-
-Les caisses de mutualité sociale agricole doivent communiquer à l'administration des impôts, sur sa demande, les documents
-d'assiette des cotisations des prestations sociales agricoles [*obligation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1996
-	  - Loi n°49-946 1949-07-16 ART. 11 (AL. 2)
-	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V)
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. L114-20 (V)
-	  - Livre des procédures fiscales - art. R81-5 (V)
-
-
 ###### Article L96
 
 L'identité des personnes auxquelles sont délivrées des formules de chèques non barrées et qui ne sont pas rendues, par une
@@ -7828,23 +7924,6 @@ l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-
-###### Article L120
-
-Les agents de la caisse nationale des marchés de l'Etat peuvent recevoir de l'administration des impôts communication des
-renseignements nécessaires aux enquêtes et contrôles auxquels ils procèdent.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-	**Anciens textes**:
-
-	  - CGI 2020 1 5°
-	  - Loi n°1936-08-19 ART. 9
 
 
 ###### Article L134 A
@@ -10299,6 +10378,43 @@ nécessaires à l'accomplissement des missions pour lesquelles elles sont consen
 
 
 ##### I : Dérogations en matière d'assistance fiscale internationale
+
+###### Article R*114 A-1
+
+La communication de renseignements par l'administration française est subordonnée à un engagement de l'autre Etat membre de
+respecter, dans l'utilisation de ces renseignements, des règles de secret similaires à celles prévues par la législation
+française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-661 du 28 juillet 1982 - art. 1 (V) JORF 31 JUILLET 1982
+
+
+###### Article R*114 A-2
+
+1. L'administration française ne peut fournir des renseignements qui révéleraient un secret commercial, industriel ou
+professionnel, ou dont la divulgation serait de nature à porter atteinte à la sécurité ou à l'ordre public.
+
+II. Elle n'est pas tenue de fournir des renseignements qui, sur la base de la législation en vigueur ou de la pratique
+administrative, ne pourraient pas être utilisés pour l'établissement ou le recouvrement de l'impôt français, ou qui ne
+pourraient pas être obtenus dans l'autre Etat membre, sur la base de sa législation ou de sa pratique administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-661 du 28 juillet 1982 - art. 2 (V) JORF 31 JUILLET 1982
+
 
 ###### Article R*114 A-3
 
