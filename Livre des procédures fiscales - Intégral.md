@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1994-09-02
+Version Consolidée au 1995-10-27
 
 # Partie législative
 
@@ -3833,6 +3833,33 @@ une personne morale, à son représentant.
 	  - Livre des procédures fiscales - art. L80 K (VT)
 
 
+###### Article L80 I
+
+Les agents des douanes, ayant au moins le grade de contrôleur, peuvent disposer du droit d'enquête prévu aux articles L. 80 F
+à L. 80 H pour rechercher les manquements à l'application des règles de facturation afférentes aux acquisitions et
+livraisons, entrant dans le champ d'application de la taxe sur la valeur ajoutée, effectuées avec des Etats membres de la
+Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Cité par**:
+
+	  - Arrêté du 1 juillet 2003 - art. 7 (V)
+	  - Livre des procédures fiscales - art. L80 J (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 F (V)
+
+
 #### Chapitre I bis : Droit d'enquête
 
 ###### Article L80 F
@@ -3928,43 +3955,6 @@ l'article 1725 A du code général des impôts.
 
 	  - Livre des procédures fiscales - art. L16-0 BA (V)
 	  - Livre des procédures fiscales - art. L80 L (V)
-
-
-###### Article L80 I
-
-Les agents des douanes, ayant au moins le grade de contrôleur, peuvent disposer du droit d'enquête prévu aux articles L. 80 F
-à L. 80 H pour rechercher les manquements à l'application des règles de facturation afférentes aux acquisitions et
-livraisons, entrant dans le champ d'application de la taxe sur la valeur ajoutée, effectuées avec des Etats membres de la
-Communauté économique européenne.
-
-xxxxxxxxxxxxxxxxxxxxxxxx EURX9200218L EURX9200218L-11 (Loi 93-1420 1993-12-31 art. 11 JORF 1er janvier 1994). Edition du 27
-octobre 1995. Décret 95-1281 1995-12-11 1995-10-27 V 01 CGI Livre des procédures fiscales L80 F à L80 H.    Les agents des
-douanes, ayant au moins le grade de contrôleur, peuvent disposer du droit d'enquête prévu aux articles L. 80 F à L. 80 H pour
-rechercher les manquements à l'application des règles de facturation afférentes aux acquisitions et livraisons, entrant dans
-le champ d'application de la taxe sur la valeur ajoutée, effectuées avec des Etats membres de la Communauté européenne.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 106 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
-	**Cité par**:
-
-	  - Arrêté du 1 juillet 2003 - art. 7 (V)
-	  - Livre des procédures fiscales - art. L80 J (V)
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L80 F à L80 H
-
-	**Liens**:
-
-	  - HISTO: édition du 18 août 1993
 
 
 ###### Article L80 J
@@ -4207,13 +4197,12 @@ administrations dépositaires de renseignements de cette nature ne sont pas tenu
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
 
-##### Commission nationale des comptes de campagne et des financements politiques.
+##### 5° : Commission nationale des comptes de campagne et des financements politiques
 
 ###### Article L84 A
 
 I. La Commission nationale des comptes de campagne et des financements politiques authentifie sur demande des agents des
-impôts les justificatifs des dons visés au 2 bis de l'article 200 du code général des impôts et au deuxième alinéa du 1 de
-l'article 238 bis du même code.
+impôts les justificatifs des dons visés au 2 bis de l'article 200 du code général des impôts.
 
 II. La commission communique à l'administration des impôts les infractions qu'elle relève en ce qui concerne la déductibilité
 des dons prévus au I.
@@ -4222,11 +4211,15 @@ des dons prévus au I.
 
 	**Cite**:
 
-	  - CGI 200, 238 bis
+	  - CGI 200
+
+	**Modifié par**:
+
+	  - Loi n°95-65 du 19 janvier 1995 - art. 22 () JORF 21 janvier 1995
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°95-1282 1995-12-11
 
 	**Cité par**:
 
@@ -4234,11 +4227,7 @@ des dons prévus au I.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
-
-	**Créé par**:
-
-	  - Loi - art. 110 () JORF 31 décembre 1992
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### 6° : Personnes ayant la qualité de commerçant
@@ -4664,7 +4653,7 @@ demande.
 	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
 
 
-##### Opérations de transfert de fonds à l'étranger.
+##### 18° : Opérations de transfert de fonds à l'étranger
 
 ###### Article L96 A
 
@@ -4678,33 +4667,7 @@ résidents.
 
 Les dispositions de l'article L. 102 B sont applicables.
 
-Un décret en Conseil d'Etat fixe ((après avis de la Commission nationale de l'informatique et des libertés)) (M) les règles
-particulières relatives à la conservation et à la communication des informations détenues par les organismes visés au premier
-alinéa.
-
-(M) Modification.
-
-[*Cf. Instruction 1995-11-16 13K-3-95.*]
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1649 A al. 2
-	  - CGI L102 B
-	  - Loi n°84-46 1984-01-24 art. 8
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1995-11-16 13K-3-95
-
-	**Modifié par**:
-
-	  - Loi n°89-935 1989-12-29 art. 98 3 Finances pour 1990 JORF 30 décembre 1990
-
-	**Codifié par**:
-
-	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
@@ -4712,6 +4675,27 @@ alinéa.
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 bis (M)
 	  - Code général des impôts, CGI. - art. 1735 (V)
 
+	**Cite**:
+
+	  - CGI 1649 A
+	  - CGI Livre des procédures fiscales L102 B
+	  - Loi n°84-46 1984-01-24 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Modifié par**:
+
+	  - Décret n°95-1282 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+	  - TXT_ASSOCIE: Instruction 1995-11-16 13K-3-95
+
+
+##### Opérations de transfert de fonds à l'étranger.
 
 ###### Article L96 B
 
@@ -4833,28 +4817,27 @@ montant total des honoraires qui leur sont effectivement versés par les assuré
 
 ###### Article L98
 
-Les organismes débiteurs de l'allocation supplémentaire du fonds national de solidarité prévue par les articles L. 815-1 à L.
-815-22 du code de la sécurité sociale sont tenus de fournir à l'administration des impôts, avant le 31 janvier de chaque
-année [*périodicité*], la liste des personnes auxquelles l'allocation a été attribuée ou supprimée au cours de l'année
-précédente [*obligation*].
+Les organismes débiteurs de l'allocation supplémentaire mentionnée à l'article L. 815-2 ou à l'article L. 815-3 du code de la
+sécurité sociale sont tenus de fournir à l'administration des impôts, avant le 31 janvier de chaque année, la liste des
+personnes auxquelles l'allocation a été attribuée ou supprimée au cours de l'année précédente.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
-
-	**Modifié par**:
-
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 1 () JORF 18 SEPTEMBRE 1993
+	  - Décret n°95-1282 1995-12-11
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1414 (M)
 
-	**Cite**:
+	**Liens**:
 
-	  - Code de la sécurité sociale L815-1 à L815-22
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Modifié par**:
+
+	  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
 
 
 ###### Article L98 A
@@ -5579,26 +5562,27 @@ renseignements avec l'administration française.
 	  - Livre des procédures fiscales - art. R*113-1 (V)
 
 
-##### Section II : Dérogations à la règle du secret professionnel
-
 ###### Article L114 A
 
 Sous réserve de réciprocité, les administrations financières peuvent communiquer aux administrations des Etats membres de la
-Communauté économique européenne des renseignements pour l'établissement et le recouvrement des impôts sur le revenu et sur
-la fortune ainsi que de la taxe sur la valeur ajoutée.
+Communauté européenne des renseignements pour l'établissement et le recouvrement des impôts sur le revenu et sur la fortune
+ainsi que de la taxe sur la valeur ajoutée.
 
 Un décret en conseil d'Etat précise les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°95-1282 1995-12-11
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°81-1179 1981-12-31 art. 11 I, III Finances rectificative pour 1981 JORF 1er janvier 1982
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 11 (V) JORF 1er janvier 1982
+	  - HISTO: Edition du 27 octobre 1995
 
 	**Cité par**:
 
@@ -5791,11 +5775,11 @@ communication des renseignements nécessaires aux enquêtes et contrôles auxque
 ###### Article L121
 
 Les fonctionnaires chargés des fonctions de commissaire du Gouvernement auprès d'un conseil de l'ordre des experts-comptables
-et des comptables agréés peuvent recevoir de l'administration des impôts communication des renseignements nécessaires à
-l'accomplissement de leurs missions. Ces fonctionnaires peuvent communiquer aux conseils et aux chambres de discipline de
-l'ordre, les renseignements nécessaires à ces organismes pour se prononcer en connaissance de cause sur les demandes et sur
-les plaintes dont ils sont saisis concernant l'inscription au tableau, la discipline professionnelle ou l'exercice illégal de
-l'une des professions relevant de l'ordre.
+peuvent recevoir de l'administration des impôts communication des renseignements nécessaires à l'accomplissement de leurs
+missions. Ces fonctionnaires peuvent communiquer aux conseils et aux chambres de discipline de l'ordre, les renseignements
+nécessaires à ces organismes pour se prononcer en connaissance de cause sur les demandes et sur les plaintes dont ils sont
+saisis concernant l'inscription au tableau, la discipline professionnelle ou l'exercice illégal de l'une des professions
+relevant de l'ordre.
 
 **Liens relatifs à cet article**
 
@@ -5803,6 +5787,14 @@ l'une des professions relevant de l'ordre.
 
 	  - CGI 2015
 	  - Loi n°47-520 1947-03-21 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ###### Article L122
@@ -6518,6 +6510,23 @@ entendre toute personne susceptible de leur fournir des informations. Ils peuven
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+
+###### Article L135 G
+
+Les services en charge de l'équipement et du logement et ceux de l'administration fiscale peuvent se communiquer mutuellement
+les informations relatives au recensement et à l'achèvement des opérations de construction, de démolition et de modification
+portant sur les immeubles.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Créé par**:
+
+	  - Loi n°94-1163 1994-12-29 art. 28 Finances rectificative pour 1994 JORF 30 décembre 1994
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -7265,26 +7274,24 @@ allocataires.
 ###### Article L153
 
 Conformément à l'article L. 815-15 du code de la sécurité sociale, les services chargés de l'attribution de l'allocation
-supplémentaire versée par le fonds national de solidarité en application de l'article L. 815-2 du même code peuvent recevoir
-de l'administration des impôts communication des renseignements nécessaires à la liquidation et au contrôle de cette
-allocation, ainsi qu'à la mise en oeuvre des dispositions de l'article L. 815-12 du code précité notamment en ce qui concerne
-la détermination du montant des successions.
+supplémentaire mentionnée à l'article L. 815-2 ou à l'article L. 815-3 du même code peuvent recevoir de l'administration des
+impôts communication des renseignements nécessaires à la liquidation et au contrôle de cette allocation, ainsi qu'à la mise
+en oeuvre des dispositions de l'article L. 815-12 du code précité notamment en ce qui concerne la détermination du montant
+des successions.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
 	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+	  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
 
 	**Codifié par**:
 
-	  - Décret n°86-1087 1986-10-07
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. L815-12 (M)
-	  - Code de la sécurité sociale. - art. L815-15 (M)
-	  - Code de la sécurité sociale. - art. L815-2 (M)
+	  - Décret n°95-1282 1995-12-11
 
 
 ###### Article L154
@@ -9413,14 +9420,14 @@ conditions fixées par décret.
 	  - Livre des procédures fiscales - art. L279 (M)
 
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.
-
 ###### Article L209
 
-Lorsqu'une juridiction rejette totalement ou partiellement la demande d'un contribuable tendant à obtenir l'annulation ou la
-réduction d'une imposition établie en matière d'impôts directs à la suite d'un redressement ou d'une taxation d'office, les
-cotisations ou fractions de cotisations maintenues à la charge du contribuable et pour lesquelles celui-ci avait obtenu un
-sursis de paiement, donnent lieu au paiement d'intérêts moratoires au taux de l'intérêt légal.
+Lorsque le tribunal administratif rejette totalement ou partiellement la demande d'un contribuable tendant à obtenir
+l'annulation ou la réduction d'une imposition établie en matière d'impôts directs à la suite d'un redressement ou d'une
+taxation d'office, les cotisations ou fractions de cotisations maintenues à la charge du contribuable et pour lesquelles
+celui-ci avait présenté une réclamation assortie d'une demande de sursis de paiement donnent lieu au paiement d'intérêts
+moratoires au taux de l'intérêt légal. Ces intérêts moratoires ne sont pas dus sur les cotisations ou fractions de
+cotisations d'impôts soumises à l'intérêt de retard visé à l'article 1731 du code général des impôts.
 
 Ces dispositions sont également applicables en cas de désistement du contribuable auprès de la juridiction saisie.
 
@@ -9428,25 +9435,18 @@ Sur demande justifiée du contribuable, le montant des intérêts moratoires est
 engagés pour la constitution des garanties propres à assurer le recouvrement des impôts contestés.
 
 Les intérêts courent du premier jour du treizième mois suivant celui de la date limite de paiement jusqu'au jour du paiement
-effectif des cotisations (1). Ils sont recouvrés dans les mêmes conditions et sous les mêmes garanties, sûretés et privilèges
-que les impositions auxquelles ils s'appliquent.
-
-(1) Dispositions applicables aux réclamations assorties d'une demande de sursis de paiement déposées après la date d'entrée
-en vigueur de la loi 80-30 du 18 janvier 1980 (JO du 19). Toutefois pour la période comprise entre cette date et celle de la
-publication de la loi n° 81-1179 du 31 décembre 1981 (JO du 1er janvier 1982), le décompte des intérêts s'effectue du premier
-jour du treizième mois suivant celui de la date limite de paiement pendant un délai maximum de trois ans, ou jusqu'au jour du
-paiement effectif des cotisations, s'il intervient avant l'expiration de ce délai.
+effectif des cotisations. Ils sont recouvrés dans les mêmes conditions et sous les mêmes garanties, sûretés et privilèges que
+les impositions auxquelles ils s'appliquent.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
 	**Cite**:
 
-	  - Loi n°80-30 1980-01-18 FINANCES POUR 1980
-	  - Loi n°81-1179 1981-12-31 FINANCES RECTIFICATIVE POUR 1981
+	  - CGI 1731
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 	**Anciens textes**:
 
@@ -9454,7 +9454,7 @@ paiement effectif des cotisations, s'il intervient avant l'expiration de ce dél
 
 	**Modifié par**:
 
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 10 (P)
+	  - Loi n°94-1163 1994-12-29 art. 35 Finances rectificative pour 1994 JORF 30 décembre 1994
 
 	**Cité par**:
 
@@ -9463,6 +9463,8 @@ paiement effectif des cotisations, s'il intervient avant l'expiration de ce dél
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 216 (VD)
 	  - Livre des procédures fiscales - art. L247 (V)
 
+
+##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.
 
 ###### Article L210
 
@@ -10801,6 +10803,46 @@ litige devant le tribunal compétent, celui-ci fixe le taux des majorations ou p
 	  - HISTO: Edition du 1er juillet 1981
 
 
+##### Les taxes d'urbanisme
+
+###### Article L251 A
+
+I. Les assemblées délibérantes des collectivités territoriales ou établissements publics au profit desquels sont perçus les
+taxes, versements et participations visés aux articles 1585 A, 1599-0 B, 1599 B, 1599 octies, 1635 quater et 1723 octies du
+code général des impôts peuvent accorder la remise gracieuse des pénalités liquidées à défaut de paiement à la date
+d'exigibilité.
+
+II. Les décisions des assemblées délibérantes sont prises sur proposition du comptable public chargé du recouvrement et dans
+des conditions fixées par décret en conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1585 A, 1599-0 B, 1599 B, 1599 octies, 1635 quater, 1723 octies
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Créé par**:
+
+	  - Loi n°89-935 1989-12-29 art. 118 Finances pour 1990, JORF 30 décembre 1989
+
+	**Modifié par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 14 () JORF 9 février 1994
+	  - Loi n°94-112 du 9 février 1994 - art. 15 () JORF 9 février 1994
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*251 A-1 (VT)
+
+
 ### Titre IV : Le recouvrement de l'impôt
 
 #### Chapitre premier : Les procédures de recouvrement
@@ -10841,6 +10883,47 @@ des crédits affectés aux dépenses du ministère de l'économie et des finance
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
+
+
+###### Article L252 A
+
+Constituent des titres exécutoires les arrêtés, états, rôles, avis de mise en recouvrement, titres de perception ou de
+recettes que l'Etat, les collectivités territoriales ou les établissements publics dotés d'un comptable public délivrent pour
+le recouvrement des recettes de toute nature qu'ils sont habilités à recevoir.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°91-650 1991-07-09 art. 2, 3 6° JORF 14 juillet 1991
+	  - Loi n°91-650 du 9 juillet 1991 - art. 2 (VT) JORF 14 juillet 1991
+
+	**Modifié par**:
+
+	  - Loi - art. 98 (V) JORF 5 janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Cité par**:
+
+	  - Décret n°2006-504 du 3 mai 2006 - art. 54 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (V)
+	  - Arrêté du 26 octobre 2011 - art. 5 (VD)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 112 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 117 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 123 (V)
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2321-2 (V)
+	  - Code général de la propriété des personnes publ... - art. L2321-3 (VD)
+	  - Code général des collectivités territoriales - art. D1617-23 (V)
+	  - Code général des impôts, CGI. - art. 1680 (VD)
+	  - Livre des procédures fiscales - art. L273 A (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
 
 
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites
@@ -10955,6 +11038,40 @@ donner lieu à des frais.
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
 	  - Livre des procédures fiscales - art. L260 (V)
+
+
+##### Les taxes d'urbanisme
+
+###### Article L255 A
+
+Les taxes, versements et participations prévus aux articles 1585 A, 1599-0 B, 1599 B, 1599 octies, 1635 quater et 1723 octies
+du code général des impôts sont recouvrés en vertu d'un titre délivré par l'autorité compétente pour procéder à leur
+liquidation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1585 A, 1599-0 B, 1599 B, 1599 octies, 1635 quater, 1723 octies
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Créé par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 14 () JORF 10 février 1994
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Cité par**:
+
+	  - Décret n°98-1239 du 29 décembre 1998 - art. 1 (V)
+	  - Loi - art. 50 (V)
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 51 (V)
+	  - Code du patrimoine. - art. L524-8 (MMN)
 
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
@@ -11843,26 +11960,35 @@ En ce qui concerne la taxe locale d'équipement, l'action en recouvrement de l'a
 la quatrième année suivant celle au cours de laquelle soit le permis de construire a été délivré ou la déclaration de
 construction déposée, soit le procès-verbal constatant une infraction a été établi.
 
-((Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février
-1994 portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement
-est prolongé d'un an)) (1).
-
-(1) Modification de la loi.
+Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février 1994
+portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement est
+prolongé d'un an.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
 	**Anciens textes**:
 
-	  - CGI L184
+	  - Livre des procédures fiscales L184
 
 	**Cite**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 11 (M)
+	  - Loi n°94-112 du 9 février 1994 - art. 11
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 13 () JORF 10 février 1994
-	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
+	  - Décret n°95-1282 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 
 ###### Article L274 B
@@ -11871,26 +11997,35 @@ En ce qui concerne le versement pour dépassement du plafond légal de densité,
 s'exerce jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle le permis de construire a été délivré
 ou considéré comme tacitement accordé.
 
-((Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février
-1994 portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement
-est prolongé d'un an)) (1).
-
-(1) Modification de la loi.
+Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février 1994
+portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement est
+prolongé d'un an.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI L184
-
-	**Cite**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 11 (M)
+	  - Décret n°95-1282 du 11 décembre 1995
 
 	**Modifié par**:
 
-	  - Loi n°94-112 du 9 février 1994 - art. 13 () JORF 10 février 1994
-	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
+	  - Décret n°95-1282 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+
+	**Anciens textes**:
+
+	  - Livre des procédures fiscales L184
+
+	**Cite**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 11
 
 
 ###### Article L275
@@ -12101,12 +12236,11 @@ tribunal. En appel, ces contestations sont portées devant le tribunal.
 ###### Article L280
 
 En matière d'impôts directs et de taxes sur le chiffre d'affaires, lorsque le tribunal administratif estime qu'une demande
-ayant comporté un sursis de paiement a entraîné un retard abusif dans le paiement de l'impôt, il peut, par une décision non
-susceptible d'appel rendue en même temps que le jugement sur le fond, prononcer une majoration des droits contestés à tort
-[*sanction*].
+ayant comporté un sursis de paiement a entraîné un retard abusif dans le paiement de l'impôt, il peut prononcer une
+majoration des droits contestés à tort.
 
-Le montant de cette majoration ne peut dépasser 1 p. 100 [*pourcentage, taux*] par mois entier écoulé entre la date de
-l'enregistrement de la demande au greffe et celle du jugement ou celle du paiement si l'impôt est acquitté avant le jugement.
+Le montant de cette majoration ne peut dépasser 1% par mois entier écoulé entre la date de l'enregistrement de la demande au
+greffe et celle du jugement ou celle du paiement si l'impôt est acquitté avant le jugement.
 
 La majoration est exigible en totalité dès l'émission d'un rôle ou d'un avis de mise en recouvrement.
 
@@ -12119,6 +12253,14 @@ La majoration est exigible en totalité dès l'émission d'un rôle ou d'un avis
 	  - Loi n°1943-08-10 art. 6
 	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
 	  - Loi n°59-1472 1959-12-28 art. 97 (al. 10)
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Modifié par**:
+
+	  - Loi n°94-1163 1994-12-29 art. 34 Finances rectificative pour 1994 JORF 30 décembre 1994
 
 
 #### Chapitre III : Le contentieux du recouvrement
@@ -13622,6 +13764,83 @@ litige soit soumis à l'avis du comité consultatif pour la répression des abus
 	  - Livre des procédures fiscales - art. L64 (M)
 
 
+#### Chapitre I bis : Le droit d'enquête
+
+###### Article R80 F-1
+
+Le droit d'enquête défini aux articles L. 80 F à L. 80 H peut être exercé par les fonctionnaires de la direction générale des
+impôts appartenant à des corps des catégories A et B et agissant soit dans le ressort territorial du service auquel ils sont
+affectés, soit dans l'ensemble de la région Ile-de-France lorsqu'ils exercent leurs fonctions dans un département situé dans
+cette région.
+
+Les fonctionnaires visés au premier alinéa peuvent se faire assister par tout autre fonctionnaire de la direction générale
+des impôts, affecté ou non dans le ressort territorial du même service et appartenant à des corps de catégories A et B.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-1219 du 26 décembre 1994 - art. 1 () JORF 31 décembre 1994
+
+	**Cité par**:
+
+	  - Arrêté du 24 juillet 2000 - art. 2 (V)
+	  - Arrêté du 24 juillet 2000 - art. 3 (V)
+	  - Arrêté du 13 décembre 2000 - art. 3 (VT)
+	  - Arrêté du 28 décembre 2010 - art. 1 (V)
+	  - Arrêté du 16 mars 2012 - art. 2 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 350 quaterdecies (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales L80 F à L80 H
+
+
+###### Article R80 F-2
+
+Les fonctionnaires qui ont compétence pour procéder à la mise en oeuvre du droit d'enquête auprès d'un assujetti à la taxe
+sur la valeur ajoutée, en application de l'article R80 F-1, peuvent exercer ce droit dans tous les établissements de
+l'intéressé, quel que soit leur lieu de situation. Ils peuvent également l'exercer à l'égard des assujettis, ayant avec
+celui-ci des relations professionnelles impliquant une obligation de facturation ou de production de documents en tenant
+lieu, quel que soit le lieu de leur siège, de leur établissement, de leur domicile ou de l'exercice de leur activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-1219 du 26 décembre 1994 - art. 1 () JORF 31 décembre 1994
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Cite**:
+
+	  - Livre des procédures fiscales R80 F
+
+
+###### Article R80 F-3
+
+En cas de changement du lieu de dépôt de déclaration en matière de taxe sur la valeur ajoutée ou du lieu d'exercice de
+l'activité d'un assujetti, les fonctionnaires territorialement compétents pour procéder à la mise en oeuvre du droit
+d'enquête, eu égard à la nouvelle situation de l'assujetti, le sont concurremment avec les services de l'ancien lieu de dépôt
+de déclaration ou d'exercice de l'activité, pour toute la période visée à l'article L. 102 B.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-1219 du 26 décembre 1994 - art. 1 () JORF 31 décembre 1994
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L102 B (VD)
+
+
 #### Chapitre II : Le droit de communication
 
 ###### Article R*81-1
@@ -14435,40 +14654,40 @@ pourraient pas être obtenus dans l'autre Etat membre, sur la base de sa législ
 ###### Article R*114 A-3
 
 L'administration française utilise les renseignements reçus de l'administration d'un autre Etat membre de la communauté
-économique européenne [*CEE*] dans les conditions et limites prévues aux articles L. 103 et suivants.
+européenne dans les conditions et limites prévues aux articles L. 103 et suivants. 
 
 Toutefois, sur demande de l'administration de l'autre Etat, elle respecte les conditions plus strictes prévues à des fins
 internes par la législation de cet Etat.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI L103 ET S.
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°95-1282 1995-12-11
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°82-661 du 28 juillet 1982 - art. 3 (V) JORF 31 JUILLET 1982
+	  - Livre des procédures fiscales - art. L103 (V)
 
 
 ###### Article R*114 A-4
 
 Si l'administration qui fournit les renseignements l'y autorise, l'administration française peut communiquer ces
-renseignements à l'administration d'un autre Etat membre de la communauté économique européenne [*CEE*].
+renseignements à l'administration d'un autre Etat membre de la communauté européenne.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
-
-	**Créé par**:
-
-	  - Décret n°82-661 du 28 juillet 1982 - art. 4 (V) JORF 31 JUILLET 1982
+	  - Décret n°95-1282 1995-12-11
 
 
 ###### Article R*114 A-5
@@ -14507,6 +14726,116 @@ règlement n° 3-84 C.E.E. du 19 décembre 1983.
 	**Codifié par**:
 
 	  - Décret n°86-1087 1986-10-07
+
+
+##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics
+
+###### Article R*135 B-1
+
+L'autorité territoriale destinataire des informations transmises par la direction générale des impôts, en application de
+l'article L. 135 B, est selon le cas le maire, le président du conseil général, le président du conseil régional, le
+président du conseil exécutif de Corse ou le président de l'établissement public doté d'une fiscalité propre. Elle peut
+désigner à cet effet un délégué dont l'identité est préalablement déclarée à cette direction.
+
+L'autorité territoriale ou son délégué désigne, s'il y a lieu, le personnel administratif habilité à utiliser ces
+informations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-448 du 24 avril 1995 - art. 1 (V) JORF 26 avril 1995
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L135 B (M)
+
+
+###### Article R*135 B-2
+
+Les informations transmises ne peuvent être utilisées à des fins commerciales, politiques ou électorales. Elles ne peuvent
+être ni communiquées ni cédées sous forme nominative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-448 du 24 avril 1995 - art. 2 (V) JORF 26 avril 1995
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+
+###### Article R*135 B-3
+
+L'autorité territoriale ou son délégué prend toutes mesures permettant d'éviter toute utilisation détournée ou frauduleuse
+des documents supports de l'information transmis par la direction générale des impôts et toutes mesures, notamment de
+sécurité matérielle, pour assurer la conservation des documents et informations.
+
+Il informe les personnes qui utilisent les informations ou en ont connaissance des peines encourues en cas de rupture du
+secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-448 du 24 avril 1995 - art. 3 (V) JORF 26 avril 1995
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*135 B-4 (V)
+
+
+###### Article R*135 B-4
+
+Tout traitement des informations par le destinataire ou par un prestataire de services établi dans un pays de la Communauté
+européenne ou dans un Etat partie à l'Accord sur l'Espace économique européen doit être effectué sur le territoire français.
+
+Lorsque les traitements sont réalisés par un prestataire de services, une convention doit définir précisément leur objet. Le
+prestataire doit prendre les mesures prévues à l'article R135 B-3 et s'engager à ce que les informations communiquées ne
+soient conservées, utilisées ou dupliquées à d'autres fins que celles indiquées par la convention.
+
+Cet intervenant, dont le nom ou la raison sociale ainsi que l'adresse seront déclarés préalablement à la direction générale
+des impôts, doit être informé par la collectivité ou l'établissement public des dispositions législatives et réglementaires
+qui s'appliquent.
+
+Le prestataire de services devra procéder à la destruction de tous les fichiers manuels ou informatisés stockant les
+informations saisies dès l'achèvement de son contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-448 du 24 avril 1995 - art. 4 (V) JORF 26 avril 1995
+
+	**Codifié par**:
+
+	  - Décret n°95-1282 1995-12-11
+
+	**Liens**:
+
+	  - HISTO: Edition du 27 octobre 1995
+
+	**Cite**:
+
+	  - Livre des procédures fiscales R135 B
 
 
 #### Chapitre IV : Les délais de prescription
