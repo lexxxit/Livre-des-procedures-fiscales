@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1989-12-30
+Version Consolidée au 1990-01-01
 
 # Partie législative
 
@@ -13159,66 +13159,50 @@ dernier.
 
 ###### Article R*199-2
 
-Les jugements du tribunal administratif peuvent être soumis à la Cour administrative d'appel par la voie d'appel.
+Les jugements des tribunaux administratifs peuvent faire l'objet des recours prévus par le code des tribunaux administratifs
+et des cours administratives d'appel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1949 1 (2 PREMIERES LIGNES)
-
 	**Modifié par**:
 
-	  - Décret n°88-707 du 9 mai 1988 - art. 1 (Ab) JORF 10 mai 1988, incorporé au Livre des procédures fiscales le 14 juillet 1989
+	  - Décret n°89-948 du 22 décembre 1989 - art. 1 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°89-802 1989-10-27
+	  - HISTO: Edition du 15 juin 1990
 
 
 ##### II : Règles de procédure
 
-##### B : Procédure devant le tribunal administratif.
+##### B : Procédure devant le tribunal administratif et la cour administrative d'appel.
 
 ###### Article R*200-1
 
-Les affaires portées devant le tribunal administratif sont jugées conformément au code des tribunaux administratifs, sous
-réserve des dispositions particulières prévues par le présent livre.
+Les dispositions du code des tribunaux administratifs et des cours administratives d'appel sont applicables aux affaires
+portées devant le tribunal administratif ou devant la cour administrative d'appel, sous réserve des dispositions
+particulières prévues par le présent livre.
 
-Un conseiller ne peut siéger au tribunal administratif dans le jugement d'un litige portant sur une imposition dont il a eu à
-apprécier la base comme président de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires
-[*incompatibilité*].
+Un membre du tribunal ou de la cour ne peut siéger dans le jugement d'un litige portant sur une imposition dont il a eu à
+apprécier la base comme président de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1942 1 (AL. 1)
-	  - CGI 1945 1, 4
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
 	**Modifié par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 3 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article R*200-2
 
-Les requêtes sont adressées au greffe du tribunal administratif où elles sont enregistrées. Un accusé de réception est
-délivré aux personnes qui en font la demande.
-
-Elles doivent être signées de leur auteur et accompagnées de deux copies ou, éventuellement, d'un nombre de copies égal à
-celui des parties ayant un intérêt distinct, plus une.
-
-Lorsque les requêtes sont introduites au nom d'un contribuable par un mandataire, les dispositions de l'article R. 197-4 sont
-applicables.
-
-Elles doivent contenir explicitement l'exposé sommaire des faits et moyens, les conclusions, les nom et demeure du demandeur
-et être accompagnées, lorsqu'elles font suite à une décision de l'administration, de l'avis de notification de la décision
-contestée.
+Par dérogation aux dispositions de l'article R. 110 du code des tribunaux administratifs et des cours administratives
+d'appel, les requêtes au tribunal peuvent être signées d'un mandataire autre que ceux qui sont mentionnés à l'article R108 du
+même code. En ce cas, les dispositions de l'article R197-4 du présent livre sont applicables.
 
 Le demandeur ne peut contester devant le tribunal administratif des impositions différentes de celles qu'il a visées dans sa
 réclamation à l'administration.
@@ -13233,7 +13217,8 @@ régularisation dans les conditions prévues au c du même article.
 
 	**Modifié par**:
 
-	  - Décret n°87-941 du 23 novembre 1987, v. init.
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2
+	  - Décret n°89-948 du 22 décembre 1989 - art. 4
 
 	**Liens**:
 
@@ -13247,60 +13232,35 @@ régularisation dans les conditions prévues au c du même article.
 ###### Article R*200-3
 
 Dans le cas où l'administration soumet d'office le litige à la décision du tribunal administratif, celui-ci est saisi par un
-mémoire établi et notifié dans les conditions prévues à l'article R. 200-4.
+mémoire établi et notifié dans les conditions prévues à l'article R. 200-4. 
 
 La réclamation initiale du contribuable vaut requête au tribunal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1938 3 (AL. 2)
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 	**Cite**:
 
-	  - CGI R200-4
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Livre des procédures fiscales - art. R*200-4 (V)
 
 
 ###### Article R*200-4
 
-La notification à l'administration de la copie de la requête introductive d'instance est faite immédiatement après son
-enregistrement au bureau central du greffe [*lieu*], par le président ou sur ses ordres [*instruction des demandes*].
-
-Il en est de même pour la notification de la copie des mémoires ampliatifs du demandeur, des mémoires en défense de
-l'administration et des mémoires en réplique. Ces mémoires doivent être accompagnés d'un nombre de copies certifiées
-conformes, égal à celui des parties qui ont un intérêt distinct au litige, plus une [*obligation*].
+Les notifications et communications faites à l'administration sont adressées par le tribunal administratif à la direction des
+impôts qui a suivi l'affaire et par la cour administrative d'appel au ministre chargé du budget.
 
 Les pièces et documents joints à la requête ou aux mémoires produits sont, dès réception, adressés d'office en communication
 à l'administration.
 
-Tous les avis, convocations et communications, y compris les notifications des jugements et les ordonnances de référé,
-s'effectuent conformément aux dispositions des articles R. 105 à R. 113 du code des tribunaux administratifs. Toutefois, les
-notifications et communications faites à l'administration sont adressées à la direction des services fiscaux qui a suivi
-l'affaire.
-
-Les notifications sont valablement faites au domicile réel du contribuable alors même que celui-ci aurait constitué
-mandataire et élu domicile chez ce dernier. Si le contribuable est domicilié hors de France [*à l'étranger*], la notification
-est faite au domicile élu en France par lui.
-
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1941 1, 2, 4
-	  - CGI 1959 2, 3
-
-	**Cite**:
-
-	  - Code des tribunaux administratifs R105 à R113
-
-	**Créé par**:
-
-	  - Décret n°81-860 du 15 septembre 1981 - art. 1 (V)
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 5 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 	**Cité par**:
 
@@ -13310,8 +13270,8 @@ est faite au domicile élu en France par lui.
 ###### Article R*200-5
 
 Lorsque l'administration n'a pas, à l'expiration d'un délai de six mois suivant la date de présentation de l'instance,
-produit ses observations, le président du tribunal administratif [*autorité compétente*] peut lui accorder un nouveau délai
-de trois mois qui peut être prolongé, en raison de circonstances exceptionnelles, sur demande motivée.
+produit ses observations, le président du tribunal administratif peut lui accorder un nouveau délai de trois mois qui peut
+être prolongé, en raison de circonstances exceptionnelles, sur demande motivée.
 
 Le président du tribunal administratif peut imposer des délais au redevable.
 
@@ -13322,89 +13282,21 @@ réputée avoir acquiescé aux faits exposés dans les recours.
 
 	**Anciens textes**:
 
-	  - CGI 1941 6 (AL. 1)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*200-6
-
-A défaut d'une autre mesure d'instruction, le supplément d'instruction qui peut être ordonné est obligatoire toutes les fois
-que le contribuable présente des moyens nouveaux avant le jugement s'il n'a pas formulé des observations orales ou, dans le
-cas contraire, avant que, le débat oral étant clos, le commissaire du Gouvernement ait commencé à prendre ses conclusions.
-
-Lorsque, à la suite d'un supplément d'instruction, une partie invoque des faits ou des motifs nouveaux, l'instruction de
-l'affaire est rouverte dans les conditions prévues par le code des tribunaux administratifs et le présent livre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1942 2
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*200-7
-
-Conformément à l'article R. 114 du code des tribunaux administratifs, lorsqu'il apparaît, au vu de la requête introductive
-d'instance, que la solution de l'affaire est d'ores et déjà certaine, le président du tribunal administratif peut décider
-qu'il n'y a pas lieu à instruction.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1941 5
-
-	**Cite**:
-
-	  - Code des tribunaux administratifs R114
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*200-8
-
-Les dispositions des articles R.[* 117 à R.*] 148 du code des tribunaux administratifs relatifs aux mesures d'instruction
-sont applicables en matière fiscale sous réserve des dispositions particulières des articles R.[* 200-9 à R.*] 200-13 du
-présent livre concernant les expertises.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des tribunaux administratifs R117 à R148
-	  - Livre des procédures fiscales R200-8, R200-9 à R200-13
+	  - CGI 1941 6 (al. 1)
 
 	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
-	  - Modification directe incorporée dans l'édition du 15 juin 1990
-
-	**Abrogé par**:
-
-	  - Décret n°89-948 du 22 décembre 1989 - art. 6 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 
 ###### Article R*200-9
 
-L'expertise est faite par un seul expert. Toutefois, si le tribunal l'estime nécessaire ou si l'une des parties le demande,
-l'expertise est confiée à trois experts [*nombre*] ; l'un d'eux est choisi par le tribunal et chacun des autres par l'une des
-parties.
+Lorsque l'expertise est confiée à trois experts, l'un d'eux est choisi par le président de la juridiction et chacun des
+autres par l'une des parties. Dans ce cas, les parties qui n'ont pas, dans leur requête ou mémoire, désigné leur expert sont
+invitées à désigner celui-ci dans un délai de huit jours.
 
-Les parties qui ne sont pas présentes à la séance publique où l'expertise est ordonnée, ou qui n'ont pas dans leurs requêtes
-et mémoires désigné leur expert, sont invitées, par une notification faite conformément à l'article R. 107 du code des
-tribunaux administratifs, à le désigner dans le délai de huit jours.
-
-Si cette désignation n'est pas parvenue au greffe dans ce délai, la nomination est faite d'office par le tribunal
-administratif.
+Si cette désignation n'est pas parvenue au greffe dans ce délai, la nomination est faite d'office par le président de la
+juridiction.
 
 **Liens relatifs à cet article**
 
@@ -13412,19 +13304,17 @@ administratif.
 
 	  - CGI 1943 2
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des tribunaux administratifs R107
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 7 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 
 ###### Article R*200-10
 
 Ne peuvent être désignés comme experts les personnes constituées mandataires par l'une des parties au cours de l'instruction,
-ni un fonctionnaire du service départemental ou spécialisé de l'administration des impôts défendeur à l'instance.
+ni un fonctionnaire affecté à la direction de l'administration des impôts à laquelle a incombé l'établissement de
+l'imposition contestée.
 
 **Liens relatifs à cet article**
 
@@ -13432,22 +13322,18 @@ ni un fonctionnaire du service départemental ou spécialisé de l'administratio
 
 	  - CGI 1943 3
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 8 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ###### Article R*200-11
 
-Le jugement ordonnant l'expertise fixe la mission des experts ainsi que le délai dans lequel ils seront tenus de déposer leur
-rapport.
-
-Le président du tribunal administratif [*autorité compétente*] fixe le jour et l'heure du début des opérations et prévient
-les experts ainsi que le demandeur et l'administration au moins dix jours francs à l'avance. Dans le même délai, sauf lorsque
-le litige porte sur les impôts sur les revenus et taxes accessoires, la taxe pour frais de chambre de métiers ou les amendes
-fiscales y afférentes, il informe le maire du jour et de l'heure de l'expertise et l'invite, si la réclamation a été soumise
-à la commission communale des impôts directs, à faire désigner par cette commission deux de ses membres [*nombre*] pour y
-assister.
+Si la réclamation a été soumise à la commission communale des impôts directs, le président de la juridiction peut prescrire à
+l'expert d'informer le maire du jour et de l'heure de l'expertise et d'inviter celui-ci à faire désigner par cette commission
+deux de ses membres pour y assister.
 
 **Liens relatifs à cet article**
 
@@ -13455,16 +13341,17 @@ assister.
 
 	  - CGI 1943 4, 5
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 9 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 
 ###### Article R*200-12
 
 Lorsqu'il est nécessaire, au cours de l'expertise, de se rendre sur les lieux, le ou les experts effectuent ce déplacement en
 présence de l'agent de l'administration des impôts, du demandeur ou de son représentant et, le cas échéant, du maire et des
-membres de la commission communale des impôts directs [*autorités compétentes*].
+membres de la commission communale des impôts directs.
 
 **Liens relatifs à cet article**
 
@@ -13472,61 +13359,16 @@ membres de la commission communale des impôts directs [*autorités compétentes
 
 	  - CGI 1943 6
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*200-13
-
-L'expert nommé par le tribunal administratif rédige un procès-verbal. Les experts fournissent soit un rapport commun, soit
-des rapports séparés.
-
-Le procès-verbal d'expertise est déposé au greffe du tribunal administratif, accompagné d'autant de copies qu'il y a de
-parties en litige ayant un intérêt distinct, plus une.
-
-Les rapports des experts et le procès-verbal d'expertise sont notifiés en copies aux parties intéressées, qui sont invitées à
-fournir leurs observations dans les conditions prévues à l'article R. 125 du code des tribunaux administratifs.
-
-Si le tribunal administratif estime que l'expertise a été irrégulière ou incomplète, il peut ordonner un complément
-d'expertise ou une nouvelle expertise confiée à d'autres experts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1943 7, 8
-
-	**Cite**:
-
-	  - Code des tribunaux administratifs R125
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*200-14
-
-L'intervention qui, sauf en matière d'impôts sur le revenu et taxes accessoires ou d'amendes fiscales, est admise de la part
-de ceux qui justifient d'un intérêt à la solution du litige doit être formée avant le jugement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1944 2
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 
 ###### Article R*200-15
 
 L'administration peut, au cours de l'instance, présenter des conclusions reconventionnelles tendant à l'annulation ou à la
 réformation de la décision prise sur la réclamation primitive. Ces conclusions sont communiquées au réclamant dans les
-conditions prévues par le code des tribunaux administratifs.
+conditions prévues par le code des tribunaux administratifs et des cours administratives d'appel.
 
 **Liens relatifs à cet article**
 
@@ -13534,105 +13376,57 @@ conditions prévues par le code des tribunaux administratifs.
 
 	  - CGI 1944 3
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 11 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
+	**Liens**:
 
-###### Article R*200-16
-
-Tout demandeur qui désire se désister de sa requête doit le faire connaître avant le jugement, par lettre signée de lui-même
-ou de son mandataire. Le désistement est soumis à l'acceptation de la partie adverse lorsque celle-ci a présenté des
-conclusions reconventionnelles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1944 1
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article R*200-17
 
-Les requêtes par lesquelles les jugements du tribunal administratif peuvent être attaqués devant la Cour administrative
-d'appel sont présentées dans les conditions prévues par le décret n° 88-707 du 9 mai 1988.
+Devant la cour administrative d'appel, les contribuables peuvent, par dérogation aux dispositions du premier alinéa de
+l'article R. 116 du code des tribunaux administratifs et des cours administratives d'appel, se faire représenter par un
+mandataire autre que ceux qui sont mentionnés à l'article R. 108 de ce même code ; en ce cas, les dispositions de l'article
+R197-4 du titre III du présent livre sont applicables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1949 1 (4 DERNIERES LIGNES)
-
 	**Cite**:
 
-	  - Décret n°88-707 1988-05-09
+	  - CGI R197-4
+	  - Code des tribunaux administratifs et des cours adm - art. R108 (Ab)
+	  - Code des tribunaux administratifs et des cours adm - art. R116 (M)
 
 	**Modifié par**:
 
-	  - Décret n°88-707 du 9 mai 1988 - art. 1 (Ab) JORF 10 mai 1988, incorporé au Livre des procédures fiscales le 14 juillet 1989
+	  - Décret n°89-948 du 22 décembre 1989 - art. 13 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°89-802 1989-10-27
+	  - HISTO: Edition du 15 juin 1990
 
 
 ###### Article R*200-18
 
-Le ministre chargé des finances peut faire appel des jugements des tribunaux administratifs rendus en matière fiscale.
-
-Le service de l'administration des impôts qui a suivi l'affaire dispose d'un délai de deux mois à compter de la notification
-[*point de départ*] pour transmettre le jugement et le dossier au ministre.
+A compter de la notification du jugement du tribunal administratif qui a été faite au directeur du service de
+l'administration des impôts qui a suivi l'affaire, celui-ci dispose d'un délai de deux mois pour transmettre, s'il y a lieu,
+le jugement et le dossier au ministre chargé du budget.
 
 Le délai imparti pour saisir la cour administrative d'appel court, pour le ministre, de la date à laquelle expire le délai de
-transmission prévu au deuxième alinéa ou de la date de la signification faite au ministre.
-
-Dans tous les cas, l'administration des impôts dispose, pour procéder à l'examen des recours et à des compléments
-d'instruction s'il y a lieu, d'un délai de quatre mois qui peut être exceptionnellement prolongé, sur demande motivée de
-l'administration.
-
-Le délai de quatre mois peut être réduit par la cour administrative d'appel, si le demandeur n'a pas observé le délai, il est
-réputé s'être désisté.
-
-Si c'est la partie défenderesse, elle sera réputée avoir acquiescé aux faits exposés dans le recours.
+transmission prévu à l'alinéa précédent ou de la date de la signification faite au ministre.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1949 2
 
 	**Modifié par**:
 
-	  - Décret n°88-707 du 9 mai 1988 - art. 4 () JORF 10 mai 1988
-
-
-###### Article R*201-1
-
-Le contribuable peut prendre connaissance de tous les documents et pièces prévus à l'article L. 201 que l'administration des
-impôts a joints au dossier du litige, y compris ceux contenant des indications relatives aux bénéfices ou revenus de tiers,
-de telle manière qu'il puisse s'assurer que les points de comparaison retenus par l'administration concernent les entreprises
-dont l'activité est comparable à la sienne.
-
-Les comparaisons établies par l'administration des impôts ne constituent pas à elles seules des preuves permettant de
-justifier ses demandes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1941 6 (AL. 2, AL. 3 2ème PHRASE)
-
-	**Cite**:
-
-	  - CGI L201
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 14 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Modification directe incorporée dans l'édition du 15 juin 1990
 
 
 ##### C : Procédure devant le tribunal de grande instance et la cour d'appel
@@ -13797,20 +13591,13 @@ Les frais d'expertise sont supportés par la partie qui n'obtient pas satisfacti
 gain de cause participe aux frais en proportion de la part de sa demande qui a été rejetée et compte tenu de l'état du litige
 au début de l'expertise.
 
-Le contribuable ne peut obtenir le remboursement d'autres frais.
-
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1956 1 (1RE PHRASE, 2EME PHRASE P.), 2
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 17 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.
 
 ###### Article R*208-1
 
@@ -13828,7 +13615,7 @@ remboursées par le comptable chargé du recouvrement des impôts.
 
 	**Modifié par**:
 
-	  - Décret n°86-331 du 5 mars 1986 - art. 1 (V) JORF 11 mars 1986
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
 
 
 ###### Article R*208-2
@@ -13840,21 +13627,17 @@ il n'est dû d'intérêts sur les sommes ainsi employées que jusqu'à la date �
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_ASSOCIE: CGI R208-6
-
-	**Anciens textes**:
-
-	  - CGIAN2 402
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R*208-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Livre des procédures fiscales R208-6
 
 
 ###### Article R*208-3
@@ -13880,13 +13663,9 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 
 	  - TXT_ASSOCIE: CGI R208-6
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN2 397 (SAUF AL. 4)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
 
 	**Cité par**:
 
@@ -13897,282 +13676,75 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 
 Font l'objet d'un remboursement les frais suivants :
 
-<table>
-  <tbody><tr>
-    <td> :=================================:===============================:</td>
-  </tr>
-  <tr>
-    <td> :   NATURE DES GARANTIES          :      NATURE DES FRAIS         :</td>
-  </tr>
-  <tr>
-    <td> :         CONSTITUEES             :                               :</td>
-  </tr>
-  <tr>
-    <td> :---------------------------------:-------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : 1° Créances sur le Trésor :     :                               :</td>
-  </tr>
-  <tr>
-    <td> :   a) Créances sur le Trésor     : Frais de timbre de dimension  :</td>
-  </tr>
-  <tr>
-    <td> :    proprement dites.            :  du nantissement constitué au :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  profit du Trésor.            :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Frais de signification de ce  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  nantissement au comptable    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  payeur par huissier de       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  justice.                     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> :   b) Dépôts de fonds dans les  : Frais de timbre de dimension  :</td>
-  </tr>
-  <tr>
-    <td> :    trésoreries générales.       :  de l'engagement souscrit par :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  le contribuable au profit du :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  Trésor.                      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
+NATURE DES GARANTIES CONSTITUEES / NATURE DES FRAIS :
 
-<table>
-  <tbody><tr>
-    <td> : 2° Cautionnement                : Frais de timbre de dimension  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  de l'acte sous seing privé.  :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Rémunération demandée par la  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  caution, dans une limite     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  fixée par arrêté.            :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Le cas échéant, frais de      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  constitution de garanties    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  au profit de la caution :    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  les frais à rembourser ne    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  peuvent pas excéder ceux qui :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  auraient été exposés si les  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  garanties avaient été        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  constituées au profit du     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  Trésor.                      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
+1° CREANCES SUR LE TRESOR :
 
-<table>
-  <tbody><tr>
-    <td>:                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> : 3° Valeurs mobilières :         :                               :</td>
-  </tr>
-  <tr>
-    <td> :   a) Dans tous les cas  ...     : Frais de l'acte de            :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  nantissement, s'il s'agit    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  de valeurs au porteur.       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> :   b) Titres déposés à la caisse : Frais d'envoi des titres à    :</td>
-  </tr>
-  <tr>
-    <td> :    du comptable chargé du       :  la trésorerie générale.      :</td>
-  </tr>
-  <tr>
-    <td> :    recouvrement.                :                               :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> :   c) Titres déposés dans un     : Frais réclamés par            :</td>
-  </tr>
-  <tr>
-    <td> :    établissement de crédit.     : l'établissement de crédit     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  (droit de garde, frais de    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  transport des titres de      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'agence au lieu de          :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  conservation).               :</td>
-  </tr>
-</tbody></table>
+a) Créances sur le Trésor proprement dites :
 
-<table>
-  <tbody><tr>
-    <td>:  4° Marchandises déposées dans  : Frais de magasinage, débours  :</td>
-  </tr>
-  <tr>
-    <td> :   des magasins agréés par       :  (prime d'assurance,          :</td>
-  </tr>
-  <tr>
-    <td> :   l'Etat et faisant l'objet     :  d'incendie). Timbre des      :</td>
-  </tr>
-  <tr>
-    <td> :   d'un warrant endossé à        :  effets de commerce auquel    :</td>
-  </tr>
-  <tr>
-    <td> :   l'ordre du Trésor.            :  est soumis le warrant.       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
+Frais de timbre de dimension du nantissement constitué au profit du Trésor.
 
-<table>
-  <tbody><tr>
-    <td>:  5° Affectations hypothécaires. : Frais de timbre du contrat    :</td>
-  </tr>
-  <tr>
-    <td> :                                 : de constitution d'hypothèque, :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  émoluments du notaire        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  rédacteur de l'acte.         :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Droits d'enregistrement de    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'acte. Salaire du           :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  conservateur des hypothèques.:</td>
-  </tr>
-  <tr>
-    <td> :                                 : En cas de radiation de        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'inscription : salaire du   :</td>
-  </tr>
-  <tr>
-    <td> :                                 : conservateur des hypothèques, :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  frais de mainlevée notariée  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  de l'inscription s'il y a    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  lieu.                        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
+Frais de signification de ce nantissement au comptable payeur par huissier de justice.
 
-<table>
-  <tbody><tr>
-    <td>:  6° Nantissement de fonds de    : Frais de timbre du contrat    :</td>
-  </tr>
-  <tr>
-    <td> :   commerce.                     : de nantissement. Droit        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  d'enregistrement de l'acte.  :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Frais d'inscription et        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  salaire du greffier du       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  tribunal de commerce.        :</td>
-  </tr>
-  <tr>
-    <td> :                                 : En cas de radiation de        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'inscription : frais de     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  radiation, salaire du        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  greffier.                    :</td>
-  </tr>
-  <tr>
-    <td> :=================================:===============================:</td>
-  </tr>
-</tbody></table>
+b) Dépôts de fonds dans les trésoreries générales.
+
+Frais de timbre de dimension  de l'engagement souscrit par le contribuable au profit du Trésor.
+
+2° CAUTIONNEMENT : 
+
+Frais de timbre de dimension de l'acte sous seing privé.
+
+Rémunération demandée par la caution, dans une limite fixée par arrêté.
+
+Le cas échéant, frais de constitution de garanties au profit de la caution : les frais à rembourser ne peuvent pas excéder
+ceux qui auraient été exposés si les garanties avaient été constituées au profit du Trésor.
+
+3° VALEURS MOBILIERES :
+
+a) Dans tous les cas :
+
+Frais de l'acte de nantissement, s'il s'agit de valeurs au porteur 
+
+b) Titres déposés à la caisse du comptable chargé du recouvrement
+
+Frais d'envoi des titres à la trésorerie générale.
+
+c) Titres déposés dans une banque :
+
+Frais réclamés par la banque (droit de garde, frais de transport des titres de l'agence au lieu de conservation).
+
+4° MARCHANDISES DEPOSEES DANS DES MAGASINS AGREES PAR L'ETAT ET FAISANT L'OBJET D'UN WARRANT ENDOSSE A L'ORDRE DU TRESOR :
+
+Frais de magasinage, débours (prime d'assurance, d'incendie).
+
+Timbre des effets de commerce auquel est soumis le warrant.
+
+5° AFFECTATIONS HYPOTHECAIRES :
+
+Frais de timbre du contrat de constitution d'hypothèque, émolument du notaire rédacteur de l'acte.
+
+Droits d'enregistrement de l'acte. Salaire du conservateur des hypothèques.
+
+En cas de radiation de l'inscription : salaire du conservateur des hypothèques, frais de mainlevée notariée de l'inscription
+s'il y a lieu.
+
+6° NANTISSEMENT DE FONDS DE COMMERCE :
+
+Frais de timbre du contrat de nantissement. Droit d'enregistrement de l'acte.
+
+Frais d'inscription et salaire du greffier du tribunal de commerce.
+
+En cas de radiation de l'inscription : frais de radiation, salaire du greffier.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: CGI R208-5
-	  - TXT_ASSOCIE: CGI R208-6
-
-	**Anciens textes**:
-
-	  - CGIAN2 398
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
+	  - TXT_ASSOCIE: CGI R208-5, R208-6
 
 	**Modifié par**:
 
-	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
 
 	**Cité par**:
 
@@ -14186,25 +13758,16 @@ Les frais sont remboursés en totalité si le contribuable a obtenu la décharge
 En cas de décharge partielle, les frais proportionnels au montant des impôts garantis sont remboursés au prorata du
 dégrèvement ; les frais fixes demeurent à la charge du contribuable.
 
-Le contribuable ne peut prétendre au remboursement de frais autres que ceux mentionnés à l'article R. 208-4.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R208-4
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: CGI R208-6
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN2 399
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+	  - Décret n°89-948 du 22 décembre 1989 - art. 18 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 
 ###### Article R*208-6
@@ -14214,17 +13777,17 @@ applicables aux litiges relatifs au recouvrement des impôts considérés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI R208-2, R208-3, R208-4, R208-5
-
 	**Anciens textes**:
 
 	  - CGIAN2 404
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*208-2 (V)
 
 
 ###### Article R*210-1
@@ -14244,9 +13807,9 @@ expressément [*condition*].
 
 	  - CGI 1958 1, 2
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
 
 
 ##### Section V : Dégrèvements d'office
