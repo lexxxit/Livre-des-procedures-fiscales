@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-10-24
+Version Consolidée au 1984-12-29
 
 # Partie législative
 
@@ -9905,6 +9905,34 @@ suivante [*période*].
 	  - Décret n°81-860 1981-09-15
 
 
+###### Article R*1-2
+
+Les membres de la commission départementale [*des impots directs et des taxes sur le chiffre d'affaires*] doivent avoir
+connaissance du montant des bénéfices forfaitaires adoptés dans le département et dans les départements limitrophes au titre
+de l'année précédente.
+
+La commission recueille l'avis du directeur départemental de l'agriculture et de la forêt. Celui-ci peut se faire représenter
+par un fonctionnaire de son service.
+
+Elle prend sa décision dans les conditions prévues à l'article 1651-7 du code général des impôts, au plus tard le 15 février
+suivant l'année d'imposition. Toutefois, pour les cultures spéciales dont la valeur des récoltes ne peut être appréciée avec
+une exactitude suffisante à cette date, la décision peut être retardée jusqu'au 31 mai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1651 7
+
+	**Modifié par**:
+
+	  - Décret n°84-1193 du 28 décembre 1984 - art. 1 (Ab) JORF 29 décembre 1984
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+
 ###### Article R*2-1
 
 La notification prévue au premier alinéa de l'article L. 2 a lieu dans les vingt jours de la décision de la commission
@@ -14297,36 +14325,6 @@ propriété est discutée.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2323-5 (V)
-
-
-## LES PROCEDURES DE DETERMINATION FORFAITAIRE DES BASES IMPOSABLES
-
-### DISPOSITIONS RELATIVES AUX EXPLOITATIONS AGRICOLES
-
-#### PROCEDURE DE FIXATION DU BENEFICE FORFAITAIRE.
-
-###### Article R*1-2
-
-Les membres de la commission départementale [*des impots directs et des taxes sur le chiffre d'affaires*] doivent avoir
-connaissance du montant des bénéfices forfaitaires adoptés dans le département et dans les départements limitrophes au titre
-de l'année précédente.
-
-La commission recueille l'avis du directeur départemental de l'agriculture. Celui-ci peut se faire représenter par un
-fonctionnaire de son service.
-
-Elle prend sa décision dans les conditions prévues à l'article 1651-7 du code général des impôts, au plus tard le 15 février
-suivant l'année d'imposition. Toutefois, pour les cultures spéciales dont la valeur des récoltes ne peut être appréciée avec
-une exactitude suffisante à cette date, la décision peut être retardée jusqu'au 31 mai.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1651 7
-
-	**Modifié par**:
-
-	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 
 ## LE CONTROLE DE L'IMPOT
