@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-01-23
+Version Consolidée au 1988-05-10
 
 # Partie législative
 
@@ -13328,6 +13328,36 @@ du 31 juillet 1945 sur le Conseil d'Etat modifiée, et sans l'intervention oblig
 	  - Décret n°81-860 1981-09-15
 
 
+###### Article R*200-18
+
+Le ministre chargé des finances peut faire appel des jugements des tribunaux administratifs rendus en matière fiscale.
+
+Le service de l'administration des impôts qui a suivi l'affaire dispose d'un délai de deux mois à compter de la notification
+[*point de départ*] pour transmettre le jugement et le dossier au ministre.
+
+Le délai imparti pour saisir la cour administrative d'appel court, pour le ministre, de la date à laquelle expire le délai de
+transmission prévu au deuxième alinéa ou de la date de la signification faite au ministre.
+
+Dans tous les cas, l'administration des impôts dispose, pour procéder à l'examen des recours et à des compléments
+d'instruction s'il y a lieu, d'un délai de quatre mois qui peut être exceptionnellement prolongé, sur demande motivée de
+l'administration.
+
+Le délai de quatre mois peut être réduit par la cour administrative d'appel, si le demandeur n'a pas observé le délai, il est
+réputé s'être désisté.
+
+Si c'est la partie défenderesse, elle sera réputée avoir acquiescé aux faits exposés dans le recours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1949 2
+
+	**Modifié par**:
+
+	  - Décret n°88-707 du 9 mai 1988 - art. 4 () JORF 10 mai 1988
+
+
 ###### Article R*201-1
 
 Le contribuable peut prendre connaissance de tous les documents et pièces prévus à l'article L. 201 que l'administration des
@@ -15546,42 +15576,6 @@ propriété est discutée.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2323-5 (V)
-
-
-## LE CONTENTIEUX DE L'IMPOT
-
-### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT
-
-#### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*
-
-###### Article R*200-18
-
-Le ministre chargé des finances peut faire appel des jugements des tribunaux administratifs rendus en matière fiscale.
-
-Le service de l'administration des impôts qui a suivi l'affaire dispose d'un délai de deux mois à compter de la notification
-[*point de départ*] pour transmettre le jugement et le dossier au ministre.
-
-Le délai imparti pour saisir le Conseil d'Etat court, pour le ministre, de la date à laquelle expire le délai de transmission
-prévu au deuxième alinéa ou de la date de la signification faite au ministre.
-
-Dans tous les cas, l'administration des impôts dispose, pour procéder à l'examen des recours et à des compléments
-d'instruction s'il y a lieu, d'un délai de quatre mois qui peut être exceptionnellement prolongé, sur demande motivée de
-l'administration.
-
-Le délai de quatre mois peut être réduit par le Conseil d'Etat, si le demandeur n'a pas observé le délai, il est réputé
-s'être désisté.
-
-Si c'est la partie défenderesse, elle sera réputée avoir acquiescé aux faits exposés dans le recours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1949 2
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
 
 
 ## LE RECOUVREMENT DE L'IMPOT
