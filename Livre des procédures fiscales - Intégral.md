@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-01-01
+Version Consolidée au 1987-01-17
 
 # Partie législative
 
@@ -11215,6 +11215,45 @@ fiscaux.
 
 #### Chapitre II : Le droit de communication
 
+###### Article R*81-1
+
+Lorsqu'il concerne les documents mentionnés aux articles L. 83 à L. 85 et L. 87, le droit de communication défini à l'article
+L. 81 ne peut être exercé que par les fonctionnaires titulaires ou stagiaires, appartenant à des corps  des catégories A et B
+et agissant soit dans l'ensemble du département où ils exercent leurs fonctions, soit lorsqu'il est plus étendu, dans le
+ressort territorial du service auquel ils sont affectés.
+
+Toutefois, ce droit peut être exercé par des fonctionnaires ayant le grade d'agent de constatation ou d'assiette lorsqu'ils
+agissent sur ordre écrit d'un agent ayant au moins le grade de contrôleur ; cet ordre, qui doit être présenté au
+contribuable, précise le nom du ou des contribuables intéressés.
+
+Le droit de communication peut également, lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire
+apte à l'exercer, être confié par intérim à d'anciens fonctionnaires des mêmes catégories ou grades.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-24 1987-01-15 art. 1 JORF 17 janvier 1987
+
+	**Cité par**:
+
+	  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
+	  - Décret n°2006-1723 du 23 décembre 2006 - art. 2 (Ab)
+	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (M)
+	  - Livre des procédures fiscales - art. R*96 E-1 (V)
+	  - Livre des procédures fiscales - art. R81-5 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L81 (MMN)
+	  - Livre des procédures fiscales - art. L87 (MMN)
+	  - Livre des procédures fiscales L83 à L85, L87, L81
+
+
 ###### Article R*81-2
 
 Les fonctionnaires qui ont compétence pour procéder au contrôle d'une déclaration de revenu global ou à la vérification de la
@@ -15225,43 +15264,6 @@ désigner un mandataire dûment habilité.
 ### LE DROIT DE COMMUNICATION
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.
-
-###### Article R*81-1
-
-Lorsqu'il concerne les documents mentionnés aux articles L. 83 à L. 85 et L. 87, le droit de communication défini à l'article
-L. 81 ne peut être exercé que par les fonctionnaires titulaires ou stagiaires, appartenant à des corps des catégories A et B
-et agissant dans le ressort territorial du service auquel ils sont affectés.
-
-Toutefois, ce droit peut être exercé par des fonctionnaires ayant le grade d'agent de constatation ou d'assiette lorsqu'ils
-agissent sur ordre écrit d'un agent ayant au moins le grade de contrôleur ; cet ordre, qui doit être présenté au
-contribuable, précise le nom du ou des contribuables intéressés.
-
-Le droit de communication peut également, lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire
-apte à l'exercer, être confié par intérim à d'anciens fonctionnaires des mêmes catégories ou grades.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L81
-	  - CGI L83
-	  - CGI L84
-	  - CGI L85
-	  - CGI L87
-	  - CGI R81-1 AL. 1
-
-	**Modifié par**:
-
-	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
-
-	**Cité par**:
-
-	  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
-	  - Décret n°2006-1723 du 23 décembre 2006 - art. 2 (Ab)
-	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (M)
-	  - Livre des procédures fiscales - art. R*96 E-1 (V)
-	  - Livre des procédures fiscales - art. R81-5 (V)
-
 
 ###### Article R*94-1
 
