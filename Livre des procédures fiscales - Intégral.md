@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1997-04-11
+Version Consolidée au 1997-06-01
 
 # Partie législative
 
@@ -17658,8 +17658,10 @@ douanier et des changes n'est pas saisi.
 
 Le comité du contentieux fiscal, douanier et des changes intervenant dans les cas fixés par les c et d de l'article R 247-4
 est saisi, selon le cas, par le directeur général des impôts ou par le ministre. Lorsque le comité susmentionné intervient
-dans les cas fixés par les b et c de l'article R 247-5, il est saisi, selon le cas, par le directeur général des douanes et
-droits indirects ou par le ministre.
+dans les cas fixés par les b et c de l'article R 247-5, il est saisi, selon le cas ((par le directeur général des impôts,
+pour les remises ou transactions relatives aux infractions aux dispositions de l'article 290 quater et du III de l'article
+298 bis du code général des impôts)), par le directeur général des douanes et droits indirects ((dans les autres cas)) (M) ou
+par le ministre.
 
 Il invite le contribuable, par lettre recommandée avec avis de réception, à produire dans un délai de trente jours, les
 observations écrites que celui-ci juge utile de présenter à l'appui de sa demande de transaction ou de remise, ou à présenter
@@ -17668,18 +17670,18 @@ un conseil ou représentant de son choix, tenu pour les faits de l'espèce au re
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - CGI 1965 J (al. 1, al. 5)
+	  - CGIAN2 396 octies, 396 nonies (al. 1, al. 2 in fine, al. 3)
+
 	**Cite**:
 
 	  - CGI Livre des procédures fiscales R247-4, R247-5
 
 	**Modifié par**:
 
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-311 du 9 mars 1993 - art. 20 () JORF 11 mars 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°97-674 du 31 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Cité par**:
 
