@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-06-09
+Version Consolidée au 2004-07-01
 
 # Partie législative
 
@@ -14636,8 +14636,8 @@ Le droit de communication mentionné à l'article L. 81 est exercé par les agen
 de communication visé au premier alinéa de l'article précité peut être exercé par les agents de la direction générale des
 douanes et droits indirects dans les conditions définies aux articles L. 82 C, L. 83, L. 84, au premier alinéa de l'article
 L. 85, aux articles L. 85-A, L. 90, L. 92, L. 95, L. 101, R. 81-1, R. 81-3, R. 81-4, R. 101-1 et A. 85-1 en ce qui concerne
-les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et le droit spécifique
-prévu par l'article 527 du code général des impôts.
+les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution prévue
+par l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -14650,9 +14650,9 @@ prévu par l'article 527 du code général des impôts.
 	  - Livre des procédures fiscales - art. L84 (M)
 	  - Livre des procédures fiscales - art. L85 (MMN)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°94-900 1994-10-17
+	  - Décret n°2004-588 du 21 juin 2004 - art. 2 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -14660,11 +14660,7 @@ prévu par l'article 527 du code général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section I : Conditions d'exercice du droit de communication
@@ -15798,8 +15794,8 @@ L'auteur de la réclamation est avisé par le service qui a été saisi le premi
 
 Les agents mentionnés au premier alinéa de l'article L. 190 sont ceux de la direction générale des impôts et ceux de la
 direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les réclamations relatives aux
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et au droit spécifique prévu
-par l'article 527 du code général des impôts.
+contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et à la contribution prévue par
+l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -15808,17 +15804,13 @@ par l'article 527 du code général des impôts.
 	  - CGI 527
 	  - Livre des procédures fiscales - art. L190 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°94-900 1994-10-17
+	  - Décret n°2004-588 du 21 juin 2004 - art. 2 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Charge et administration de la preuve
@@ -17032,7 +17024,7 @@ b) Au directeur des services fiscaux, s'il s'agit d'impôts, droits ou taxes rec
 générale des impôts ;
 
 c) Au directeur régional des douanes et droits indirects, s'il s'agit de  contributions indirectes, droits, taxes,
-redevances, impositions  assimilées et du droit spécifique prévu par l'article 527 du code  général des impôts recouvrés par
+redevances, impositions  assimilées et de la contribution prévue par l'article 527 du code  général des impôts recouvrés par
 les comptables de la direction générale  des douanes et droits indirects. 
 
 La demande, appuyée de toutes justifications utiles, doit être formulée dans le délai d'un an à compter de la notification de
@@ -17045,9 +17037,9 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 	  - CGI 527
 	  - Livre des procédures fiscales - art. L208 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°94-900 1994-10-17
+	  - Décret n°2004-587 du 21 juin 2004 - art. 2 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -17055,11 +17047,7 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Modifié par**:
-
-	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article R*208-4
@@ -17517,7 +17505,7 @@ police de la circulation et du roulage et en matière de coordination des transp
 
 Les procès-verbaux prévus à l'article L. 213 sont établis par les agents de la direction générale des impôts et par ceux de
 la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les contributions indirectes,
-droits, taxes, redevances et impositions obéissant aux mêmes règles, et le droit spécifique prévu par l'article 527 du code
+droits, taxes, redevances et impositions obéissant aux mêmes règles, et la contribution prévue par l'article 527 du code
 général des impôts.
 
 **Liens relatifs à cet article**
@@ -17527,22 +17515,18 @@ général des impôts.
 	  - CGI 527
 	  - Livre des procédures fiscales - art. L213 (M)
 
-	**Codifié par**:
-
-	  - Décret n°94-900 1994-10-17
-
 	**Cité par**:
 
 	  - Décret n°96-804 du 12 septembre 1996 - art. 1 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 terdecies (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-
 	**Modifié par**:
 
-	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
+	  - Décret n°2004-588 du 21 juin 2004 - art. 2 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article R214-1
@@ -18898,8 +18882,8 @@ présentation.
 
 Le comptable mentionné aux premier et deuxième alinéas de l'article L. 256 est le comptable de la direction générale des
 impôts ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne, pour ce dernier, le
-recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et du droit
-spécifique prévu par l'article 527 du code général des impôts.
+recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et de la
+contribution prévue par l'article 527 du code général des impôts.
 
 Le comptable public compétent pour établir l'avis de mise en recouvrement est soit celui du lieu de déclaration ou
 d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issue de ce
@@ -18908,13 +18892,18 @@ changement, même si les sommes dues se rapportent à la période antérieure à
 L'autorité administrative habilitée à signer et rendre exécutoires les avis de mise en recouvrement, mentionnée au deuxième
 alinéa de l'article L. 256, est le directeur des services fiscaux ou le directeur régional des douanes en ce qui concerne,
 pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
-règles et du droit spécifique prévu par l'article 527 du code général des impôts.
+règles et de la contribution prévue par l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 527
+	  - Livre des procédures fiscales - art. L256 (M)
+
 	**Modifié par**:
 
-	  - Décret n°2000-349 du 20 avril 2000 - art. 1 () JORF 22 avril 2000
+	  - Décret n°2004-588 du 21 juin 2004 - art. 2 () JORF 24 juin 2004 en vigueur le 1er juillet 2004
 
 	**Cité par**:
 
@@ -18925,12 +18914,7 @@ règles et du droit spécifique prévu par l'article 527 du code général des i
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L256 (M)
-	  - Livre des procédures fiscales L256, 527
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### Section II : Exercice des poursuites
