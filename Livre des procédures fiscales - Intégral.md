@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-08-31
+Version Consolidée au 2004-10-01
 
 # Partie législative
 
@@ -10525,34 +10525,34 @@ et de recouvrement sont poursuivies devant le tribunal correctionnel, qui pronon
 L'administration instruit et défend sur l'instance portée devant le tribunal. En cas d'infraction touchant à la fois au
 régime fiscal et au régime économique de l'alcool, le service désigné par décret est seul chargé des poursuites.
 
+Pour les affaires dans lesquelles des agents de l'administration des douanes ont été requis en application des I et II de
+l'article 28-1 du code de procédure pénale, le ministère public exerce l'action publique et l'action pour l'application des
+sanctions fiscales. Dans ce cas, les dispositions de l'article L. 248 du présent livre relatives au droit de transaction ne
+sont pas applicables.
+
+Dans ces mêmes procédures, l'administration des douanes exerce l'action en paiement des droits et taxes compromis ou éludés,
+prévue par l'article 1804 B du code général des impôts.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Arrêté 5 Germinal AN XII art. 19
-	  - CGI 1867
-	  - CGI 1868 (al. 1, al. 2)
-	  - Décret n°1935-07-30 art. 49
-	  - Loi n°5 Ventôse AN XII art. 90
-
-	**Modifié par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 116 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-265 du 26 février 1993 - art. 12 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - CGI 1804 B
+	  - CODE DE PROCEDURE PENALE - art. 28-1 (M)
+	  - Livre des procédures fiscales - art. L248 (V)
 
 	**Cité par**:
 
 	  - Décret n°93-265 du 26 février 1993 - art. 12 (V)
 	  - Livre des procédures fiscales - art. R235-1 (V)
 
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 33 () JORF 10 mars 2004 en vigueur le 1er octobre 2004
 
 
 ###### Article L236
