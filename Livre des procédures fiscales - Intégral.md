@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-12-30
+Version Consolidée au 1989-01-01
 
 # Partie législative
 
