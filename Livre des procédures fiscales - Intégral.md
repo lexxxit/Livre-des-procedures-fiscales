@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1999-12-31
+Version Consolidée au 2000-01-01
 
 # Partie législative
 
@@ -2883,8 +2883,8 @@ taxes assises sur les salaires ou les rémunérations sont taxés ou évalués d
 Sont taxés d'office :
 
 1° A l'impôt sur le revenu, les contribuables qui n'ont pas déposé dans le délai légal la déclaration d'ensemble de leurs
-revenus ou qui n'ont pas déclaré, en application de l'article 150 S du code général des impôts, les plus-values imposables
-qu'ils ont réalisées, sous réserve de la procédure de régularisation prévue à l'article L. 67 ;
+revenus ou qui n'ont pas déclaré, en application des articles 150-0 E et 150 S du code général des impôts, les gains nets et
+les plus-values imposables qu'ils ont réalisés, sous réserve de la procédure de régularisation prévue à l'article L. 67 ;
 
 2° A l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui n'ont pas déposé dans le délai légal leur
 déclaration, sous réserve de la procédure de régularisation prévue à l'article L. 68 ;
@@ -2899,19 +2899,15 @@ l'article 242 quater de l'annexe II au code général des impôts.
 présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
 prévue à l'article L. 67 ;
 
-5° Aux ((taxes assises sur les salaires ou les rémunérations)) (M) (1) les personnes assujetties à ces taxes qui n'ont pas
-déposé dans le délai légal les déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation
-prévue l'article L. 68.
-
-(M) Modification.
-
-(1) Ces dispositions s'appliquent aux rémunérations versées à compter du 1er janvier 1998.
+5° Aux taxes assises sur les salaires ou les rémunérations les personnes assujetties à ces taxes qui n'ont pas déposé dans le
+délai légal les déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue
+l'article L. 68.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 150 S, 302 sexies
+	  - CGI 150-0 E, 150 S, 302 sexies
 	  - CGIAN2 242 quater
 
 	**Cité par**:
@@ -2926,17 +2922,7 @@ prévue l'article L. 68.
 
 	**Modifié par**:
 
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, IV, V JORF 3 juillet 1998
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV Finances pour 1999
-	  - HISTO: Edition du 31 mars 1999
-
-	**Codifié par**:
-
-	  - Décret n°99-383 1999-05-18
+	  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
 
 
 ###### Article L67
@@ -3134,41 +3120,41 @@ Peuvent être évalués d'office :
 
 1° Le bénéfice imposable des contribuables qui perçoivent des revenus provenant d'entreprises industrielles, commerciales ou
 artisanales, ou des revenus d'exploitations agricoles imposables selon un régime de bénéfice réel, lorsque la déclaration
-annuelle prévue à l'article 53 A ((du code général des impôts)) (M) n'a pas été déposée dans le délai légal ;
+annuelle prévue à l'article 53 A du code général des impôts n'a pas été déposée dans le délai légal ;
 
-((1° bis Les résultats imposables selon le régime d'imposition défini à l'article 50-0 du code général des impôts dès lors :
+1° bis Les résultats imposables selon le régime d'imposition défini à l'article 50-0 du code général des impôts dès lors :
 
-((a. Qu'un des éléments déclaratifs visé au 3 de l'article précité n'a pas été indiqué ;
+a. Qu'un des éléments déclaratifs visé au 3 de l'article précité n'a pas été indiqué ;
 
-((b. Ou que la différence entre le montant du chiffre d'affaires déclaré et celui du chiffre d'affaires réel est supérieure à
+b. Ou que la différence entre le montant du chiffre d'affaires déclaré et celui du chiffre d'affaires réel est supérieure à
 10 % du premier chiffre ;
 
-((c. Ou que la différence entre le montant des achats figurant sur le registre prévu au même texte et le montant des achats
+c. Ou que la différence entre le montant des achats figurant sur le registre prévu au même texte et le montant des achats
 réels est supérieure de 10 % au premier chiffre ;
 
-((d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
-cadre de l'article L. 324-12 du même code)) (M) ;
+d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
+cadre de l'article L. 324-12 du même code ;
 
-((2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés lorsque la
-déclaration annuelle prévue à l'article 97 du code général des impôts n'a pas été déposée dans le délai légal)) (M) ;
+2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés lorsque la
+déclaration annuelle prévue à l'article 97 du code général des impôts n'a pas été déposée dans le délai légal ;
 
-((2° bis Les résultats imposables selon le régime d'imposition défini à l'article 102 ter du code général des impôts dès
-lors :
+2° bis Les résultats imposables selon le régime d'imposition défini à l'article 102 ter du code général des impôts dès lors :
 
-((a.  Qu'un des éléments déclaratifs visés au 2 de l'article précité n'a pas été indiqué ;
+a.  Qu'un des éléments déclaratifs visés au 2 de l'article précité n'a pas été indiqué ;
 
-((b. Ou que la différence entre le montant des recettes déclarées et celui du montant des recettes réelles est supérieure à
-10 % du premier montant ;
+b. Ou que la différence entre le montant des recettes déclarées et celui du montant des recettes réelles est supérieure à 10
+% du premier montant ;
 
-((c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
-cadre de l'article L. 324-12 du même code)) (M) ;
+c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
+cadre de l'article L. 324-12 du même code ;
 
 3° Les revenus fonciers des contribuables qui se sont abstenus de répondre aux demandes de justifications mentionnées au
 deuxième alinéa de l'article L. 16.
 
-Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation d'office prévus aux 1° et 2°.
+4° Les gains de cession de valeurs mobilières ou de droits sociaux des contribuables qui se sont abstenus de répondre aux
+demandes de justifications mentionnées au deuxième alinéa de l'article L. 16.
 
-(M) Modification.
+Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation d'office prévus aux 1° et 2°.
 
 **Liens relatifs à cet article**
 
@@ -3182,17 +3168,12 @@ Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation 
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2000
 	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV Finances pour 1999
 
 	**Modifié par**:
 
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-	  - Décret n°99-383 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
-
-	**Codifié par**:
-
-	  - Décret n°99-383 1999-05-18
+	  - Loi - art. 94 (V) JORF 31 décembre 1999 en vigueur le 1er janvier 2000
 
 	**Cité par**:
 
