@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1991-12-31
+Version Consolidée au 1992-01-01
 
 # Partie législative
 
@@ -4630,35 +4630,6 @@ code pénal, cette mention vise les peines fixées par l'article 226-13 du code 
 
 ##### Délivrance de documents aux contribuables.
 
-###### Article L104
-
-Les comptables du Trésor chargés du recouvrement des impôts directs délivrent aux personnes qui en font la demande un extrait
-de rôle ou un certificat de non inscription au rôle dans les conditions suivantes :
-
-a) Pour les impôts directs d'Etat et taxes assimilées, ces documents ne peuvent être délivrés que dans la mesure où ils
-concernent le contribuable lui-même.
-
-b) Pour les impôts locaux et taxes annexes, ces documents peuvent être délivrés même s'ils concernent un autre contribuable
-mais à condition que le demandeur figure personnellement au rôle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1662 (AL. 1 SAUF 4EME LIGNE)
-	  - CGI 2008
-	  - Décret n°53-701 1953-08-09 ART. 4 (LOI 53-701 1953-07-11 ART. 7)
-	  - Loi n°1914-07-15 ART. 24
-	  - Loi n°1941-01-13 ANNEXE I ART. 144
-	  - Loi n°47-1465 1947-08-08 ART. 31
-
-	**Cité par**:
-
-	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
-	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
-	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
-
-
 ###### Article L107
 
 Les agents des recettes locales et les correspondants locaux des impôts délivrent aux personnes qui en font la demande des
@@ -4727,6 +4698,50 @@ sucrage en première ou en deuxième cuvée et les déclarations de détention d
 
 
 ##### 1° : Délivrance de documents aux contribuables
+
+###### Article L104
+
+Les comptables du Trésor chargés du recouvrement des impôts directs délivrent aux personnes qui en font la demande un extrait
+de rôle ou un certificat de non inscription au rôle dans les conditions suivantes :
+
+a) Pour les impôts directs d'Etat et taxes assimilées ainsi que pour la taxe départementale sur le revenu, ces documents ne
+peuvent être délivrés que dans la mesure où ils concernent le contribuable lui-même (1).
+
+b) Pour les impôts locaux et taxes annexes à l'exclusion de la taxe départementale sur le revenu , ces documents peuvent être
+délivrés même s'ils concernent un autre contribuable mais à condition que le demandeur figure personnellement au rôle.
+
+**Nota:**
+
+(1) L'entrée en vigueur de la taxe départementale sur le revenu est suspendue jusqu'à une date fixée par une loi qui
+interviendra après le 2 avril 1993.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1662 (AL. 1 sauf 4ème ligne)
+	  - CGI 2008
+	  - Décret n°53-701 1953-08-09 art. 4
+	  - Loi n°1914-07-15 art. 24
+	  - Loi n°1941-01-13 annexe I art. 144
+	  - Loi n°47-1465 1947-08-08 art. 31
+	  - Loi n°53-701 1953-07-11 art. 7
+
+	**Cité par**:
+
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - SPEC_APPLI: Loi n°90-669 1990-07-30 art. 56 VIII : L'entrée en vigueur des dispositions du présent article au 1er janvier 1992 sera soumise à l'approbation du Parlement
+
+	**Modifié par**:
+
+	  - Loi n°90-669 1990-07-30 art. 56 VI JORF 1er août 1990 en vigueur le 1er janvier 1992
+
 
 ###### Article L105
 
@@ -4831,6 +4846,84 @@ conditions prévues par l'article L. 109.
 
 ##### 2° : Publicité de l'impôt
 
+###### Article L111
+
+I. Une liste des personnes assujetties à l'impôt sur le revenu, ou à l'impôt sur les sociétés est dressée de manière à
+distinguer les deux impôts par commune pour les impositions établies dans son ressort.
+
+Cette liste est complétée par l'indication des personnes physiques ou morales non assujetties dans la commune à l'impôt sur
+le revenu ou à l'impôt sur les sociétés mais y possédant une résidence.
+
+La liste est tenue par la direction des services fiscaux à la disposition des contribuables qui relèvent de sa compétence
+territoriale. L'administration peut en prescrire l'affichage.
+
+Les contribuables qui ont plusieurs résidences, établissements ou exploitations, peuvent demander, en souscrivant leur
+déclaration, que leur nom soit communiqué aux directions des services fiscaux dont dépendent ces résidences, établissements
+ou exploitations.
+
+La liste concernant l'impôt sur le revenu est complétée, dans les conditions fixées par décret, par l'indication du nombre de
+parts retenu pour l'application du quotient familial, du revenu imposable, du montant de l'impôt mis à la charge de chaque
+redevable et du montant de l'avoir fiscal.
+
+I bis. Une liste des personnes assujetties à la taxe départementale sur le revenu est dressée par commune pour les
+impositions établies dans son ressort.
+
+Cette liste est complétée par l'indication des personnes physiques pour lesquelles il n'est pas établi d'imposition à la taxe
+départementale dans la commune mais qui y possèdent une résidence.
+
+La liste est tenue par la direction des services fiscaux à la disposition des redevables de la taxe départementale qui
+relèvent de sa compétence territoriale. L'administration peut en prescrire l'affichage.
+
+La liste concernant la taxe départementale sur le revenu est complétée, dans des conditions fixées par décret, par
+l'indication du revenu imposable, du montant de l'abattement pour charges de famille, du montant de l'abattement à la base et
+du montant de la cotisation mise effectivement à la charge de chaque redevable.
+
+I ter. L'administration recueille, chaque année, les observations et avis que la commission communale des impôts directs
+prévue à l'article 1650 du code général des impôts peut avoir à formuler sur ces listes.
+
+La publication ou la diffusion par tout autre moyen, soit des listes prévues ci-dessus, soit de toute indication se
+rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à
+l'article 1768 ter du code précité.
+
+II. Les créanciers d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter les  listes
+mentionnées aux I et I bis détenues par la direction des services fiscaux dans le ressort de laquelle l'imposition du
+débiteur est établie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1650
+	  - CGI 1768 TER
+
+	**Anciens textes**:
+
+	  - CGI 243
+	  - Loi n°46-2914 1946-12-23 ART. 38
+	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
+	  - Ordonnance 59-246 1959-02-04 ART. 9
+	  - Décret n°71-290 1971-04-15 ART. 5
+
+	**Liens**:
+
+	  - HISTO: Edition du 4 juillet 1992
+	  - SPEC_APPLI: Loi n°90-669 1990-07-30 art. 56 VIII : L'entrée en vigueur des dispositions du présent article au 1er janvier 1992 sera soumise à l'approbation du Parlement
+
+	**Cité par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1768 ter (Ab)
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+	  - Code général des impôts, CGI. - art. 1762 (V)
+	  - Code général des impôts, CGI. - art. 1772 (V)
+	  - Livre des procédures fiscales - art. R111-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°90-669 1990-07-30 art. 56 VII JORF 1er août 1990 en vigueur le 1er janvier 1992
+
+
 ###### Article L112
 
 La liste des négociants en bestiaux assujettis à la taxe sur la valeur ajoutée dans chaque département peut être consultée
@@ -4850,71 +4943,6 @@ dans les services des impôts de ce département.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
-
-
-##### Publicité de l'impôt.
-
-###### Article L111
-
-I - Une liste des personnes assujetties à l'impôt sur le revenu, ou à l'impôt sur les sociétés est dressée de manière à
-distinguer les deux impôts par commune pour les impositions établies dans son ressort.
-
-Cette liste est complétée par l'indication des personnes physiques ou morales non assujetties dans la commune à l'impôt sur
-le revenu ou à l'impôt sur les sociétés mais y possédant une résidence.
-
-La liste est tenue par la direction des services fiscaux à la disposition des contribuables qui relèvent de sa compétence
-territoriale. L'administration peut en prescrire l'affichage.
-
-Les contribuables qui ont plusieurs résidences, établissements ou exploitations, peuvent demander, en souscrivant leur
-déclaration, que leur nom soit communiqué aux directions des services fiscaux dont dépendent ces résidences, établissements
-ou exploitations.
-
-La liste concernant l'impôt sur le revenu est complétée, dans les conditions fixées par décret, par l'indication du nombre de
-parts retenu pour l'application du quotient familial, du revenu imposable, du montant de l'impôt mis à la charge de chaque
-redevable et du montant de l'avoir fiscal.
-
-L'administration recueille, chaque année, les observations et avis que la commission communale des impôts directs prévue à
-l'article 1650 du code général des impôts peut avoir à formuler sur ces listes.
-
-La publication ou la diffusion par tout autre moyen, soit des listes prévues ci-dessus, soit de toute indication se
-rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à
-l'article 1768 ter du code précité.
-
-II - Les créanciers d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter la liste mentionnée
-au I détenue par la direction des services fiscaux dans le ressort de laquelle l'imposition du débiteur est établie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1650
-	  - CGI 1768 TER
-
-	**Anciens textes**:
-
-	  - CGI 243
-	  - Loi n°46-2914 1946-12-23 ART. 38
-	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Ordonnance 59-246 1959-02-04 ART. 9
-	  - Décret n°71-290 1971-04-15 ART. 5
-
-	**Cité par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
-	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1768 ter (Ab)
-	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
-	  - Code général des impôts, CGI. - art. 1762 (V)
-	  - Code général des impôts, CGI. - art. 1772 (V)
-	  - Livre des procédures fiscales - art. R111-1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
 
 
 ##### Section II : Dérogations à la règle du secret professionnel
@@ -11822,23 +11850,25 @@ désigner un mandataire dûment habilité.
 
 ###### Article R*59-1
 
-Lorsqu'il est fait application de l'article L. 59, l'administration notifie l'avis de la commission [*départementale des
-impôts directs et des taxes sur le chiffre d'affaires ou de la commission départementale de conciliation*] au contribuable.
-Elle l'informe en même temps du chiffre qu'elle se propose de retenir comme base d'imposition.
+Le contribuable dispose d'un délai de trente jours à compter de la réception de la réponse de l'administration à ses
+observations pour présenter la demande prévue au premier alinéa de l'article L. 59. 
+
+L'administration notifie l'avis de la commission au contribuable et l'informe en même temps du chiffre qu'elle se propose de
+retenir comme base d'imposition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1649 quinquies A 3 (AL. 2 3 PREMIERES LIGNES)
+	  - Décret n°91-1386 du 26 décembre 1991 - art. 1 () JORF 1er janvier 1992
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
 
 	**Cite**:
 
-	  - CGI L59
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Livre des procédures fiscales - art. L59 (V)
 
 
 ###### Article R*60-1
@@ -12152,6 +12182,23 @@ d'inspecteur principal qui vise à cet effet la notification de la proposition d
 	**Codifié par**:
 
 	  - Décret n°87-941 1987-11-23
+
+
+###### Article R*64-2
+
+Lorsque l'administration se prévaut des dispositions du deuxième alinéa de l'article L. 64, le contribuable dispose d'un
+délai de trente jours à compter de la réception de la réponse de l'administration à ses observations pour demander que le
+litige soit soumis à l'avis du comité consultatif pour la répression des abus de droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-1386 1991-12-26 art. I 1 JORF 1er janvier 1992
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L64 (M)
 
 
 #### Chapitre II : Le droit de communication
