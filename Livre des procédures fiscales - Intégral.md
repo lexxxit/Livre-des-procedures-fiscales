@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-07-19
+Version Consolidée au 1987-08-10
 
 # Partie législative
 
@@ -749,6 +749,58 @@ alinéas de l'article L. 47.
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt de solidarité sur la fortune et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
 
 ##### A : Droits d'enregistrement et taxe de publicité foncière
+
+##### 1° : Rectification des prix ou évaluations
+
+###### Article L17
+
+En ce qui concerne les droits d'enregistrement et la taxe de publicité foncière ou la taxe sur la valeur ajoutée lorsqu'elle
+est due au lieu et place de ces droits ou taxe, l'administration des impôts peut rectifier le prix ou l'évaluation d'un bien
+ayant servi de base à la perception d'une imposition lorsque ce prix ou cette évaluation paraît inférieur à la valeur vénale
+réelle des biens transmis ou désignés dans les actes ou déclarations.
+
+La rectification correspondante est effectuée suivant la procédure de redressement contradictoire prévue à l'article L. 55,
+l'administration étant tenue d'apporter la preuve de l'insuffisance des prix exprimés et des évaluations fournies dans les
+actes ou déclarations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 667 1
+	  - Décret n°48-1986 1948-12-09 ART. 206 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
+	  - Loi n°63-1316 1963-12-27 ART. 24 I
+	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 VI Finances pour 1987 JORF 31 décembre 1986
+
+	**Cité par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 81 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 669 (M)
+	  - Code général des impôts, CGI. - art. 266 (V)
+	  - Livre des procédures fiscales - art. L18 (V)
+	  - Livre des procédures fiscales - art. L57 (V)
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - TXT_ASSOCIE: Jurisprudence 1998-09-24 13l-11-98
+	  - TXT_ASSOCIE: Jurisprudence 1999-12-27 13J-2-99
+	  - TXT_ASSOCIE: Jurisprudence 1999-12-27 7C-5-99
+	  - TXT_ASSOCIE: Jurisprudence 2000-05-24 13O-3-00
+	  - TXT_ASSOCIE: Jurisprudence 2000-05-26 13L-5-00
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L55 (M)
+
 
 ##### 2° : Rescrit fiscal en matière de donation d'entreprise
 
@@ -2915,6 +2967,39 @@ sur l'appréciation d'une situation de fait au regard d'un texte fiscal.
 	**Cite**:
 
 	  - CGI L80 A al. 1
+
+
+###### Article L80 C
+
+L'intervention, auprès d'un contribuable, sur le territoire national, d'un agent d'une administration fiscale d'un pays
+étranger, rend nuls et de nul effet le redressement ainsi que toute poursuite fondée sur celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°87-502 1987-07-08 art. 20 JORF 9 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Abrogé par**:
+
+	  - Loi - art. 107 () JORF 31 décembre 1999
+
+	**Cité par**:
+
+	  - Décret n°2007-807 du 11 mai 2007 - art. 1 (V)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 12-1 (V)
+	  - Livre des procédures fiscales - art. L80 CB (V)
+	  - Livre des procédures fiscales - art. R*80 C-1 (V)
+	  - Livre des procédures fiscales - art. R*80 C-4 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2000
 
 
 ##### Section VII : Sanctions fiscales
@@ -9440,6 +9525,43 @@ corps est immédiatement applicable.
 	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
+###### Article L272 A
+
+La contrainte par corps pour le recouvrement des impôts dont la perception incombe aux comptables du Trésor ne peut être
+exercée que sur autorisation du trésorier-payeur général.
+
+Elle l'est sur autorisation du directeur des services fiscaux dans le cas des impôts à recouvrer par les comptables de la
+direction générale des impôts.
+
+La contrainte ne peut être mise en oeuvre que lorsque les impositions réclamées sont égales ou supérieures à la limite fixée
+au 6° de l'article 750 du code de procédure pénale (1).
+
+(1) Cette limite est de 12 000 euros.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Créé par**:
+
+	  - Loi n°87-502 1987-07-08 art. 16 III JORF 9 juillet 1987
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L271 (Ab)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 750 (M)
+
+
 ##### Contrainte par corps.
 
 ###### Article L272
@@ -9940,37 +10062,6 @@ déclarations souscrites ou aux actes déposés.
 
 
 #### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
-
-###### Article L17
-
-En ce qui concerne les droits d'enregistrement et la taxe de publicité foncière ou la taxe sur la valeur ajoutée lorsqu'elle
-est due au lieu et place de ces droits ou taxe, l'administration des impôts peut rectifier le prix ou l'évaluation d'un bien
-ayant servi de base à la perception d'une imposition lorsque ce prix ou cette évaluation paraît inférieur à la valeur vénale
-réelle des biens transmis ou désignés dans les actes ou déclarations.
-
-La rectification correspondante est effectuée suivant la procédure de redressement contradictoire prévue à l'article L. 55.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 667 1
-	  - Décret n°48-1986 1948-12-09 ART. 206 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Loi n°63-1316 1963-12-27 ART. 24 I
-	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
-
-	**Cite**:
-
-	  - CGI L55
-
-	**Cité par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 81 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 669 (M)
-	  - Code général des impôts, CGI. - art. 266 (V)
-	  - Livre des procédures fiscales - art. L18 (V)
-	  - Livre des procédures fiscales - art. L57 (V)
-
 
 ###### Article L23 A
 
@@ -14454,6 +14545,36 @@ comporte l'indication qu'elle a été prise après avis du comité.
 	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 
+###### Article R*247-17
+
+En application de l'article 24 de la loi n° 85-98 du 25 janvier 1985,des remises, modérations ou transactions portant sur les
+créances fiscales peuvent être accordées, dans les limites et conditions fixées par l'article L247, aux entreprises soumises
+à la procédure de redressement ou de liquidation judiciaires.
+
+Dans le régime général du redressement judiciaire, l'administration statue sur les demandes écrites des représentants des
+créanciers dans le délai de six semaines suivant la date de leur présentation. Ce délai est porté à huit semaines lorsque
+l'administration doit consulter le comité du contentieux fiscal, douanier ou des changes. Dans la procédure simplifiée, elle
+statue dans un délai de quatre semaines qui est porté à six semaines en cas de consultation du comité.
+
+Les délais de trente jours et de quinze jours prévus aux articles R 247-12 et R 247-13 du livre des procédures fiscales ne
+sont pas applicables.
+
+Le défaut de réponse de l'administration dans les délais impartis vaut rejet des demandes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L247
+	  - CGI R247-12
+	  - CGI R247-13
+	  - Loi n°85-98 1985-01-25 art. 24
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+
 ###### Article R247-2
 
 Le directeur des services fiscaux [*autorité compétente*] peut se prononcer sans instruction préalable sur les demandes de
@@ -15529,37 +15650,6 @@ infractions en matière de police de la circulation et du roulage et en matière
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
-
-
-### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX
-
-###### Article R*247-17
-
-Des remises, modérations ou transactions portant sur les créances fiscales peuvent être accordées aux entreprises soumises à
-la procédure de redressement ou de liquidation judiciaires instituée la loi n° 85-98 du 25 janvier 1985 dans les limites et
-conditions fixées par l'article L. 247.    Dans le régime général du redressement judiciaire, l'administration statue sur les
-demandes écrites des représentants des créanciers dans le délai de six semaines suivant la date de leur présentation. Ce
-délai est porté à huit semaines lorsque l'administration doit consulter le comité du contentieux fiscal, douanier ou des
-changes. Dans la procédure simplifiée, elle statue dans un délai de quatre semaines qui est porté à six semaines en cas de
-consultation du comité.
-
-Les délais de trente jours et de quinze jours prévus aux articles R* 247-12 et R* 247-13 du livre des procédures fiscales ne
-sont pas applicables.
-
-Le défaut de réponse de l'administration dans les délais impartis vaut rejet des demandes *refus implicite*.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L247
-	  - CGI R247-12
-	  - CGI R247-13
-	  - Loi n°85-98 1985-01-25
-
-	**Créé par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 179 (Ab) JORF 29 décembre 1985 en vigueur le 1er janvier 1986
 
 
 ## LE RECOUVREMENT DE L'IMPOT
