@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1992-07-04
+Version Consolidée au 1992-07-21
 
 # Partie législative
 
@@ -15269,18 +15269,18 @@ impôts, déléguer son pouvoir de décision aux agents placés sous son autorit
 
 Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
 mises en cause doivent, en ce qui concerne les impôts recouvrés par les comptables du Trésor, adresser une demande au
-trésorier-payeur général [*autorité compétente*] dont dépend le lieu d'imposition.
+trésorier-payeur général dont dépend le lieu d'imposition.
 
 Après examen de la demande, la décision appartient :
 
-a) Au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 750.000
-F [*montant*] par cote. Toutefois, lorsque les sommes n'excèdent pas 100.000 F par cote, le trésorier-payeur général prend la
+a) Au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas
+2.000.000 F par cote. Toutefois, lorsque les sommes n'excèdent pas 250.000 F par cote, le trésorier-payeur général prend la
 décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de trois mois.
 
-b) Au directeur de la comptabilité publique lorsque, les sommes n'excédant pas la limite de 750.000 F par cote, le trésorier-
-payeur général a émis un avis ne concordant pas avec celui du directeur des services fiscaux et que, saisies de l'affaire en
-raison de ce désaccord, la direction de la comptabilité publique et la direction générale des impôts ont émis des avis
-concordants.
+b) Au directeur de la comptabilité publique lorsque, les sommes n'excédant pas la limite de 2.000.000 F par cote, le
+trésorier-payeur général a émis un avis ne concordant pas avec celui du directeur des services fiscaux et que, saisies de
+l'affaire en raison de ce désaccord, la direction de la comptabilité publique et la direction générale des impôts ont émis
+des avis concordants.
 
 Il en est de même lorsque, s'agissant de sommes qui excèdent la limite précitée, la direction de la comptabilité publique et
 la direction générale des impôts ont émis des avis concordants.
@@ -15292,13 +15292,17 @@ et la direction générale des impôts ne sont pas concordants.
 
 	**Modifié par**:
 
-	  - Décret n°85-1318 du 12 décembre 1985 - art. 1 (V) JORF 14 décembre 1985
+	  - Décret n°92-679 du 17 juillet 1992 - art. 2 () JORF 21 juillet 1992
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 	  - Livre des procédures fiscales - art. R*247-10 A (T)
 	  - Livre des procédures fiscales - art. R*247-18 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article R247-11
@@ -15310,9 +15314,9 @@ services fiscaux dont dépend le comptable chargé du recouvrement.
 La décision appartient :
 
 a) Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes faisant l'objet de la demande n'excèdent pas
-750.000 F [*montant*] par exercice ou affaire, selon la nature des impôts ;
+2.000.000 F [*montant*] par exercice ou affaire, selon la nature des impôts ;
 
-b) Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 1.750.000 F par exercice ou
+b) Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 3.000.000 F par exercice ou
 affaire ;
 
 c) Au ministre, dans les autres cas.
@@ -15331,11 +15335,15 @@ c) Au ministre, dans les autres cas.
 
 	**Modifié par**:
 
-	  - Décret n°82-913 du 22 octobre 1982 - art. 3 (V) JORF 27 OCTOBRE 1982
+	  - Décret n°92-679 1992-07-11 art. 3 JORF 21 juillet 1992
 
 	**Cité par**:
 
 	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+	**Liens**:
+
+	  - HISTO: modification incorporée dans l'édition du 18 août 1993
 
 
 ### Titre IV : Le recouvrement de l'impôt
