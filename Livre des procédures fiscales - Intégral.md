@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1989-06-07
+Version Consolidée au 1989-07-14
 
 # Partie législative
 
@@ -1055,6 +1055,37 @@ police municipale de la commune de résidence.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+##### B : Impôt de solidarité sur la fortune
+
+###### Article L23 A
+
+En vue du contrôle de l'impôt de solidarité sur la fortune, l'administration peut demander au contribuable des
+éclaircissements et des justifications dans les conditions prévues à l'article L. 16.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L16
+
+	**Codifié par**:
+
+	  - Décret n°89-802 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L180 (V)
+	  - Livre des procédures fiscales - art. L181-0 A (V)
 
 
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicite foncière et à l'impôt de solidarité sur la fortune
@@ -2486,6 +2517,30 @@ Si l'administration ne s'est pas conformée à l'avis du comité, elle doit appo
 	  - TXT_ASSOCIE: Jurisprudence 1999-10-05 13L-11-99
 
 
+###### Article L64 A
+
+La procédure de répression des abus de droit définie à l'article L. 64 est applicable au contrôle de l'impôt de solidarité
+sur la fortune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-802 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L64 (M)
+
+
 ###### Article L64 B
 
 La procédure définie à l'article L. 64 n'est pas applicable lorsqu'un contribuable, préalablement à la conclusion d'un
@@ -2749,6 +2804,31 @@ agents de l'Etat désignés au 2 de l'article 4 B du code général des impôts 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L72 A (V)
+
+
+###### Article L72 A
+
+La taxation d'office prévue à l'article L. 72 est applicable dans les mêmes conditions à l'égard des personnes mentionnées à
+l'article 885 X du code général des impôts en ce qui concerne l'impôt de solidarité sur la fortune.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 885 X
+	  - Livre des procédures fiscales - art. L72 (V)
+
+	**Codifié par**:
+
+	  - Décret n°89-802 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
 
 
 ##### II : Évaluation d'office
@@ -4512,16 +4592,15 @@ de l'article 378 du code pénal.
 	  - CGI L156
 	  - CGI L158
 	  - CGI L161
-	  - CGI L166
 	  - Code pénal 378
 
 	**Modifié par**:
 
-	  - Loi n°86-1305 1986-12-23 art. 1 JORF 26 décembre 1986
+	  - Loi n°88-1088 1988-12-01 art. 22 JORF 3 décembre 1988, incorporée au Livre des procédures fiscales le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Décret n°87-941 1987-11-23
+	  - Décret n°89-802 1989-10-27
 
 	**Cité par**:
 
@@ -4592,11 +4671,11 @@ Un décret en conseil d'Etat précise les conditions d'application du présent a
 ###### Article L115
 
 Le ministre chargé des finances est tenu d'autoriser les agents placés sous son autorité à répondre aux questions et
-éventuellement aux convocations du médiateur. Ceux-ci sont tenus d'y répondre ou d'y déférer.
+éventuellement aux convocations du médiateur de la République. Ceux-ci sont tenus d'y répondre ou d'y déférer.
 
-Le médiateur peut demander à l'administration communication de tous les documents ou dossiers concernant les affaires à
-propos desquelles il fait une enquête. Le caractère secret ou confidentiel des pièces dont il demande communication ne peut
-lui être opposé.
+Le médiateur de la République peut demander à l'administration communication de tous les documents ou dossiers concernant les
+affaires à propos desquelles il fait une enquête. Le caractère secret ou confidentiel des pièces dont il demande
+communication ne peut lui être opposé.
 
 **Liens relatifs à cet article**
 
@@ -4605,7 +4684,11 @@ lui être opposé.
 	  - CGI 2022
 	  - Loi n°73-6 du 3 janvier 1973 - art. 12 (M)
 	  - Loi n°73-6 du 3 janvier 1973 - art. 13 (M)
-	  - Loi n°76-1211 1976-12-24 ART. 5 I
+	  - Loi n°76-1211 1976-12-24 art. 5 I
+
+	**Modifié par**:
+
+	  - Loi n°89-18 du 13 janvier 1989 - art. 69 () JORF 14 janvier 1989
 
 
 ###### Article L116
@@ -6021,6 +6104,26 @@ suppression éventuelle de cet avantage.
 	  - HISTO: Edition du 1er juillet 1981
 
 
+###### Article L159
+
+Les agents de l'administration des impôts sont tenus de communiquer aux organismes visés à l'article 19 de la loi n° 88-1088
+du 1er décembre 1988 relative au revenu minimum d'insertion les informations nécessaires à l'exercice de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Cite**:
+
+	  - Loi n°88-1088 1988-12-01 art. 19
+
+	**Modifié par**:
+
+	  - Loi n°88-1088 1988-12-01 art. 21 JORF 3 décembre 1988
+
+
 ###### Article L160
 
 L'administration des impôts est tenue de communiquer aux agents assermentés des organismes et services qui procèdent au
@@ -6573,35 +6676,37 @@ décès.
 
 ###### Article L172 A
 
-Le droit de reprise fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires s'applique :
+Le droit de reprise fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires s'applique : 
 
 1° A la participation des employeurs au financement des actions de formation professionnelle continue prévue à l'article 235
-ter C du code général des impôts ;
+ter C du code général des impôts ; 
 
-2° Au prélèvement sur les plus-values prévu à l'article 235 quater.
+2° (Disposition devenue sans objet).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - CGI 1679 bis B (P.)
-	  - CGI 235 quater I (AL. 3 P.)
-	  - Loi n°63-254 1963-03-15 ART. 28 IV
-	  - Loi n°75-575 1975-07-16 ART. 16 I
+	  - CGI 1679 bis B (p.)
+	  - CGI 235 quater I (al. 3 p.)
+	  - Loi n°63-254 1963-03-15 art. 28 IV
+	  - Loi n°75-575 1975-07-16 art. 16 I
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 235 quater
-	  - CGI 235 ter C
-	  - CGI L176
+	  - Décret n°89-802 1989-10-27
+
+	**Modifié par**:
+
+	  - Décret n°89-802 du 27 octobre 1989 - art. 1 ()
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1679 bis B (M)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: date d'entrée en vigueur 1er JANVIER 1982)
+	  - Livre des procédures fiscales - art. L176 (V)
 
 
 ###### Article L172 B
@@ -7027,6 +7132,28 @@ l'acte.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+##### III : Impôt de solidarité sur la fortune
+
+###### Article L183 A
+
+Les dispositions de l'article L. 181 relatives aux modalités de calcul du délai de reprise en matière de succession ne sont
+pas applicables à l'impôt de solidarité sur la fortune.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+
+	**Codifié par**:
+
+	  - Décret n°89-802 1989-10-27
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L181 (M)
 
 
 ##### Section VII : Dispositions applicables à l'ensemble des impôts
@@ -9235,6 +9362,27 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Livre des procédures fiscales - art. R256-8 (V)
 
 
+###### Article L256 A
+
+Lorsque l'avis de mise en recouvrement a été détruit dans un cas de force majeure, le paiement des créances fiscales et
+domaniales peut être poursuivi en vertu d'un nouvel avis de mise en recouvrement mentionnant la nature de l'impôt ou de la
+créance et le montant des sommes restant dues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 79 (V) JORF 28 décembre 1988, incorporée au Livre des procédures fiscales le 14 juillet 1989
+
+	**Codifié par**:
+
+	  - Décret n°89-802 1989-10-27
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L275 A (V)
+
+
 ###### Article L257
 
 A défaut de paiement des sommes mentionnées sur l'avis de mise en recouvrement ou de réclamation assortie d'une demande de
@@ -10056,6 +10204,31 @@ de la prescription applicable puisse excéder l'ancien délai.
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 
+###### Article L275 A
+
+L'avis de mise en recouvrement notifié en application de l'article L. 256 A n'interrompt pas le délai de prescription de
+l'action en recouvrement ouvert par le titre exécutoire initial. Il se substitue à l'avis de mise en recouvrement
+précédemment notifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-802 1989-10-27
+
+	**Liens**:
+
+	  - HISTO: Edition du 14 juillet 1989
+
+	**Créé par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 79 (V) JORF 28 décembre 1988
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L256 A (M)
+
+
 #### Chapitre II : Le sursis de paiement
 
 ###### Article L277
@@ -10338,102 +10511,6 @@ procéder à la saisie.
 ## LE CONTROLE DE L'IMPOT
 
 ### LE DROIT DE CONTROLE DE L'ADMINISTRATION
-
-#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
-
-###### Article L23 A
-
-En vue du contrôle de l'impôt sur les grandes fortunes, l'administration peut demander au contribuable des éclaircissements
-et des justifications dans les conditions prévues à l'article L. 16.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L16
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Créé par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L180 (V)
-	  - Livre des procédures fiscales - art. L181-0 A (V)
-
-
-#### PROCEDURES DE REDRESSEMENT.
-
-###### Article L64 A
-
-La procédure de répression des abus de droit définie à l'article L. 64 est applicable au contrôle de l'impôt sur les grandes
-fortunes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L64
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Créé par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
-
-#### PROCEDURES D'IMPOSITION D'OFFICE.
-
-###### Article L72 A
-
-La taxation d'office prévue à l'article L. 72 est applicable dans les mêmes conditions à l'égard des personnes mentionnées à
-l'article 885 X du code général des impôts en ce qui concerne l'impôt sur les grandes fortunes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 885 X
-	  - CGI L72
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Créé par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
-
-### LES DELAIS DE PRESCRIPTION
-
-#### IMPOT SUR LES GRANDES FORTUNES.
-
-###### Article L183 A
-
-Les dispositions de l'article L. 181 relatives aux modalités de calcul du délai de reprise en matière de succession ne sont
-pas applicables à l'impôt sur les grandes fortunes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L181
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Créé par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
 
 # Partie réglementaire - Décrets en Conseil d'Etat
 
@@ -12965,7 +13042,7 @@ dernier.
 
 ###### Article R*199-2
 
-Les jugements des tribunaux administratifs peuvent être soumis au Conseil d'Etat par la voie d'appel.
+Les jugements du tribunal administratif peuvent être soumis à la Cour administrative d'appel par la voie d'appel.
 
 **Liens relatifs à cet article**
 
@@ -12973,9 +13050,13 @@ Les jugements des tribunaux administratifs peuvent être soumis au Conseil d'Eta
 
 	  - CGI 1949 1 (2 PREMIERES LIGNES)
 
+	**Modifié par**:
+
+	  - Décret n°88-707 du 9 mai 1988 - art. 1 (Ab) JORF 10 mai 1988, incorporé au Livre des procédures fiscales le 14 juillet 1989
+
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-802 1989-10-27
 
 
 ##### II : Règles de procédure
@@ -13360,9 +13441,8 @@ conclusions reconventionnelles.
 
 ###### Article R*200-17
 
-Les requêtes par lesquelles les jugements des tribunaux administratifs peuvent être attaqués devant le Conseil d'Etat sont
-présentées dans les conditions prévues aux articles R. 191 et R. 204 du code des tribunaux administratifs et à l'ordonnance
-du 31 juillet 1945 sur le Conseil d'Etat modifiée, et sans l'intervention obligatoire d'un avocat au Conseil d'Etat.
+Les requêtes par lesquelles les jugements du tribunal administratif peuvent être attaqués devant la Cour administrative
+d'appel sont présentées dans les conditions prévues par le décret n° 88-707 du 9 mai 1988.
 
 **Liens relatifs à cet article**
 
@@ -13372,13 +13452,15 @@ du 31 juillet 1945 sur le Conseil d'Etat modifiée, et sans l'intervention oblig
 
 	**Cite**:
 
-	  - Code des tribunaux administratifs R191
-	  - Code des tribunaux administratifs R204
-	  - Ordonnance 1945-07-31
+	  - Décret n°88-707 1988-05-09
+
+	**Modifié par**:
+
+	  - Décret n°88-707 du 9 mai 1988 - art. 1 (Ab) JORF 10 mai 1988, incorporé au Livre des procédures fiscales le 14 juillet 1989
 
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°89-802 1989-10-27
 
 
 ###### Article R*200-18
