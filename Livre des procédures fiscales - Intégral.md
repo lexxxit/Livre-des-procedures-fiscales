@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-03-11
+Version Consolidée au 1986-03-14
 
 # Partie législative
 
@@ -14109,6 +14109,36 @@ En matière d'impôts locaux, les demandes gracieuses sont soumises à l'avis du
 	  - Décret n°2013-443 du 30 mai 2013 - art. 11 (VD)
 
 
+###### Article R247-6
+
+Le directeur général des impôts [*autorité compétente*] se prononce sur les demandes de remises, modérations ou transactions
+qui relèveraient normalement de la compétence du ministre, lorsqu'elles sont présentées dans les conditions prévues à
+l'article 24 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
+(1).
+
+(1) Dans les conditions prévues à l'article 69 de la loi n° 67-563 du 13 juillet 1967 pour les procédures ouvertes avant le
+1er janvier 1986.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 419 B
+
+	**Cite**:
+
+	  - Loi n°67-563 du 13 juillet 1967 - art. 69 (Ab)
+	  - Loi n°85-98 1985-01-25 art. 24
+
+	**Modifié par**:
+
+	  - Décret n°86-355 du 10 mars 1986 - art. 1 (V) JORF 14 mars 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+
 ###### Article R247-7
 
 La décision du directeur des services fiscaux ou du directeur régional peut être soumise au directeur général des impôts.
@@ -15438,31 +15468,6 @@ d) Au ministre, après avis du comité précité, dans les autres cas.
 	**Codifié par**:
 
 	  - Décret n°86-1087 1986-10-07
-
-
-###### Article R247-6
-
-Le directeur général des impôts [*autorité compétente*] se prononce sur les demandes qui relèveraient normalement de la
-compétence du ministre, lorsqu'elles sont présentées soit pour un contribuable en état de règlement judiciaire dans les
-conditions prévues à l'article 69 de la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des
-biens, la faillite personnelle et les banqueroutes, soit par un redevable admis au bénéfice de la suspension provisoire des
-poursuites prévue par l'ordonnance n° 67-820 du 23 septembre 1967 tendant à faciliter le redressement économique et financier
-de certaines entreprises.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN3 419 B
-
-	**Cite**:
-
-	  - Loi n°67-563 du 13 juillet 1967 - art. 69 (Ab)
-	  - Ordonnance 67-820 1967-09-23
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
 
 
 ## LE RECOUVREMENT DE L'IMPOT
