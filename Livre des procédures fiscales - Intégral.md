@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-12-30
+Version Consolidée au 1985-01-01
 
 # Partie législative
 
@@ -521,6 +521,98 @@ des explications orales.
 	**Codifié par**:
 
 	  - Décret n°81-859 1981-09-15
+
+
+##### I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée
+
+###### Article L16 B
+
+I. Lorsque l'autorité judiciaire, saisie par l'administration fiscale, estime qu'il existe des présomptions [*de fraude*]
+qu'un contribuable se soustrait à l'établissement ou au paiement des impôts sur le revenu ou sur les bénéfices ou de la taxe
+sur la valeur ajoutée en se livrant à des achats ou à des ventes sans facture, en utilisant ou en délivrant des factures ou
+des documents ne se rapportant pas à des opérations réelles ou en omettant sciemment de passer ou de faire passer des
+écritures ou en passant ou en faisant passer sciemment des écritures inexactes ou fictives dans des documents comptables dont
+la tenue est imposée par le code général des impôts, elle peut, dans les conditions prévues au II, autoriser les agents de
+l'administration des impôts, ayant au moins le grade d'inspecteur et habilités à cet effet par le directeur général des
+impôts, à rechercher la preuve de ces agissements, en effectuant des visites en tous lieux, même privés, où les pièces et
+documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie. 
+
+II. Chaque visite doit être autorisée par une ordonnance du président du tribunal de grande instance dans le ressort duquel
+sont situés les lieux à visiter ou d'un juge délégué par lui [*autorité compétente*].
+
+Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
+doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
+
+La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. A cette fin, il
+donne toutes instructions aux agents qui participent à ces opérations.
+
+Il désigne un officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
+
+Il peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention.
+
+A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+
+L'ordonnance mentionnée au premier alinéa n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le
+code de procédure pénale ; ce pourvoi n'est pas suspensif [*contrôle de la régularité des opérations*].
+
+III. La visite, qui ne peut être commencée avant six heures ni après vingt et une heures, est effectuée en présence de
+l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins
+choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des impôts.
+
+Les agents des impôts mentionnés au I, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent
+seuls prendre connaissance des pièces et documents avant leur saisie.
+
+L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
+dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
+
+IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
+dressé sur le champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est
+annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des impôts et par
+l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du III ; en cas de refus de signer,
+mention en est faite au procès-verbal.
+
+Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des
+lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
+police judiciaire ; l'inventaire est alors établi.
+
+V. Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la
+visite ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant.
+
+Les pièces et documents saisis sont restitués à l'occupant des locaux dans les six mois de la visite ; toutefois, lorsque des
+poursuites pénales sont engagées, leur restitution est autorisée par l'autorité judiciaire compétente.
+
+VI. L'administration des impôts ne peut opposer au contribuable les informations recueillies qu'après restitution des pièces
+et documents saisis ou de leur reproduction et mise en oeuvre des procédures de contrôle visées aux premier et deuxième
+alinéas de l'article L. 47.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 94 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cité par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P)
+	  - Décret n°2000-159 du 23 février 2000 - art. 1 (V)
+	  - Code général des impôts, CGI. - art. 1735 quater (V)
+	  - Livre des procédures fiscales - art. L10-0 AA (V)
+	  - Livre des procédures fiscales - art. L16-0 BA (V)
+	  - Livre des procédures fiscales - art. L74 (V)
+	  - Livre des procédures fiscales - art. L76 C (V)
+	  - Livre des procédures fiscales - art. L80 H (V)
+	  - Livre des procédures fiscales - art. R*135 S-2 (V)
+	  - Livre des procédures fiscales - art. R16 B-1 (V)
+
+	**Cite**:
+
+	  - CGI L47
+	  - CODE DE PROCEDURE PENALE - art. 56 (M)
+	  - CODE DE PROCEDURE PENALE - art. 58 (M)
 
 
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt de solidarité sur la fortune et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
@@ -5021,6 +5113,33 @@ pour les peines correctionnelles de droit commun et il s'applique dans les même
 	  - HISTO: Edition du 1er juillet 1981
 
 
+##### Section VIII : Interruption de la prescription.
+
+###### Article L189
+
+La prescription est interrompue par la notification d'une proposition de redressement, par la déclaration ou la notification
+d'un procès-verbal, de même que par tout acte comportant reconnaissance de la part des contribuables et par tous les autres
+actes interruptifs de droit commun.
+
+La prescription des sanctions fiscales autres que celles visées au troisième alinéa de l'article L188 est interrompue par la
+mention portée sur la notification de redressements qu'elles pourront être éventuellement appliquées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 105 I finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L213-11-5 (V)
+	  - Livre des procédures fiscales - art. L77 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L188 (V)
+
+
 ### Titre III : Le contentieux de l'impôt
 
 #### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office
@@ -7434,6 +7553,62 @@ ou considéré comme tacitement accordé.
 
 
 
+###### Article L274 C
+
+Lorsqu'une cotisation de taxe foncière sur les propriétés bâties ou non bâties ou de taxe d'habitation a été mutée ou
+transférée, dans les conditions prévues à l'article 1404 ou au II de l'article 1413 du code général des impôts, au nom d'un
+redevable autre que celui figurant au rôle, l'action du comptable du Trésor à l'égard du nouveau débiteur de l'impôt s'exerce
+à compter de la date de notification de la décision de mutation ou de transfert au redevable dans les délais prévus à
+l'article L. 274.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1404
+	  - CGI 1413 II
+	  - CGI L274
+
+	**Créé par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 104 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+
+###### Article L275
+
+La notification d'un avis de mise en recouvrement interrompt la prescription courant contre l'administration et y substitue
+la prescription quadriennale (1).
+
+Le délai de quatre ans mentionné au premier alinéa est interrompu dans les conditions indiquées à l'article L. 274.
+
+(1) La nouvelle prescription s'applique aux procédures de recouvrement en cours au 1er janvier 1985, sans que la durée totale
+de la prescription applicable puisse excéder l'ancien délai.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L274
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 103 (V) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Cité par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 103 (V)
+	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
+	  - Livre des procédures fiscales - art. R*275-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
+
 #### Chapitre II : Le sursis de paiement
 
 ###### Article L280
@@ -7654,11 +7829,11 @@ peut avoir des revenus plus importants que ceux qu'il a déclarés. En particuli
 bons ou de titres dont les intérêts ou arrérages sont exclus du décompte des revenus imposables en vertu de l'article 157 du
 même code, l'administration peut exiger la preuve de la possession de ces bons ou titres et celle de la date à laquelle ils
 sont entrés dans le patrimoine de l'intéressé. Le contribuable ne peut pas alléguer la vente ou le remboursement de bons
-mentionnés à l'article 125 A-III bis-2° du code général des impôts, quelle que soit leur date d'émission, lorsqu'il n'avait
-pas communiqué son identité et son domicile fiscal à l'établissement payeur dans les conditions prévues au 4° et 6° du III
-bis du même article. Il en va de même pour les ventes d'or monnayé ou d'or en barres ou en lingots de poids et de titres
-admis par la Banque de France, lorsque l'identité et le domicile du vendeur n'avaient pas été enregistrés par l'intermédiaire
-dans les conditions prévues par l'article 211 A de l'annexe III au code général des impôts.
+mentionnés à l'article 125 A-III bis-2° du code général des impôts, ou de titres de même nature quelle que soit leur date
+d'émission, lorsqu'il n'avait pas communiqué son identité et son domicile fiscal à l'établissement payeur dans les conditions
+prévues au 4° et 6° du III bis du même article. Il en va de même pour les ventes d'or monnayé ou d'or en barres ou en lingots
+de poids et de titres admis par la Banque de France, lorsque l'identité et le domicile du vendeur n'avaient pas été
+enregistrés par l'intermédiaire dans les conditions prévues par l'article 211 A de l'annexe III au code général des impôts.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et fixer à
 l'intéressé, pour fournir sa réponse, un délai qui ne peut être inférieur au délai de trente jours prévu à l'article L. 11.
@@ -7675,26 +7850,6 @@ l'étranger ou encaissés à l'étranger.
 	  - CGI 199 septies
 	  - CGI 199 sexies
 
-	**Anciens textes**:
-
-	  - CGI 176 (AL. 1 P., AL. 2 A AL. 6)
-	  - Décret n°1934-07-20 ANNEXE ART. 125, ART. 126 (AL. 3) (LOI 1934-07-06 ART. 13)
-	  - Décret n°48-1986 1948-12-09 ART. 81, ART. 85 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Loi n°1941-01-13 ANNEXE I ART. 125, ART. 126 (AL. 3)
-	  - Loi n°1943-11-09 ART. 11
-	  - Loi n°59-1472 1959-12-28 ART. 1, ART. 3 I
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 1, v. init.
-	  - Loi n°61-1396 1961-12-21 ART. 79 I
-	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
-
 	**Cité par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 91 (V)
@@ -7702,6 +7857,10 @@ l'étranger ou encaissés à l'étranger.
 	  - Livre des procédures fiscales - art. L192 (VD)
 	  - Livre des procédures fiscales - art. L69 (V)
 	  - Livre des procédures fiscales - art. L73 (V)
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 95 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
 
 
 ###### Article L17
@@ -8450,20 +8609,21 @@ Les bases ou les éléments servant au calcul des impositions d'office sont port
 jours au moins avant la mise en recouvrement des impositions [*délai minimum*], au moyen d'une notification qui précise les
 modalités de leur détermination. Cette notification est interruptive de prescription.
 
+La prescription des sanctions fiscales autres que celles visées au troisième alinéa de l'article L. 188 est interrompue par
+la mention portée sur la notification de redressements qu'elles pourront être éventuellement appliquées.
+
 Les dispositions du présent article ne sont pas applicables dans les cas prévus à l'article L. 68.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 181 A
-	  - CGI 288 (P.)
-	  - Loi n°77-1453 1977-12-29 ART. 3 II, III
-	  - Loi n°78-1240 1978-12-29 ART. 2
-
 	**Cite**:
 
+	  - CGI L188
 	  - CGI L68
+
+	**Modifié par**:
+
+	  - Loi n°84-1208 1984-12-29 art. 105 I finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
 
 	**Cité par**:
 
@@ -9086,40 +9246,6 @@ s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur 
 	  - Livre des procédures fiscales - art. R*172 B-1 (P)
 
 
-#### CONTRIBUTIONS INDIRECTES.
-
-###### Article L178
-
-Pour les droits, taxes, redevances, soultes et autres impositions indirectes, le droit de reprise de l'administration
-s'exerce jusqu'à l'expiration de la première année suivant celle au cours de laquelle se situe le fait générateur de l'impôt.
-
-Toutefois, en ce qui concerne l'impôt sur les spectacles prévu à l'article 1559 du code général des impôts, la taxe annuelle
-sur les jeux de boules et de quilles comportant des dispositifs électromécaniques prévue à l'article 1582 bis, la taxe
-additionnelle au prix des places dans les salles de spectacles cinématographiques prévue à l'article 1621 et la taxe
-additionnelle au prix des places dans les manifestations sportives prévue à l'article 1621 bis C du même code, le droit de
-reprise de l'administration s'exerce dans le délai fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires.
-
-Des dispositions particulières, prévues aux articles 621 à 624 du code général des impôts, s'appliquent par ailleurs aux
-acquits-à-caution.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1559
-	  - CGI 1582 bis
-	  - CGI 1621
-	  - CGI 1621 bis C
-	  - CGI 621 A CGI 624
-	  - CGI L176
-
-	**Anciens textes**:
-
-	  - CGI 1969
-	  - Décret n°1er Germinal de l'An 13 art. 50
-	  - Loi n°63-1316 1963-12-27 art. 15 3 (Al. 2), art. 17 1
-
-
 #### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.
 
 ###### Article L180
@@ -9196,27 +9322,6 @@ pas applicables à l'impôt sur les grandes fortunes.
 	**Créé par**:
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
-
-#### INTERRUPTION DE LA PRESCRIPTION.
-
-###### Article L189
-
-La prescription est interrompue par la notification d'une proposition de redressement, par la déclaration ou la notification
-d'un procès-verbal, de même que par tout acte comportant reconnaissance de la part des contribuables et par tous les autres
-actes interruptifs de droit commun.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1975 AL. 1 P.)
-	  - Loi n°63-1316 1963-12-27 ART. 19 (AL. 1)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L213-11-5 (V)
-	  - Livre des procédures fiscales - art. L77 (V)
 
 
 ## CONTROLE DE L'IMPOT
@@ -9737,33 +9842,6 @@ celui de la réduction de la durée de la contrainte prévue à l'article 751 du
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L273 (M)
-
-
-#### PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT.
-
-###### Article L275
-
-La notification d'un avis de mise en recouvrement interrompt la prescription courant contre l'administration et y substitue
-la prescription décennale.
-
-Le délai de dix ans mentionné au premier alinéa est interrompu dans les conditions indiquées à l'article L. 274.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1975 (AL. 1 P., AL. 2)
-	  - Loi n°63-1316 1963-12-27 ART. 19
-
-	**Cite**:
-
-	  - CGI L274
-
-	**Cité par**:
-
-	  - Loi n°84-1208 du 29 décembre 1984 - art. 103 (V)
-	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
-	  - Livre des procédures fiscales - art. R*275-1 (Ab)
 
 
 ### LE SURSIS DE PAIEMENT.
