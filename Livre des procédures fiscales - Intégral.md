@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-10-27
+Version Consolidée au 1983-12-28
 
 # Partie législative
 
@@ -5881,6 +5881,44 @@ voir article R. 254-1).
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts.
 
+###### Article L256
+
+Un avis de mise en recouvrement est adressé par le comptable de la direction générale des impôts à tout redevable de sommes,
+droits, taxes et redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la
+date d'exigibilité.
+
+L'avis de mise en recouvrement est individuel ou collectif. Il est signé et rendu exécutoire par le directeur des services
+fiscaux. Il est adressé par lettre recommandée avec avis de réception [*condition de forme*]. S'il s'agit d'un avis collectif
+de mise en recouvrement l'envoi porte sur un extrait de cet avis. Les pouvoirs du directeur des services fiscaux sont
+également exercés, sous son autorité, par le comptable de la direction générale des impôts.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1915
+	  - CGI 1918 (P.)
+	  - Loi n°63-1316 1963-12-27 ART. 1 1
+	  - Loi n°72-1121 1972-12-20 ART. 14 III
+
+	**Modifié par**:
+
+	  - Loi n°83-1159 du 24 décembre 1983 - art. 17 () JORF 28 décembre 1983
+
+	**Cité par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
+	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
+	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
+	  - Décret n°2015-964 du 31 juillet 2015 (V)
+	  - Code des postes et des communications électronique - art. R*70-1 (Ab)
+	  - Livre des procédures fiscales - art. R*256-1 (V)
+	  - Livre des procédures fiscales - art. R*273-1 (Ab)
+	  - Livre des procédures fiscales - art. R256-8 (V)
+
+
 ###### Article L257
 
 A défaut de paiement des sommes mentionnées sur l'avis de mise en recouvrement ou de réclamation assortie d'une demande de
@@ -9222,39 +9260,6 @@ donner lieu à des frais et procédant d'une contrainte administrative [*formali
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
 	  - Livre des procédures fiscales - art. L260 (V)
-
-
-###### Article L256
-
-Un avis de mise en recouvrement est adressé par le comptable de la direction générale des impôts à tout redevable de sommes,
-droits, taxes et redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la
-date d'exigibilité.
-
-L'avis de mise en recouvrement est individuel ou collectif. Il est signé et rendu exécutoire par le directeur des services
-fiscaux. Il est adressé par lettre recommandée avec avis de réception [*condition de forme*]. S'il s'agit d'un avis collectif
-de mise en recouvrement l'envoi porte sur un extrait de cet avis.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1915
-	  - CGI 1918 (P.)
-	  - Loi n°63-1316 1963-12-27 ART. 1 1
-	  - Loi n°72-1121 1972-12-20 ART. 14 III
-
-	**Cité par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
-	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
-	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
-	  - Décret n°2015-964 du 31 juillet 2015 (V)
-	  - Code des postes et des communications électronique - art. R*70-1 (Ab)
-	  - Livre des procédures fiscales - art. R*256-1 (V)
-	  - Livre des procédures fiscales - art. R*273-1 (Ab)
-	  - Livre des procédures fiscales - art. R256-8 (V)
 
 
 #### MESURES PARTICULIERES
