@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-03-24
+Version Consolidée au 2004-03-27
 
 # Partie législative
 
@@ -1363,42 +1363,6 @@ faite par l'industriel, qu'une heure après celle fixée pour la reprise du trav
 	  - Livre des procédures fiscales - art. L29 (V)
 	  - Livre des procédures fiscales - art. R*32-1 (V)
 	  - Livre des procédures fiscales - art. R36 B-1 (M)
-
-
-###### Article L33
-
-Chez les fabricants de boissons de raisins secs, l'intervention des agents de l'administration a lieu selon le régime de la
-surveillance permanente et peut être faite pendant la nuit s'il résulte des déclarations que les établissements sont en
-activité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 354
-	  - Loi n°1816-04-28 ART. 235
-	  - Loi n°1889-07-17 ART. 12
-	  - Loi n°1890-07-26 ART. 3
-
-	**Modifié par**:
-
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - Livre des procédures fiscales - art. R36 B-1 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
 
 
 ###### Article L34
@@ -6003,26 +5967,24 @@ communication des renseignements nécessaires aux enquêtes et contrôles auxque
 ###### Article L121
 
 Les fonctionnaires chargés des fonctions de commissaire du Gouvernement auprès d'un conseil de l'ordre des experts-comptables
-peuvent recevoir de l'administration des impôts communication des renseignements nécessaires à l'accomplissement de leurs
-missions. Ces fonctionnaires peuvent communiquer aux conseils et aux chambres de discipline de l'ordre, les renseignements
-nécessaires à ces organismes pour se prononcer en connaissance de cause sur les demandes et sur les plaintes dont ils sont
-saisis concernant l'inscription au tableau, la discipline professionnelle ou l'exercice illégal de l'une des professions
-relevant de l'ordre.
+ou des commissions mentionnées aux articles 42 bis et 49 bis de l'ordonnance n° 45-2138 du 19 septembre 1945 modifiée portant
+institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable peuvent recevoir
+de l'administration des impôts communication des renseignements nécessaires à l'accomplissement de leurs missions. Ces
+fonctionnaires peuvent communiquer aux instances mentionnées ci-dessus ainsi qu'aux chambres de discipline de l'ordre, les
+renseignements nécessaires à ces organismes pour se prononcer en connaissance de cause sur les demandes et sur les plaintes
+dont ils sont saisis concernant l'inscription au tableau, la discipline professionnelle ou l'exercice illégal de la
+profession d'expert-comptable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CGI 2015
-	  - Loi n°47-520 1947-03-21 ART. 5
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 42 bis (V)
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 49 bis (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°95-1282 1995-12-11
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
+	  - Ordonnance n°2004-279 du 25 mars 2004 - art. 5 (V) JORF 27 mars 2004
 
 
 ###### Article L122
@@ -8256,7 +8218,7 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 3° Au précompte prévu à l'article 223 sexies ;
 
-4° A la taxe forfaitaire sur les plus-values de liquidation de certaines sociétés prévue à l'article 239 bis B ;
+4° (abrogé).
 
 5° (Disposition devenue sans objet : loi n° 88-1149 du 23 décembre 1988, art. 23) ;
 
@@ -8270,16 +8232,12 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 	**Cite**:
 
-	  - CGI 119 bis, 125 A, 223 sexies, 239 bis B, 1647 E
+	  - CGI 119 bis, 125 A, 223 sexies, 1647 E
 	  - Livre des procédures fiscales - art. L169 (M)
 
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 5 () JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -8288,7 +8246,7 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article L170
@@ -9121,10 +9079,12 @@ obtenir soit la réparation d'erreurs commises dans l'assiette ou le calcul des 
 résultant d'une disposition législative ou réglementaire.
 
 Relèvent de la même juridiction les réclamations qui tendent à obtenir la réparation d'erreurs commises par l'administration
-dans la détermination d'un résultat déficitaire, même lorsque ces dernières n'entraînent pas la mise en recouvrement d'une
-imposition supplémentaire. Les réclamations peuvent être présentées à compter de la réception de la réponse aux observations
-du contribuable mentionnée à l'article L. 57 ou, en cas de saisine de la commission départementale des impôts directs et des
-taxes sur le chiffre d'affaires, à compter de la notification de l'avis rendu par cette commission.
+dans la détermination d'un résultat déficitaire ou d'un excédent de taxe sur la valeur ajoutée déductible sur la taxe sur la
+valeur ajoutée collectée au titre d'une période donnée, même lorsque ces erreurs n'entraînent pas la mise en recouvrement
+d'une imposition supplémentaire. Les réclamations peuvent être présentées à compter de la réception de la réponse aux
+observations du contribuable mentionnée à l'article L. 57, ou à compter d'un délai de 30 jours après la notification prévue à
+l'article L. 76 ou, en cas de saisine de la commission départementale des impôts directs et des taxes sur le chiffre
+d'affaires, à compter de la notification de l'avis rendu par cette commission.
 
 Sont instruites et jugées selon les règles du présent chapitre toutes actions tendant à la décharge ou à la réduction d'une
 imposition ou à l'exercice de droits à déduction, fondées sur la non-conformité de la règle de droit dont il a été fait
@@ -9155,17 +9115,16 @@ postérieure au 1er janvier de la quatrième année précédant celle où la dé
 
 	**Modifié par**:
 
-	  - Loi - art. 86 () JORF 31 décembre 2002
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 28 () JORF 27 mars 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2003
-	  - TXT_ASSOCIE: Jurisprudence 2000-09-14 13O-5-00
-	  - TXT_ASSOCIE: Jurisprudence 2000-12-19 13O-7-00
+	  - HISTO: Edition du 1er janvier 2004
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L57 (M)
+	  - Livre des procédures fiscales - art. L76 (M)
 
 
 ##### Charge et administration de la preuve
@@ -11189,38 +11148,26 @@ La remise ne peut être accordée qu'après avis conforme du président de la ju
 
 ###### Article L250
 
-Les demandes présentées par les contribuables en vue d'obtenir la remise des majorations de droits prévues par les articles
-1729, dans les cas où la mauvaise foi du contribuable est établie, et 1757 du code général des impôts pour les personnes qui
-n'ont pas indiqué séparément dans leur déclaration de revenus les revenus qu'elles ont encaissés hors de France, sont
-soumises pour avis à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires lorsque ces
-majorations sont consécutives à des redressements relevant de la compétence de cette commission, telle qu'elle est définie
-aux articles L. 59 et L. 59 A.
+Les demandes présentées par les contribuables en vue d'obtenir la remise des majorations de droits prévues par l'article 1729
+du code général des impôts, dans les cas où la mauvaise foi du contribuable est établie, sont soumises pour avis à la
+commission départementale des impôts directs et des taxes sur le chiffre d'affaires lorsque ces majorations sont consécutives
+à des rectifications relevant de la compétence de cette commission, telle qu'elle est définie aux articles L. 59 et L. 59 A.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CGI 1965 G bis
-	  - Décret n°55-467 1955-04-30 ART. 10 (LOI 55-349 1955-04-02 ART. UNIQUE I b 4°)
-	  - Loi n°63-1316 1963-12-27 ART. 26 3
-
-	**Modifié par**:
-
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
+	  - CGI 1729
+	  - Livre des procédures fiscales - art. L59 (M)
+	  - Livre des procédures fiscales - art. L59 A (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 20 juillet 1984
+	  - HISTO: Edition du 1er janvier 2004
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Livre des procédures fiscales - art. L59 (M)
-	  - Livre des procédures fiscales - art. L59 A (M)
-	  - Livre des procédures fiscales 1729, L59, L59 A
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 9 () JORF 27 mars 2004
 
 
 ###### Article L251
