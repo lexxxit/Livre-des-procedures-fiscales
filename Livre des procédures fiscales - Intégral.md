@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1996-05-12
+Version Consolidée au 1997-04-11
 
 # Partie législative
 
@@ -456,6 +456,23 @@ opposables à l'administration.
 	  - Livre des procédures fiscales - art. L13 (M)
 
 
+###### Article L10 A
+
+Dans le cadre des procédures prévues au présent livre, les agents de la direction générale des impôts peuvent rechercher et
+constater les infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail, dans les conditions prévues
+par l'article L. 324-12 de ce code.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Créé par**:
+
+	  - Loi n°97-210 du 11 mars 1997 - art. 11 () JORF 12 mars 1997
+
+
 ###### Article L11
 
 A moins qu'un délai plus long ne soit prévu par le présent livre, le délai accordé aux contribuables pour répondre aux
@@ -483,14 +500,15 @@ d'un agent de l'administration des impôts est fixé à trente jours à compter 
 
 ###### Article L12
 
-L'administration des impôts peut procéder à l'examen contradictoire de l'ensemble de la situation fiscale des personnes
-physiques au regard de l'impôt sur le revenu dans les conditions prévues au présent livre.
+Dans les conditions prévues au présent livre, l'administration des impôts peut procéder à l'examen contradictoire de la
+situation fiscale des personnes physiques au regard de l'impôt sur le revenu, qu'elles aient ou non leur domicile fiscal en
+France, lorsqu'elles y ont des obligations au titre de cet impôt.
 
 A l'occasion de cet examen, l'administration peut contrôler la cohérence entre, d'une part les revenus déclarés et, d'autre
 part, la situation patrimoniale, la situation de trésorerie et les éléments du train de vie des membres du foyer fiscal.
 
-Sous peine de nullité de l'imposition, un examen contradictoire de l'ensemble de la situation fiscale personnelle ne peut
-s'étendre sur une période supérieure à un an à compter de la réception de l'avis de vérification.
+Sous peine de nullité de l'imposition, un examen contradictoire de la situation fiscale personnelle ne peut s'étendre sur une
+période supérieure à un an à compter de la réception de l'avis de vérification.
 
 Cette période est prorogée du délai accordé, le cas échéant, au contribuable et, à la demande de celui-ci, pour répondre aux
 demandes d'éclaircissements ou de justifications pour la partie qui excède les deux mois prévus à l'article L. 16 A.
@@ -505,13 +523,10 @@ occulte. Il en est de même lorsque, dans le délai initial d'un an, les article
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI L16 A, L82 C, L101
-
 	**Modifié par**:
 
-	  - Loi - art. 111 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
+	  - Loi n°96-1182 1996-12-30 art. 31 I, II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -529,7 +544,13 @@ occulte. Il en est de même lorsque, dans le délai initial d'un an, les article
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L101 (M)
+	  - Livre des procédures fiscales - art. L16 A (M)
+	  - Livre des procédures fiscales - art. L82 C (M)
 
 
 ##### 2° : Dispositions relatives aux vérifications des comptabilités
@@ -956,58 +977,6 @@ actes ou déclarations.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L55 (M)
-
-
-##### 2° : Rescrit fiscal en matière de donation d'entreprise
-
-###### Article L18
-
-Pendant un délai de six mois à compter de la date de l'enregistrement ou de l'accomplissement de la formalité fusionnée,
-l'Etat, représenté par l'Administration des Impôts, peut exercer un droit de préemption sur les immeubles, droits
-immobiliers, fonds de commerce ou clientèles, droit à un bail ou au bénéfice d'une promesse de bail portant sur tout ou
-partie d'un immeuble, dont l'administration estime le prix de vente insuffisant, en offrant de verser à l'acquéreur ou à ses
-ayants droit le montant de ce prix majoré d'un dixième.
-
-Le délai de six mois est ramené à trois mois lorsque la formalité a eu lieu au bureau de la situation des biens.
-
-La décision d'exercer le droit de préemption est notifiée à l'acquéreur, au vendeur ou à leurs ayants droit par un acte
-d'huissier de justice.
-
-L'exercice de ce droit ne fait pas obstacle à la possibilité pour l'administration d'engager, s'il y a lieu, la procédure de
-redressement contradictoire prévue par l'article L. 55.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 668
-	  - Ordonnance 45-1820 1945-08-15 ART. 64 2
-	  - Ordonnance 59-71 1959-01-07 ART. 4
-	  - Loi n°63-1316 du 27 décembre 1963 - art. 24, v. init.
-	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
-
-	**Cite**:
-
-	  - CGI L55
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 113 () JORF 31 décembre 1996
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1786 bis (M)
-	  - Livre des procédures fiscales - art. L80 CB (V)
-	  - Livre des procédures fiscales - art. R*18-1 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### 3° : Contrôle des déclarations de succession
@@ -2124,15 +2093,15 @@ pour l'exercice de leurs fonctions, toutes les fois qu'elles en sont requises.
 
 ###### Article L47
 
-Un examen contradictoire de l'ensemble de la situation fiscale personnelle d'une personne physique au regard de l'impôt sur
-le revenu ou une vérification de comptabilité ne peut être engagée sans que le contribuable en ait été informé par l'envoi ou
-la remise d'un avis de vérification.
+Un examen contradictoire de la situation fiscale personnelle d'une personne physique au regard de l'impôt sur le revenu ou
+une vérification de comptabilité ne peut être engagée sans que le contribuable en ait été informé par l'envoi ou la remise
+d'un avis de vérification.
 
 Cet avis doit préciser les années soumises à vérification et mentionner expressément, sous peine de nullité de la procédure,
 que le contribuable a la faculté de se faire assister par un conseil de son choix.
 
-L'avis envoyé ou remis au contribuable avant l'engagement d'un examen contradictoire de l'ensemble de la situation fiscale
-personnelle peut comporter une demande des relevés de compte.
+L'avis envoyé ou remis au contribuable avant l'engagement d'un examen contradictoire de la situation fiscale personnelle peut
+comporter une demande des relevés de compte.
 
 En cas de contrôle inopiné tendant à la constatation matérielle des éléments physiques de l'exploitation ou de l'existence et
 de l'état des documents comptables, l'avis de vérification de comptabilité est remis au début des opérations de constatations
@@ -2157,11 +2126,12 @@ contribuable de se faire assister par un conseil.
 
 	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 35 I Finances rectificative pour 1989, JORF 30 décembre 1989
+	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article L47 A
@@ -2242,53 +2212,98 @@ aux seules règles applicables à cette dernière (1).
 	  - Loi - art. 86 (V) JORF 5 janvier 1993
 
 
-###### Article L49
+###### Article L48
 
-Quand elle a procédé à un examen contradictoire de l'ensemble de la situation fiscale personnelle d'une personne physique au
-regard de l'impôt sur le revenu ou à une vérification de comptabilité, l'administration des impôts doit en porter les
-résultats à la connaissance du contribuable, même en l'absence de redressement.
+A l'issue d'un examen contradictoire de (M) la situation fiscale personnelle au regard de l'impôt sur le revenu ou d'une
+vérification de comptabilité, lorsque des redressements sont envisagés, l'administration doit indiquer, avant que le
+contribuable présente ses observations ou accepte les rehaussements proposés, dans la notification prévue à l'article L. 57
+le montant des droits, taxes et pénalités résultant de ces redressements.
 
-**Liens relatifs à cet article**
+Pour une société membre d'un groupe mentionné à l'article 223 A du code général des impôts, l'information prévue au premier
+alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forfaitaire annuelle, le précompte et les pénalités
+correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe.
 
-	**Anciens textes**:
+Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des rappels de droits et pénalités consécutifs aux
+redressements ou le bénéfice des dispositions visées au 3° du premier alinéa de l'article L. 247, l'administration en informe
+les contribuables dans les mêmes conditions.
 
-	  - CGI 1649 quinquies A 5 (1RE PHRASE)
-	  - Loi n°75-1278 du 30 décembre 1975 - art. 67, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 9 I B, art. 11 JORF 9 juillet 1987
-
-
-###### Article L50
-
-Lorsqu'elle a procédé à un un examen contradictoire de l'ensemble de la situation fiscale personnelle d'un contribuable au
-regard de l'impôt sur le revenu, l'administration des impôts ne peut plus procéder à des redressements pour la même période
-et pour le même impôt, à moins que le contribuable ne lui ait fourni des éléments incomplets ou inexacts.
-
-((Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A)) (M).
-
-(M) Modification de la loi 96-314. Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en
-vigueur de la loi.
+(M) Modification de la loi 96-1182.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales L188 A
+	  - CGI 223 A
+	  - Livre des procédures fiscales - art. L247 (M)
+	  - Livre des procédures fiscales - art. L57 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
-	  - SPEC_APPLI: Loi n°96-314 1996-04-12 art. 40 IV
+	  - HISTO: Edition du 11 avril 1997
 
 	**Modifié par**:
 
-	  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 40 II 1, IV JORF 13 avril 1996
+	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*256-1 (M)
+
+
+###### Article L49
+
+Quand elle a procédé à un examen contradictoire de la situation fiscale personnelle d'une personne physique au regard de
+l'impôt sur le revenu ou à une vérification de comptabilité, l'administration des impôts doit en porter les résultats à la
+connaissance du contribuable, même en l'absence de redressement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1649 quinquies A 5 (1re phrase)
+	  - Loi n°75-1278 du 30 décembre 1975 - art. 67, v. init.
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Modifié par**:
+
+	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
+
+
+###### Article L50
+
+Lorsqu'elle a procédé à un un examen contradictoire de la situation fiscale personnelle d'un contribuable au regard de
+l'impôt sur le revenu, l'administration des impôts ne peut plus procéder à des redressements pour la même période et pour le
+même impôt, à moins que le contribuable ne lui ait fourni des éléments incomplets ou inexacts.
+
+Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A (1).
+
+**Nota:**
+
+(1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en vigueur de la loi.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Modifié par**:
+
+	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L16 D (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L188 A (M)
 
 
 ###### Article L51
@@ -2395,44 +2410,6 @@ l'entrée en vigueur de la loi 94-126 du 11 février 1994.
 	  - Loi n°94-1163 du 29 décembre 1994 - art. 15 (V)
 	  - Loi - art. 15 (V)
 	  - Livre des procédures fiscales - art. L52 A (V)
-
-
-##### Garanties accordées au contribuable en matière de vérification.
-
-###### Article L48
-
-A l'issue d'un examen contradictoire de l'ensemble de la situation fiscale personnelle au regard de l'impôt sur le revenu ou
-d'une vérification de comptabilité, lorsque des redressements sont envisagés, l'administration doit indiquer, avant que le
-contribuable présente ses observations ou accepte les rehaussements proposés, dans la notification prévue à l'article L. 57
-le montant des droits, taxes et pénalités résultant de ces redressements.
-
-Pour une société membre d'un groupe mentionné à l'article 223 A du code général des impôts, l'information prévue au premier
-alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forfaitaire annuelle, le précompte et les pénalités
-correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe.
-
-Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des rappels de droits et pénalités consécutifs aux
-redressements ou le bénéfice des dispositions visées au 3° du premier alinéa de l'article L. 247, l'administration en informe
-les contribuables dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 A
-	  - CGI L247
-	  - CGI L57
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 101 () JORF 30 décembre 1989
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. R*256-1 (M)
 
 
 ##### 2° : Actes de procédure
@@ -3105,7 +3082,8 @@ déclaration, sous réserve de la procédure de régularisation prévue à l'art
 tenues de souscrire en leur qualité de redevables des taxes ;
 
 Les mêmes dispositions s'appliquent en cas d'absence de dépôt dans le délai légal des déclarations abrégées prévues à
-l'article 242 quater de l'annexe II au code général des impôts.
+l'article 242 quater de l'annexe II au code général des impôts ((ou de la déclaration prévue à l'article 302 sexies du même
+code)) (M).
 
 4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont pas déposé une déclaration ou qui n'ont pas
 présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
@@ -3114,18 +3092,19 @@ prévue à l'article L. 67 ;
 5° Aux taxes assises sur les salaires, les personnes assujetties à ces taxes qui n'ont pas déposé dans le délai légal les
 déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue l'article L. 68.
 
+(M) Modification de la loi 96-1181.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 150 S
-	  - CGI L67
-	  - CGI L68
+	  - CGI 150 S, 302 sexies
+	  - CGI Livre des procédures fiscales L67, L68
 	  - CGIAN2 242 quater
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 78 () JORF 28 décembre 1988
+	  - HISTO: Edition du 11 avril 1997
 
 	**Cité par**:
 
@@ -3136,6 +3115,10 @@ déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure 
 	  - Livre des procédures fiscales - art. L270 (V)
 	  - Livre des procédures fiscales - art. L67 (V)
 	  - Livre des procédures fiscales - art. L68 (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 116 () JORF 31 décembre 1996
 
 
 ###### Article L67
@@ -3184,8 +3167,7 @@ régularisé sa situation dans les trente jours de la notification d'une premiè
 Toutefois, il n'y a pas lieu de procéder à cette mise en demeure si le contribuable change fréquemment son lieu de résidence
 ou de principal établissement, ou a transféré son activité à l'étranger sans déposer la déclaration de ses résultats ou de
 ses revenus non commerciaux, ou ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du
-tribunal de commerce ou d'un organisme consulaire, ou si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de
-tiers.
+tribunal de commerce, ou si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers.
 
 **Liens relatifs à cet article**
 
@@ -3195,15 +3177,11 @@ tiers.
 
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 11 avril 1997
 
 	**Modifié par**:
 
-	  - Loi n°86-1317 1986-12-30 art. 81-II Finances pour 1987 JORF 31 décembre 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -3336,9 +3314,10 @@ l'article 885 X du code général des impôts en ce qui concerne l'impôt de sol
 
 Peuvent être évalués d'office :
 
-1° Le bénéfice imposable des contribuables qui perçoivent des revenus provenant d'entreprises industrielles, commerciales ou
-artisanales ou d'exploitations agricoles lorsque ces contribuables sont imposables selon un régime de bénéfice réel et que la
-déclaration annuelle des résultats n'a pas été déposée dans le délai légal ;
+((1° Le bénéfice imposable des contribuables qui perçoivent des revenus provenant d'entreprises industrielles, commerciales
+ou artisanales imposables selon le régime du forfait ou un régime de bénéfice réel, ou des revenus d'exploitations agricoles
+imposables selon un régime de bénéfice réel, lorsque la déclaration annuelle prévue à l'article 53 A ou à l'article 302
+sexies du code général des impôts n'a pas été déposée dans le délai légal ;)) (M)
 
 2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés, quel que soit
 leur régime d'imposition, lorsque la déclaration annuelle prévue à l'article 97 ou à l'article 101 du code général des impôts
@@ -3349,44 +3328,26 @@ deuxième alinéa de l'article L. 16.
 
 Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation d'office prévus aux 1° et 2°.
 
+(M) Modification de la loi 96-1181.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 101
-	  - CGI Livre des procédures fiscales 97, L16, L68
+	  - CGI 302 sexies, 101
+	  - CGI Livre des procédures fiscales 53 A, 97, L16, L68
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 104 (al. 1 sauf dernière ligne)
-	  - CGI 59
-	  - CGI 69 quater I (al. 1 P.)
-	  - Décret n°1934-07-20 annexe art. 24 (1° du L73)
-	  - Décret n°1934-07-20 annexe art. 91 (2° du L73)
-	  - Décret n°48-1986 1948-12-09 art. 85
-	  - Loi n°1934-07-06 art. 13
-	  - Loi n°1941-01-13 annexe I art. 90
-	  - Loi n°1942-10-24 art. 13
-	  - Loi n°48-809 1948-05-13 art. 9
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°70-1199 1970-12-21 art. 9 II 1
-	  - Loi n°72-1147 du 23 décembre 1972 - art. 23, v. init.
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 116 () JORF 31 décembre 1996
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
-
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81 II Finances pour 1987 JORF 31 décembre 1986, Loi 87-502 1987-07-08 art. 9 II, III JORF 9 juillet 1987
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article L74
@@ -3424,11 +3385,9 @@ Ces dispositions s'appliquent en cas d'opposition à la mise en oeuvre du contr�
 
 Les bases ou les éléments servant au calcul des impositions d'office sont portés à la connaissance du contribuable, trente
 jours au moins avant la mise en recouvrement des impositions, au moyen d'une notification qui précise les modalités de leur
-détermination. Cette notification est interruptive de prescription.
-
-Lorsque le contribuable est taxé d'office en application de l'article L. 69, à l'issue d'un examen contradictoire de
-l'ensemble de sa situation fiscale personnelle, la commission départementale des impôts directs et des taxes sur le chiffre
-d'affaires peut être saisie dans les conditions prévues à l'article L. 59.
+détermination. Cette notification est interruptive de prescription. Lorsque le contribuable est taxé d'office en application
+de l'article L. 69, à l'issue d'un examen contradictoire de sa situation fiscale personnelle, la commission départementale
+des impôts directs et des taxes sur le chiffre d'affaires peut être saisie dans les conditions prévues à l'article L. 59.
 
 La prescription des sanctions fiscales autres que celles visées au troisième alinéa de l'article L. 188 est interrompue par
 la mention portée sur la notification de redressements qu'elles pourront être éventuellement appliquées.
@@ -3437,22 +3396,10 @@ Les dispositions du présent article ne sont pas applicables dans les cas prévu
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L69, L59, L188, L67
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-
 	**Modifié par**:
 
-	  - Loi n°86-1317 1986-12-30 Finances pour 1987 JORF 31 décembre 1986
-	  - Loi n°87-502 1987-07-08 art. 9 V JORF 9 juillet 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
+	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -3470,6 +3417,17 @@ Les dispositions du présent article ne sont pas applicables dans les cas prévu
 	  - Livre des procédures fiscales - art. L76 C (V)
 	  - Livre des procédures fiscales - art. L77 (V)
 	  - Livre des procédures fiscales - art. R*256-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L188 (V)
+	  - Livre des procédures fiscales - art. L59 (M)
+	  - Livre des procédures fiscales - art. L67 (M)
+	  - Livre des procédures fiscales - art. L69 (V)
 
 
 ###### Article L76 A
@@ -3732,17 +3690,20 @@ La demande ou la notification doit être préalable à l'opération en cause et 
 précise et complète de la situation de fait.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 2°, notamment le contenu, le lieu de dépôt des
-demandes ainsi que les modalités selon lesquelles l'administration accuse réception de ces demandes et notifications.
+demandes ainsi que les modalités selon lesquelles l'administration accuse réception de ces demandes et notifications (1).
+
+((3° Lorsque l'administration n'a pas répondu dans un délai de six mois à un redevable de bonne foi qui a demandé, dans les
+mêmes conditions que celles prévues à l'avant-dernier alinéa du 2°, si son projet de dépenses de recherche est éligible au
+bénéfice des dispositions de l'article 244 quater B du code général des impôts.
+
+((Un décret en Conseil d'Etat précise les conditions d'application du présent 3°)) (M).
+
+(1) Les dispositions du 2° sont applicables aux demandes et notifications adressées à compter du 1er juillet 1996.
+
+(M) Modification de la loi 96-1181. Ces dispositions sont applicables aux demandes adressées à compter du 1er mars 1997.
+[*Cf. Instruction 1997-05-30 13L-2-97*].
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 12 I, II JORF 13 avril 1996
-
-	**Codifié par**:
-
-	  - Décret n°96-557 1996-06-21
 
 	**Cité par**:
 
@@ -3780,14 +3741,20 @@ demandes ainsi que les modalités selon lesquelles l'administration accuse réce
 	  - Livre des procédures fiscales - art. R*80 CB-5 (V)
 	  - Livre des procédures fiscales - art. R*80 CB-6 (V)
 
+	**Modifié par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 105 (V) JORF 31 décembre 1996
+
 	**Cite**:
 
 	  - CGI 39 AB, 39 quinquies D, 39 quinquies DA, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies
-	  - CGI Livre des procédures fiscales L80 A
+	  - Livre des procédures fiscales - art. L80 A (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 11 avril 1997
+	  - TXT_ASSOCIE: Instruction 1997-05-30 13L-2-97
+	  - TXT_ASSOCIE: Jurisprudence 1998-02-02 13L-3-98
 
 
 ###### Article L80 C
@@ -4856,17 +4823,37 @@ demande.
 
 ###### Article L96 A
 
-Tout organisme soumis à la loi n° 84-46 du 24 janvier 1984 ou cité à l'article 8 de ladite loi doit communiquer à
-l'administration, sur sa demande, la date et le montant des sommes transférées à l'étranger par les personnes visées au
-deuxième alinéa de l'article 1649 A du code général des impôts, l'identification de l'auteur du transfert et du bénéficiaire
-ainsi que les références des comptes concernés en France et à l'étranger.
+Tout organisme soumis à la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) ou cité à l'article 8 de ladite loi doit
+communiquer à l'administration, sur sa demande, la date et le montant des sommes transférées à l'étranger par les personnes
+visées au deuxième alinéa de l'article 1649 A du code général des impôts, l'identification de l'auteur du transfert et du
+bénéficiaire ainsi que les références des comptes concernés en France et à l'étranger.
 
 Ces dispositions s'appliquent également aux opérations effectuées pour le compte de ces personnes sur des comptes de non-
 résidents.
 
 Les dispositions de l'article L. 102 B sont applicables.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-46 1984-01-24 art. 8
+	  - CGI 1649 A
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Modifié par**:
+
+	  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 72 () JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 95 () JORF 4 juillet 1996
+	  - Loi n°96-597 du 2 juillet 1996 - art. 99 () JORF 4 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
@@ -4874,24 +4861,9 @@ Les dispositions de l'article L. 102 B sont applicables.
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 bis (M)
 	  - Code général des impôts, CGI. - art. 1735 (V)
 
-	**Cite**:
-
-	  - CGI 1649 A
-	  - CGI Livre des procédures fiscales L102 B
-	  - Loi n°84-46 1984-01-24 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°95-1282 1995-12-11
-
-	**Modifié par**:
-
-	  - Décret n°95-1282 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
-
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
-	  - TXT_ASSOCIE: Instruction 1995-11-16 13K-3-95
+	  - HISTO: Edition du 11 avril 1997
 
 
 ##### 19° : Déplacements intracommunautaires de biens. Assujettis et façonniers astreints à la tenue d'un registre des biens. Obligations du titulaire de l'entrepôt fiscal
@@ -5195,15 +5167,15 @@ mentionnée sur les livres ou registres ou de la date à laquelle les documents 
 
 Sans préjudice des dispositions du premier alinéa, lorsque les livres, registres, documents ou pièces mentionnés au premier
 alinéa sont établis ou reçus sur support informatique, ils doivent être conservés sous cette forme pendant une durée au moins
-égale au délai prévu à l'article L. 169.
+égale au délai prévu au premier alinéa de l'article L. 169.
 
 Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
 chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
 
 II. - Lorsqu'ils ne sont pas déjà visés aux alinéas précédents, les informations, données ou traitements soumis au contrôle
 prévu au deuxième alinéa de l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai
-prévu à l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des traitements doit
-être conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
+prévu au premier alinéa de l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des
+traitements doit être conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
 
 **Liens relatifs à cet article**
 
@@ -5274,11 +5246,16 @@ prévu à l'article L. 169. La documentation relative aux analyses, à la progra
 
 	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 107 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L13 (M)
+	  - Livre des procédures fiscales - art. L169 (M)
 
 
 #### Chapitre III : Le secret professionnel en matière fiscale
@@ -5289,21 +5266,14 @@ prévu à l'article L. 169. La documentation relative aux analyses, à la progra
 
 L'obligation du secret professionnel, telle qu'elle est définie aux articles 226-13 et 226-14 du code pénal, s'applique à
 toutes les personnes appelées à l'occasion de leurs fonctions ou attributions à intervenir dans l'assiette, le contrôle, le
-recouvrement ou le contentieux des impôts, droits, taxes et redevances prévus au code général des impôts.
+recouvrement ou le contentieux des impôts, droits, taxes et redevances prévus au code général des impôts. 
 
 Le secret s'étend à toutes les informations recueillies à l'occasion de ces opérations. Pour les informations recueillies à
-l'occasion d'un examen contradictoire de l'ensemble de la situation fiscale personnelle, l'obligation du secret professionnel
-nécessaire au respect de la vie privée s'impose au vérificateur à l'égard de toutes personnes autres que celles ayant, par
-leurs fonctions, à connaître du dossier.
+l'occasion d'un examen contradictoire de la situation fiscale personnelle, l'obligation du secret professionnel nécessaire au
+respect de la vie privée s'impose au vérificateur à l'égard de toutes personnes autres que celles ayant, par leurs fonctions,
+à connaître du dossier.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
 
 	**Cité par**:
 
@@ -5333,21 +5303,20 @@ leurs fonctions, à connaître du dossier.
 	  - Livre des procédures fiscales - art. R*103-1 (V)
 	  - Livre des procédures fiscales - art. R*114 A-3 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
+	  - SPEC_APPLI: Loi n°96-1182 1996-12-30 art. 31 III
+
 	**Modifié par**:
 
-	  - Loi n°92-1336 1992-12-16 art. 333, art. 372, art. 373 JORF 23 décembre 1992
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
-	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-900 1994-10-17
+	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
+	  - Code pénal - art. 226-13 (V)
 
 
 ##### 1° : Délivrance de documents aux contribuables
@@ -6876,25 +6845,27 @@ années.
 
 ###### Article L139 A
 
-La commission départementale d'examen des situations de surendettement des particuliers prévue à l'article L331-1 du code de
-la consommation peut obtenir de l'administration des impôts communication de tout renseignement de nature à lui donner une
-exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables
-en cours.
+La commission de surendettement des particuliers prévue à l'article L331-1 du code de la consommation peut obtenir de
+l'administration des impôts communication de tout renseignement de nature à lui donner une exacte information sur la
+situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables en cours.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°93-949 1993-07-26 art. 1, 2 4 JORF 27 août 1993
-	  - Loi n°93-949 du 26 juillet 1993 - art. 1 (V) JORF 27 août 1993
+	  - Loi n°95-125 du 8 février 1995 - art. 30 () JORF 9 février 1995
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°97-662 1997-05-28
 
 	**Cite**:
 
 	  - Code de la consommation - art. L331-1 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 	**Cité par**:
 
@@ -7188,25 +7159,26 @@ permanents de ces dirigeants personnes morales.
 
 ###### Article L145 D
 
-Pour l'application des articles L313-12 et L332-1 à L332-7 du code de la consommation, le juge de l'exécution peut obtenir
-communication de tout renseignement lui permettant d'apprécier la situation du débiteur et l'évolution possible de celle-ci.
+Pour l'application des articles L332-1 à L332-3 du code de la consommation, le juge de l'exécution peut obtenir communication
+de tout renseignement lui permettant d'apprécier la situation du débiteur et l'évolution possible de celle-ci.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°93-949 du 26 juillet 1993 - art. 1 (V) JORF 27 juillet 1993
-	  - Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993
-	  - Loi n°93-949 du 26 juillet 1993 - art. 4 (V) JORF 27 juillet 1993
+	  - Loi n°95-125 du 8 février 1995 - art. 31 () JORF 9 février 1995
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°97-662 1997-05-28
 
 	**Cite**:
 
-	  - Code de la consommation - art. L313-12 (M)
-	  - Code de la consommation L313-12, L332-1 à L332-7
+	  - Code de la consommation L313-1 à L332-3
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article L146
@@ -7447,7 +7419,7 @@ ou dépositaire de sommes liquides ou exigibles.
 
 ###### Article L152
 
-Les agents de l'administration des impôts peuvent communiquer aux organismes de sécurité sociale les renseignements
+((Les agents des administrations fiscales)) (M) peuvent communiquer aux organismes de sécurité sociale les renseignements
 nécessaires à l'assiette des cotisations et au calcul des prestations ainsi qu'à l'assiette et au calcul de la contribution
 sociale généralisée.
 
@@ -7456,14 +7428,21 @@ sanitaires et sociales et aux directeurs régionaux et chefs des services dépar
 sociale agricoles, les infractions qu'ils constatent en ce qui concerne l'application des lois et règlements relatifs au
 régime général ou au régime agricole de sécurité sociale.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - CGI 2020 1 3°
 	  - Loi n°52-401 du 14 avril 1952 - art. 15 ()
 	  - Décret n°77-429 du 22 avril 1977 - art. 18 (Ab)
 	  - Décret n°77-429 du 22 avril 1977 - art. 2 (Ab)
-	  - CGI 2020 1 3°
+
+	**Modifié par**:
+
+	  - Loi n°52-401 du 14 avril 1952 - art. 15 () JORF 15 avril 1952
+	  - Loi n°60-1356 1960-12-17 art. 10 JORF 18 décembre 1960
 
 	**Cité par**:
 
@@ -7490,9 +7469,13 @@ régime général ou au régime agricole de sécurité sociale.
 	  - Livre des procédures fiscales - art. R*152-1 (V)
 	  - Livre des procédures fiscales - art. R*288-1 (V)
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Loi - art. 31 () JORF 30 décembre 1990
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article L152 A
@@ -8011,45 +7994,6 @@ contraires du code général des impôts.
 	  - Livre des procédures fiscales - art. L169 (V)
 
 
-###### Article L168 A
-
-Le droit de reprise mentionné ((au premier alinéa de l' article L. 169, aux articles L. 176 et L. 180)) (M) s'exerce jusqu'à
-la fin de la quatrième année, dans le conditions prévues à ces articles :
-
-1° Aux vérifications pour lesquelles l'avis prévu à l'article L. 47 a été envoyé ou remis avant le 2 juillet 1986 ;
-
-2° Aux notifications de redressement adressées avant le 2 janvier 1987 lorsqu'elles ne sont pas consécutives à une
-vérification visée à l'article L. 47.
-
-(M) Modification.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L169, L176, L180, L47
-
-	**Codifié par**:
-
-	  - Décret n°94-900 1994-10-17
-	  - Décret n°97-662 1997-05-28
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°97-662 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 2 septembre 1994
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L169 (V)
-	  - Livre des procédures fiscales - art. L176 (V)
-
-	**Modifié par**:
-
-	  - Loi n°93-1352 1993-12-29 art. 82 VII Finances pour 1994 JORF 30 décembre 1993
-
-
 ##### Section I : Impôts directs et taxes assimilées
 
 ##### I : Impôts directs d'État
@@ -8058,28 +8002,39 @@ vérification visée à l'article L. 47.
 
 ###### Article L169
 
-Pour l'impôt sur le revenu et l'impôt sur les sociétés, le droit de reprise de l'administration des impôts s'exerce, sauf
-application de l'article L 168 A, jusqu'à la fin de la troisième année qui suit celle au titre de laquelle l'imposition est
-due.
+Pour l'impôt sur le revenu et l'impôt sur les sociétés, le droit de reprise de l'administration des impôts s'exerce jusqu'à
+la fin de la troisième année qui suit celle au titre de laquelle l'imposition est due.
 
-((Si le déficit d'ensemble ou la moins-value nette à long terme d'ensemble subis par un groupe mentionné à l'article 223 A du
+Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
+sixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé dans le délai
+légal les déclarations qu'il était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des
+entreprises ou au greffe du tribunal de commerce (1).
+
+Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules catégories de revenus que le contribuable n'a
+pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique pas lorsque des
+revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés (1).
+
+Si le déficit d'ensemble ou la moins-value nette à long terme d'ensemble subis par un groupe mentionné à l'article 223 A du
 code général des impôts sont imputés dans les conditions prévues aux articles 223 C et 223 D dudit code sur le résultat
 d'ensemble ou la plus-value nette à long terme d'ensemble réalisés au titre de l'un des exercices clos au cours de la période
-mentionnée à l'alinéa précédent, les résultats et les plus-values ou moins-values nettes à long terme réalisés par les
-sociétés de ce groupe et qui ont concouru à la détermination de ce déficit ou de cette moins-value peuvent être remis en
-cause à hauteur du montant du déficit ou de la moins-value ainsi imputés, nonobstant les dispositions prévues au premier
-alinéa.
+mentionnée au premier alinéa, les résultats et les plus-values ou moins-values nettes à long terme réalisés par les sociétés
+de ce groupe et qui ont concouru à la détermination de ce déficit ou de cette moins-value peuvent être remis en cause à
+hauteur du montant du déficit ou de la moins-value ainsi imputés, nonobstant les dispositions prévues au premier alinéa.
 
-((Si le groupe a cessé d'exister, les règles définies à l'alinéa précédent demeurent applicables au déficit ou à la moins-
-value nette à long terme définis au dernier alinéa de l'article 223 S du code général des impôts)) (M).
+Si le groupe a cessé d'exister, les règles définies au quatrième alinéa demeurent applicables au déficit ou à la moins-value
+nette à long terme définis au quatrième alinéa de l'article 223 S du code général des impôts.
 
-(M) Modification.
+(1) Ces dispositions s'appliquent aux délais venant à expiration postérieurement au 31 décembre 1996.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 82 () JORF 31 décembre 1993
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
@@ -8110,16 +8065,17 @@ value nette à long terme définis au dernier alinéa de l'article 223 S du code
 	**Cite**:
 
 	  - CGI 223 A, 223, 223 S
-	  - CGI Livre des procédures fiscales L168 A
+	  - Livre des procédures fiscales - art. L168 A (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 11 avril 1997
+	  - TXT_ASSOCIE: Instruction 1997-10-30 13L-4-97
 
 
 ###### Article L169 A
 
-Le délai de reprise prévu à l'article L. 169 s'applique également :
+Le délai de reprise prévu ((au premier alinéa de l'article L. 169)) (M) s'applique également :
 
 1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à l'article 119 bis du code général des impôts ;
 
@@ -8137,6 +8093,8 @@ Le délai de reprise prévu à l'article L. 169 s'applique également :
 
 Ainsi qu'à tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
+(M) Modification de la loi 96-1181.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -8144,25 +8102,13 @@ Ainsi qu'à tous prélèvements et taxes qui tiennent lieu de l'impôt sur le re
 	  - CGI 119 bis, 235 ter
 	  - CGI Livre des procédures fiscales L169, 125 A, 223 sexies, 239 bis B
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 1678 quater (P.)
-	  - CGI 1679 quater B (P.)
-	  - CGI 1679 ter (P.)
-	  - CGI 199 ter (P.)
-	  - CGI 239 bis B I (P.)
-	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 20, v. init.
-	  - Loi n°63-628 du 2 juillet 1963 - art. 11, v. init.
-	  - Loi n°65-566 1965-07-12 ART. 1, ART. 3
-	  - Loi n°65-566 du 12 juillet 1965 - art. 1, v. init.
-	  - Loi n°65-997 1965-11-29 ART. 57 I
-	  - Loi n°66-10 1966-01-06 ART. 39 1
-	  - Loi n°78-1239 1978-12-29 ART. 13 IV
+	  - HISTO: Edition du 11 avril 1997
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -8432,11 +8378,12 @@ Pour les impôts directs perçus au profit des collectivités locales et les tax
 divers organismes, à l'exception de la taxe professionnelle et de ses taxes additionnelles, le droit de reprise de
 l'administration des impôts s'exerce jusqu'à la fin de l'année suivant celle au titre de laquelle l'imposition est due.
 
-Toutefois, lorsque le revenu imposable ou la cotisation d'impôt sur le revenu à raison desquels le contribuable a bénéficié
-d'un dégrèvement ou d'une exonération en application des articles 1391, 1414, 1414 A, 1414 B et 1414 C du code général des
-impôts fait ultérieurement l'objet d'un rehaussement, l'imposition correspondant au montant du dégrèvement ou de
-l'exonération accordés à tort est établie et mise en recouvrement dans le même délai que l'impôt sur le revenu correspondant
-au rehaussement.
+Toutefois, ((lorsque le revenu imposable à raison duquel)) (M) le contribuable a bénéficié d'un dégrèvement ou d'une
+exonération en application des articles 1391, 1414, 1414 A, 1414 B et 1414 C du code général des impôts fait ultérieurement
+l'objet d'un rehaussement, l'imposition correspondant au montant du dégrèvement ou de l'exonération accordés à tort est
+établie et mise en recouvrement dans le même délai que l'impôt sur le revenu correspondant au rehaussement.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
@@ -8444,17 +8391,13 @@ au rehaussement.
 
 	  - CGI 1391, 1414, 1414 A, 1414 B, 1414 C
 
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
-
 	**Modifié par**:
 
-	  - Loi n°91-1322 1991-12-30 art. 21 I a, b, d Finances pour 1992 JORF 31 décembre 1992
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 8 () JORF 31 décembre 1996
 
 	**Codifié par**:
 
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
@@ -8464,19 +8407,29 @@ au rehaussement.
 	  - Code général des impôts, CGI. - art. 1395 F (VT)
 	  - Livre des procédures fiscales - art. L45 G (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
 
 ###### Article L174
 
 Les omissions ou les erreurs concernant la taxe professionnelle peuvent être réparées par l'administration jusqu'à
 l'expiration de la troisième année suivant celle au titre de laquelle l'imposition est due.
 
-((Par exception aux dispositions du premier alinéa, lorsque le chiffre d'affaires ou la valeur ajoutée à raison desquels la
+((Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
+sixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé dans le délai
+légal les déclarations qu'il était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des
+entreprises ou au greffe du tribunal de commerce)) (M).
+
+Par exception aux dispositions du premier alinéa, lorsque le chiffre d'affaires ou la valeur ajoutée à raison desquels la
 situation du contribuable a été appréciée au regard des dispositions du I de l'article 1647 E du code général des impôts sont
 affectés ultérieurement par des rehaussements effectués en matière d'impôt sur le revenu ou d'impôt sur les bénéfices, les
 cotisations de taxe professionnelle correspondantes peuvent être établies et mises en recouvrement dans le même délai que
-l'impôt sur le revenu ou l'impôt sur les bénéfices correspondant aux rehaussements)) (M).
+l'impôt sur le revenu ou l'impôt sur les bénéfices correspondant aux rehaussements.
 
-(M) Modification.
+(M) Modification de la loi 96-1181. Ces dispositions s'appliquent aux délais venant à expiration postérieurement au 31
+décembre 1996.
 
 **Liens relatifs à cet article**
 
@@ -8484,21 +8437,14 @@ l'impôt sur le revenu ou l'impôt sur les bénéfices correspondant aux rehauss
 
 	  - CGI 1647 E
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 1647 E, V, alinéa 2
+	  - HISTO: Edition du 11 avril 1997
+	  - TXT_ASSOCIE: Instruction 1997-10-30 13L-4-97
 
 	**Modifié par**:
 
-	  - Loi - art. 17 () JORF 31 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°96-557 1996-06-21
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -8542,9 +8488,15 @@ impôts.
 
 ###### Article L176
 
-Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce, sauf application de l'article L
-168 A, jusqu'à la fin de la troisième année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux
-dispositions du 2 de l'article 269 du code général des impôts.
+Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième
+année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de l'article 269 du
+code général des impôts.
+
+Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
+sixième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de
+l'article 269 du code général des impôts, lorsque le contribuable n'a pas déposé dans le délai légal les déclarations qu'il
+était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des entreprises ou au greffe du
+tribunal de commerce (1).
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
@@ -8554,15 +8506,23 @@ Dans le cas prévu au troisième alinéa du 1 du 7° de l'article 257 du code g�
 l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle intervient la délivrance du
 permis de construire ou le début des travaux.
 
+(1) Ces dispositions s'appliquent aux délais venant à expiration postérieurement au 31 décembre 1996.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 269, 257
+	  - Livre des procédures fiscales - art. L168 A (M)
 
 	**Modifié par**:
 
-	  - Loi n°91-716 du 26 juillet 1991 - art. 10 (V) JORF 27 juillet 1991, en vigueur le 29 juillet 1991, art. 10 VI
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
+	  - Décret n°97-662 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Codifié par**:
 
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
@@ -8577,14 +8537,10 @@ permis de construire ou le début des travaux.
 	  - Livre des procédures fiscales - art. L51 (VD)
 	  - Livre des procédures fiscales - art. R*172 B-1 (P)
 
-	**Cite**:
-
-	  - CGI 269 2, 257
-	  - Livre des procédures fiscales - art. L168 A (M)
-
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 11 avril 1997
+	  - TXT_ASSOCIE: Instruction 1997-10-30 13L-4-97
 
 
 ###### Article L176 A
@@ -8711,16 +8667,16 @@ peut être présentée à l'administration après expiration d'un délai de deux
 	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
 
 
-##### Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilées
+##### Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilés
 
-##### I : Dispositions générales.
+##### I : Dispositions générales
 
 ###### Article L180
 
 Pour les droits d'enregistrement, la taxe de publicité foncière, les droits de timbre, ainsi que les taxes, redevances et
-autres impositions assimilées, le droit de reprise de l'administration s'exerce, sauf application de l'article L 168 A,
-jusqu'à l'expiration de la troisième année suivant celle de l'enregistrement d'un acte ou d'une déclaration ou de
-l'accomplissement de la formalité fusionnée définie à l'article 647 du code général des impôts.
+autres impositions assimilées, le droit de reprise de l'administration s'exerce jusqu'à l'expiration de la troisième année
+suivant celle de l'enregistrement d'un acte ou d'une déclaration ou de l'accomplissement de la formalité fusionnée définie à
+l'article 647 du code général des impôts.
 
 Toutefois, ce délai n'est opposable à l'administration que si l'exigibilité des droits et taxes a été suffisamment révélée
 par le document enregistré ou présenté à la formalité, sans qu'il soit nécessaire de procéder à des recherches ultérieures.
@@ -8730,20 +8686,18 @@ par le document enregistré ou présenté à la formalité, sans qu'il soit néc
 	**Cite**:
 
 	  - CGI 647
-	  - CGI Livre des procédures fiscales L168 A
-
-	**Modifié par**:
-
-	  - Loi n°86-824 1986-07-11 art. 18 I, IV Finances rectificative pour 1986 JORF 12 juillet 1986
-	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
 
 	**Codifié par**:
 
-	  - Décret n°86-1087 1986-10-07
+	  - Décret n°97-662 1997-05-28
+
+	**Modifié par**:
+
+	  - Décret n°97-662 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 11 avril 1997
 
 	**Cité par**:
 
@@ -8752,8 +8706,6 @@ par le document enregistré ou présenté à la formalité, sans qu'il soit néc
 	  - Livre des procédures fiscales - art. L181-0 A (V)
 	  - Livre des procédures fiscales - art. L181-0 B (V)
 
-
-##### Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilés
 
 ##### II : Dispositions particulières
 
@@ -9144,8 +9096,8 @@ par l'administration incombe, en tout état de cause, à cette dernière lorsque
 juge.
 
 Elle incombe également au contribuable à défaut de comptabilité ou de pièces en tenant lieu, comme en cas de taxation
-d'office à l'issue d'un examen contradictoire de l'ensemble de la situation fiscale personnelle en application des
-dispositions des articles L. 16 et L. 69 (1).
+d'office à l'issue d'un examen contradictoire de la situation fiscale personnelle en application des dispositions des
+articles L. 16 et L. 69 (1).
 
 (1) Les dispositions du présent article sont applicables aux contentieux relatifs à des impositions établies sur le fondement
 de rectifications ou de redressement sur lesquels l'une des commissions visées à l'article L 59 a fourni un avis
@@ -9154,9 +9106,10 @@ fiscales et douanières.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Liens**:
 
-	  - CGI Livre des procédures fiscales L59, L16, L69
+	  - HISTO: Edition du 11 avril 1997
+	  - SPEC_APPLI: Loi n°96-1182 1996-12-30 art. 31 III
 
 	**Cité par**:
 
@@ -9164,7 +9117,14 @@ fiscales et douanières.
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 10 JORF 9 juillet 1987
+	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L16 (MMN)
+	  - Livre des procédures fiscales - art. L59 (M)
+	  - Livre des procédures fiscales - art. L69 (V)
 
 
 ###### Article L193
@@ -9358,45 +9318,47 @@ dispositions de l'article L. 45 A sont applicables dans les mêmes conditions.
 
 En matière d'impôts directs et de taxes sur le chiffre d'affaires ou de taxes assimilées, les décisions rendues par
 l'administration sur les réclamations contentieuses et qui ne donnent pas entière satisfaction aux intéressés peuvent être
-portées devant le tribunal administratif. ((Il en est de même pour les décisions intervenues en cas de contestation pour la
+portées devant le tribunal administratif. Il en est de même pour les décisions intervenues en cas de contestation pour la
 fixation du montant des abonnements prévus à l'article 1700 du code général des impôts pour les établissements soumis à
-l'impôt sur les spectacles.)) (1).
+l'impôt sur les spectacles. 
 
 En matière de droits d'enregistrement, de taxe de publicité foncière, de droits de timbre, de contributions indirectes et de
 taxes assimilées à ces droits, taxes ou contributions, le tribunal compétent est le tribunal de grande instance. Les
-jugements des tribunaux de grande instance sont sans appel et ne peuvent être attaqués que par voie de cassation.
+tribunaux de grande instance statuent en premier ressort. Un décret en Conseil d'Etat fixe les modalités d'application (1). 
 
-(1) Modification de la loi 93-1352, applicable à compter du 1er août 1994.
+(1) Ces dispositions s'appliquent aux jugements rendus à compter du 1er mars 1998.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1404, 1700
-
 	**Anciens textes**:
 
-	  - CGI 1939 1 (AL. 1 1ERE A 5EME LIGNES, AL. 2)
-	  - CGI 1946 1 (SAUF 2 DERNIERES LIGNES)
-	  - CGI 1950
-	  - Décret-loi 1937-07-19 ART. 41 (LOI 1934-07-06 ART. 13)
-	  - Loi n°1927-12-27 ART. 12 (AL. 1)
-	  - Loi n°1928-12-30 ART. 17 (AL. 2)
-	  - Loi n°1941-12-31 ART. 8
-	  - Loi n°63-1316 1963-12-27 ART. 3 3, ART. 10 1 (AL. 1)
+	  - CGI 1939 1 (al. 1 1ère à 5ème lignes, al. 2), 1946 1 (sauf 2 dernières lignes), 1950
+	  - Décret-loi 1937-07-19 art. 41
+	  - Loi n°1927-12-27 art. 12 (al. 1)
+	  - Loi n°1928-12-30 art. 17 (al. 2)
+	  - Loi n°1934-07-06 art. 13
+	  - Loi n°1941-12-31 art. 8
+	  - Loi n°63-1316 1963-12-27 art. 3 3, art. 10 1 (al. 1)
 
 	**Codifié par**:
 
-	  - Décret n°94-900 1994-10-17
+	  - Décret n°97-662 1997-05-28
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1700 (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
+	  - TXT_ASSOCIE: Instruction 1998-03-21 13O-3-98
+	  - TXT_ASSOCIE: Jurisprudence 2000-05-24 13O-3-00
+	  - TXT_ASSOCIE: Jurisprudence 2000-10-04 13O-6-00
+	  - TXT_ASSOCIE: Jurisprudence 2001-04-17 13O-2-01
+	  - TXT_ASSOCIE: Jurisprudence 2001-04-20 7A-1-01
 
 	**Modifié par**:
 
-	  - Loi n°93-1352 1993-12-30 art. 85 II 3, V Finances pour 1994 JORF 31 décembre 1993
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 85 (V) JORF 31 décembre 1993
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 112 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -9432,22 +9394,20 @@ jugées en séances publiques.
 
 L'administration, ainsi que le contribuable dans la limite du dégrèvement ou de la restitution sollicités, peuvent faire
 valoir tout moyen nouveau, tant devant le tribunal administratif que devant la cour administrative d'appel, jusqu'à la
-clôture de l'instruction. Il en est de même devant le tribunal de grande instance.
+clôture de l'instruction. Il en est de même devant le tribunal de grande instance et la cour d'appel (1).
+
+(1) La disposition de cette deuxième phrase est applicable aux jugements rendus à compter du 1er mars 1998. Un décret en
+Conseil d'Etat fixera les modalités d'application.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juillet 1988
+	  - HISTO: Edition du 11 avril 1997
 
 	**Modifié par**:
 
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 93 () JORF 31 décembre 1987
-	  - Loi n°87-1127 du 31 décembre 1987 - art. 14 () JORF 1er janvier 1988
-
-	**Codifié par**:
-
-	  - Décret n°88-1002 1988-10-20
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 112 (V) JORF 31 décembre 1996
 
 
 ##### B : Procédure devant le tribunal administratif.
@@ -10080,27 +10040,16 @@ cas, lorsque leur présentation volontaire à la formalité intervient à compte
 ###### Article L219
 
 Afin de conserver la preuve des infractions constatées en matière de timbre, les agents habilités à rédiger les procès-
-verbaux sont autorisés à retenir tous les actes, registres, effets de commerce, quittances ou autres pièces contrevenant aux
-règles légales en cette matière, qui leur sont présentés, pour les joindre aux procès-verbaux. Toutefois cette procédure
-n'est pas appliquée si les personnes en infraction consentent à signer les procès-verbaux ou à acquitter sur le champ le
-droit de timbre et l'amende encourue.
+verbaux sont autorisés à retenir tous les actes, registres, quittances ou autres pièces contrevenant aux règles légales en
+cette matière, qui leur sont présentés, pour les joindre aux procès-verbaux. Toutefois cette procédure n'est pas appliquée si
+les personnes en infraction consentent à signer les procès-verbaux ou à acquitter sur le champ le droit de timbre et l'amende
+encourue.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1887
-	  - CGI 1889 (2ème, 3ème lignes)
-	  - Loi n°13 Brumaire AN VII art. 31
-	  - Loi n°1871-08-23 art. 23
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
 
 
 ###### Article L220
@@ -10892,7 +10841,7 @@ fraude.
 ###### Article L246
 
 Les infractions aux règles de la facturation constatées dans les conditions prévues aux articles 45, premier alinéa, 46 et 47
-de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence sont poursuivies
+de l'ordonnance n° 86-1243 modifiée du 1er décembre 1986 relative à la liberté des prix et de la concurrence sont poursuivies
 pénalement dans le délai le plus bref selon les procédures de la comparution immédiate, de l'information ou de la citation
 directe.
 
@@ -10900,8 +10849,12 @@ directe.
 
 	**Anciens textes**:
 
-	  - CGI 1751 1 (1RE PHRASE)
-	  - Loi n°52-401 1952-04-14 ART. 49
+	  - CGI 1751 1 (1re phrase)
+	  - Loi n°52-401 1952-04-14 art. 49
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 	**Cite**:
 
@@ -10911,7 +10864,27 @@ directe.
 
 	**Modifié par**:
 
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 60 () JORF 9 décembre 1986
+	  - Loi n°96-588 du 1 juillet 1996 - art. 1 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 10 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 11 (V) JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 12 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 13 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 14 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 15 (V) JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 16 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 17 (V) JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 2 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 3 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 4 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 5 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 6 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 7 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 8 () JORF 3 juillet 1996, loi "Galland"
+	  - Loi n°96-588 du 1 juillet 1996 - art. 9 () JORF 3 juillet 1996, loi "Galland"
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
@@ -13656,40 +13629,6 @@ conditions prévues au présent livre.
 	  - Livre des procédures fiscales - art. L45 D (M)
 
 
-###### Article R45 E-1
-
-Les agents du ministère chargé de l'emploi peuvent procéder à la constatation et la vérification sur place des conditions
-auxquelles est subordonné l'octroi du crédit d'impôt pour accroissement de la durée d'utilisation des équipements et
-réduction de la durée hebdomadaire du travail mentionné à l'article L45 E et des éléments servant à son calcul.
-
-Les entreprises sont alors tenues de présenter tous documents et de laisser procéder à toutes constatations matérielles.
-
-Les conclusions des contrôles sont communiquées à l'entreprise et à l'administration des impôts qui les notifie dans les
-conditions prévues au présent livre.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L45 D
-
-	**Créé par**:
-
-	  - Décret n°90-607 du 12 juillet 1990 - art. 10 (V) JORF 13 juillet 1990
-	  - Décret n°90-607 du 12 juillet 1990 - art. 11 () JORF 13 juillet 1990
-
-	**Codifié par**:
-
-	  - Décret n°91-882 1991-09-09
-	  - Décret n°97-662 1997-05-28
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°97-662 du 28 mai 1997 - art. 2 () JORF 1er juin 1997
-	  - HISTO: Edition du 11 avril 1997
-	  - HISTO: Edition du 24 juin 1991
-
-
 ##### Section IV : Procédures de rectification
 
 ##### I : Procédure de rectification contradictoire
@@ -14094,6 +14033,118 @@ litige soit soumis à l'avis du comité consultatif pour la répression des abus
 	  - Livre des procédures fiscales - art. L64 (M)
 
 
+##### Section VI : Conséquences et limites des procédures de rectification
+
+###### Article R*80 B-1
+
+La demande d'agrément visée au a du 2° de l'article L. 80 B ou la notification visée au b du 2° du même article précise le
+nom ou la raison sociale et l'adresse de son auteur et indique les dispositions législatives dont l'entreprise entend
+bénéficier. Elle fournit une présentation précise et complète de la situation de fait et est établie conformément au modèle
+fixé par arrêté du ministre chargé du budget. Ce modèle énonce, le cas échéant en distinguant selon les dispositions
+concernées, les catégories d'informations nécessaires pour permettre à l'administration d'apprécier si les conditions
+requises par la loi pour le bénéfice de l'avantage en cause sont effectivement remplies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (M)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 B-10 (P)
+	  - Livre des procédures fiscales - art. R*80 B-2 (V)
+	  - Livre des procédures fiscales - art. R*80 B-3 (V)
+	  - Livre des procédures fiscales - art. R*80 B-5 (V)
+	  - Livre des procédures fiscales - art. R*80 B-7 (V)
+
+
+###### Article R*80 B-2
+
+La demande d'agrément ou la notification mentionnée à l'article R. 80 B-1 est adressée, par pli recommandé avec demande
+d'avis de réception postal, selon le cas au ministre chargé du budget ou à la direction des services fiscaux dont dépend le
+service auprès duquel le contribuable est tenu de souscrire ses déclarations de résultats ; elle peut également faire l'objet
+d'un dépôt contre décharge.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 B-15 (V)
+	  - Livre des procédures fiscales - art. R*80 B-3 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales R80 B-1
+
+
+###### Article R*80 B-3
+
+Si la demande d'agrément ou la notification mentionnée à l'article R.[* 80 B-1 est incomplète au regard des dispositions de
+cet article, le ministre ou le directeur invite son auteur, par lettre recommandée avec demande d'avis de réception postal, à
+fournir les éléments complémentaires nécessaires. Ces éléments sont produits dans les conditions prévues à l'article R.*] 80
+B-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 B-4 (V)
+	  - Livre des procédures fiscales - art. R*80 B-5 (V)
+	  - Livre des procédures fiscales - art. R*80 B-7 (V)
+	  - Livre des procédures fiscales - art. R*80 B-8 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales R80 B-1, R80 B-2
+
+
+###### Article R*80 B-4
+
+Le délai de trois mois prévu au 2° de l'article L. 80 B court à compter de la réception de la demande d'agrément ou de la
+notification ou, si les dispositions de l'article R. 80 B-3 ont été mises en oeuvre, à compter de la réception des
+compléments demandés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (M)
+	  - Livre des procédures fiscales L80 B, R80 B-3
+
+
 #### Chapitre I bis : Le droit d'enquête
 
 ###### Article R80 F-1
@@ -14169,6 +14220,44 @@ de déclaration ou d'exercice de l'activité, pour toute la période visée à l
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L102 B (VD)
+
+
+#### Chapitre I ter : Le droit de contrôle des entrepôts
+
+###### Article R80 K
+
+Le droit de contrôle défini aux articles L. 80 K et L. 80 L peut être exercé par les fonctionnaires de la direction générale
+des impôts appartenant à des corps des catégories A et B et agissant soit dans le ressort territorial du service auquel ils
+sont affectés, soit dans l'ensemble de la région Ile-de-France lorsqu'ils exercent leurs fonctions dans un département situé
+dans cette région.
+
+Les fonctionnaires visés au premier alinéa peuvent se faire assister par tout autre fonctionnaire de la direction générale
+des impôts, affecté ou non dans le ressort territorial du même service et appartenant à des corps de catégories A et B.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-537 du 12 juin 1996 - art. 1 () JORF 19 juin 1996
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 5 () JORF 2 avril 2003
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 K (V)
+	  - Livre des procédures fiscales - art. L80 L (P)
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R80 K-1
 
 
 #### Chapitre II : Le droit de communication
@@ -14459,14 +14548,17 @@ obligations définies à l'article R. 87-1.
 ###### Article R*94-1
 
 En application de l'article L. 94, toute personne qui fait commerce habituel de recueillir les offres et les demandes de
-valeurs mobilières doit, à toute demande des agents de l'administration, représenter les bordereaux des sociétés de bourse ou
-faire connaître les numéros et les dates des bordereaux ainsi que les noms des sociétés de bourse de qui ils émanent.
+valeurs mobilières doit, à toute demande des agents de l'administration, représenter les bordereaux des prestataires de
+services d'investissement ou faire connaître les numéros et les dates des bordereaux ainsi que les noms des prestataires de
+services d'investissement de qui ils émanent.
+
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 11 I de la loi n° 2007-1822 du 24 décembre 2007.
+
+_
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L94
 
 	**Anciens textes**:
 
@@ -14474,11 +14566,19 @@ faire connaître les numéros et les dates des bordereaux ainsi que les noms des
 
 	**Modifié par**:
 
-	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
 
 	**Codifié par**:
 
-	  - Décret n°88-1002 1988-10-20
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - PERIME: Décret n°2008-295 du 1er avril 2008 - art. 2
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L94
 
 
 ##### 20° : Etablissements, personnes et sociétés tenant le compte des opérations réalisées par leurs clients sur un MATIF, sur un MONEP, sur un FCIMT, ou tenant le compte des opérations sur bons d'option
@@ -16629,79 +16729,216 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 
 Font l'objet d'un remboursement les frais suivants :
 
-NATURE DES GARANTIES CONSTITUEES / NATURE DES FRAIS :
+<table>
+  <tbody>
+    <tr>
+      <td width="340">
 
-1° CREANCES SUR LE TRESOR :
+NATURE DES GARANTIES CONSTITUEES
 
-a) Créances sur le Trésor proprement dites :
+</td>
+      <td width="340">
+
+NATURE DES FRAIS
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
+1° CREANCES SUR LE TRESOR : 
+
+</td>
+      <td width="340" valign="top">
+    </td></tr>
+    <tr>
+      <td width="340" valign="top" rowspan="2">
+
+a) Créances sur le Trésor proprement dites
+
+</td>
+      <td width="340" valign="top">
 
 Frais de timbre de dimension du nantissement constitué au profit du Trésor.
 
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
 Frais de signification de ce nantissement au comptable payeur par huissier de justice.
 
-b) Dépôts de fonds dans les trésoreries générales.
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
 
-Frais de timbre de dimension  de l'engagement souscrit par le contribuable au profit du Trésor.
+b) Dépôts de fonds dans les trésoreries générales
 
-2° CAUTIONNEMENT : 
+</td>
+      <td valign="top" width="340">
 
-Frais de timbre de dimension de l'acte sous seing privé.
+Frais de timbre de dimension de l'engagement souscrit par le contribuable au profit du Trésor.
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="340" valign="top">
+
+2° CAUTIONNEMENT
+
+</td>
+      <td width="340" valign="top">
+
+Frais de timbre de dimension de l'acte sous seing privé. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
 
 Rémunération demandée par la caution, dans une limite fixée par arrêté.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 Le cas échéant, frais de constitution de garanties au profit de la caution : les frais à rembourser ne peuvent pas excéder
 ceux qui auraient été exposés si les garanties avaient été constituées au profit du Trésor.
 
-3° VALEURS MOBILIERES :
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
 
-a) Dans tous les cas :
+3° VALEURS MOBILIERES : 
+
+</td>
+      <td valign="top" width="340">
+    </td></tr>
+    <tr>
+      <td valign="top" width="340">
+
+a) Dans tous les cas
+
+</td>
+      <td width="340" valign="top">
 
 Frais de l'acte de nantissement, s'il s'agit de valeurs au porteur 
 
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
 b) Titres déposés à la caisse du comptable chargé du recouvrement
 
-Frais d'envoi des titres à la trésorerie générale.
+</td>
+      <td valign="top" width="340">
 
-c) Titres déposés dans une banque :
+Frais d'envoi des titres à la trésorerie générale. 
 
-Frais réclamés par la banque (droit de garde, frais de transport des titres de l'agence au lieu de conservation).
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
-4° MARCHANDISES DEPOSEES DANS DES MAGASINS AGREES PAR L'ETAT ET FAISANT L'OBJET D'UN WARRANT ENDOSSE A L'ORDRE DU TRESOR :
+c) Titres déposés dans une banque
 
-Frais de magasinage, débours (prime d'assurance, d'incendie).
+</td>
+      <td valign="top" width="340">
 
-Timbre des effets de commerce auquel est soumis le warrant.
+Frais réclamés par la banque (droit de garde, frais de transport des titres de l'agence au lieu de conservation). 
 
-5° AFFECTATIONS HYPOTHECAIRES :
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
-Frais de timbre du contrat de constitution d'hypothèque, émolument du notaire rédacteur de l'acte.
+4° MARCHANDISES DEPOSEES DANS DES MAGASINS AGREES PAR L'ETAT ET FAISANT L'OBJET D'UN WARRANT ENDOSSE A L'ORDRE DU TRESOR
+
+</td>
+      <td width="340" valign="top">
+
+Frais de magasinage, débours (prime d'assurance, d'incendie). 
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="3" valign="top" width="340">
+
+5° AFFECTATIONS HYPOTHECAIRES
+
+</td>
+      <td width="340" valign="top">
+
+Frais de timbre du contrat de constitution d'hypothèque, émolument du notaire rédacteur de l'acte. 
+
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
 
 Droits d'enregistrement de l'acte. Salaire du conservateur des hypothèques.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 En cas de radiation de l'inscription : salaire du conservateur des hypothèques, frais de mainlevée notariée de l'inscription
 s'il y a lieu.
 
-6° NANTISSEMENT DE FONDS DE COMMERCE :
+</td>
+    </tr>
+    <tr>
+      <td width="340" rowspan="3" valign="top">
 
-Frais de timbre du contrat de nantissement. Droit d'enregistrement de l'acte.
+6° NANTISSEMENT DE FONDS DE COMMERCE
+
+</td>
+      <td valign="top" width="340">
+
+Frais de timbre du contrat de nantissement. Droit d'enregistrement de l'acte. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="340">
 
 Frais d'inscription et salaire du greffier du tribunal de commerce.
 
+</td>
+    </tr>
+    <tr>
+      <td width="340" valign="top">
+
 En cas de radiation de l'inscription : frais de radiation, salaire du greffier.
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: CGI R208-5, R208-6
+	  - TXT_ASSOCIE: CGI Livre des procédures fiscales R208-5, R208-6
+	  - HISTO: Edition du 11 avril 1997
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°89-948 du 22 décembre 1989 - art. 16 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990 : modification de la table des matières
+	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. A208-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-1181 1996-12-31 art. 38 Finances pour 1997 JORF 31 décembre 1996
 
 
 ###### Article R*208-5
@@ -17379,17 +17616,22 @@ d) Au ministre, après avis du comité précité, dans les autres cas.
 En matière de contributions indirectes la décision sur les demandes tendant à obtenir une transaction, remise ou modération
 appartient :
 
-a) Au directeur régional des douanes et droits indirects lorsque les droits ou la valeur qui servent de base au calcul des
-pénalités ou, en l'absence d'une telle base, le montant des amendes n'excède pas 750.000 F et qu'en outre le montant des
-droits effectivement fraudés ne dépasse pas le quart de ce chiffre ;
+1° Le a est remplacé par les dispositions suivantes :
 
-b) Au directeur général des douanes  et droits indirects, après avis du comité du contentieux fiscal, douanier et des
-changes, quel que soit le montant des amendes, lorsque le montant des droits effectivement fraudés ne dépasse pas 350.000 F ;
+((a) Au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas)) (M), lorsque
+les droits ou la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes
+n'excède pas 750.000 F et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ;
+
+((b) Au directeur général des impôts ou au directeur général des douanes et droits indirects, selon le cas)) (M), après avis
+du comité du contentieux fiscal, douanier et des changes, quel que soit le montant des amendes, lorsque le montant des droits
+effectivement fraudés ne dépasse pas 350.000 F ;
 
 c) Au ministre, après avis du comité précité, dans les autres cas.
 
 Lorsqu'une action judiciaire est mise en mouvement comme il est prévu à l'article L. 249 le comité du contentieux fiscal,
 douanier et des changes n'est pas saisi.
+
+(M) Modification du décret.
 
 **Liens relatifs à cet article**
 
@@ -17397,15 +17639,14 @@ douanier et des changes n'est pas saisi.
 
 	  - CGI Livre des procédures fiscales L249
 
-	**Anciens textes**:
-
-	  - CGIAN3 419 A
-	  - Décret n°80-591 du 24 juillet 1980 - art. 2 (V)
-
 	**Modifié par**:
 
-	  - Décret n°93-10 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Décret n°97-160 du 20 février 1997 - art. 1 () JORF 22 février 1997
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 3, art. 13
+	  - HISTO: Edition du 11 avril 1997
 
 	**Cité par**:
 
@@ -17518,9 +17759,9 @@ comporte l'indication qu'elle a été prise après avis du comité.
 
 ###### Article R*247-17
 
-En application de l'article 24 de la loi n° 85-98 du 25 janvier 1985,des remises, modérations ou transactions portant sur les
-créances fiscales peuvent être accordées, dans les limites et conditions fixées par l'article L247, aux entreprises soumises
-à la procédure de redressement ou de liquidation judiciaires.
+En application de l'article 24 modifié de la loi n° 85-98 du 25 janvier 1985,des remises, modérations ou transactions portant
+sur les créances fiscales peuvent être accordées, dans les limites et conditions fixées par l'article L247, aux entreprises
+soumises à la procédure de redressement ou de liquidation judiciaires.
 
 Dans le régime général du redressement judiciaire, l'administration statue sur les demandes écrites des représentants des
 créanciers dans le délai de six semaines suivant la date de leur présentation. Ce délai est porté à huit semaines lorsque
@@ -17536,14 +17777,21 @@ Le défaut de réponse de l'administration dans les délais impartis vaut rejet 
 
 	**Cite**:
 
-	  - CGI L247
-	  - CGI R247-12
-	  - CGI R247-13
-	  - Loi n°85-98 1985-01-25 art. 24
+	  - Loi n°85-98 1985-01-25
+	  - Livre des procédures fiscales - art. L247 (M)
+	  - Livre des procédures fiscales L247, R247-12, R247-13
+
+	**Modifié par**:
+
+	  - Loi n°94-678 du 8 août 1994 - art. 14 () JORF 10 août 1994
 
 	**Codifié par**:
 
-	  - Décret n°87-941 1987-11-23
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article R247-2
@@ -17605,30 +17853,40 @@ d) Au ministre, après avis du comité précité, dans les autres cas.
 
 Le directeur général des impôts ou le directeur régional des douanes et droits indirects, selon le cas, se prononce sur les
 demandes de remises, modérations ou transactions qui relèveraient normalement de la compétence du ministre, lorsqu'elles sont
-présentées dans les conditions prévues à l'article 24 de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
-liquidation judiciaires des entreprises (1).
+présentées dans les conditions prévues à l'article 24 ((modifié)) (M) de la loi n° 85-98 du 25 janvier 1985 relative au
+redressement et à la liquidation judiciaires des entreprises (1).
+
+(M) Modification.
 
 (1) Dans les conditions prévues à l'article 69 de la loi n° 67-563 du 13 juillet 1967 pour les procédures ouvertes avant le
 1er janvier 1986.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGIAN3 419 B
+	  - Décret n°98-401 1998-04-22
+
+	**Abrogé par**:
+
+	  - Décret n°98-401 1998-04-22 art. 2 JORF 24 mai 1998
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 22 avril 1998
 
 	**Cite**:
 
 	  - Loi n°67-563 du 13 juillet 1967 - art. 69 (Ab)
 	  - Loi n°85-98 1985-01-25 art. 24
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-10 du 4 janvier 1993 - art. 4 (V) JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
+	  - Loi n°94-678 du 8 août 1994 - art. 14 () JORF 10 août 1994
+	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
+	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
 
 
 ###### Article R247-7
@@ -17797,6 +18055,129 @@ c) Au ministre, dans les autres cas.
 	**Cité par**:
 
 	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+
+##### Les taxes d'urbanisme
+
+###### Article R*251 A-1
+
+La remise gracieuse des pénalités liquidées à défaut de paiement à la date d'exigibilité des taxes, versements et
+participations mentionnés à l'article L. 251 A peut être totale ou partielle.
+
+Elle est subordonnée au paiement intégral de ces taxes, versements et participations et peut être assortie de conditions
+relatives au paiement du principal fixées par l'assemblée délibérante de la collectivité territoriale ou de l'établissement
+public bénéficiaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-628 du 15 juillet 1996 - art. 1 (V) JORF 17 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L251 A (M)
+
+
+###### Article R*251 A-2
+
+La proposition de décision formulée par le comptable chargé du recouvrement est motivée. Y sont joints la demande de remise
+des pénalités formulée par le redevable et un bordereau de la situation du recouvrement indiquant les dates et montants des
+recouvrements opérés sur les taxes, versements et participations, les dates et montants des pénalités appliquées, les dates
+des tentatives de recouvrement amiable ou forcé effectuées par le comptable au titre de ces pénalités, et le montant des
+recouvrements obtenus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-628 du 15 juillet 1996 - art. 2 (V) JORF 17 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article R*251 A-3
+
+Il ne peut être accordé de remise gracieuse pour un montant inférieur à celui fixé par l'article 1965 L du code général des
+impôts. Ce montant s'apprécie par taxe, versement ou participation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1965 L
+
+	**Créé par**:
+
+	  - Décret n°96-628 du 15 juillet 1996 - art. 3 (V) JORF 17 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
+
+
+###### Article R*251 A-4
+
+Les décisions des collectivités territoriales ou établissements publics sont transmises au comptable chargé du recouvrement
+pour notification au débiteur.
+
+L'absence de décision dans un délai de quatre mois à compter de la réception de la proposition du comptable vaut rejet de la
+demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-628 du 15 juillet 1996 - art. 4 (V) JORF 17 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
+
+
+###### Article R*251 A-5
+
+Les frais d'assiette et de recouvrement perçus par l'Etat sur les pénalités remises ne sont pas restitués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°96-628 du 15 juillet 1996 - art. 5 (V) JORF 17 juillet 1996
+
+	**Codifié par**:
+
+	  - Décret n°97-662 1997-05-28
+
+	**Abrogé par**:
+
+	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 
 ### Titre IV : Le recouvrement de l'impôt
@@ -18937,8 +19318,8 @@ lieu.
 
 ###### Article A47 A-1
 
-Les copies mentionnées au quatrième alinéa de l'article L. 47 A présentent des fichiers "à plat", à organisation séquentielle
-et structure zonée.
+I. Les copies mentionnées au quatrième alinéa de l'article L. 47 A présentent des fichiers "à plat", à organisation
+séquentielle et structure zonée.
 
 II. Les entreprises peuvent choisir l'une des normes suivantes :
 
@@ -18946,10 +19327,10 @@ II. Les entreprises peuvent choisir l'une des normes suivantes :
 600-6250 BPI (densité des informations sur la bande), à étiquetage normalisé et sans indicateur de séquence de bloc.
 
 2. Fichiers ASCII sur disquettes magnétiques de format 3 1/2 pouces ou 5 1/4 pouces à simple, double ou haute densité
-d'enregistrement, formatées sous MS/DOS (système d'exploitation).
+d'enregistrement, ou sur disques optiques compacts, formatés sous MS/DOS (système d'exploitation).
 
 Les séparateurs d'article et de champ sont respectivement les caractères Line Feed et Shift Out représentés en ASCII sous la
-forme hexadécimale (OA) 16 et (OE) 16.
+forme hexadécimale (0A) 16 et (0E) 16.
 
 III. Le format des données doit être conforme aux spécifications suivantes :
 
@@ -18965,13 +19346,13 @@ Les dates sont exprimées au format AAMMJJ sans séparateur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté 1991-09-13 art. 1, art. 2, art. 3 JORF 20 septembre 1991
+	  - Arrêté 1996-12-31 art. 1 JORF 10 janvier 1997
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Arrêté 1992-08-27
+	  - HISTO: Edition du 11 avril 1997
 
 	**Cité par**:
 
@@ -18984,23 +19365,35 @@ Les dates sont exprimées au format AAMMJJ sans séparateur.
 
 ###### Article A85-1
 
-Les directeurs, entrepreneurs, propriétaires d'établissements mentionnés à l'article 1563, deuxième alinéa, du code général
+Les directeurs, entrepreneurs, propriétaires d'établissements mentionnés à l'article 1563, troisième alinéa, du code général
 des impôts, dans lesquels il est d'usage de consommer mais pour lesquels soit il n'est pas exigé de prix d'entrée, soit le
 prix d'entrée est inférieur au montant de la première consommation, sont tenus de présenter leurs registres de comptabilité
 ou leurs livres à la première demande des agents du service des douanes et droits indirects chargés de percevoir l'impôt sur
 les spectacles. Ils doivent justifier toutes les inscriptions portées sur ces documents ainsi que, d'une manière générale,
 toutes les opérations effectuées.
 
+**Nota:**
+
+Modification effectuée en conséquence de la loi n° 2014-1654 du 29 décembre 2014, article 21-I (3°)). Cet article devient
+sans objet.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 1993-01-04 art. 4 JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 41 (V) JORF 31 décembre 1996
+
+	**Liens**:
+
+	  - PERIME: Arrêté du 3 juin 2015 - art. 1
+
+	**Codifié par**:
+
+	  - Arrêté 1997-05-28
 
 	**Cite**:
 
-	  - CGI 1563 al. 2
+	  - Code général des impôts, CGI. - art. 1563
 
 	**Cité par**:
 
@@ -19294,18 +19687,27 @@ des avances.
 Les autres valeurs mobilières cotées en bourse, les parts de fonds communs de placement autres que ceux prévus par la loi n°
 83-1 du 3 janvier 1983 et les actions de Sicav composées au moins pour moitié de valeurs françaises de première catégorie ou
 de valeur assimilées et gérées par la Caisse des dépôts et consignations ou un établissement de crédit agréé en qualité de
-banque par le comité des établissements de crédit sont admises pour une valeur égale à 60 p. 100 du dernier cours pour les
-valeurs cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et pour les actions de Sicav.
+banque par le Comité des établissements de crédit et des entreprises d'investissement sont admises pour une valeur égale à 60
+p. 100 du dernier cours pour les valeurs cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et
+pour les actions de Sicav.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Arrêté 1987-10-15 art. 1 JORF 23 octobre 1987
+	  - Arrêté 1997-05-28
+
+	**Liens**:
+
+	  - HISTO: Edition du 11 avril 1997
 
 	**Cite**:
 
 	  - Loi n°83-1 1983-01-03
+
+	**Modifié par**:
+
+	  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
 
 	**Cité par**:
 
