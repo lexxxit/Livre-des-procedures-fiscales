@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-03-31
 
 # Partie législative
 
@@ -242,6 +242,33 @@ par l'article L. 324-12 de ce code.
 	**Créé par**:
 
 	  - Loi n°97-210 du 11 mars 1997 - art. 11 () JORF 12 mars 1997
+
+
+###### Article L10 B
+
+En outre, les agents de la direction générale des impôts concourent à la recherche des infractions réprimées par les articles
+222-38, 222-39-1, 225-5, 225-6, 321-1, deuxième alinéa, et 321-6 du code pénal dans le cadre des enquêtes menées sur
+instructions du procureur de la République. A cette fin, ils procèdent à des recherches de nature fiscale permettant de
+contribuer à la preuve desdites infractions. Ils en portent le résultat à la connaissance du procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-1062 du 15 novembre 2001 - art. 59 () JORF 16 novembre 2001
+
+	**Cite**:
+
+	  - Code pénal - art. 222-38 (M)
+	  - Code pénal - art. 222-39-1 (M)
+	  - Code pénal - art. 225-5 (M)
+	  - Code pénal - art. 225-6 (M)
+	  - Code pénal - art. 321-1 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 97-66 CEE 1997-12-15
+	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article L11
@@ -1380,32 +1407,28 @@ activité.
 
 ###### Article L34
 
-Chez les entrepositaires agréés et les fabricants de vinaigre, les agents de l'administration peuvent intervenir dans les
-magasins, caves et celliers, entre 8 heures et 20 heures en vue d'effectuer les vérifications nécessaires à la constatation
-des quantités de boissons restant en magasin ou de s'assurer de la régularité des opérations. 
+Chez les entrepositaires agréés, les agents de l'administration peuvent intervenir dans les magasins, caves et celliers,
+entre 8 heures et 20 heures en vue d'effectuer les vérifications nécessaires à la constatation des quantités de boissons
+restant en magasin ou de s'assurer de la régularité des opérations. 
 
 Un avis de contrôle est remis, lors du contrôle, aux entrepositaires agréés ; ceux-ci doivent toujours être en mesure soit
 par eux-mêmes, soit par leurs préposés s'ils sont absents, de déférer immédiatement aux réquisitions des agents auxquels
 doivent être déclarés les espèces et quantités de boissons existant dans les fûts, vaisseaux, foudres et autres récipients,
-ainsi que le degré des alcools. Il doit être énoncé, le cas échéant, s'il s'agit d'alcools libres, d'alcools de rétrocession
-ou de produits à base d'alcools de rétrocession, ainsi que l'appellation d'origine attribuée aux vins, vins de liqueur et
-eaux-de-vie.
+ainsi que le titre alcoométrique volumique des alcools. Il doit être énoncé, le cas échéant, s'il s'agit d'alcools libres,
+d'alcools de rétrocession ou de produits à base d'alcools de rétrocession, ainsi que l'appellation d'origine attribuée aux
+vins, vins de liqueur et eaux-de-vie. 
 
-Les entrepositaires agréés sont tenus, à première réquisition, de présenter la comptabilité matières mentionnée, selon le
-cas, au III de l'article 302 G et à l'article 515 du code général des impôts. Les agents de l'administration contrôlent la
-régularité des énonciations qui y sont portées. A l'occasion de cet examen, les agents peuvent contrôler la cohérence entre
-les indications portées dans la comptabilité matières et les pièces de recettes et de dépenses et sur les documents
-d'accompagnement visés à l'article 302 M du code précité. Ils peuvent demander, en outre, tous renseignements, justifications
-ou éclaircissements, relatifs aux indications portées dans la comptabilité matières.
+Les entrepositaires agréés sont tenus, à première réquisition, de présenter la comptabilité matières mentionnée au III de
+l'article 302 G du code général des impôts. Les agents de l'administration contrôlent la régularité des énonciations qui y
+sont portées. A l'occasion de cet examen, les agents peuvent contrôler la cohérence entre les indications portées dans la
+comptabilité matières et les pièces de recettes et de dépenses et sur les documents d'accompagnement visés à l'article 302 M
+du code précité. Ils peuvent demander, en outre, tous renseignements, justifications ou éclaircissements, relatifs aux
+indications portées dans la comptabilité matières. 
 
 Chaque intervention fait l'objet d'un procès-verbal relatant les opérations effectuées, dont copie est transmise à l'occupant
 des locaux contrôlés.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 515, 302 G, 302 M
 
 	**Cité par**:
 
@@ -1419,11 +1442,16 @@ des locaux contrôlés.
 
 	**Modifié par**:
 
-	  - Décret n°2000-478 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 G (V)
+	  - Code général des impôts, CGI. - art. 302 M (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article L34 A
@@ -1517,23 +1545,24 @@ nécessaires pour effectuer les vérifications.
 
 ###### Article L36 A
 
-Les opérateurs visés au 4° du 1 du I et au a du II de l'article 302 D et aux articles 302 H et 302 I du code général des
-impôts sont soumis aux contrôles de l'administration dans les conditions prévues à l'article L. 35.
+Les opérateurs visés au 4° du 1 du I et au a du II de l'article 302 D, les opérateurs bénéficiant des exonérations prévues à
+l'article 302 D bis et ceux définis aux articles 302 H et 302 I du code général des impôts sont soumis aux contrôles de
+l'administration dans les conditions prévues à l'article L. 35.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 302 H, 302 I, 302 D
+	  - CGI 302 H, 302 I
 	  - Livre des procédures fiscales - art. L35 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 31 mars 2002
 
 	**Modifié par**:
 
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
 
 	**Cité par**:
 
@@ -1734,11 +1763,11 @@ le contribuable qu'ils vérifient.
 
 Lorsqu'une vérification de comptabilité ou une procédure de redressement requiert des connaissances techniques particulières,
 l'administration peut faire appel aux conseils techniques d'agents de l'Etat ou des établissements publics figurant sur une
-liste arrêtée par le ministre délégué auprès du ministre de l'économie et des finances, chargé du budget.
+liste arrêtée par le ministre chargé du budget.
 
 Sauf pour l'appréciation du caractère brevetable d'une invention mentionnée au 1 de l'article 39 terdecies du code général
 des impôts, le présent article n'est applicable qu'aux entreprises ainsi que, le cas échéant, à leurs mères et filiales, dont
-le chiffre d'affaires total dépasse 20 millions de francs.
+le chiffre d'affaires total dépasse 3 millions d'euros.
 
 Les agents ainsi désignés sont tenus au secret professionnel dans les termes de l'article L. 103.
 
@@ -1751,12 +1780,13 @@ Les agents ainsi désignés sont tenus au secret professionnel dans les termes d
 
 	**Liens**:
 
-	  - HISTO: Edition du 4 juillet 1992
+	  - HISTO: Edition du 31 mars 2002
 	  - TXT_ASSOCIE: Instruction 2001-02-15 13L-3-01
+	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 	**Modifié par**:
 
-	  - Loi - art. 100 (V) JORF 31 décembre 1991
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -2060,7 +2090,7 @@ d'engager une vérification de comptabilité pour régulariser la situation fisc
 
 A l'issue d'un examen contradictoire de la situation fiscale personnelle au regard de l'impôt sur le revenu ou d'une
 vérification de comptabilité, lorsque des redressements sont envisagés, l'administration doit indiquer, avant que le
-contribuable présente ses observations ou accepte les rehaussements proposés, dans la notification prévue à l'article L. 57
+contribuable présente ses observations ou accepte les rehaussements proposés, dans la notification prévue à l'article L. 57,
 le montant des droits, taxes et pénalités résultant de ces redressements. Lorsqu'à un stade ultérieur de la procédure de
 redressement contradictoire l'administration modifie les rehaussements, pour tenir compte des observations et avis recueillis
 au cours de cette procédure, cette modification est portée par écrit à la connaissance du contribuable avant la mise en
@@ -2071,8 +2101,8 @@ alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forf
 correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe.
 
 Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des rappels de droits et pénalités consécutifs aux
-redressements ou le bénéfice des dispositions visées au 3° du premier alinéa de l'article L. 247, l'administration en informe
-les contribuables dans les mêmes conditions.
+redressements ou le bénéfice des dispositions visées au 3° de l'article L. 247, l'administration en informe les contribuables
+dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -2082,13 +2112,17 @@ les contribuables dans les mêmes conditions.
 	  - Livre des procédures fiscales - art. L247 (M)
 	  - Livre des procédures fiscales - art. L57 (M)
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - Décret n°2002-922 2002-06-06
 
 	**Modifié par**:
 
-	  - Loi - art. 25 (V) JORF 31 décembre 1999
+	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
@@ -2202,8 +2236,8 @@ durée supérieure à trois mois en ce qui concerne :
 chiffre d'affaires ou le montant annuel des recettes brutes n'excède pas les limites prévues au I de l'article 302 septies A
 du code général des impôts (1) ;
 
-2° Les contribuables se livrant à une activité agricole, lors que le montant annuel des recettes brutes n'excède pas la
-limite prévue au b du II de l'article 69 du code général des impôts (2).
+2° Les contribuables se livrant à une activité agricole, lorsque le montant annuel des recettes brutes n'excède pas la limite
+prévue au b du II de l'article 69 du code général des impôts (2).
 
 Toutefois, l'expiration du délai de trois mois n'est pas opposable à l'administration pour l'instruction des observations ou
 des requêtes présentées par le contribuable, après l'achèvement des opérations de vérification.
@@ -2212,21 +2246,17 @@ Elle ne l'est pas non plus pour l'examen, en vertu de l'article L. 12, des compt
 professionnel, ni pour la vérification, en vertu de l'article L. 13, des comptes utilisés pour l'exercice d'activités
 distinctes (3).
 
-Les dispositions du premier alinéa sont valables dans les cas où un même vérificateur contrôle à la fois l'assiette de
-plusieurs catégories différentes d'impôts ou de taxes.
+Les dispositions des trois premiers alinéas sont valables dans les cas où un même vérificateur contrôle à la fois l'assiette
+de plusieurs catégories différentes d'impôts ou de taxes.
 
-Cf. Instruction 1993-02-22 13L-2-93, ESFP.
+(1) Les limites prévues au I de l'article 302 septies A du CGI sont de 763 000 euros s'il s'agit d'entreprises dont le
+commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de
+fournir le logement ou de 230 000 euros s'il s'agit d'autres entreprises.
 
-(1) Les limites de 5 000 000 F (4) et 1 500 000 F (4) prévues au I de l'article 302 septies A du CGI s'appliquent aux
-contrôles pour lesquels la première intervention sur place a lieu à compter du 1er janvier 1996.
+(2) Cette limite est de 274 400 euros.
 
-(2) Ces dispositions s'appliquent aux contrôles pour lesquels la première intervention sur place a eu lieu à compter de
-l'entrée en vigueur de la loi 94-126 du 11 février 1994.
-
-(3) Cette disposition s'applique pour le règlement des litiges nés à compter  de la date d'entrée en vigueur de la loi
-92-1476 du 31 décembre 1992 publiée au JO des 4 et 5 janvier 1993.
-
-(4) Ces montants sont portés respectivement à 763 000 et 230 000 euros à compter du 1er janvier 2002.
+(3) Cette disposition s'applique pour le règlement des litiges nés à compter de la date d'entrée en vigueur de la loi 92-1476
+du 31 décembre 1992 publiée au JO des 4 et 5 janvier 1993.
 
 **Liens relatifs à cet article**
 
@@ -2238,16 +2268,7 @@ l'entrée en vigueur de la loi 94-126 du 11 février 1994.
 
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
-	  - TXT_ASSOCIE: Instruction 1993-02-22 13L-2-93
-	  - TXT_ASSOCIE: Instruction 2000-02-03 13L-1-00
-	  - SPEC_APPLI: Loi n°94-1163 1994-12-30 art. 15 I III
-	  - SPEC_APPLI: Loi n°94-126 1994-02-11 art. 30 II
-	  - SPEC_APPLI: Loi n°95-1347 1995-12-30 art. 15 IV Finances rectificative pour 1995
-
-	**Modifié par**:
-
-	  - Loi n°94-126 du 11 février 1994 - art. 30 (V) JORF 13 février 1994
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
@@ -2255,12 +2276,20 @@ l'entrée en vigueur de la loi 94-126 du 11 février 1994.
 	  - Loi - art. 15 (V)
 	  - Livre des procédures fiscales - art. L52 A (V)
 
+	**Codifié par**:
+
+	  - Décret n°2002-922 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+
 
 ###### Article L52 A
 
 Les dispositions de l'article L. 52 ne s'appliquent pas aux personnes morales ni aux sociétés visées à l'article 238 bis M du
 code général des impôts à l'actif desquelles sont inscrits des titres de placement ou de participation pour un montant total
-d'au moins 50 millions de francs (1).
+d'au moins 7 600 000 € (1).
 
 **Nota:**
 
@@ -2269,20 +2298,20 @@ janvier 2000.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 238 bis M
-	  - Livre des procédures fiscales - art. L52 (M)
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
 	  - TXT_ASSOCIE: Instruction 2000-02-03 13L-1-00
-	  - SPEC_APPLI: Loi n°99-1172 1999-12-30 art. 90 II Finances pour 2000
+	  - SPEC_APPLI: Loi n°99-1172 1999-12-30 art. 90 II
+	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi - art. 90 (V) JORF 31 décembre 1999
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238 bis M (V)
+	  - Livre des procédures fiscales - art. L52 (VT)
 
 
 ##### 2° : Actes de procédure
@@ -4014,40 +4043,13 @@ général des impôts.
 
 #### Chapitre II : Le droit de communication
 
-###### Article L81 A
-
-Lorsqu'elles concernent des personnes physiques, les informations nominatives communiquées, sur tout type de support, à la
-direction générale des impôts, à la direction générale de la comptabilité publique ou à la direction générale des douanes et
-droits indirects par les personnes ou organismes visés au présent chapitre qui sont autorisés à utiliser le numéro
-d'inscription au répertoire national d'identification des personnes physiques mentionnent ce numéro.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 107 VI Finances pour 1999
-
-	**Créé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L288 (V)
-	  - Livre des procédures fiscales - art. R*288-1 (V)
-	  - Livre des procédures fiscales - art. R*81 A-1 (V)
-
-
-##### Section I : Définition et étendue du droit de communication
-
 ###### Article L81
 
 Le droit de communication permet aux agents de l'administration, pour l'établissement de l'assiette et le contrôle des
 impôts, d'avoir connaissance des documents et des renseignements mentionnés aux articles du présent chapitre dans les
 conditions qui y sont précisées.
 
-Le droit prévu à l'alinéa précédent s'exerce quel que soit le support utilisé pour la conservation des documents, y compris
+Le droit prévu au premier alinéa s'exerce quel que soit le support utilisé pour la conservation des documents, y compris
 lorsqu'il est magnétique.
 
 Le droit de communication est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des
@@ -4077,21 +4079,46 @@ agents des administrations chargés du recouvrement des impôts, droits et taxes
 	  - Livre des procédures fiscales - art. R*81-4 (P)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
+	**Codifié par**:
+
+	  - Décret n°2002-922 2002-06-06
+
 	**Modifié par**:
 
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-309 du 9 mars 1993 - art. 19 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décision du Conseil Constitutionnel 92-172L 1992-12-29
+	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
 
 	**Liens**:
 
-	  - SPEC_APPLI: Décret n°93-309 1993-03-09 art. 22
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Jurisprudence 2000-04-27 13K-5-00
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cite**:
 
 	  - Livre des procédures fiscales L83 à L95
+
+
+###### Article L81 A
+
+Lorsqu'elles concernent des personnes physiques, les informations nominatives communiquées, sur tout type de support, à la
+direction générale des impôts, à la direction générale de la comptabilité publique ou à la direction générale des douanes et
+droits indirects par les personnes ou organismes visés au présent chapitre qui sont autorisés à utiliser le numéro
+d'inscription au répertoire national d'identification des personnes physiques mentionnent ce numéro.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 107 VI Finances pour 1999
+
+	**Créé par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L288 (V)
+	  - Livre des procédures fiscales - art. R*288-1 (V)
+	  - Livre des procédures fiscales - art. R*81 A-1 (V)
 
 
 ##### Section I : Conditions d'exercice du droit de communication
@@ -4192,13 +4219,17 @@ dossiers à l'administration des finances.
 Les administrations de l'Etat, des départements et des communes, les entreprises concédées ou contrôlées par l'Etat, les
 départements et les communes, ainsi que les établissements ou organismes de toute nature soumis au contrôle de l'autorité
 administrative, doivent communiquer à l'administration, sur sa demande, les documents de service qu'ils détiennent sans
-pouvoir opposer le secret professionnel.
+pouvoir opposer le secret professionnel, y compris les données conservées et traitées par les opérateurs de
+télécommunications dans le cadre de l'article L. 32-3-1 du code des postes et télécommunications et les prestataires
+mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-8 (Ab)
+	  - Code des postes et télécommunications L32-3-1
 
 	**Cité par**:
 
@@ -4215,9 +4246,13 @@ pouvoir opposer le secret professionnel.
 	  - Livre des procédures fiscales - art. L84 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
+	**Modifié par**:
+
+	  - Loi - art. 62 () JORF 29 décembre 2001
+
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article L83 A
@@ -5313,10 +5348,13 @@ paiement de l'impôt peut être demandé à leur place.
 ###### Article L106
 
 Les agents de l'administration des impôts peuvent délivrer des extraits des registres de l'enregistrement clos depuis moins
-de cent ans. Les conditions de leur rémunération sont fixées par décret.
+de cent ans.
 
 Ces extraits ne peuvent être délivrés que sur une ordonnance du juge du tribunal d'instance s'ils sont demandés par des
 personnes autres que les parties contractantes ou leurs ayants cause.
+
+Ces extraits peuvent être délivrés dans les mêmes conditions, pour les besoins des recherches généalogiques nécessaires au
+règlement d'une succession, au notaire chargé dudit règlement ou aux personnes agissant à sa demande. ;
 
 Dans les conditions prévues au deuxième alinéa, il peut être délivré copie ou extrait du double des actes sous signature
 privée déposé au service des impôts en application de l'article 849 du code général des impôts.
@@ -5339,10 +5377,6 @@ privée déposé au service des impôts en application de l'article 849 du code 
 
 	  - CGI 849
 
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 849 (M)
@@ -5352,7 +5386,13 @@ privée déposé au service des impôts en application de l'article 849 du code 
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 2002
+	  - TXT_ASSOCIE: Instruction 2002-03-07 13K-8-02
+	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
+
+	**Modifié par**:
+
+	  - Loi - art. 73 () JORF 29 décembre 2001
 
 
 ###### Article L107
@@ -5360,15 +5400,7 @@ privée déposé au service des impôts en application de l'article 849 du code 
 Les agents de l'administration délivrent aux personnes qui en font la demande des extraits de leurs registres qui concernent
 les déclarations dans lesquelles ces personnes sont désignées.
 
-Le montant de la rémunération due aux agents par les personnes ayant formulé les demandes d'extraits est fixé par décret.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-265 1993-02-26 art. 4 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
 
 	**Cité par**:
 
@@ -5378,7 +5410,16 @@ Le montant de la rémunération due aux agents par les personnes ayant formulé 
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2002
+	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
+
+	**Modifié par**:
+
+	  - Loi n°2001-1275 du 28 décembre 2001 - art. 73
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 99
 
 
 ###### Article L108
@@ -5446,7 +5487,7 @@ première ou en deuxième cuvée et les déclarations de détention de sucre par
 ###### Article L110
 
 La communication des livres et registres relatifs aux contributions indirectes dans les conditions fixées à l'article L. 108
-donne lieu à un droit de recherche fixé à 0,23 F par compte communiqué.
+donne lieu à un droit de recherche fixé à 0,04 € par compte communiqué. 
 
 Le droit de recherche prévu au premier alinéa est perçu en cas de communication des déclarations de sucrage dans les
 conditions prévues par l'article L. 109.
@@ -5463,18 +5504,16 @@ conditions prévues par l'article L. 109.
 	  - Loi n°1907-06-29 art. 8
 	  - Loi n°48-978 1948-06-16 art. 33
 
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L108 (M)
-	  - Livre des procédures fiscales - art. L109 (M)
+	  - Livre des procédures fiscales - art. L108 (V)
+	  - Livre des procédures fiscales - art. L109 (V)
+
+	**Modifié par**:
+
+	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
 
 
 ##### 2° : Publicité de l'impôt
@@ -5684,6 +5723,32 @@ Un décret en conseil d'Etat précise les conditions d'application du présent a
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L10-0 AA (V)
+
+
+###### Article L114 B
+
+Sous réserve de réciprocité, l'administration des douanes et droits indirects peut communiquer aux autorités compétentes des
+Etats membres de la Communauté européenne des renseignements et documents pour l'établissement des droits indirects grevant
+l'alcool, les boissons alcooliques et les tabacs manufacturés.
+
+Sur demande de l'autorité compétente d'un Etat membre de la Communauté européenne, l'administration des douanes et droits
+indirects peut communiquer les renseignements et documents utiles au recouvrement des créances nées dans cet Etat membre.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+
+	**Créé par**:
+
+	  - Ordonnance n°2001-766 du 29 août 2001 - art. 17 () JORF 31 août 2001
+
+	**Abrogé par**:
+
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
 
 
 ##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics
@@ -6688,39 +6753,38 @@ d'imposition agrégées, par contribuable, nécessaires à l'établissement du r
 
 ###### Article L135 I
 
-Pour l'application du premier alinéa de l'article 74 du décret du 30 octobre 1935 modifié unifiant le droit en matière de
-chèques et relatif aux cartes de paiement, la Banque de France reçoit de l'administration des impôts les informations
-détenues par celle-ci en application de l'article 1649 A du code général des impôts, qui permettent d'identifier l'ensemble
-des comptes ouverts par les personnes physiques ou morales mentionnées à l'article 65-2 et au deuxième alinéa de l'article 68
-du décret précité et sur lesquels peuvent être tirés des chèques. Elle lui fournit, aux seules fins poursuivies par ce
-décret, les renseignements permettant d'identifier les titulaires de ces comptes.
+Conformément au troisième alinéa de l'article L. 131-85 du code monétaire et financier, la Banque de France reçoit de
+l'administration des impôts les informations détenues par celle-ci en application de l'article 1649 A du code général des
+impôts, qui permettent d'identifier l'ensemble des comptes ouverts par les personnes physiques ou morales mentionnées à
+l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6 du même code et sur lesquels peuvent être tirés des chèques.
+Elle lui fournit, aux seules fins poursuivies par la section 1 du chapitre Ier du titre III du livre Ier du code monétaire et
+financier, les renseignements permettant d'identifier les titulaires de ces comptes.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1649 A
-	  - Décret n°1935-10-30 art. 74, art. 68, art. 65-2
-
-	**Créé par**:
-
-	  - Décret n°1935-10-30 art. 74 JORF 5 novembre 1935
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Code monétaire et financier - art. L131-72 (M)
+	  - Code monétaire et financier - art. L131-85 (M)
+	  - Code monétaire et financier - art. L163-6 (M)
 
 	**Modifié par**:
 
-	  - Loi n°91-1382 du 30 décembre 1991 - art. 17 () JORF 1er janvier 1992
+	  - Ordonnance 2000-1223 2000-12-14 art. 3 JORF 16 décembre 2000
 
 	**Codifié par**:
 
-	  - Décret n°98-400 1998-05-22
+	  - Décret n°2002-922 2002-06-06
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code monétaire et financier - art. L131-85 (M)
+	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article L135 J
@@ -7178,27 +7242,30 @@ L. 13-13 à L. 13-17 du code de l'expropriation pour cause d'utilité publique.
 
 ###### Article L145 A
 
-Pour la mise en oeuvre des dispositions des articles L611-1 à L612-4 du code de commerce, le président du tribunal de
-commerce ou du tribunal de grande instance peut recevoir de l'administration communication des renseignements de nature à lui
-donner une exacte information sur la situation économique et financière du débiteur.
+Conformément aux dispositions du deuxième alinéa de l'article L611-2 et de l'article L611-5 du code de commerce, le président
+du tribunal de commerce ou du tribunal de grande instance peut recevoir de l'administration communication des renseignements
+de nature à lui donner une exacte information sur la situation économique et financière du débiteur.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18 art. 1, art. 3, art. 4 JORF 21 septembre 2000
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+
 	**Codifié par**:
 
-	  - Décret n°2001-436 2001-05-21
+	  - Décret n°2002-922 2002-06-06
 
 	**Cite**:
 
-	  - Code de commerce L611-1 à L612-4
+	  - Code de commerce. - art. L611-2 (M)
+	  - Code de commerce. - art. L611-5 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18 art. 4 I 31° JORF 21 septembre 2000
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
@@ -7573,17 +7640,17 @@ Les agents des administrations fiscales communiquent aux organismes et services 
 de sécurité sociale et aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale
 les informations nominatives nécessaires :
 
-1° A l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ;
+1° à l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ;
 
-2° Au calcul des prestations ;
+2° au calcul des prestations ;
 
-3° A l'appréciation des conditions d'assujettissement aux cotisations et contributions ;
+3° à l'appréciation des conditions d'assujettissement aux cotisations et contributions ;
 
-4° A la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement.
+4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement.
 
 Le numéro d'inscription au répertoire national d'identification des personnes physiques est utilisé pour les demandes,
-échanges et traitements nécessaires à la communication des informations mentionnées au premier alinéa, lorsqu'elles
-concernent des personnes physiques.
+échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 4°, lorsqu'elles concernent des
+personnes physiques.
 
 Les agents des administrations fiscales peuvent également signaler aux directeurs régionaux de la sécurité sociale, aux
 directeurs régionaux des affaires sanitaires et sociales et aux directeurs régionaux et chefs des services départementaux du
@@ -7617,14 +7684,17 @@ règlements relatifs au régime général ou au régime agricole de sécurité s
 	  - Livre des procédures fiscales - art. R*152-1 (V)
 	  - Livre des procédures fiscales - art. R*288-1 (V)
 
+	**Codifié par**:
+
+	  - Décret n°2002-922 2002-06-06
+
 	**Modifié par**:
 
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
+	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 107 VI Finances pour 1999
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article L152 A
@@ -7777,6 +7847,35 @@ l'intervention de ces organismes pour le recouvrement des créances alimentaires
 	**Liens**:
 
 	  - HISTO: Edition du 15 juillet 1985
+
+
+###### Article L162 B
+
+Conformément aux dispositions de l'article L. 232-16 du code de l'action sociale et des familles, pour vérifier les
+déclarations des intéressés, les services chargés de l'évaluation des droits à l'allocation personnalisée d'autonomie peuvent
+demander toutes les informations nécessaires aux administrations publiques, notamment aux administrations fiscales, aux
+collectivités territoriales, aux organismes de sécurité sociale et de retraite complémentaire qui sont tenus de les leur
+communiquer. Lesdites informations doivent être limitées aux données nécessaires à l'identification de la situation du
+demandeur en vue de l'attribution de l'allocation personnalisée d'autonomie. Elle sont transmises et utilisées dans les
+conditions garantissant leur confidentialité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001
+
+	**Codifié par**:
+
+	  - Décret n°2002-922 2002-06-06
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L232-16 (T)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
 
 
 ##### VII : Dérogations au profit d'organismes divers
@@ -8047,36 +8146,39 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 4° A la taxe forfaitaire sur les plus-values de liquidation de certaines sociétés prévue à l'article 239 bis B ;
 
-5° A la taxe sur les encours de crédit prévue à l'article 235 ter N du même code ;
+5° A la taxe sur les encours de crédit prévue à l'article 235 ter N du même code (1) ;
 
 6° A la taxe sur les salaires ;
 
-7° A la cotisation perçue au titre de la participation des employeurs à l'effort de construction ;
-
-Ainsi qu'à tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés.
+7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
 8° au supplément d'imposition visé au II de l'article 1647 E.
+
+**Nota:**
+
+(1) Cette taxe a été abrogée (Loi 88-1149 du 23 décembre 1988, art. 23).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 119 bis, 235 ter, 125 A, 223 sexies, 239 bis B, 1647 E
+	  - CGI 119 bis, 235 ter N, 125 A, 223 sexies, 239 bis B, 1647 E
 	  - Livre des procédures fiscales - art. L169 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
+	  - TXT_ASSOCIE: Instruction 1999-11-22 6E-9-99
+	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 74 F II
 
 	**Modifié par**:
 
-	  - Loi n°98-1266 1998-12-30 art. 44 B 1° Finances pour 1999 JORF 31 décembre 1998
+	  - Loi n°2001-1275 2001-12-28 art. 74 C I Finances pour 2002 JORF 29 décembre 2001
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 162 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 239 bis B (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 1999-11-22 6E-9-99
 
 
 ###### Article L170
@@ -9928,26 +10030,25 @@ encourue.
 
 ###### Article L220
 
-Les procès-verbaux constatant les infractions aux lois et règlements sur les tabacs et allumettes peuvent être établis par
-les agents des douanes, les agents de l'administration des finances, les gendarmes, les commissaires de police, les agents
-des services des ponts et chaussées autorisés par la loi à dresser des procès-verbaux, les agents assermentés de l'office
-national des forêts, les gardes-champêtres et généralement tout agent assermenté.
+Les procès-verbaux constatant les infractions aux lois et règlements sur les tabacs peuvent être établis par les agents des
+douanes, les agents de l'administration des finances, les gendarmes, les commissaires de police, les agents des services des
+ponts et chaussées autorisés par la loi à dresser des procès-verbaux, les agents assermentés de l'office national des forêts,
+les gardes-champêtres et généralement tout agent assermenté.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1854 1 1° (P.)
-	  - Ordonnance 60-1256 1960-11-29 ART. 10
-	  - Loi n°64-1278 1964-12-23 ART. 1 II
+	  - Loi n°93-923 du 19 juillet 1993 - art. 17 () JORF 21 juillet 1993
+	  - Loi n°98-1266 1998-12-30 art. 47 C Finances pour 1999 JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Décret n°2002-922 2002-06-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
@@ -9958,8 +10059,8 @@ national des forêts, les gardes-champêtres et généralement tout agent asserm
 
 Les procès-verbaux constatant les infractions aux lois et règlements sur les alcools, alambics et boissons, peuvent être
 établis par les personnes mentionnées à l'article L. 220 et par les agents de la répression des fraudes ainsi que par les
-agents habilités à dresser les procès-verbaux en matière de police de la circulation routière désignés à l'article R. 249 du
-code de la route.
+agents habilités à dresser les procès-verbaux en matière de police de la circulation routière désignés dans le code de la
+route.
 
 **Liens relatifs à cet article**
 
@@ -9968,14 +10069,13 @@ code de la route.
 	  - CGI 1854 1 1°, 2°
 	  - Ordonnance 60-1256 1960-11-29 art. 10
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - Loi - art. 60 (V) JORF 29 décembre 2001
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L220 (M)
-	  - Code de la route R249
+	  - Livre des procédures fiscales - art. L220 (V)
 
 
 ###### Article L222
@@ -12253,16 +12353,19 @@ Lorsque l'administration a fait application des majorations prévues à l'articl
 garanties demandées ne peuvent excéder le montant des pénalités de retard qui seraient exigibles si la bonne foi n'avait pas
 été mise en cause.
 
-A défaut de constitution de garanties ou si les garanties offertes sont estimées insuffisantes, le comptable peut prendre des
-mesures conservatoires pour les impôts contestés, jusqu'à la saisie inclusivement. Mais la vente ne peut être effectuée ou la
-contrainte par corps ne peut être exercée jusqu'à ce qu'une décision définitive ait été prise sur la réclamation soit par
-l'administration, soit par le tribunal compétent.
+En cas de réclamation relative à l'assiette d'impositions et portant sur un montant de droits inférieur à celui fixé par
+décret, le débiteur est dispensé de constituer des garanties.
 
-Lorsque le comptable a notifié un avis à un tiers détenteur ou a fait procéder à une saisie en application de l'alinéa
-précédent, le contribuable peut demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer
-la limitation ou l'abandon de ces mesures si elles comportent des conséquences difficilement réparables. Les dispositions des
-troisième et quatrième alinéas de l'article L. 279 sont applicables à cette procédure, le tribunal d'appel étant, selon le
-cas, le tribunal administratif ou le tribunal de grande instance.
+A défaut de constitution de garanties ou si les garanties offertes sont estimées insuffisantes, le comptable peut prendre des
+mesures conservatoires pour les impôts contestés. L'exigibilité de la créance et la prescription de l'action en recouvrement
+sont suspendues jusqu'à ce qu'une décision définitive ait été prise sur la réclamation soit par l'administration, soit par le
+tribunal compétent.
+
+Lorsque le comptable a fait procéder à une saisie conservatoire en application du quatrième alinéa, le contribuable peut
+demander au juge du référé prévu, selon le cas, aux articles L. 279 et L. 279 A, de prononcer la limitation ou l'abandon de
+cette mesure si elle comporte des conséquences difficilement réparables. Les dispositions des troisième et quatrième alinéas
+de l'article L. 279 sont applicables à cette procédure, la juridiction d'appel étant, selon le cas, le tribunal administratif
+ou le tribunal de grande instance.
 
 **Liens relatifs à cet article**
 
@@ -12290,18 +12393,20 @@ cas, le tribunal administratif ou le tribunal de grande instance.
 	  - Livre des procédures fiscales - art. R*277-2 (V)
 	  - Livre des procédures fiscales - art. R277-3-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 74 F I Finances pour 2002
+	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L552-2 (V)
+	  - HISTO: Edition du 31 mars 2002
+
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 III, art. VI JORF 9 juillet 1987
+	  - Loi n°2001-1275 2001-12-28 art. 74 C II Finances pour 2002 JORF 29 décembre 2001
+	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
 
 	**Codifié par**:
 
-	  - Décret n°88-1002 1988-10-20
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L552-2 (V)
-	  - HISTO: Edition du 15 juillet 1988
+	  - Décret n°2002-922 2002-06-06
 
 
 ###### Article L279
@@ -13950,15 +14055,23 @@ d'inspecteur divisionnaire qui vise à cet effet la notification de la propositi
 
 ###### Article R*64-2
 
-Lorsque l'administration se prévaut des dispositions du deuxième alinéa de l'article L. 64, le contribuable dispose d'un
+Lorsque l'administration se prévaut des dispositions du cinquième alinéa de l'article L. 64, le contribuable dispose d'un
 délai de trente jours à compter de la réception de la réponse de l'administration à ses observations pour demander que le
 litige soit soumis à l'avis du comité consultatif pour la répression des abus de droit.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Codifié par**:
 
-	  - Décret n°91-1386 1991-12-26 art. I 1 JORF 1er janvier 1992
+	  - Décret n°2002-922 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-922 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cite**:
 
@@ -15481,21 +15594,21 @@ Lorsque des biens ne formant qu'une seule exploitation sont situés sur plusieur
 celui de la circonscription sur le territoire de laquelle se trouve le siège de l'exploitation ou, à défaut de siège, la
 partie des biens présentant le plus grand revenu d'après la matrice cadastrale.
 
-Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant d'une direction régionale ou d'une direction
-spécialisée, la réclamation peut être adressée au directeur chargé de cette direction.
+Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant d'une direction régionale, d'une direction
+spécialisée ou d'un service à compétence nationale, la réclamation peut être adressée au directeur chargé de ces directions
+ou de ce service.
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-311 du 9 mars 1993 - art. 9 () JORF 11 mars 1993
+	  - Décret n°2002-922 2002-06-06
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
@@ -17704,11 +17817,11 @@ Sauf en matière de contributions indirectes, de taxe professionnelle et de taxe
 les demandes des contribuables tendant à obtenir une modération, remise ou transaction appartient :
 
 a) Au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 750 000 F par cote, exercice ou affaire, selon la nature des impôts ;
+n'excèdent pas 114 336,76 euros par cote, exercice ou affaire, selon la nature des impôts ;
 
 b) Au directeur chargé d'un service à compétence nationale ou d'une direction spécialisée, pour les affaires relatives à des
 impositions établies à l'initiative des agents placés sous son autorité, lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 1 100 000 F par cote, exercice ou affaire ;
+n'excèdent pas 167 693,92 euros par cote, exercice ou affaire ;
 
 c) Abrogé.
 
@@ -17723,13 +17836,15 @@ changes, dans les autres cas.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 	  - Livre des procédures fiscales - art. R*247-12 (V)
 
-	**Modifié par**:
-
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 3 () JORF 25 octobre 2000
-
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 mars 2002
+
+	**Modifié par**:
+
+	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
 
 
 ###### Article R*247-5
@@ -17739,7 +17854,8 @@ appartient :
 
 a) Au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
 droits ou la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes
-n'excède pas 750 000 F et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ;
+n'excède pas 114 336,76 euros et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce
+chiffre ;
 
 b) Abrogé.
 
@@ -17751,27 +17867,23 @@ douanier et des changes n'est pas saisi.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°77-1453 1977-12-29 art. 20 JORF 30 décembre 1977
-	  - Rapport - art. 3 (V) JORF 18 janvier 1997
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997 en vigueur le 1er janvier 1998
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 3, art. 13
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2002
+	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
 
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 3 (V)
 	  - Livre des procédures fiscales - art. R*247-12 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°98-401 1998-05-22
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -17968,33 +18080,30 @@ En matière d'impôts locaux, les demandes gracieuses sont soumises à l'avis du
 En matière de taxe professionnelle et de taxes additionnelles à cet impôt, la décision sur les demandes des contribuables
 tendant à obtenir une remise ou une modération appartient :
 
-a) Au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 1 500 000 F par cote ;
+a) au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
+n'excèdent pas 228 673,53 euros par cote ;
 
-b) Abrogé.
+b) abrogé (à compter du 01/01/1998).
 
-c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 2 400 000 F par cote ;
-
-d) Au ministre, après avis du comité précité, dans les autres cas.
+c) au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
+changes dans les autres cas.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2002-1108 du 30 août 2002 - art. 3 (V) JORF 1er septembre 2002
+
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 août 2002
+	  - HISTO: Edition du 31 mars 2002
 
 	**Modifié par**:
 
-	  - Loi n°77-1453 1977-12-29 art. 20 JORF 30 décembre 1977
-	  - Rapport - art. 3 (V) JORF 18 janvier 1997
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-401 1998-05-22
+	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
 
 
 ###### Article R247-7
@@ -18083,19 +18192,15 @@ trésorier-payeur général dont dépend le lieu d'imposition.
 
 Après examen de la demande, la décision appartient :
 
-a) Au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 2 000
-000 F par cote. Toutefois, lorsque les sommes n'excèdent pas 250 000 F par cote, le trésorier-payeur général prend la
-décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de deux mois.
+a) au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 304
+898,03 euros par cote. Toutefois, lorsque les sommes n'excèdent pas 38 112,25 euros par cote, le trésorier-payeur général
+prend la décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de deux mois.
 
-b) Abrogé.
+b) (abrogé à compter du 01/01/1998).
 
-c) Au ministre de l'économie, des finances et de l'industrie, dans les autres cas.
+c) au ministre de l'économie, des finances et de l'industrie, dans les autres cas.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2001-907 du 3 octobre 2001 - art. 1 () JORF 6 octobre 2001
 
 	**Cité par**:
 
@@ -18103,39 +18208,45 @@ c) Au ministre de l'économie, des finances et de l'industrie, dans les autres c
 	  - Livre des procédures fiscales - art. R*247-10 A (T)
 	  - Livre des procédures fiscales - art. R*247-18 (V)
 
+	**Liens**:
 
-###### Article R247-11
-
-Pour obtenir la dispense du paiement prévu au deuxième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
-concerne les impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes
-et droits indirects, selon le cas, adresser sa demande au directeur des services fiscaux ou au directeur régional des douanes
-et droits indirects dont dépend le comptable chargé du recouvrement.
-
-La décision appartient :
-
-a) Au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
-sommes faisant l'objet de la demande n'excèdent pas 2 000 000 F par exercice ou affaire, selon la nature des impôts ;
-
-b) Abrogé.
-
-c) Au ministre de l'économie, des finances et de l'industrie, dans les autres cas.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN3 424 2, 425 2
-	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+	  - HISTO: Edition du 31 mars 2002
 
 	**Modifié par**:
 
-	  - Décret n°97-1194 1997-12-19 art. 1, art. 2, annexe JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 1 (V) JORF 27 décembre 1997
-	  - Décret n°97-1194 du 19 décembre 1997 - art. 2 (V) JORF 27 décembre 1997
+	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
+
+
+###### Article R247-11
+
+Pour obtenir la dispense du paiement prévu au cinquième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
+concerne les impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes
+et droits indirects, selon le cas, adresser sa demande au directeur des services fiscaux ou au directeur régional des douanes
+et droits indirects, dont dépend le comptable chargé du recouvrement.
+
+La décision appartient :
+
+a) au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
+sommes faisant l'objet de la demande n'excèdent pas 304 898,03 euros par exercice ou affaire, selon la nature des impôts ;
+
+b) abrogé (à compter du 01/01/1998).
+
+c) au ministre de l'économie, des finances et de l'industrie, dans les autres cas.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°98-401 1998-05-22
+	  - Décret n°2002-922 2002-06-06
+
+	**Modifié par**:
+
+	  - Décret n°2002-922 du 6 juin 2002 - art. 4 () JORF 8 juin 2002
+	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
+	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
+	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -18143,7 +18254,7 @@ c) Au ministre de l'économie, des finances et de l'industrie, dans les autres c
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 2002
 
 	**Cite**:
 
@@ -18360,24 +18471,38 @@ l'obligation de la personne qui y est désignée.
 	  - HISTO: Edition du 18 août 1993
 
 
-##### I : Impôts recouvrés par les comptables du Trésor.
-
 ###### Article R254-1
 
 En matière d'impôt sur les sociétés, les sommes dues au titre des acomptes et du solde de liquidation de l'impôt et non
 payées à l'échéance fixée par la loi, sont réclamées à la société en vertu d'un titre de perception rendu exécutoire par le
 trésorier-payeur général.
 
+Par dérogation aux dispositions du premier alinéa, les sommes dues par les personnes ou groupements de personnes de droit ou
+de fait mentionnés à l'article 344-0 A de l'annexe III au code général des impôts sont recouvrées par voie de rôle.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGIAN3 344-0 A
 
 	**Anciens textes**:
 
-	  - CGIAN3 364 2 (3 DERNIERES LIGNES)
-	  - CGIAN3 365 4 (3 DERNIERES LIGNES)
+	  - CGIAN3 364 2 (3 dernières lignes)
+	  - CGIAN3 365 4 (3 dernières lignes)
+
+	**Modifié par**:
+
+	  - Décret n°2001-1261 du 21 décembre 2001 - art. 1 () JORF 28 décembre 2001
+
+	**Abrogé par**:
+
+	  - Décret n°2004-1152 du 29 octobre 2004 - art. 2 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 31 mars 2002
 
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
@@ -19004,6 +19129,22 @@ montant étant calculé d'après le dernier cours coté au jour du dépôt.
 
 	  - Livre des procédures fiscales - art. R*277-8 (V)
 	  - Livre des procédures fiscales - art. R*280-1 (Ab)
+
+
+###### Article R277-7
+
+En cas de réclamation relative à l'assiette d'imposition et portant sur un montant de droits inférieur à 3 000 euros, le
+débiteur est dispensé de constituer des garanties.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2002-246 du 18 février 2002 - art. 1 () JORF 24 février 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 2002
 
 
 #### Chapitre III : Le contentieux du recouvrement
