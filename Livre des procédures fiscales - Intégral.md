@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2001-10-06
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -14931,72 +14931,6 @@ et droits indirects soit au bureau de déclarations de la direction générale d
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L109 (V)
-
-
-###### Article R106-1
-
-Les agents des impôts qui délivrent les extraits mentionnés à l'article L. 106 sont autorisés à percevoir :
-
-1° 0,40 F, pour recherches de chaque année indiquée, jusqu'à la sixième inclusivement, et 0,20 F pour chacune des autres
-années au-delà de la sixième, sans qu'en aucun cas la rémunération puisse, de ce chef, excéder 5 F ;
-
-2° Une somme calculée conformément au tarif des honoraires dus aux notaires à l'occasion de la délivrance d'expéditions aux
-particuliers, pour chaque extrait ou copie d'enregistrement ou d'acte déposé, outre, le cas échéant, le droit de timbre de
-dimension, tout rôle commencé étant dû en entier.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 10 août 1987
-	  - HISTO: Edition du 31 mars 2002
-
-	**Cité par**:
-
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L106 (M)
-
-
-###### Article R107-1
-
-Les extraits mentionnés à l'article L. 107 donnent lieu, au profit des agents qui les délivrent, au paiement de 0,10 F par
-extrait et, en cas de recherche, de 0,20 F par année indiquée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN3 447
-
-	**Abrogé par**:
-
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
-	  - HISTO: Edition du 1er juillet 1981
-	  - HISTO: Edition du 31 mars 2002
-
-	**Cité par**:
-
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L107 (M)
 
 
 ###### Article R107-2
