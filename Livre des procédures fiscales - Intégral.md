@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-01-01
+Version Consolidée au 1986-01-03
 
 # Partie législative
 
@@ -3966,6 +3966,28 @@ compétence des services extérieurs de la direction générale des impôts.
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 396 quindecies (V)
+
+
+###### Article L139
+
+La commission départementale prévue à l'article 2-5 du code rural peut se faire communiquer par l'administration des impôts
+les éléments non nominatifs d'information nécessaires à sa mission, notamment, les valeurs retenues à l'occasion des
+mutations intervenues et le prix des baux constatés, au cours de l'année précédente et au besoin au cours des cinq dernières
+années.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 2-5
+
+	**Modifié par**:
+
+	  - Loi n°85-1496 du 31 décembre 1985 - art. 24 () JORF 3 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions
@@ -9343,23 +9365,6 @@ l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-
-###### Article L139
-
-Les commissions prévues à l'article 25 de la loi n° 80-502 du 4 juillet 1980 d'orientation agricole peuvent se faire
-communiquer par l'administration des impôts les éléments d'information nécessaires à leurs missions, notamment les valeurs
-retenues à l'occasion des mutations intervenues dans les cinq dernières années [*période, délai*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°80-502 1980-07-04 ART. 25
-
-	**Anciens textes**:
-
-	  - Loi n°80-502 1980-07-04 ART. 25 (AL. 6)
 
 
 ###### Article L167
