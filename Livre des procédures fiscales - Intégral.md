@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-10-17
 
 # Partie législative
 
@@ -15219,37 +15219,61 @@ infractions en matière de police de la circulation et du roulage et en matière
 
 ###### Article R*247-4
 
-Sauf en matière de contributions indirectes, la décision sur les demandes des contribuables tendant à obtenir une modération,
-remise ou transaction appartient :
+Sauf en matière de contributions indirectes, de taxe professionnelle et de taxes additionnelles à cette taxe , la décision
+sur les demandes des contribuables tendant à obtenir une modération, remise ou transaction appartient :
 
 a) Au directeur des services fiscaux [*autorité compétente*] chargé d'une direction départementale lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 750.000 F [*montant limite*] par cote, exercice ou affaire, selon la nature des impôts ;
+l'objet de la demande n'excèdent pas 1.250.000 F [*montant limite*] par cote, exercice ou affaire, selon la nature des
+impôts ;
 
 b) Au directeur régional des impôts ou au directeur des services fiscaux chargé d'une direction spécialisée, pour les
 affaires relatives à des impositions établies à l'initiative des agents placés sous son autorité, lorsque les sommes faisant
 l'objet de la demande n'excèdent pas 1.100.000 F par cote, exercice ou affaire ;
 
 c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 1.750.000 F par cote, exercice ou affaire ;
+faisant l'objet de la demande n'excèdent pas 2.000.000 F par cote, exercice ou affaire ;
 
 d) Au ministre, après avis du comité précité, dans les autres cas.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGIAN3 419
-	  - Décret n°80-591 du 24 juillet 1980 - art. 1 (V)
-
 	**Modifié par**:
 
-	  - Décret n°82-913 du 22 octobre 1982 - art. 1 (V) JORF 27 OCTOBRE 1982
+	  - Décret n°85-1103 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
 
 	**Cité par**:
 
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 2 (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 	  - Livre des procédures fiscales - art. R*247-12 (V)
+
+
+###### Article R247-5 A
+
+En matière de taxe professionnelle et de taxes additionnelles à cet impôt, la décision sur les demandes des contribuables
+tendant à obtenir une remise ou une modération appartient :
+
+a) Au directeur des services fiscaux [*autorité compétente*] chargé d'une direction départementale lorsque les sommes faisant
+l'objet de la demande n'excèdent pas 1.250.000 F [*montant limite*] par cote ;
+
+c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
+faisant l'objet de la demande n'excèdent pas 2.000.000 F par cote ;
+
+d) Au ministre, après avis du comité précité, dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1103 du 9 octobre 1985 - art. 1 (V) JORF 17 octobre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
 
 
 ###### Article R247-6
