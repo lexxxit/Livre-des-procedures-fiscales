@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1992-07-21
+Version Consolidée au 1992-12-31
 
 # Partie législative
 
@@ -1271,6 +1271,241 @@ annexes et dépendances des mêmes locaux, pendant les intervalles de temps ci-a
 	  - Livre des procédures fiscales - art. L26 (V)
 
 
+###### Article L28
+
+Chez les viticulteurs, l'intervention des agents de l'administration est limitée aux chais et ne peut avoir pour objet que de
+vérifier les déclarations de récolte ou de stocks et de prélever des échantillons de vendanges, de moûts ou de vins.
+
+Les vérifications ne peuvent être empêchées par aucun obstacle du fait des viticulteurs. Ces derniers doivent déclarer aux
+agents les quantités de boissons existant dans les fûts, vaisseaux, foudres ou autres récipients.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 410 (P.) "IMPOTS"
+	  - Loi n°1942-11-16 ART. 1
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - Livre des procédures fiscales - art. R36 B-1 (V)
+
+
+###### Article L30
+
+Les distillations faites par les bouilleurs de cru à l'atelier public ou dans les associations coopératives définies à
+l'article 320 du code général des impôts sont soumises au contrôle des agents de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 323 (1ER MEMBRE DE PHRASE)
+	  - Loi n°1903-03-31 ART. 22
+	  - Loi n°1923-02-28 ART. 2
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 2 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 2 (V)
+	  - Livre des procédures fiscales - art. R*30-1 (V)
+	  - Livre des procédures fiscales - art. R30-2 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 320 (V)
+
+
+###### Article L31
+
+Chez les bouilleurs de cru titulaires d'un compte d'entrepôt, l'intervention des agents de l'administration n'est autorisée
+que pour la constatation des alcools détenus et seulement au moment de la campagne suivante de distillation ; les intéressés
+ont la faculté de se faire assister de deux témoins majeurs qui peuvent signer leurs dépositions au procès-verbal mais dont
+l'absence ne peut faire obstacle à l'action des agents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 324 (AL. 4, AL. 5)
+	  - Décret n°1934-07-19 ART. 12 (LOI 1934-07-06 ART. 13)
+	  - Loi n°1903-03-31 ART. 19
+	  - Loi n°1923-02-28 ART. 2
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 324 (M)
+	  - Livre des procédures fiscales - art. R36 B-1 (V)
+
+
+###### Article L32
+
+Chez les distillateurs de profession, l'intervention des agents de l'administration peut avoir lieu le jour et la nuit, même
+en cas d'inactivité de leurs établissements, dans les ateliers, magasins, caves et celliers ; cependant, quand les usines ne
+sont pas en activité, les agents ne peuvent pénétrer de nuit chez les distillateurs qui ont fait apposer des scellés sur
+leurs appareils ou ont adopté un système de distillation en vase clos agréé par l'administration, ou qui, pendant le travail,
+munissent leurs appareils de distillation d'un compteur agréé et vérifié par l'administration (1). 
+
+Les scellés ne peuvent être enlevés qu'en présence des agents ou, si les agents ne se présentent pas après la déclaration
+faite par l'industriel, qu'une heure après celle fixée pour la reprise du travail.
+
+(1) Voir code général des impôts, annexe I, art. 57 à 91.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 341
+	  - Loi n°1899-05-30 ART. 8, ART. 14
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - Code général des impôts annexe 1, CGIAN1. - art. 57 (V)
+	  - Code général des impôts, CGI. - art. 342 (V)
+	  - Livre des procédures fiscales - art. L29 (V)
+	  - Livre des procédures fiscales - art. R*32-1 (V)
+	  - Livre des procédures fiscales - art. R36 B-1 (M)
+
+
+###### Article L33
+
+Chez les fabricants de boissons de raisins secs, l'intervention des agents de l'administration a lieu selon le régime de la
+surveillance permanente et peut être faite pendant la nuit s'il résulte des déclarations que les établissements sont en
+activité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 354
+	  - Loi n°1816-04-28 ART. 235
+	  - Loi n°1889-07-17 ART. 12
+	  - Loi n°1890-07-26 ART. 3
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - Livre des procédures fiscales - art. R36 B-1 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+
+###### Article L34
+
+Chez les marchands en gros de boissons et les fabricants de vinaigre, les agents de l'administration peuvent intervenir dans
+les magasins, caves et celliers, depuis le lever jusqu'au coucher du soleil en vue d'effectuer les vérifications nécessaires
+à la constatation des quantités de boissons restant en magasin ou de s'assurer de la régularité des opérations. 
+
+Ces vérifications ne peuvent être empêchées par aucun obstacle du fait des marchands en gros ; ceux-ci doivent toujours être
+en mesure soit par eux-mêmes, soit par leurs préposés s'ils sont absents, de déférer immédiatement aux réquisitions des
+agents auxquels doivent être déclarés les espèces et quantités de boissons existant dans les fûts, vaisseaux, foudres et
+autres récipients, ainsi que le degré des alcools. Il doit être énoncé, le cas échéant, s'il s'agit d'alcools libres,
+d'alcools de rétrocession ou de produits à base d'alcools de rétrocession, ainsi que l'appellation d'origine attribuée aux
+vins, vins de liqueur et eaux-de-vie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 492, 515
+	  - Décret n°1948-12-09 art. 585
+	  - Loi n°1816-04-28 art. 101
+	  - Loi n°1836-04-23 article unique
+	  - Loi n°1875-07-17 art. 7
+	  - Loi n°1880-07-19 art. 9
+	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 494 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 515 (M)
+	  - Code général des impôts, CGI. - art. 1798 bis (V)
+	  - Code rural - art. L665-4 (V)
+	  - Livre des procédures fiscales - art. R*32-2 (V)
+	  - Livre des procédures fiscales - art. R36 B-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article L35
+
+Chez les débitants de boissons, l'intervention des agents de l'administration peut avoir lieu dans les caves, magasins et
+dans tous les locaux affectés au commerce, pendant le jour, du lever au coucher du soleil, et de nuit pendant tout le temps
+que le débit est ouvert au public.
+
+Les agents peuvent effectuer les vérifications et prélèvements nécessaires pour l'application des lois concernant les fraudes
+commerciales et les fraudes fiscales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 506
+	  - Loi n°1816-04-28 ART. 235
+	  - Loi n°1900-12-29 ART. 5
+	  - Loi n°1941-09-24 ART. 27
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - Livre des procédures fiscales - art. L36 A (V)
+	  - Livre des procédures fiscales - art. R36 B-1 (M)
+
+
 ##### Contributions indirectes.
 
 ###### Article L26
@@ -1314,40 +1549,10 @@ locaux des associations coopératives où sont effectuées des distillations.
 	  - Livre des procédures fiscales - art. R26-3 (V)
 
 
-###### Article L28
-
-Chez les viticulteurs, l'intervention des agents de l'administration des impôts est limitée aux chais et ne peut avoir pour
-objet que de vérifier les déclarations de récolte ou de stocks et de prélever des échantillons de vendanges, de moûts ou de
-vins.
-
-Les vérifications ne peuvent être empêchées par aucun obstacle du fait des viticulteurs. Ces derniers doivent déclarer aux
-agents les quantités de boissons existant dans les fûts, vaisseaux, foudres ou autres récipients.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 410 (P.) "IMPOTS"
-	  - Loi n°1942-11-16 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - Livre des procédures fiscales - art. R36 B-1 (V)
-
-	**Modifié par**:
-
-	  - Décret-loi 1938-05-31 art. 4 JORF 1er juin 1938
-
-
 ###### Article L29
 
 Les détenteurs d'appareils ou de portions d'appareils propres à la distillation, à la fabrication ou au repassage d'eaux-de-
-vie ou d'esprits sont tenus de représenter à toute demande du service des impôts les appareils scellés ou non scellés en leur
+vie ou d'esprits sont tenus de représenter à toute demande de l'administration les appareils scellés ou non scellés en leur
 possession. Tant qu'ils ont la libre disposition des appareils les détenteurs sont astreints aux visites et vérifications des
 agents des impôts dans les conditions déterminées à l'article L. 32 en ce qui concerne les distillateurs de profession.
 
@@ -1381,6 +1586,13 @@ par l'administration [*formalité obligatoire*].
 	  - CGI L32
 	  - CGIAN4 51
 
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+
 	**Cité par**:
 
 	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
@@ -1389,184 +1601,10 @@ par l'administration [*formalité obligatoire*].
 	  - Livre des procédures fiscales - art. R36 B-1 (M)
 
 
-###### Article L30
-
-Les distillations faites par les bouilleurs de cru à l'atelier public ou dans les associations coopératives définies à
-l'article 320 du code général des impôts sont soumises au contrôle des agents de l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 320
-
-	**Anciens textes**:
-
-	  - CGI 323 (1ER MEMBRE DE PHRASE)
-	  - Loi n°1903-03-31 ART. 22
-	  - Loi n°1923-02-28 ART. 2
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 2 (V)
-	  - Livre des procédures fiscales - art. R*30-1 (V)
-	  - Livre des procédures fiscales - art. R30-2 (V)
-
-
-###### Article L31
-
-Chez les bouilleurs de cru titulaires d'un compte d'entrepôt, l'intervention des agents de l'administration des impôts n'est
-autorisée que pour la constatation des alcools détenus et seulement au moment de la campagne suivante de distillation ; les
-intéressés ont la faculté de se faire assister de deux témoins majeurs qui peuvent signer leurs dépositions au procès-verbal
-mais dont l'absence ne peut faire obstacle à l'action des agents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 324 (AL. 4, AL. 5)
-	  - Décret n°1934-07-19 ART. 12 (LOI 1934-07-06 ART. 13)
-	  - Loi n°1903-03-31 ART. 19
-	  - Loi n°1923-02-28 ART. 2
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 324 (M)
-	  - Livre des procédures fiscales - art. R36 B-1 (V)
-
-
-###### Article L32
-
-Chez les distillateurs de profession, l'intervention des agents de l'administration des impôts peut avoir lieu le jour et la
-nuit, même en cas d'inactivité de leurs établissements, dans les ateliers, magasins, caves et celliers ; cependant, quand les
-usines ne sont pas en activité, les agents ne peuvent pénétrer de nuit chez les distillateurs qui ont fait apposer des
-scellés sur leurs appareils ou ont adopté un système de distillation en vase clos agréé par l'administration, ou qui, pendant
-le travail, munissent leurs appareils de distillation d'un compteur agréé et vérifié par l'administration (1).
-
-Les scellés ne peuvent être enlevés qu'en présence des agents ou, si les agents ne se présentent pas après la déclaration
-faite par l'industriel, qu'une heure après celle fixée pour la reprise du travail.
-
-(1) Voir code général des impôts, annexe I, art. 57 à 91
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 341
-	  - Loi n°1899-05-30 ART. 8, ART. 14
-
-	**Cite**:
-
-	  - CGIAN1 57 A CGIAN1 91
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - Code général des impôts annexe 1, CGIAN1. - art. 57 (V)
-	  - Code général des impôts, CGI. - art. 342 (V)
-	  - Livre des procédures fiscales - art. L29 (V)
-	  - Livre des procédures fiscales - art. R*32-1 (V)
-	  - Livre des procédures fiscales - art. R36 B-1 (M)
-
-
-###### Article L33
-
-Chez les fabricants de boissons de raisins secs, l'intervention des agents de l'administration des impôts a lieu selon le
-régime de la surveillance permanente et peut être faite pendant la nuit s'il résulte des déclarations que les établissements
-sont en activité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 354
-	  - Loi n°1816-04-28 ART. 235
-	  - Loi n°1889-07-17 ART. 12
-	  - Loi n°1890-07-26 ART. 3
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - Livre des procédures fiscales - art. R36 B-1 (M)
-
-
-###### Article L34
-
-Chez les marchands en gros de boissons et les fabricants de vinaigre, les agents de l'administration des impôts peuvent
-intervenir dans les magasins, caves et celliers, depuis le lever jusqu'au coucher du soleil [*horaires*] en vue d'effectuer
-les vérifications nécessaires à la constatation des quantités de boissons restant en magasin ou de s'assurer de la régularité
-des opérations.
-
-Ces vérifications ne peuvent être empêchées par aucun obstacle du fait des marchands en gros ; ceux-ci doivent toujours être
-en mesure soit par eux-mêmes, soit par leurs préposés s'ils sont absents, de déférer immédiatement aux réquisitions des
-agents auxquels doivent être déclarés les espèces et quantités de boissons existant dans les fûts, vaisseaux, foudres et
-autres récipients, ainsi que le degré des alcools. Il doit être énoncé, le cas échéant, s'il s'agit d'alcools libres,
-d'alcools de rétrocession ou de produits à base d'alcools de rétrocession, ainsi que l'appellation d'origine attribuée aux
-vins, vins de liqueur et eaux-de-vie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 492
-	  - CGI 515 (al. 3 P.)
-	  - Décret n°1948-12-09 art. 585
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°1816-04-28 art. 101
-	  - Loi n°1836-04-23 article unique
-	  - Loi n°1875-07-17 art. 7
-	  - Loi n°1880-07-19 art. 9
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°79-200 1979-03-05 ART. 3 : le terme degré est remplacé par titre alcoométrique volumique
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 494 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 515 (M)
-	  - Code général des impôts, CGI. - art. 1798 bis (V)
-	  - Code rural - art. L665-4 (V)
-	  - Livre des procédures fiscales - art. R*32-2 (V)
-	  - Livre des procédures fiscales - art. R36 B-1 (V)
-
-
-###### Article L35
-
-Chez les débitants de boissons, l'intervention des agents de l'administration des impôts peut avoir lieu dans les caves,
-magasins et dans tous les locaux affectés au commerce, pendant le jour, du lever au coucher du soleil, et de nuit pendant
-tout le temps que le débit est ouvert au public [*horaires*].
-
-Les agents peuvent effectuer les vérifications et prélèvements nécessaires pour l'application des lois concernant les fraudes
-commerciales et les fraudes fiscales.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 506
-	  - Loi n°1816-04-28 ART. 235
-	  - Loi n°1900-12-29 ART. 5
-	  - Loi n°1941-09-24 ART. 27
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - Livre des procédures fiscales - art. L36 A (V)
-	  - Livre des procédures fiscales - art. R36 B-1 (M)
-
-
 ###### Article L36
 
-Les agents de l'administration des impôts ont seuls qualité pour procéder aux visites et vérifications chez les contribuables
-soumis à la législation sur les ouvrages d'or, d'argent et de platine, ainsi que chez les fondeurs et apprêteurs de ces
-métaux.
+Les agents de l'administration ont seuls qualité pour procéder aux visites et vérifications chez les contribuables soumis à
+la législation sur les ouvrages d'or, d'argent et de platine, ainsi que chez les fondeurs et apprêteurs de ces métaux.
 
 Ces visites et vérifications ont lieu comme en matière de contributions indirectes et les agents peuvent se faire accompagner
 de l'essayeur.
@@ -1578,7 +1616,9 @@ vérifications.
 
 	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
@@ -1587,6 +1627,10 @@ vérifications.
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 275 bis C (M)
 	  - Code général des impôts, CGI. - art. 553 bis (P)
 	  - Livre des procédures fiscales - art. R36 B-1 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article L36 B
@@ -4636,75 +4680,6 @@ code pénal, cette mention vise les peines fixées par l'article 226-13 du code 
 	  - Code pénal 378
 
 
-##### Délivrance de documents aux contribuables.
-
-###### Article L107
-
-Les agents des recettes locales et les correspondants locaux des impôts délivrent aux personnes qui en font la demande des
-extraits de leurs registres qui concernent les déclarations dans lesquelles ces personnes sont désignées.
-
-Le montant de la rémunération due aux agents par les personnes ayant formulé les demandes d'extraits est fixé par décret.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-95 du 15 janvier 1986 - art. 1 (Ab) JORF 23 janvier 1986
-	  - Décret n°86-95 du 15 janvier 1986 - art. 11 (V) JORF 23 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1087 1986-10-07
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 4 (V)
-	  - Livre des procédures fiscales - art. R107-1 (Ab)
-	  - Livre des procédures fiscales - art. R107-2 (Ab)
-
-
-###### Article L108
-
-Les agents de l'administration des impôts peuvent donner connaissance sur place des livres et registres relatifs aux
-contributions indirectes, aux propriétaires, fermiers, expéditeurs et destinataires qui y sont autorisés par le juge du
-tribunal d'instance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2010
-	  - Loi n°1872-08-02 ART. 8 (AL. 2)
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 5 (V)
-	  - Livre des procédures fiscales - art. L110 (V)
-	  - Livre des procédures fiscales - art. R108-1 (V)
-
-
-###### Article L109
-
-Les agents de l'administration des impôts peuvent communiquer à toute personne qui en fait la demande les déclarations de
-sucrage en première ou en deuxième cuvée et les déclarations de détention de sucre par quantités supérieures à 25 kg.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 559 (AL. 2 1RE PHRASE SAUF 1RE LIGNE)
-	  - Loi n°1891-07-11 ART. 5
-	  - Loi n°1903-03-31 ART. 33
-	  - Loi n°1907-06-29 ART. 8
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - Livre des procédures fiscales - art. L110 (V)
-	  - Livre des procédures fiscales - art. R*109-1 (V)
-	  - Livre des procédures fiscales - art. R109-2 (V)
-
-
 ##### 1° : Délivrance de documents aux contribuables
 
 ###### Article L104
@@ -4816,6 +4791,94 @@ privée déposé au service des impôts en application de l'article 849 du code 
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article L107
+
+Les agents de l'administration délivrent aux personnes qui en font la demande des extraits de leurs registres qui concernent
+les déclarations dans lesquelles ces personnes sont désignées.
+
+Le montant de la rémunération due aux agents par les personnes ayant formulé les demandes d'extraits est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 1993-02-26 art. 4 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 4 (V)
+	  - Livre des procédures fiscales - art. R107-1 (Ab)
+	  - Livre des procédures fiscales - art. R107-2 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article L108
+
+Les agents de l'administration peuvent donner connaissance sur place des livres et registres relatifs aux contributions
+indirectes, aux propriétaires, fermiers, expéditeurs et destinataires qui y sont autorisés par le juge du tribunal
+d'instance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 2010
+	  - Loi n°1872-08-02 ART. 8 (AL. 2)
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 1993-02-26 art. 5 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 5 (V)
+	  - Livre des procédures fiscales - art. L110 (V)
+	  - Livre des procédures fiscales - art. R108-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+
+###### Article L109
+
+Les agents de l'administration peuvent communiquer à toute personne qui en fait la demande les déclarations de sucrage en
+première ou en deuxième cuvée et les déclarations de détention de sucre par quantités supérieures à 25 kg.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 559 (AL. 2 1RE PHRASE SAUF 1RE LIGNE)
+	  - Loi n°1891-07-11 ART. 5
+	  - Loi n°1903-03-31 ART. 33
+	  - Loi n°1907-06-29 ART. 8
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - Livre des procédures fiscales - art. L110 (V)
+	  - Livre des procédures fiscales - art. R*109-1 (V)
+	  - Livre des procédures fiscales - art. R109-2 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article L110
@@ -8711,28 +8774,25 @@ e) Les infractions relatives au récépissé de consignation prévu par l'articl
 
 ###### Article L213
 
-Les procès-verbaux sont établis par les agents de l'administration des impôts, dans les conditions prévues à l'article 429 du
-code de procédure pénale (1). Toutefois en matière de contributions indirectes les procès-verbaux sont nuls s'ils n'ont pas
-été rédigés par les seuls agents ayant pris une part personnelle et directe à la constatation des faits qui constituent
-l'infraction.
+Les procès-verbaux sont établis par les agents de l'administration, dans les conditions prévues à l'article 429 du code de
+procédure pénale (1). Toutefois en matière de contributions indirectes les procès-verbaux sont nuls s'ils n'ont pas été
+rédigés par les seuls agents ayant pris une part personnelle et directe à la constatation des faits qui constituent
+l'infraction. 
 
 En outre les personnes désignées aux articles L. 215 à L. 225 peuvent établir les procès-verbaux constatant les infractions
-indiquées par ces articles.
+indiquées par ces articles. 
 
-(1) Code de procédure pénale, art. 429 : "Tout procès-verbal ou rapport n'a de valeur probante que s'il est régulier en la
+(1) Code de procédure pénale, art. 429 : " Tout procès-verbal ou rapport n'a de valeur probante que s'il est régulier en la
 forme, si son auteur a agi dans l'exercice de ses fonctions et a rapporté sur une matière de sa compétence ce qu'il a vu,
-entendu ou constaté personnellement".
+entendu ou constaté personnellement ".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI L215 à CGI L225
-	  - CODE DE PROCEDURE PENALE - art. 429 (M)
-
 	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 1993-02-26 art. 6 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
@@ -8742,11 +8802,20 @@ entendu ou constaté personnellement".
 	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 155 H (Ab)
 	  - Livre des procédures fiscales - art. R213-4 (V)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. 429 (V)
+	  - Livre des procédures fiscales - art. L215 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 ###### Article L214
 
-En matière de contributions indirectes, les agents de l'administration des impôts compétents pour établir les procès-verbaux
-doivent être commissionnés et assermentés [*condition*].
+En matière de contributions indirectes, les agents de l'administration compétents pour établir les procès-verbaux doivent
+être commissionnés et assermentés.
 
 **Liens relatifs à cet article**
 
@@ -8755,6 +8824,16 @@ doivent être commissionnés et assermentés [*condition*].
 	  - CGI 1854 1 (AL. 1 P.)
 	  - Loi n°1905-08-06 ART. 17 (AL. 1)
 	  - Ordonnance 60-1256 1960-11-29 ART. 10
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 1993-02-26 art. 7 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
@@ -9362,13 +9441,12 @@ la fois au régime fiscal et au régime économique de l'alcool, l'administratio
 
 La personne qui fait l'objet de poursuites devant le tribunal correctionnel en est informée par la citation prévue par
 l'article 550 du code de procédure pénale ; celle-ci peut être faite soit par les huissiers de justice, soit par les agents
-de l'administration des impôts [*autorités compétentes*].
+de l'administration. 
 
-La citation doit être délivrée dans le délai de trois ans à compter de la date du procès-verbal constatant l'infraction
-[*point de départ*].
+La citation doit être délivrée dans le délai de trois ans à compter de la date du procès-verbal constatant l'infraction. 
 
 Toutefois, lorsque la personne est en état d'arrestation, la citation doit être faite dans le délai d'un mois à partir de
-l'arrestation.
+l'arrestation. 
 
 L'inobservation de ces délais entraîne la nullité de la procédure.
 
@@ -9380,26 +9458,31 @@ L'inobservation de ces délais entraîne la nullité de la procédure.
 	  - CGI 1870
 	  - Décret n°1926-11-16 art. 1
 	  - Décret n°1er Germinal AN XIII art. 28
+	  - Loi n°1926-08-03 art. 1
 	  - Loi n°79-1102 du 21 décembre 1979 - art. 9, v. init.
 	  - Loi n°1835-06-15 article unique
-	  - Loi n°1926-08-03 art. 1
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CODE DE PROCEDURE PENALE - art. 550 (M)
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 12 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
 	  - Décret n°93-265 du 26 février 1993 - art. 12 (V)
 	  - Livre des procédures fiscales - art. R236-1 (V)
 
+	**Cite**:
+
+	  - Code de procédure pénale - art. 550 (V)
+
 
 ###### Article L237
 
 Dans le cas de fabrication de tabacs, de détention, de vente ou de colportage de tabacs fabriqués, s'il résulte de
 l'instruction que d'autres individus ont coopéré à la fraude comme entrepreneurs de contrebande ou intéressés, les procès-
-verbaux sont transmis au procureur de la République [*autorité compétente*] qui exerce les poursuites au nom de
-l'administration des impôts.
+verbaux sont transmis au procureur de la République qui exerce les poursuites au nom de l'administration.
 
 **Liens relatifs à cet article**
 
@@ -9408,35 +9491,55 @@ l'administration des impôts.
 	  - CGI 1868 (AL. 3)
 	  - Loi n°1903-03-31 ART. 39
 
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 1993-02-26 art. 8 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
+
 	**Cité par**:
 
 	  - Décret n°93-265 du 26 février 1993 - art. 8 (V)
 	  - Livre des procédures fiscales - art. R237-1 (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+
 
 ###### Article L238
 
-Les procès-verbaux des agents de l'administration des impôts font foi jusqu'à preuve contraire.
+Les procès-verbaux des agents de l'administration font foi jusqu'à preuve contraire. 
 
 La personne qui fait l'objet des poursuites peut demander à apporter la preuve contraire des faits constatés dans le procès-
-verbal. Lorsque le tribunal accepte la demande, il reporte l'examen de l'affaire en la renvoyant à au moins quinze jours.
+verbal. Lorsque le tribunal accepte la demande, il reporte l'examen de l'affaire en la renvoyant à au moins quinze jours. 
 
 Lorsque la personne concernée veut faire entendre des témoins, elle en dépose la liste au secrétariat-greffe avec leurs nom,
 prénoms, profession et domicile dans le délai de trois jours francs à compter de l'audience au cours de laquelle le renvoi a
-été prononcé [*point de départ*].
+été prononcé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - CGI 1865
-	  - Loi n°1903-12-30 ART. 24
 	  - Loi n°65-1002 1965-11-30
+	  - Loi n°1903-12-30 ART. 24
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 1993-02-26 art. 9 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
 
 	**Cité par**:
 
 	  - Décret n°93-265 du 26 février 1993 - art. 9 (V)
 	  - Livre des procédures fiscales - art. R238-1 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ###### Article L239
@@ -9846,23 +9949,18 @@ litige devant le tribunal compétent, celui-ci fixe le taux des majorations ou p
 
 ###### Article L252
 
-Le recouvrement des impôts est confié soit aux comptables du Trésor, soit aux comptables de la direction générale des impôts
-par arrêté du ministre chargé des finances [*compétence*].
+Le recouvrement des impôts est confié aux comptables publics compétents par arrêté du ministre chargé du budget. 
 
 Ces comptables exercent également les actions liées indirectement au recouvrement des créances fiscales et qui, dès lors,
 n'ont pas une cause étrangère à l'impôt au sens de l'article 38 de la loi n° 55-366 du 3 avril 1955 relative au développement
 des crédits affectés aux dépenses du ministère de l'économie et des finances et des affaires économiques pour l'exercice 1955
-(I. - Charges communes).
+(I.-Charges communes).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°55-366 du 3 avril 1955 - art. 38, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 26 (P) JORF 31 décembre 1986
+	  - Loi n°55-366 du 3 avril 1955 - art. 38 (V)
 
 	**Cité par**:
 
@@ -9876,13 +9974,15 @@ des crédits affectés aux dépenses du ministère de l'économie et des finance
 	  - Code général des impôts, CGI. - art. 1929 ter (VD)
 	  - Livre des procédures fiscales - art. L281 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°87-941 1987-11-23
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-265 du 26 février 1993 - art. 13 () JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Liens**:
 
-	  - HISTO: Edition du 17 août 1987
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites
@@ -10503,21 +10603,17 @@ directement ou indirectement, la direction effective de la société, de la pers
 
 ###### Article L268
 
-Lorsqu'ils envisagent de faire procéder à la vente d'un fonds de commerce, le comptable du Trésor et le comptable de la
-direction générale des impôts peuvent, par dérogation à l'article 15 de la loi du 17 mars 1909 relative à la vente et au
-nantissement du fonds de commerce, faire ordonner par le président du tribunal de grande instance que cette vente soit
-effectuée dans les formes prévues pour les ventes de biens appartenant à des mineurs. Le président exerce, à cet égard,
-toutes les attributions confiées au tribunal par les articles 1272 et suivants du nouveau code de procédure civile.
+Lorsqu'ils envisagent de faire procéder à la vente d'un fonds de commerce, le comptable public compétent peut, par dérogation
+à l'article 15 de la loi du 17 mars 1909 relative à la vente et au nantissement du fonds de commerce, faire ordonner par le
+président du tribunal de grande instance que cette vente soit effectuée dans les formes prévues pour les ventes de biens
+appartenant à des mineurs. Le président exerce, à cet égard, toutes les attributions confiées au tribunal par les articles
+1272 et suivants du nouveau code de procédure civile.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°81-500 1981-05-12 ART. 2, ART. 5 JORF 14 MAI 1981
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°93-265 du 26 février 1993 - art. 11 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
