@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-12-31
+Version Consolidée au 1988-01-01
 
 # Partie législative
 
@@ -409,6 +409,52 @@ procédures produisent directement effet pour la determination du revenu global.
 #### Chapitre premier : Le droit de contrôle de l'administration
 
 ##### Section I : Dispositions générales
+
+###### Article L10
+
+L'administration des impôts contrôle les déclarations ainsi que que les actes utilisés pour l'établissement des impôts,
+droits, taxes et redevances.
+
+Elle contrôle, également les documents déposés en vue d'obtenir des déductions, restitutions ou remboursements.
+
+A cette fin, elle peut demander aux contribuables tous renseignements, justifications ou éclaircissements relatifs aux
+déclarations souscrites ou aux actes déposés.
+
+Avant l'engagement d'une des vérifications prévues aux articles L. 12 et L. 13, l'administration des impôts remet au
+contribuable la charte des droits et obligations du contribuable vérifié ; les dispositions contenues dans la charte sont
+opposables à l'administration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°87-502 1987-07-08 art. 8 JORF 9 juillet 1987 en vigueur le 1er janvier 1988
+
+	**Cité par**:
+
+	  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
+	  - Décret n°2006-1723 du 23 décembre 2006 - art. 1 (Ab)
+	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (VD)
+	  - Arrêté du 25 novembre 2010 - art. (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 229 B (V)
+	  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
+	  - Code général des impôts, CGI. - art. 204 (V)
+	  - Code général des impôts, CGI. - art. 289 bis (Ab)
+	  - Livre des procédures fiscales - art. L14 (V)
+	  - Livre des procédures fiscales - art. L80 F (V)
+	  - Livre des procédures fiscales - art. L80 FA (V)
+	  - Livre des procédures fiscales - art. R*135 S-2 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - TXT_ASSOCIE: Jurisprudence 2000-05-12 7G-7-00
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L12 (M)
+	  - Livre des procédures fiscales - art. L13 (M)
+
 
 ###### Article L11
 
@@ -7358,6 +7404,28 @@ jugées en séances publiques.
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
 
 
+###### Article L199 C
+
+L'administration, ainsi que le contribuable dans la limite du dégrèvement ou de la restitution sollicités, peuvent faire
+valoir tout moyen nouveau, tant devant le tribunal administratif que devant la cour administrative d'appel, jusqu'à la
+clôture de l'instruction. Il en est de même devant le tribunal de grande instance.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 93 () JORF 31 décembre 1987
+	  - Loi n°87-1127 du 31 décembre 1987 - art. 14 () JORF 1er janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1002 1988-10-20
+
+
 ##### B : Procédure devant le tribunal administratif.
 
 ###### Article L200
@@ -10132,46 +10200,6 @@ procéder à la saisie.
 
 ### LE DROIT DE CONTROLE DE L'ADMINISTRATION
 
-#### DISPOSITIONS GENERALES.
-
-###### Article L10
-
-L'administration des impôts contrôle les déclarations ainsi que les actes utilisés pour l'établissement des impôts, droits,
-taxes et redevances.
-
-Elle contrôle, également les documents déposés en vue d'obtenir des déductions, restitutions ou remboursements.
-
-A cette fin, elle peut demander aux contribuables tous renseignements, justifications ou éclaircissements relatifs aux
-déclarations souscrites ou aux actes déposés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 176 (AL. 1, AL. 2, AL. 3 P.) CGI 178
-	  - CGI 229 B (AL. 1)
-	  - CGI 55 (AL. 1)
-	  - Décret n°1934-07-20 ANNEXE ART. 39 (LOI 1934-07-06 ART. 13)
-	  - Décret n°48-1986 1948-12-09 ART. 85 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Loi n°1918-12-30 ART. 5
-	  - Loi n°1926-04-04 ART. 9
-
-	**Cité par**:
-
-	  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
-	  - Décret n°2006-1723 du 23 décembre 2006 - art. 1 (Ab)
-	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (VD)
-	  - Arrêté du 25 novembre 2010 - art. (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 229 B (V)
-	  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
-	  - Code général des impôts, CGI. - art. 204 (V)
-	  - Code général des impôts, CGI. - art. 289 bis (Ab)
-	  - Livre des procédures fiscales - art. L14 (V)
-	  - Livre des procédures fiscales - art. L80 F (V)
-	  - Livre des procédures fiscales - art. L80 FA (V)
-	  - Livre des procédures fiscales - art. R*135 S-2 (V)
-
-
 #### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
 
 ###### Article L23 A
@@ -10408,28 +10436,6 @@ pas applicables à l'impôt sur les grandes fortunes.
 	**Créé par**:
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
-
-## CONTENTIEUX DE L'IMPOT
-
-### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT
-
-#### PROCEDURE DEVANT LES TRIBUNAUX.
-
-###### Article L199 C
-
-Dans la limite du dégrèvement ou de la restitution sollicités, le contribuable peut faire valoir tout moyen nouveau, tant
-devant le tribunal administratif que devant le Conseil d'Etat, jusqu'à la clôture de l'instruction. "
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81 III Finances pour 1987 JORF 31 décembre 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-940 1987-11-23
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
