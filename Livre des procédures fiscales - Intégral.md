@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-01-03
+Version Consolidée au 1986-01-23
 
 # Partie législative
 
@@ -3013,6 +3013,31 @@ mais à condition que le demandeur figure personnellement au rôle.
 	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
 	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
+
+
+###### Article L107
+
+Les agents des recettes locales et les correspondants locaux des impôts délivrent aux personnes qui en font la demande des
+extraits de leurs registres qui concernent les déclarations dans lesquelles ces personnes sont désignées.
+
+Le montant de la rémunération due aux agents par les personnes ayant formulé les demandes d'extraits est fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-95 du 15 janvier 1986 - art. 1 (Ab) JORF 23 janvier 1986
+	  - Décret n°86-95 du 15 janvier 1986 - art. 11 (V) JORF 23 janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 4 (V)
+	  - Livre des procédures fiscales - art. R107-1 (Ab)
+	  - Livre des procédures fiscales - art. R107-2 (Ab)
 
 
 ###### Article L108
@@ -9209,30 +9234,6 @@ Le secret s'étend à toutes les informations recueillies à l'occasion de ces o
 	**Cite**:
 
 	  - Code pénal 378
-
-
-###### Article L107
-
-Les agents des recettes locales ou auxiliaires et les gérants de bureaux auxiliaires ou correspondants de l'administration
-des impôts délivrent aux personnes qui en font la demande des extraits de leurs registres qui concernent les déclarations
-dans lesquelles ces personnes sont désignées.
-
-Le montant de la rémunération due aux agents par les personnes ayant formulé les demandes d'extraits est fixé par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2011
-	  - Décret n°1948-12-09 art. 2149
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°1905-08-06 art. 10
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 4 (V)
-	  - Livre des procédures fiscales - art. R107-1 (Ab)
-	  - Livre des procédures fiscales - art. R107-2 (Ab)
 
 
 ###### Article L111
