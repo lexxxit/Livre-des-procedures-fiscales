@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2000-03-31
+Version Consolidée au 2000-08-31
 
 # Partie législative
 
@@ -6737,6 +6737,35 @@ Les dispositions du cinquième alinéa de l'article L. 135 B sont applicables au
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L135 B (M)
+
+
+###### Article L135 L
+
+Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
+publique, les agents de la direction générale de la comptabilité publique, de la direction générale des douanes et droits
+indirects, de la direction générale des impôts et de la direction générale de la concurrence, de la consommation et de la
+répression des fraudes doivent répondre aux demandes formulées par les officiers et agents de police judiciaire concernant
+les renseignements et documents de nature financière, fiscale ou douanière, sans que puisse être opposée l'obligation au
+secret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2002-1094 2002-08-29 art. 5 JORF 30 août 2002
+
+	**Codifié par**:
+
+	  - Décret n°2002-1208 2002-09-27
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
+	  - Code général des impôts, CGI. - art. 1649 quater-0 B ter (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2002
 
 
 ##### III : Dérogations au profit de diverses commissions
