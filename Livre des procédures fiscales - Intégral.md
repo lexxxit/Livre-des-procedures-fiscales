@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-01-05
+Version Consolidée au 1988-01-23
 
 # Partie législative
 
@@ -11696,6 +11696,33 @@ est soumis aux obligations définies à l'article R. 87-1.
 	  - Livre des procédures fiscales - art. R87-1 (M)
 
 
+##### 15° : Intermédiaires professionnels des bourses de valeur
+
+###### Article R*94-1
+
+En application de l'article L. 94, toute personne qui fait commerce habituel de recueillir les offres et les demandes de
+valeurs mobilières doit, à toute demande des agents de l'administration, représenter les bordereaux des sociétés de bourse ou
+faire connaître les numéros et les dates des bordereaux ainsi que les noms des sociétés de bourse de qui ils émanent.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L94
+
+	**Anciens textes**:
+
+	  - CGIAN2 407
+
+	**Modifié par**:
+
+	  - Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab) JORF 23 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1002 1988-10-20
+
+
 ##### Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part.
 
 ###### Article R*97-1
@@ -15519,47 +15546,6 @@ propriété est discutée.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2323-5 (V)
-
-
-## LE CONTROLE DE L'IMPOT
-
-### LE DROIT DE COMMUNICATION
-
-#### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.
-
-###### Article R*94-1
-
-En application de l'article L. 94, toute personne qui fait commerce habituel de recueillir les offres et les demandes de
-valeurs mobilières doit, à toute demande des agents de l'administration, représenter les bordereaux d'agents de change ou
-faire connaître les numéros et les dates des bordereaux ainsi que les noms des agents de change de qui ils émanent.
-
-**Nota:**
-
-[L'article 25 de la loi n° 88-70 du 22 janvier 1988 dispose que dans tous les textes législatifs et réglementaires en
-vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" et "chambre syndicale des agents de change" par
-"Conseil des bourses de valeurs"].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L94
-
-	**Anciens textes**:
-
-	  - CGIAN2 407
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
 ## LE CONTENTIEUX DE L'IMPOT
