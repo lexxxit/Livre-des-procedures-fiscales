@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-05-03
 
 # Partie législative
 
@@ -10228,6 +10228,56 @@ disposition des agents de l'administration à leur lieu d'imposition.
 	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er JANVIER 1982
 
 
+##### 9° : Institutions et organismes versant des rémunérations ou répartissant des fonds
+
+###### Article R87-1
+
+Pour l'exercice du droit de communication de l'administration, le gérant et le dépositaire d'un fonds commun de placement
+sont tenus de présenter :
+
+a. Tous documents comptables liés au fonctionnement du fonds, et notamment les pièces de recettes et de dépenses de toute
+nature ;
+
+b. Un relevé des valeurs liquidatives dégagées au cours des six dernières années ;
+
+c. Les listes des propriétaires de parts et les duplicata des attestations de propriété mentionnées à l'article 1er du décret
+n° 83-357 du 2 mai 1983 fixant les conditions d'application de la loi n° 79-594 (1), établies au cours des six dernières
+années.
+
+Dans le cadre de ses obligations fiscales, le gérant doit tenir à la disposition de l'administration toutes justifications de
+nature à prouver la conformité du fonctionnement du fonds commun avec le statut législatif et réglementaire de ces
+organismes.
+
+(1) La loi 79-594 du 13 juillet 1979 est complétée par la loi 83-1 du 3 janvier 1983, art. 23 (JO des 2, 3 et 4).
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°83-357 du 2 mai 1983 - art. 1 (V) JORF 3 mai 1983
+	  - Décret n°83-357 du 2 mai 1983 - art. 43 (Ab) JORF 3 mai 1983
+
+	**Cite**:
+
+	  - Décret n°83-357 du 2 mai 1983 - art. 1, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°83-900 1983-10-06
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 quinquies B (M)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI ter (V)
+	  - Livre des procédures fiscales - art. R87-2 (V)
+	  - Livre des procédures fiscales - art. R87-3 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+
 ##### Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part.
 
 ###### Article R*97-1
@@ -13108,48 +13158,6 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
-
-
-###### Article R87-1
-
-Pour l'exercice du droit de communication de l'administration, le gérant et le dépositaire d'un fonds commun de placement
-régi par la loi n° 79-594 du 13 juillet 1979 sont tenus de présenter :
-
-a. Tous documents comptables liés au fonctionnement du fonds, et notamment les pièces de recettes et de dépenses de toute
-nature ;
-
-b. Un relevé des valeurs liquidatives dégagées au cours des six dernières années ;
-
-c. Les listes des propriétaires de parts et les duplicata des attestations de propriété mentionnées à l'article 5 du décret
-n° 79-835 du 27 septembre 1979 fixant les conditions d'application de la loi n° 79-594, établies au cours des six dernières
-années.
-
-Dans le cadre de ses obligations fiscales, le gérant doit tenir à la disposition de l'administration toutes justifications de
-nature à prouver la conformité du fonctionnement du fonds commun avec le statut législatif et réglementaire de ces
-organismes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Cite**:
-
-	  - Loi n°79-594 1979-07-13
-	  - Décret n°79-835 du 27 septembre 1979 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°81-89 du 29 janvier 1981 - art. 1 (V) JORF 4 FEVRIER 1981
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 quinquies B (M)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 sexdecies F (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 46 AI ter (V)
-	  - Livre des procédures fiscales - art. R87-2 (V)
-	  - Livre des procédures fiscales - art. R87-3 (V)
 
 
 ### LE SECRET PROFESSIONNEL EN MATIERE FISCALE
