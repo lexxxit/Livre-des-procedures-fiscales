@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-05-07
+Version Consolidée au 1985-07-12
 
 # Partie législative
 
@@ -8210,8 +8210,8 @@ La procédure de redressement contradictoire n'est pas applicable :
 2° En matière de contributions indirectes, lorsque les faits ont été constatés par procès-verbal suivi de transaction ou de
 poursuites correctionnelles ;
 
-3° En matière de droits de timbre, lorsqu'ils ne sont pas payés sur état ou sur déclaration, et de taxes sur les véhicules à
-moteur prévues à l'article 1599 C du code général des impôts ;
+3° En matière de droits de timbre, lorsqu'ils ne sont pas payés sur état ou sur déclaration, et de taxe différentielle  sur
+les véhicules à moteur prévue à l'article 1599 C du code général des impôts ;
 
 4° Dans les cas de taxation, rectification ou évaluation d'office des bases d'imposition ;
 
@@ -8223,20 +8223,13 @@ moteur prévues à l'article 1599 C du code général des impôts ;
 
 	  - CGI 1599 C
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1649 quinquies A 4
-	  - CGI 1887 (P.)
-	  - Loi n°13 Brumaire AN VII art. 31
-	  - Loi n°63-1316 1963-12-27 art. 24 4
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
 
 	**Codifié par**:
 
-	  - Décret n°84-876 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
+	  - Décret n°85-1008 1985-09-24
 
 	**Cité par**:
 
@@ -13220,9 +13213,154 @@ expressément [*condition*].
 	  - Décret n°81-860 1981-09-15
 
 
+##### Section V : Dégrèvements d'office
+
+###### Article R*211-1
+
+L'administration des impôts peut prononcer d'office le dégrèvement ou la restitution d'impositions qui n'étaient pas dues,
+jusqu'au 31 décembre de la quatrième année suivant celle au cours de laquelle le délai de réclamation a pris fin, ou, en cas
+d'instance devant les tribunaux, celle au cours de laquelle la décision intervenue a été notifiée [*date limite*].
+
+Elle peut dans ce même délai prononcer d'office les dégrèvements des taxes foncières et de la taxe d'habitation indûment
+établies lorsque l'erreur d'imposition ne peut plus être rectifiée par un transfert de droits au nom de la personne qui
+aurait dû être imposée.
+
+Elle peut prononcer dans le délai de trente ans les dégrèvements d'office prévus aux articles 1390, 1391, 1414, 1414 A et
+1601 du code général des impôts relatifs à la taxe foncière sur les propriétés bâties, à la taxe d'habitation et à la taxe
+pour frais de chambres de métiers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1390
+	  - CGI 1391
+	  - CGI 1414
+	  - CGI 1414 A
+	  - CGI 1601
+
+	**Anciens textes**:
+
+	  - CGI 1951 1 (AL. 1, AL. 2)
+	  - CGI 1951 A
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 34 (V) JORF 12 juillet 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 316 A (V)
+	  - Livre des procédures fiscales - art. R*211-2 (V)
+
+
+###### Article R*211-2
+
+Les propositions de dégrèvements d'office, de restitutions, de mutations de cote et de transferts prévues à l'article R.
+211-1 peuvent être faites par les agents de l'administration des impôts et les comptables du Trésor, chargés du recouvrement
+[*autorités compétentes*]. Ces propositions sont portées sur des états adressés au directeur des services fiscaux pour la
+suite à donner.
+
+Les agents appartenant au corps des géomètres du cadastre sont également admis, dans les conditions fixées par le directeur
+général des impôts, à proposer d'office, en matière de taxe foncière, des mutations de cote et le dégrèvement des droits
+formant surtaxe.
+
+Sauf s'il s'agit des dégrèvements d'office prévus par les articles 1390, 1391, 1414 et 1414 A du code général des impôts, les
+propositions de dégrèvements, mutations ou transferts sont communiquées par l'administration au maire ou à la commission
+communale des impôts directs conformément à l'article R. 198-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1390
+	  - CGI 1391
+	  - CGI 1414
+	  - CGI 1414 A
+	  - CGI R198-3
+	  - CGI R211-1
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 34 (V) JORF 12 juillet 1985
+
+
 #### Chapitre II : Les procédures pénales
 
 ##### Section I : Constatation des infractions par procès-verbal
+
+##### I : Infractions constatées par procès-verbal.
+
+###### Article R*212-1
+
+Les infractions, autres que le simple retard, prévues à l'article 1840 N quater du code général des impôts en matière de taxe
+différentielle sur les véhicules à moteur sont constatées par procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1840 N quater
+
+	**Anciens textes**:
+
+	  - CGI 310 B (P.)
+	  - CGIAN2 307 (2 PREMIERES LIGNES)
+
+	**Codifié par**:
+
+	  - Décret n°2005-331 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Modifié par**:
+
+	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
+
+
+##### II : Agents compétents pour constater les infractions par procès-verbal
+
+###### Article R*213-1
+
+Les procès-verbaux constatant les infractions prévues à l'article 1840 N quater du code général des impôts en matière de taxe
+différentielle sur les véhicules à moteur peuvent être établis, par les agents des douanes, les personnels de la police
+nationale, les gendarmes, les agents assermentés de l'office national des forêts et, en général, tous les agents habilités à
+dresser des procès-verbaux en matière de police de la circulation routière.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1840 N quater
+
+	**Codifié par**:
+
+	  - Décret n°2005-331 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Modifié par**:
+
+	  - Loi n°85-695 1985-07-12 art. 18 I JORF 12 juillet 1985
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
+
 
 ##### III : Rédaction des procès-verbaux
 
@@ -14926,129 +15064,9 @@ Ils sont payés d'office en même temps que les sommes remboursées par le compt
 	  - Décret n°81-860 1981-09-15
 
 
-### LES DEGREVEMENTS D'OFFICE.
-
-###### Article R*211-1
-
-L'administration des impôts peut prononcer d'office le dégrèvement ou la restitution d'impositions qui n'étaient pas dues,
-jusqu'au 31 décembre de la quatrième année suivant celle au cours de laquelle le délai de réclamation a pris fin, ou, en cas
-d'instance devant les tribunaux, celle au cours de laquelle la décision intervenue a été notifiée [*date limite*].
-
-Elle peut dans ce même délai prononcer d'office les dégrèvements des taxes foncières et de la taxe d'habitation indûment
-établies lorsque l'erreur d'imposition ne peut plus être rectifiée par un transfert de droits au nom de la personne qui
-aurait dû être imposée.
-
-Elle peut prononcer dans le délai de trente ans les dégrèvements d'office prévus aux articles 1390, 1391, 1414 et 1601 du
-code général des impôts relatifs à la taxe foncière sur les propriétés bâties, à la taxe d'habitation et à la taxe pour frais
-de chambres de métiers.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1390
-	  - CGI 1391
-	  - CGI 1414
-	  - CGI 1601
-
-	**Anciens textes**:
-
-	  - CGI 1951 1 (AL. 1, AL. 2)
-	  - CGI 1951 A
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 316 A (V)
-	  - Livre des procédures fiscales - art. R*211-2 (V)
-
-
-###### Article R*211-2
-
-Les propositions de dégrèvements d'office, de restitutions, de mutations de cote et de transferts prévues à l'article R.
-211-1 peuvent être faites par les agents de l'administration des impôts et les comptables du Trésor, chargés du recouvrement
-[*autorités compétentes*]. Ces propositions sont portées sur des états adressés au directeur des services fiscaux pour la
-suite à donner.
-
-Les agents appartenant au corps des géomètres du cadastre sont également admis, dans les conditions fixées par le directeur
-général des impôts, à proposer d'office, en matière de taxe foncière, des mutations de cote et le dégrèvement des droits
-formant surtaxe.
-
-Sauf s'il s'agit des dégrèvements d'office prévus par les articles 1390, 1391 et 1414 du code général des impôts, les
-propositions de dégrèvements, mutations ou transferts sont communiquées par l'administration au maire ou à la commission
-communale des impôts directs conformément à l'article R. 198-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1390
-	  - CGI 1391
-	  - CGI 1414
-	  - CGI R198-3
-	  - CGI R211-1
-
-	**Anciens textes**:
-
-	  - CGI 1951 2, 3, 4
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
 ### LES PROCEDURES PENALES
 
 #### CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL
-
-###### Article R*212-1
-
-Les infractions, autres que le simple retard, prévues à l'article 1840 N quater du code général des impôts en matière de taxe
-différentielle sur les véhicules à moteur [*vignette*] et de taxe spéciale sur les véhicules de plus de 16 CV [*puissance
-supérieure à 16 chevaux*] sont constatées par procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1840 N quater
-
-	**Anciens textes**:
-
-	  - CGI 310 B (P.)
-	  - CGIAN2 307 (2 PREMIERES LIGNES)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*213-1
-
-Les procès-verbaux constatant les infractions prévues à l'article 1840 N quater du code général des impôts en matière de taxe
-différentielle sur les véhicules à moteur [*vignette*] et de taxe spéciale sur les véhicules de plus de 16 CV [*puissance
-supérieure à 16 chevaux*] peuvent être établis, par les agents des douanes, les personnels de la police nationale, les
-gendarmes, les agents assermentés de l'office national des forêts et, en général, tous les agents habilités à dresser des
-procès-verbaux en matière de police de la circulation routière.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1840 N quater
-
-	**Anciens textes**:
-
-	  - CGI 310 B (P.)
-	  - CGIAN2 307 (SAUF LES 2 PREMIERES LIGNES)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
 
 ###### Article R*213-3
 
