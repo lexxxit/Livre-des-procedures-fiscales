@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1999-07-01
+Version Consolidée au 1999-12-31
 
 # Partie législative
 
@@ -1352,34 +1352,32 @@ activité.
 
 ###### Article L34
 
-Chez les marchands en gros de boissons et les fabricants de vinaigre, les agents de l'administration peuvent intervenir dans
-les magasins, caves et celliers, depuis le lever jusqu'au coucher du soleil en vue d'effectuer les vérifications nécessaires
-à la constatation des quantités de boissons restant en magasin ou de s'assurer de la régularité des opérations. 
+Chez les entrepositaires agréés et les fabricants de vinaigre, les agents de l'administration peuvent intervenir dans les
+magasins, caves et celliers, entre 8 heures et 20 heures en vue d'effectuer les vérifications nécessaires à la constatation
+des quantités de boissons restant en magasin ou de s'assurer de la régularité des opérations. 
 
-Ces vérifications ne peuvent être empêchées par aucun obstacle du fait des marchands en gros ; ceux-ci doivent toujours être
-en mesure soit par eux-mêmes, soit par leurs préposés s'ils sont absents, de déférer immédiatement aux réquisitions des
-agents auxquels doivent être déclarés les espèces et quantités de boissons existant dans les fûts, vaisseaux, foudres et
-autres récipients, ainsi que le degré des alcools. Il doit être énoncé, le cas échéant, s'il s'agit d'alcools libres,
-d'alcools de rétrocession ou de produits à base d'alcools de rétrocession, ainsi que l'appellation d'origine attribuée aux
-vins, vins de liqueur et eaux-de-vie.
+Un avis de contrôle est remis, lors du contrôle, aux entrepositaires agréés ; ceux-ci doivent toujours être en mesure soit
+par eux-mêmes, soit par leurs préposés s'ils sont absents, de déférer immédiatement aux réquisitions des agents auxquels
+doivent être déclarés les espèces et quantités de boissons existant dans les fûts, vaisseaux, foudres et autres récipients,
+ainsi que le degré des alcools. Il doit être énoncé, le cas échéant, s'il s'agit d'alcools libres, d'alcools de rétrocession
+ou de produits à base d'alcools de rétrocession, ainsi que l'appellation d'origine attribuée aux vins, vins de liqueur et
+eaux-de-vie.
+
+Les entrepositaires agréés sont tenus, à première réquisition, de présenter la comptabilité matières mentionnée, selon le
+cas, au III de l'article 302 G et à l'article 515 du code général des impôts. Les agents de l'administration contrôlent la
+régularité des énonciations qui y sont portées. A l'occasion de cet examen, les agents peuvent contrôler la cohérence entre
+les indications portées dans la comptabilité matières et les pièces de recettes et de dépenses et sur les documents
+d'accompagnement visés à l'article 302 M. Ils peuvent demander, en outre, tous renseignements, justifications ou
+éclaircissements, relatifs aux indications portées dans la comptabilité matières.
+
+Chaque intervention fait l'objet d'un procès-verbal relatant les opérations effectuées, dont copie est transmise à l'occupant
+des locaux contrôlés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - CGI 492, 515
-	  - Décret n°1948-12-09 art. 585
-	  - Loi n°1816-04-28 art. 101
-	  - Loi n°1836-04-23 article unique
-	  - Loi n°1875-07-17 art. 7
-	  - Loi n°1880-07-19 art. 9
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-
-	**Modifié par**:
-
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - CGI 515, 302 G, 302 M
 
 	**Cité par**:
 
@@ -1391,9 +1389,9 @@ vins, vins de liqueur et eaux-de-vie.
 	  - Livre des procédures fiscales - art. R*32-2 (V)
 	  - Livre des procédures fiscales - art. R36 B-1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - Loi - art. 18 (V) JORF 31 décembre 1999
 
 
 ###### Article L34 A
@@ -4398,33 +4396,17 @@ articles L. 47 et suivants.
 
 ###### Article L86 A
 
-La nature des prestations fournies par l'adhérent d'une association agréée ne peut faire l'objet de demandes de
-renseignements de la part de l'administration des impôts lorsque cet adhérent est membre d'une profession non commerciale
-soumis au secret professionnel en application ((des articles 226-13 et 226-14 du code pénal)) (M).
+La nature des prestations fournies par le contribuable (1) ne peut faire l'objet de demandes de renseignements de la part de
+l'administration des impôts lorsque cet adhérent est membre d'une profession non commerciale soumis au secret professionnel
+en application des articles 226-13 et 226-14 du code pénal.
 
-(M) Modification.
-
-Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
+(1) S'agissant du droit de contrôle, ces dispositions s'appliquent aux opérations enregistrées à compter du 1er janvier 2000.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 1992-12-16 art. 333, 372, 373 JORF 23 décembre 1992
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
-	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-900 1994-10-17
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
-	  - HISTO: Edition du 2 septembre 1994
+	  - Loi - art. 91 (V) JORF 31 décembre 1999
 
 	**Cité par**:
 
@@ -6738,6 +6720,28 @@ décret, les renseignements permettant d'identifier les titulaires de ces compte
 	**Codifié par**:
 
 	  - Décret n°98-400 1998-05-22
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+
+###### Article L135 J
+
+Afin de procéder à des rapprochements avec le répertoire des métiers, les chambres de métiers peuvent se faire communiquer
+par l'administration fiscale la liste nominative des assujettis à la taxe pour frais de chambres de métiers.
+
+Les dispositions du dernier alinéa de l'article L. 135 B sont applicables aux informations ainsi transmises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L135 B
+
+	**Créé par**:
+
+	  - Loi - art. 129 () JORF 31 décembre 1999
 
 	**Cité par**:
 
@@ -11095,6 +11099,10 @@ Une notice annexée à l'avis d'imposition est établie au titre de chaque taxe 
 éléments des variations des impositions perçues au profit de chaque collectivité locale, groupement de collectivités locales
 ou organisme concerné.
 
+Toutefois, l'année de transformation d'un établissement public de coopération intercommunale à fiscalité additionnelle en
+établissement public de coopération intercommunale à taxe professionnelle unique, les variations d'imposition pour les taxes
+acquittées par les ménages s'appliquent à la part cumulée de la commune et de l'intercommunalité.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -11103,10 +11111,6 @@ ou organisme concerné.
 	  - CGI 1659
 	  - CGI 1659 A
 
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 91 () JORF 30 décembre 1989
-
 	**Cité par**:
 
 	  - Décret n°91-1266 du 19 décembre 1991 - art. 34 (V)
@@ -11114,9 +11118,9 @@ ou organisme concerné.
 	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-5 (M)
 	  - Loi - art. 37 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - Loi - art. 43 () JORF 31 décembre 1999
 
 
 ###### Article L254
