@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-10-11
+Version Consolidée au 1986-11-28
 
 # Partie législative
 
@@ -9548,33 +9548,6 @@ l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-
-##### DEROGATIONS AU PROFIT DE CERTAINES ADMINISTRATIONS, AUTORITES ADMINISTRATIVES, COLLECTIVITES, SERVICES ET ORGANISMES PUBLICS.
-
-###### Article L135 C
-
-L'administration des impôts doit communiquer à la commission pour la transparence et le pluralisme de la presse les
-renseignements nécessaires à la mise en oeuvre des procédures prévues par l'article 15 de la loi n° 84-937 du 23 octobre
-1984.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-937 du 23 octobre 1984 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°84-937 du 23 octobre 1984 - art. 21 (Ab) JORF 24 octobre 1984 rectificatif JORF 9 octobre 1986
-
-	**Codifié par**:
-
-	  - Décret n°85-1008 1985-09-24
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°86-1210 1986-11-27 art. 7 III JORF 28 novembre 1986
 
 
 ### LES DELAIS DE PRESCRIPTION
