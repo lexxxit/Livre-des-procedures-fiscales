@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-09-01
+Version Consolidée au 1982-10-27
 
 # Partie législative
 
@@ -12102,6 +12102,43 @@ impôts, déléguer son pouvoir de décision aux agents placés sous son autorit
 	  - Décret n°81-860 1981-09-15
 
 
+###### Article R247-11
+
+Pour obtenir la dispense du paiement prévu au deuxième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
+concerne les impôts recouvrés par les comptables de la direction générale des impôts, adresser sa demande au directeur des
+services fiscaux dont dépend le comptable chargé du recouvrement.
+
+La décision appartient :
+
+a) Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes faisant l'objet de la demande n'excèdent pas
+750.000 F [*montant*] par exercice ou affaire, selon la nature des impôts ;
+
+b) Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 1.750.000 F par exercice ou
+affaire ;
+
+c) Au ministre, dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L247 AL. 2
+
+	**Anciens textes**:
+
+	  - CGIAN3 424 2
+	  - CGIAN3 425 2
+	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°82-913 du 22 octobre 1982 - art. 3 (V) JORF 27 OCTOBRE 1982
+
+	**Cité par**:
+
+	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+
 ### Titre IV : Le recouvrement de l'impôt
 
 #### Chapitre premier : Les procédures de recouvrement
@@ -13956,14 +13993,14 @@ Sauf en matière de contributions indirectes, la décision sur les demandes des 
 remise ou transaction appartient :
 
 a) Au directeur des services fiscaux [*autorité compétente*] chargé d'une direction départementale lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 400.000 F [*montant limite*] par cote, exercice ou affaire, selon la nature des impôts ;
+l'objet de la demande n'excèdent pas 750.000 F [*montant limite*] par cote, exercice ou affaire, selon la nature des impôts ;
 
 b) Au directeur régional des impôts ou au directeur des services fiscaux chargé d'une direction spécialisée, pour les
 affaires relatives à des impositions établies à l'initiative des agents placés sous son autorité, lorsque les sommes faisant
-l'objet de la demande n'excèdent pas 600.000 F par cote, exercice ou affaire ;
+l'objet de la demande n'excèdent pas 1.100.000 F par cote, exercice ou affaire ;
 
 c) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, lorsque les sommes
-faisant l'objet de la demande n'excèdent pas 1.000.000 F par cote, exercice ou affaire ;
+faisant l'objet de la demande n'excèdent pas 1.750.000 F par cote, exercice ou affaire ;
 
 d) Au ministre, après avis du comité précité, dans les autres cas.
 
@@ -13974,9 +14011,9 @@ d) Au ministre, après avis du comité précité, dans les autres cas.
 	  - CGIAN3 419
 	  - Décret n°80-591 du 24 juillet 1980 - art. 1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°82-913 du 22 octobre 1982 - art. 1 (V) JORF 27 OCTOBRE 1982
 
 	**Cité par**:
 
@@ -14089,46 +14126,6 @@ publique et la direction générale des Impôts ne sont pas concordants.
 	**Modifié par**:
 
 	  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
-
-
-###### Article R247-11
-
-Pour obtenir la dispense du paiement prévu au deuxième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
-concerne les impôts recouvrés par les comptables de la direction générale des impôts, adresser sa demande au directeur des
-services fiscaux dont dépend le comptable chargé du recouvrement.
-
-La décision appartient :
-
-a. Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes faisant l'objet de la demande n'excèdent pas
-400.000 F, par exercice ou affaire, selon la nature des impôts ;
-
-b. Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 1.000.000 F par exercice ou
-affaire ;
-
-c. Au ministre, dans les autres cas [*montant limite, seuil*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L247 AL. 2
-
-	**Anciens textes**:
-
-	  - CGIAN3 424 2
-	  - CGIAN3 425 2
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
-
-	**Cité par**:
-
-	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
 
 
 ## LE RECOUVREMENT DE L'IMPOT
