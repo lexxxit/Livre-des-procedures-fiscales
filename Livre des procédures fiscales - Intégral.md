@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-12-28
+Version Consolidée au 1983-12-30
 
 # Partie législative
 
@@ -67,6 +67,74 @@ f) La répartition du revenu imposable entre le bailleur et le métayer dans le 
 	**Abrogé par**:
 
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
+
+
+###### Article L3
+
+Dans les départements où des productions agricoles spécialisées ne font pas l'objet d'une évaluation spéciale, les
+exploitants agricoles qui se livrent à ces productions peuvent être imposés sur la base des forfaits établis pour les mêmes
+productions dans un département comportant le même type de production.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 66 1 (AL. 3)
+	  - Loi n°72-1121 1972-12-20 ART. 7 III
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 64 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 86 () JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
+
+
+##### Section II :
+
+###### Article L4
+
+Le classement des exploitations de polyculture prévu à l'article 64 du code général des impôts est effectué par
+l'administration des impôts. Il est communiqué au maire pour être affiché à la mairie. 
+
+Les exploitants intéressés peuvent faire appel du classement devant la commission départementale des impôts. Celle-ci prend
+sa décision après avoir entendu leurs observations ainsi que celles du représentant de l'administration. La décision prise
+est notifiée à l'intéressé, au maire et à l'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 67 (SAUF 3ème ET 4ème ALINEA, 1ère LIGNE P.)
+	  - CGI 68
+	  - Décret n°48-1986 1948-12-09 ART. 16, ART. 17 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
+	  - Décret n°71-290 1971-04-15 ART. 5
+	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 85 (V) JORF 30 décembre 1983
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 64 (M)
+	  - Livre des procédures fiscales - art. R*4-1 (V)
 
 
 #### Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales
@@ -1844,6 +1912,30 @@ et sur les feuilles de présence aux assemblées générales.
 	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
 
 
+##### Agriculture.
+
+###### Article L85 A
+
+Les exploitants agricoles, quelles que soient la forme et les modalités de l'exploitation, et les organismes, de quelque
+nature juridique que ce soit, auxquels il vendent ou ils achètent leurs produits, doivent communiquer à l'administration, sur
+sa demande, leurs documents comptables, pièces justificatives de recettes et de dépenses et tous documents relatifs à leur
+activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 88 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R81-5 (V)
+
+
 ##### Membres de certaines professions non commerciales.
 
 ###### Article L86 A
@@ -3617,6 +3709,38 @@ l'administration concernant les ressources dont disposent les bénéficiaires de
 
 
 ##### VII : Dérogations au profit d'organismes divers
+
+##### 1° : Activités littéraires ou artistiques
+
+###### Article L163
+
+Le centre national de la cinématographie, ainsi que les sociétés d'auteurs, d'éditeurs, de compositeurs ou de distributeurs
+peuvent recevoir communication, de la part de l'administration des impôts, de tous les renseignements relatifs aux recettes
+réalisées par les entreprises soumises à leur contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1559, 1560
+
+	**Anciens textes**:
+
+	  - CGI 1567 (1RE PHRASE)
+	  - Décret-loi 1939-07-29 ART. 3
+	  - Loi n°1941-12-31 ART. 9
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Code du cinéma et de l'image animée - art. L115-27 (V)
+	  - Code du cinéma et de l'image animée - art. L413-4 (V)
+	  - Livre des procédures fiscales - art. L113 (VT)
+
 
 ##### 2° : SAFER
 
@@ -6600,75 +6724,6 @@ commission centrale [*autorité compétente*].
 	  - Livre des procédures fiscales - art. R*2-1 (V)
 
 
-###### Article L3
-
-Dans les départements où des productions agricoles spécialisées ne font pas l'objet d'une évaluation spéciale, les
-exploitants agricoles qui se livrent à ces productions peuvent être imposés sur la base des forfaits établis pour les mêmes
-productions dans les départements voisins.
-
-Ces dispositions ne sont pas applicables aux productions présentant un caractère marginal sur le plan national et qui
-figurent sur la liste mentionnée à l'article 69 ter (II, 3°) du code général des impôts [*cultures marginales*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 66 1 (AL. 3)
-	  - Loi n°72-1121 1972-12-20 ART. 7 III
-
-	**Cite**:
-
-	  - CGI 69 ter II 3°
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 64 (M)
-
-
-#### PROCEDURE DE CLASSEMENT DES EXPLOITATIONS DE POLYCULTURE.
-
-###### Article L4
-
-Le classement des exploitations de polyculture dans les catégories prévues à l'article 64 du code général des impôts
-s'effectue selon la procédure ci-après.
-
-L'administration des impôts peut demander aux exploitants de fournir tous les renseignements permettant d'apprécier le
-rendement de leurs exploitations et notamment la superficie totale, la superficie affectée à chaque nature de culture,
-l'importance du cheptel et les éléments particuliers productifs de profits accessoires. Ces renseignements doivent être
-fournis dans un délai de trente jours.
-
-Le classement est effectué par un agent de l'administration siégeant avec la commission communale des impôts directs prévue à
-l'article 1650 du code général des impôts. La commission constate les changements de nature de culture ou de productivité et
-propose les corrections correspondantes.
-
-Les exploitants intéressés peuvent faire appel du classement devant la commission départementale des impôts [*directs et des
-taxes sur le chiffre d'affaires*]. Un délégué de la commission communale des impôts directs et le représentant de
-l'administration sont convoqués à la séance de la commission départementale. Celle-ci prend sa décision après avoir entendu
-leurs observations. Cette décision, qui est définitive, est notifiée à l'administration, au maire et à l'intéressé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1650
-	  - CGI 64
-
-	**Anciens textes**:
-
-	  - CGI 67 (SAUF 3ème ET 4ème ALINEA, 1ère LIGNE P.)
-	  - CGI 68
-	  - Décret n°48-1986 1948-12-09 ART. 16, ART. 17 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 64 (M)
-	  - Livre des procédures fiscales - art. R*4-1 (V)
-
-
 ## LE CONTROLE DE L'IMPOT
 
 ### LE DROIT DE CONTROLE DE L'ADMINISTRATION
@@ -6748,8 +6803,9 @@ FISCAL.
 ###### Article L16
 
 En vue de l'établissement de l'impôt sur le revenu, l'administration peut demander au contribuable des éclaircissements. Elle
-peut, en outre, lui demander des justifications au sujet de sa situation et de ses charges de famille ainsi que des charges
-retranchées du revenu net global par application de l'article 156 du code général des impôts.
+peut, en outre, lui demander des justifications au sujet de sa situation et de ses charges de famille, ainsi que des charges
+retranchées du revenu net global ouvrant droit à une réduction d'impôt sur le revenu en application des articles 156, 199
+sexies et 199 septies du code général des impôts.
 
 Elle peut également lui demander des justifications lorsqu'elle a réuni des éléments permettant d'établir que le contribuable
 peut avoir des revenus plus importants que ceux qu'il a déclarés. En particulier, si le contribuable allègue la possession de
@@ -6760,7 +6816,7 @@ mentionnés à l'article 125 A-III bis-2° du code général des impôts, quelle
 pas communiqué son identité et son domicile fiscal à l'établissement payeur dans les conditions prévues au 4° et 6° du III
 bis du même article. Il en va de même pour les ventes d'or monnayé ou d'or en barres ou en lingots de poids et de titres
 admis par la Banque de France, lorsque l'identité et le domicile du vendeur n'avaient pas été enregistrés par l'intermédiaire
-dans les conditions prévues par le décret n° 81-888 du 30 septembre 1981.
+dans les conditions prévues par l'article 211 A de l'annexe III au code général des impôts.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et fixer à
 l'intéressé, pour fournir sa réponse, un délai qui ne peut être inférieur au délai de trente jours prévu à l'article L. 11.
@@ -6773,12 +6829,9 @@ l'étranger ou encaissés à l'étranger.
 
 	**Cite**:
 
-	  - CGI 120 A CGI 123
-	  - CGI 125 A III bis 2°, 4°
 	  - CGI 156
-	  - CGI 157
-	  - CGI L11
-	  - CGIAN3 211 A
+	  - CGI 199 septies
+	  - CGI 199 sexies
 
 	**Anciens textes**:
 
@@ -6792,13 +6845,13 @@ l'étranger ou encaissés à l'étranger.
 	  - Loi n°61-1396 1961-12-21 ART. 79 I
 	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
 
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 6 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-
 	**Codifié par**:
 
-	  - Décret n°83-900 1983-10-06
+	  - Décret n°84-876 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 3 (V) JORF 30 décembre 1983
 
 	**Cité par**:
 
@@ -7201,7 +7254,7 @@ La procédure de redressement contradictoire n'est pas applicable :
 poursuites correctionnelles ;
 
 3° En matière de droits de timbre, lorsqu'ils ne sont pas payés sur état ou sur déclaration, et de taxes sur les véhicules à
-moteur prévues à l'article 1007 du code général des impôts ;
+moteur prévues à l'article 1599 C du code général des impôts ;
 
 4° Dans les cas de taxation, rectification ou évaluation d'office des bases d'imposition ;
 
@@ -7211,15 +7264,22 @@ moteur prévues à l'article 1007 du code général des impôts ;
 
 	**Cite**:
 
-	  - CGI 1007
-	  - CGI L62
+	  - CGI 1599 C
 
 	**Anciens textes**:
 
 	  - CGI 1649 quinquies A 4
 	  - CGI 1887 (P.)
-	  - Loi n°63-1316 1963-12-27 art. 24 4
 	  - Loi n°13 Brumaire AN VII art. 31
+	  - Loi n°63-1316 1963-12-27 art. 24 4
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 1983-12-29 art. 24 Finances pour 1984 JORF 30 décembre 1983
 
 	**Cité par**:
 
@@ -7302,9 +7362,9 @@ droits d'enregistrement ou à la taxe de publicité foncière dans les cas menti
 
 A l'issue d'une vérification de comptabilité et pour l'ensemble des impôts sur lesquels porte cette vérification, les
 contribuables dont le chiffre d'affaires de l'un quelconque des exercices soumis à vérification, ajusté, s'il y a lieu, à une
-période de douze mois, ne dépasse pas le double des limites prévues pour l'admission au régime du forfait, peuvent, à
-condition de présenter une demande en ce sens avant toute notification de redressement, réparer, moyennant le paiement d'un
-intérêt de retard de 0,75 % par mois, les erreurs ou inexactitudes, omissions ou insuffisances constatées.
+période de douze mois, ne dépasse pas les limites prévues au paragraphe I de l'article 302 septies A du code général des
+impôts, peuvent, à condition de présenter une demande en ce sens avant toute notification de redressement, réparer, moyennant
+le paiement d'un intérêt de retard de 0,75% par mois, les erreurs ou inexactitudes, omissions ou insuffisances constatées.
 
 Cette procédure de règlement particulière ne peut être appliquée que si :
 
@@ -7332,9 +7392,11 @@ catégorie d'impôts.
 
 	**Cite**:
 
-	  - CGI 1728
-	  - CGI 1734
-	  - CGIAN3 344 J
+	  - CGI 302 septies A I
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 94 () JORF 30 décembre 1983
 
 	**Cité par**:
 
@@ -7605,7 +7667,10 @@ déclaration annuelle des résultats n'a pas été déposée dans le délai lég
 
 2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés, quel que soit
 leur régime d'imposition, lorsque la déclaration annuelle prévue à l'article 97 ou à l'article 101 du code général des impôts
-n'a pas été déposée dans le délai légal.
+n'a pas été déposée dans le délai légal ;
+
+3° Les revenus fonciers des contribuables qui se sont abstenus de répondre aux demandes de justifications mentionnées à
+l'article L. 16 A.
 
 **Liens relatifs à cet article**
 
@@ -7613,6 +7678,7 @@ n'a pas été déposée dans le délai légal.
 
 	  - CGI 101
 	  - CGI 97
+	  - CGI L16 A
 
 	**Anciens textes**:
 
@@ -7621,15 +7687,22 @@ n'a pas été déposée dans le délai légal.
 	  - CGI 69 quater I (al. 1 P.)
 	  - Décret n°1934-07-20 annexe art. 24 (1° du L73)
 	  - Décret n°1934-07-20 annexe art. 91 (2° du L73)
-	  - Décret n°48-1986 1948-12-09 art. 85
 	  - Loi n°1934-07-06 art. 13
-	  - Loi n°1934-07-06 art. 13)
 	  - Loi n°1941-01-13 annexe I art. 90
 	  - Loi n°1942-10-24 art. 13
 	  - Loi n°48-809 1948-05-13 art. 9
 	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
+	  - Décret n°48-1986 1948-12-09 art. 85
 	  - Loi n°70-1199 1970-12-21 art. 9 II 1
 	  - Loi n°72-1147 du 23 décembre 1972 - art. 23, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 91 (V) JORF 30 décembre 1983
 
 	**Cité par**:
 
@@ -8067,11 +8140,13 @@ Le montant de la rémunération due aux agents par les personnes ayant formulé 
 
 ###### Article L111
 
-Une liste des personnes assujetties à l'impôt sur le revenu, à l'impôt sur les sociétés ou à l'impôt sur les grandes fortunes
-est dressée de manière à distinguer les trois impôts, par chaque direction des services fiscaux pour les impositions établies
-dans son ressort.
+I - Une liste des personnes assujetties à l'impôt sur le revenu, à l'impôt sur les sociétés ou à l'impôt sur les grandes
+fortunes est dressée de manière à distinguer les trois impôts par commune pour les impositions établies dans son ressort.
 
-Cette liste est tenue par la direction des services fiscaux à la disposition des contribuables qui relèvent de sa compétence
+Cette liste est complétée par l'indication des personnes physiques ou morales non assujetties dans la commune à l'impôt sur
+le revenu ou à l'impôt sur les sociétés mais y possédant une résidence.
+
+La liste est tenue par la direction des services fiscaux à la disposition des contribuables qui relèvent de sa compétence
 territoriale. L'administration peut en prescrire l'affichage.
 
 Les contribuables qui ont plusieurs résidences, établissements ou exploitations, peuvent demander, en souscrivant leur
@@ -8079,7 +8154,11 @@ déclaration, que leur nom soit communiqué aux directions des services fiscaux 
 ou exploitations.
 
 La liste concernant l'impôt sur le revenu est complétée, dans les conditions fixées par décret, par l'indication du nombre de
-parts retenu pour l'application du quotient familial et du montant de l'impôt mis à la charge de chaque redevable.
+parts retenu pour l'application du quotient familial, du revenu imposable, du montant de l'impôt mis à la charge de chaque
+redevable et du montant de l'avoir fiscal.
+
+Pour l'impôt sur les grandes fortunes, la liste est complétée par l'indication de la valeur du patrimoine déclaré et du
+montant de l'impôt mis à la charge de chaque redevable.
 
 L'administration recueille, chaque année, les observations et avis que la commission communale des impôts directs prévue à
 l'article 1650 du code général des impôts peut avoir à formuler sur ces listes.
@@ -8087,6 +8166,9 @@ l'article 1650 du code général des impôts peut avoir à formuler sur ces list
 La publication ou la diffusion par tout autre moyen, soit des listes prévues ci-dessus, soit de toute indication se
 rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à
 l'article 1768 ter du code précité.
+
+II - Les créanciers d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter la liste mentionnée
+au I détenue par la direction des services fiscaux dans le ressort de laquelle l'imposition du débiteur est établie.
 
 **Liens relatifs à cet article**
 
@@ -8098,14 +8180,14 @@ l'article 1768 ter du code précité.
 	**Anciens textes**:
 
 	  - CGI 243
-	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Décret n°71-290 1971-04-15 ART. 5
 	  - Loi n°46-2914 1946-12-23 ART. 38
+	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
 	  - Ordonnance 59-246 1959-02-04 ART. 9
+	  - Décret n°71-290 1971-04-15 ART. 5
 
 	**Codifié par**:
 
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°84-876 1984-10-01
 
 	**Cité par**:
 
@@ -8119,7 +8201,8 @@ l'article 1768 ter du code précité.
 
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 11 () JORF 31 DECEMBRE 1981
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 114 () JORF 30 décembre 1983
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
 
 
 #### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
@@ -8337,34 +8420,6 @@ de l'habitation.
 	  - Code de la construction L351-1 A Code de la construction L351-14
 	  - Loi n°71-582 1971-07-16
 	  - Code de la sécurité sociale L510 5°
-
-
-###### Article L163
-
-Les sociétés d'auteurs, d'éditeurs, de compositeurs ou de distributeurs et le centre national de la cinématographie peuvent
-recevoir de l'administration des impôts communication de tous les renseignements relatifs aux recettes réalisées par les
-entreprises assujetties à l'impôt auquel sont soumis les spectacles, jeux et divertissements en application des articles 1559
-et 1560 du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1559
-	  - CGI 1560
-
-	**Anciens textes**:
-
-	  - CGI 1567 (1RE PHRASE)
-	  - Décret-loi 1939-07-29 ART. 3
-	  - Loi n°1941-12-31 ART. 9
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. L115-27 (V)
-	  - Code du cinéma et de l'image animée - art. L413-4 (V)
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
-	  - Livre des procédures fiscales - art. L113 (VT)
 
 
 ###### Article L167
@@ -8687,6 +8742,35 @@ actes interruptifs de droit commun.
 
 ### LE DROIT DE CONTROLE DE L'ADMINISTRATION
 
+#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
+
+###### Article L16 A
+
+L'administration peut, dans les conditions prévues au troisième alinéa de l'article L. 16, demander au contribuable des
+justifications sur tous les éléments servant de base à la détermination du revenu foncier imposable tels qu'ils sont définis
+aux articles 28 à 33 quater du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 28 à CGI 33 quater
+	  - CGI L16 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 91 (V) JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L12 (V)
+	  - Livre des procédures fiscales - art. L16 BA (V)
+
+
 #### MODALITES D'EXERCICE DU DROIT DE CONTROLE.
 
 ###### Article L47
@@ -8819,9 +8903,9 @@ Sous peine de nullité de l'imposition, la vérification sur place des livres et
 durée supérieure à trois mois en ce qui concerne :
 
 1° Les entreprises dont l'activité principale est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place ou de fournir le logement et dont le chiffre d'affaires n'excède pas 1.000.000 F [*montant, plafond*].
+consommer sur place ou de fournir le logement et dont le chiffre d'affaires n'excède pas 1.800.000 F [*montant, plafond*].
 
-2° Les autres entreprises industrielles et commerciales, lorsque leur chiffre d'affaires n'excède pas 250.000 F ;
+2° Les autres entreprises industrielles et commerciales, lorsque leur chiffre d'affaires n'excède pas 540.000 F ;
 
 3° Les contribuables se livrant à une activité agricole, lorsque le montant annuel des recettes brutes n'excède pas 1.000.000
 F ;
@@ -8842,6 +8926,10 @@ plusieurs catégories différentes d'impôts ou de taxes.
 	  - CGI 1649 septies F
 	  - Décret n°55-467 1955-04-30 ART. 21 (LOI 55-349 1955-04-02)
 	  - Loi n°63-1316 1963-12-27 ART. 32
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 94 () JORF 30 décembre 1983
 
 	**Cité par**:
 
@@ -11327,6 +11415,31 @@ Les jugements des tribunaux administratifs peuvent être soumis au Conseil d'Eta
 
 ##### B : Procédure devant le tribunal administratif.
 
+###### Article R*200-1
+
+Les affaires portées devant le tribunal administratif sont jugées conformément au code des tribunaux administratifs, sous
+réserve des dispositions particulières prévues par le présent livre.
+
+Un conseiller ne peut siéger au tribunal administratif dans le jugement d'un litige portant sur une imposition dont il a eu à
+apprécier la base comme président de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires
+[*incompatibilité*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1942 1 (AL. 1)
+	  - CGI 1945 1, 4
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
+
+
 ###### Article R*200-3
 
 Dans le cas où l'administration soumet d'office le litige à la décision du tribunal administratif, celui-ci est saisi par un
@@ -13345,31 +13458,33 @@ rôle commencé étant dû en entier.
 
 La liste des personnes assujetties à l'impôt sur le revenu ou à l'impôt sur les sociétés, établie en application de l'article
 L. 111, comprend les impositions mises en recouvrement au 30 avril de l'année suivant celle de la production des déclarations
-de revenus [*période*]. 
+de revenus [*période*].
 
 Elle comporte, pour chaque contribuable, les indications suivantes [*mentions*] :
 
-a) Ses nom, prénoms et adresse ; 
+a) Ses nom, prénoms et adresse ;
 
-b) Le nombre de parts correspondant à sa situation et à ses charges de famille ; 
+b) Le nombre de parts correspondant à sa situation et à ses charges de famille ;
 
-c) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2.
+c) Le revenu imposable ;
+
+d) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2 ;
+
+e) Le montant de l'avoir fiscal.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L111
 	  - CGI R111-2
-
-	**Anciens textes**:
-
-	  - CGIAN3 49 septies A
-	  - CGIAN3 49 septies C
 
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°84-876 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 114 () JORF 30 décembre 1983
 
 
 #### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
@@ -13547,30 +13662,6 @@ dernier.
 	  - Décret n°81-860 1981-09-15
 
 
-###### Article R*200-1
-
-Les affaires portées devant le tribunal administratif sont jugées conformément au code des tribunaux administratifs, sous
-réserve des dispositions particulières prévues par le présent livre.
-
-Toutefois, les affaires relatives aux impôts sur les revenus et taxes accessoires ainsi qu'aux amendes fiscales
-correspondantes sont jugées en séances non publiques.
-
-Un conseiller ne peut siéger au tribunal administratif dans le jugement d'un litige portant sur une imposition dont il a eu à
-apprécier la base comme président de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires
-[*incompatibilité*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1942 1 (AL. 1)
-	  - CGI 1945 1, 4
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
 ###### Article R*200-2
 
 Les requêtes sont adressées au greffe du tribunal administratif où elles sont enregistrées. Un accusé de réception est
@@ -13686,17 +13777,17 @@ Le secrétaire-greffier [*autorité compétente*] informe les parties, par lettr
 [*condition de forme*], du dépôt du rapport au greffe. Les conclusions du contribuable et de l'administration sur ce rapport
 sont formulées par mémoires respectivement signifiés dans les deux mois qui suivent cette notification.
 
-A l'expiration de ce délai, le tribunal statue en audience publique.
+Le tribunal statue à l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1948 2, 3
-
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°84-876 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
 
 	**Cité par**:
 
