@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-01-01
 
 # Partie législative
 
@@ -4936,20 +4936,24 @@ personnes auxquelles l'allocation a été attribuée ou supprimée au cours de l
 
 ###### Article L98 A
 
-Les organismes débiteurs du revenu minimum d'insertion sont tenus de fournir à l'administration, avant le 15 février de
-chaque année, la liste des personnes auxquelles l'allocation a été versée ou supprimée entre le 1er octobre de l'année
-précédente et le 31 janvier de l'année et, avant le 15 octobre de chaque année, la liste des personnes auxquelles
-l'allocation a été versée ou supprimée entre le 1er février et le 30 septembre de l'année.
+Les organismes débiteurs de l'allocation aux adultes handicapés et du revenu minimum d'insertion sont tenus de fournir à
+l'administration fiscale, dans des conditions fixées par arrêté :
+
+1° La liste des personnes bénéficiaires de l'allocation aux adultes handicapés au 1er janvier de l'année d'imposition ;
+
+2° La liste des personnes auxquelles le revenu minimum d'insertion a été versé au 1er janvier ou au cours de l'année
+d'imposition ainsi que celle des personnes ayant cessé de percevoir ce revenu minimum au cours de l'année précédente.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - HISTO: Edition du 1er janvier 2003
+	  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 33 III Finances rectificative pour 2002
 
 	**Modifié par**:
 
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 1 () JORF 18 SEPTEMBRE 1993
+	  - Loi - art. 33 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
 
 	**Cité par**:
 
@@ -5344,46 +5348,35 @@ de cent ans.
 Ces extraits ne peuvent être délivrés que sur une ordonnance du juge du tribunal d'instance s'ils sont demandés par des
 personnes autres que les parties contractantes ou leurs ayants cause.
 
-Ces extraits peuvent être délivrés dans les mêmes conditions, pour les besoins des recherches généalogiques nécessaires au
-règlement d'une succession, au notaire chargé dudit règlement ou aux personnes agissant à sa demande. ;
+Ces extraits peuvent être délivrés, pour les besoins des recherches généalogiques nécessaires au règlement d'une succession,
+au notaire chargé dudit règlement ou aux personnes agissant à sa demande, sans qu'il soit besoin de demander l'ordonnance du
+juge du tribunal d'instance mentionnée au deuxième alinéa.
 
 Dans les conditions prévues au deuxième alinéa, il peut être délivré copie ou extrait du double des actes sous signature
 privée déposé au service des impôts en application de l'article 849 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 2012 (al. 1, al. 2, 1re phrase)
-	  - CGI 849 (al. 2)
-	  - Décret n°1948-12-09 art. 2150
-	  - Loi n°1907-12-31 art. 34
-	  - Loi n°1923-06-30 art. 9
-	  - Loi n°22 Frimaire AN VII art. 58
-	  - Loi n°43-639 1943-11-15 art. 26
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°48-1268 du 17 août 1948 - art. 6, v. init.
-
 	**Cite**:
 
 	  - CGI 849
 
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+	  - TXT_ASSOCIE: Instruction 2002-03-07 13K-8-02
+	  - TXT_ASSOCIE: Instruction 2003-04-10 13K-2-03
+
 	**Cité par**:
 
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 849 (M)
 	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 	  - Livre des procédures fiscales - art. R106-1 (Ab)
-	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2002-03-07 13K-8-02
-	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II Finances pour 2002
 
 	**Modifié par**:
 
-	  - Loi - art. 73 () JORF 29 décembre 2001
+	  - Loi - art. 104 () JORF 31 décembre 2002
 
 
 ###### Article L107
@@ -7628,8 +7621,9 @@ ou dépositaire de sommes liquides ou exigibles.
 ###### Article L152
 
 Les agents des administrations fiscales communiquent aux organismes et services chargés de la gestion d'un régime obligatoire
-de sécurité sociale et aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale
-les informations nominatives nécessaires :
+de sécurité sociale, de l'attribution de la protection complémentaire en matière de santé visée à l'article L. 861-1 du code
+de la sécurité sociale, à la direction générale de la comptabilité publique et aux institutions mentionnées au chapitre Ier
+du titre II du livre IX du code de la sécurité sociale les informations nominatives nécessaires :
 
 1° à l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ;
 
@@ -7657,35 +7651,36 @@ règlements relatifs au régime général ou au régime agricole de sécurité s
 	  - Arrêté du 5 janvier 1990 - art. 6 (V)
 	  - Décret n°2002-771 du 3 mai 2002 - art. 1 (V)
 	  - Décret n°2004-581 du 21 juin 2004 - art. 4 (V)
-	  - Loi n°2004-803 du 9 août 2004 - art. 18 (V)
-	  - Loi n°2007-1786 du 19 décembre 2007 - art. 106
 	  - Décret n°2008-983 du 18 septembre 2008 - art. 7
 	  - Arrêté du 25 septembre 2008 - art. 1 (V)
 	  - Arrêté du 28 septembre 2010 - art. 1 (V)
 	  - Arrêté du 5 juin 2013 - art. 2 (V)
-	  - Loi n°2015-1702 du 21 décembre 2015 - art. 32
 	  - Code de la construction et de l'habitation. - art. L351-12 (VD)
 	  - Code de la sécurité sociale. - art. L114-14 (V)
 	  - Code de la sécurité sociale. - art. L380-2 (V)
 	  - Code de la sécurité sociale. - art. L651-5-1 (V)
 	  - Code rural - art. D731-15 (V)
+	  - Loi n°2004-803 du 9 août 2004 - art. 18 (V)
+	  - Loi n°2007-1786 du 19 décembre 2007 - art. 106
+	  - Loi n°2015-1702 du 21 décembre 2015 - art. 32
 	  - Livre des procédures fiscales - art. L113 (VT)
 	  - Livre des procédures fiscales - art. L152 B (V)
 	  - Livre des procédures fiscales - art. L288 (V)
 	  - Livre des procédures fiscales - art. R*152-1 (V)
 	  - Livre des procédures fiscales - art. R*288-1 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-922 2002-06-06
-
-	**Modifié par**:
-
-	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - Code de la sécurité sociale. - art. L861-1 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Modifié par**:
+
+	  - Loi - art. 102 () JORF 31 décembre 2002
+	  - Loi - art. 136 (V) JORF 31 décembre 2002
 
 
 ###### Article L152 A
@@ -8137,7 +8132,7 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 4° A la taxe forfaitaire sur les plus-values de liquidation de certaines sociétés prévue à l'article 239 bis B ;
 
-5° A la taxe sur les encours de crédit prévue à l'article 235 ter N du même code (1) ;
+5° (Disposition devenue sans objet : loi n° 88-1149 du 23 décembre 1988, art. 23) ;
 
 6° A la taxe sur les salaires ;
 
@@ -8145,31 +8140,29 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 8° au supplément d'imposition visé au II de l'article 1647 E.
 
-**Nota:**
-
-(1) Cette taxe a été abrogée (Loi 88-1149 du 23 décembre 1988, art. 23).
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 119 bis, 235 ter N, 125 A, 223 sexies, 239 bis B, 1647 E
+	  - CGI 119 bis, 125 A, 223 sexies, 239 bis B, 1647 E
 	  - Livre des procédures fiscales - art. L169 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 1999-11-22 6E-9-99
-	  - SPEC_APPLI: Loi n°2001-1275 2001-12-28 art. 1 II, art. 74 F II
 
 	**Modifié par**:
 
-	  - Loi n°2001-1275 2001-12-28 art. 74 C I Finances pour 2002 JORF 29 décembre 2001
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 23 () JORF 28 décembre 1988
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 162 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 239 bis B (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article L170
@@ -9001,6 +8994,12 @@ Les réclamations relatives aux impôts, contributions, droits, taxes, redevance
 obtenir soit la réparation d'erreurs commises dans l'assiette ou le calcul des impositions, soit le bénéfice d'un droit
 résultant d'une disposition législative ou réglementaire.
 
+Relèvent de la même juridiction les réclamations qui tendent à obtenir la réparation d'erreurs commises par l'administration
+dans la détermination d'un résultat déficitaire, même lorsque ces dernières n'entraînent pas la mise en recouvrement d'une
+imposition supplémentaire. Les réclamations peuvent être présentées à compter de la réception de la réponse aux observations
+du contribuable mentionnée à l'article L. 57 ou, en cas de saisine de la commission départementale des impôts directs et des
+taxes sur le chiffre d'affaires, à compter de la notification de l'avis rendu par cette commission.
+
 Sont instruites et jugées selon les règles du présent chapitre toutes actions tendant à la décharge ou à la réduction d'une
 imposition ou à l'exercice de droits à déduction, fondées sur la non-conformité de la règle de droit dont il a été fait
 application à une règle de droit supérieure.
@@ -9010,20 +9009,6 @@ en paiement des droits à déduction non exercés ou l'action en réparation du 
 postérieure au 1er janvier de la quatrième année précédant celle où la décision révélant la non-conformité est intervenue.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-309 1993-03-09 art. 19 1° et 22 JORF 11 mars 1993 en vigueur le 1er janvier 1993
-	  - Décision du Conseil Constitutionnel 92-172L 1992-12-29
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°93-309 1993-03-09 art. 22
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Jurisprudence 1999-06-02 13O-4-99
-	  - TXT_ASSOCIE: Jurisprudence 2000-09-14 13O-5-00
-	  - TXT_ASSOCIE: Jurisprudence 2000-12-19 13O-7-00
 
 	**Cité par**:
 
@@ -9041,6 +9026,20 @@ postérieure au 1er janvier de la quatrième année précédant celle où la dé
 	  - Livre des procédures fiscales - art. R*196-1 (V)
 	  - Livre des procédures fiscales - art. R*196-2 (V)
 	  - Livre des procédures fiscales - art. R190-3 (V)
+
+	**Modifié par**:
+
+	  - Loi - art. 86 () JORF 31 décembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+	  - TXT_ASSOCIE: Jurisprudence 2000-09-14 13O-5-00
+	  - TXT_ASSOCIE: Jurisprudence 2000-12-19 13O-7-00
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L57 (M)
 
 
 ##### Charge et administration de la preuve
@@ -12631,6 +12630,126 @@ demandeur, celui-ci peut assigner devant le juge de l'exécution (1), le comptab
 	  - Livre des procédures fiscales - art. R*283-1 (V)
 
 
+#### Chapitre IV : Assistance au recouvrement au sein de l'Union européenne
+
+###### Article L283 A
+
+L'administration peut requérir des Etats membres de la Communauté européenne et est tenue de leur prêter assistance en
+matière de recouvrement et d'échange de renseignements relatifs à toutes les créances afférentes :
+
+1° Aux cotisations et aux autres droits prévus dans le cadre de l'organisation commune des marchés dans le secteur du sucre ;
+
+2° A la taxe sur la valeur ajoutée ;
+
+3° Aux droits d'accises sur :
+
+a. les tabacs manufacturés ;
+
+b. l'alcool et les boissons alcoolisées ;
+
+4° Aux impôts sur le revenu et sur la fortune mentionnés au cinquième tiret de l'article 3 de la directive 76/308/CEE du
+Conseil, du 15 mars 1976, concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certains
+cotisations, droits, taxes et autres mesures ;
+
+5° Aux taxes sur les primes d'assurances mentionnées au sixième tiret du même article ainsi qu'aux impôts et taxes de nature
+identique ou analogue qui viendraient s'ajouter à ces impôts ou taxes ou les remplacer ;
+
+6° Aux intérêts, aux pénalités, aux amendes administratives et aux frais relatifs aux créances visées aux 1° à 5°, à
+l'exclusion de toute sanction à caractère pénal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CEE Directive 76/308 1976-03-15 Conseil art. 3
+
+	**Créé par**:
+
+	  - Loi - art. 42 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 42 III
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-298 2003-03-31
+
+	**Modifié par**:
+
+	  - Décret n°2003-298 du 31 mars 2003 - art. 4 () JORF 2 avril 2003
+
+	**Cité par**:
+
+	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
+	  - Code général des collectivités territoriales - art. L1617-5 (M)
+	  - Livre des procédures fiscales - art. L283 B (M)
+	  - Livre des procédures fiscales - art. L283 D (V)
+	  - Livre des procédures fiscales - art. R283 A-1 (V)
+	  - Livre des procédures fiscales - art. R283 B-1 (V)
+
+
+###### Article L283 B
+
+Le recouvrement des créances mentionnées à l'article L. 283 A est confié, selon la nature de la créance, aux comptables du
+Trésor, des impôts ou des douanes compétents en application du présent code.
+
+Les titres de recouvrement transmis par l'Etat membre requérant sont directement reconnus comme des titres exécutoires. Ils
+sont notifiés au débiteur.
+
+Ces créances sont recouvrées selon les modalités applicables aux créances de même nature nées sur le territoire national,
+sous réserve des exceptions ci-après :
+
+1° Elles ne bénéficient pas du privilège prévu aux articles 1920 à 1929 du code général des impôts ;
+
+2° Dès qu'il est informé par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance, le
+comptable public suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance étrangère
+compétente ;
+
+3° Les questions relatives à la prescription de l'action en recouvrement et au caractère interruptif ou suspensif des actes
+effectués par le comptable public pour le recouvrement des créances d'un autre Etat membre sont appréciées selon la
+législation de cet Etat.
+
+A la demande de l'Etat requérant, le comptable public compétent prend toutes mesures conservatoires utiles pour garantir le
+recouvrement de la créance de cet Etat.
+
+Les administrations financières communiquent aux administrations des autres Etat membres, à leur demande, tous renseignements
+utiles pour le recouvrement de la créance, à l'exception de ceux qui ne pourraient être obtenus pour le recouvrement de leurs
+propres créances de même nature sur la base de la législation en vigueur.
+
+Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel, ou dont la
+communication serait de nature à porter atteinte à la sécurité ou à l'ordre public français.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1920 à 1929
+	  - Livre des procédures fiscales - art. L283 A (V)
+
+	**Créé par**:
+
+	  - Loi - art. 42 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 42 III Finances rectificative pour 2002
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Cité par**:
+
+	  - Décret n°2003-1369 du 31 décembre 2003 - art. 1 (V)
+	  - Livre des procédures fiscales - art. R283 A-18 (Ab)
+	  - Livre des procédures fiscales - art. R283 A-2 (V)
+	  - Livre des procédures fiscales - art. R283 A-8 (Ab)
+	  - Livre des procédures fiscales - art. R283 B-1 (V)
+	  - Livre des procédures fiscales - art. R283 B-10 (V)
+	  - Livre des procédures fiscales - art. R283 B-2 (Ab)
+	  - Livre des procédures fiscales - art. R283 B-8 (Ab)
+	  - Livre des procédures fiscales - art. R283 C-2 (V)
+
+
 ### Titre V : Dispositions communes
 
 #### Chapitre premier : Dispositions générales
@@ -13036,26 +13155,18 @@ qu'à l'occasion d'une suspension des opérations de fabrication, les producteur
 
 Pour l'habilitation des agents de l'administration des impôts, mentionnée aux I et III de l'article L. 16 B, le directeur
 général des impôts peut déléguer sa signature à un ou plusieurs fonctionnaires de l'administration centrale de la direction
-générale des impôts ayant au moins le grade d'administrateur civil de deuxième classe ou un grade équivalent ou au directeur
-de la direction nationale d'enquêtes fiscales ou son adjoint.
+générale des impôts ayant au moins le grade d'administrateur civil ou un grade équivalent ou au directeur de la direction
+nationale d'enquêtes fiscales ou son adjoint.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-159 2000-02-23 art. 1 JORF 27 février 2000
-
-	**Codifié par**:
-
-	  - Décret n°2000-478 2000-06-02
+	  - Décret n°2002-609 du 26 avril 2002 - art. 11 (V) JORF 28 avril 2002
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L16 B (M)
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt de solidarité sur la fortune et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
@@ -14316,7 +14427,7 @@ de déclaration ou d'exercice de l'activité, pour toute la période visée à l
 
 #### Chapitre I ter : Le droit de contrôle des entrepôts
 
-###### Article R80 K
+###### Article R80 K-1
 
 Le droit de contrôle défini aux articles L. 80 K et L. 80 L peut être exercé par les fonctionnaires de la direction générale
 des impôts appartenant à des corps des catégories A et B et agissant soit dans le ressort territorial du service auquel ils
@@ -14328,18 +14439,16 @@ des impôts, affecté ou non dans le ressort territorial du même service et app
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°96-537 du 12 juin 1996 - art. 1 () JORF 19 juin 1996
-
 	**Codifié par**:
 
 	  - Décret n°2003-298 2003-03-31
 
+	**Créé par**:
+
+	  - Décret n°2003-298 du 31 mars 2003 - art. 5 () JORF 2 avril 2003
+
 	**Liens**:
 
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 5 () JORF 2 avril 2003
-	  - HISTO: Edition du 11 avril 1997
 	  - HISTO: Edition du 1er janvier 2003
 
 	**Cite**:
@@ -14347,9 +14456,9 @@ des impôts, affecté ou non dans le ressort territorial du même service et app
 	  - Livre des procédures fiscales - art. L80 K (V)
 	  - Livre des procédures fiscales - art. L80 L (P)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Livre des procédures fiscales R80 K-1
+	  - Livre des procédures fiscales R80 K
 
 
 #### Chapitre II : Le droit de communication
@@ -14933,7 +15042,7 @@ Ce délai est réduit à dix jours en matière correctionnelle.
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
 
-###### Article R102 AA
+###### Article R102 AA-1
 
 I. - L'état récapitulatif mentionné au I de l'article L. 102 AA doit comporter les informations suivantes :
 
@@ -14965,27 +15074,25 @@ qui n'ont pas reçu cet état dans les délais prévus à l'article précité do
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°99-501 du 10 juin 1999 - art. 1 () JORF 18 juin 1999
-
 	**Codifié par**:
 
 	  - Décret n°2003-298 2003-03-31
 
+	**Créé par**:
+
+	  - Décret n°2003-298 du 31 mars 2003 - art. 5 () JORF 2 avril 2003
+
 	**Liens**:
 
-	  - PEREMPTION: Décret n°2003-298 du 31 mars 2003 - art. 5 () JORF 2 avril 2003
 	  - HISTO: Edition du 1er janvier 2003
-	  - HISTO: Edition du 31 mars 2000
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L102 AA (M)
 
-	**Nouveaux textes**:
+	**Anciens textes**:
 
-	  - Livre des procédures fiscales R102 AA-1
+	  - Livre des procédures fiscales R102 AA
 
 
 #### Chapitre III : Le secret professionnel en matière fiscale
@@ -17882,6 +17989,28 @@ douanier et des changes n'est pas saisi.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L249 (V)
+
+
+###### Article R*247-5 B
+
+En matière d'amendes prévues à l'article 467 du code des douanes et d'amendes prévues à l'article 15 ter de la loi n° 92-676
+du 17 juillet 1992, la décision sur les demandes tendant à obtenir une remise, modération ou transaction, relève de la
+compétence du directeur régional des douanes et droits indirects.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-676 1992-07-17 art. 15 ter
+	  - Code des douanes - art. 467 (M)
+
+	**Créé par**:
+
+	  - Décret n°2002-1115 du 2 septembre 2002 - art. 1 () JORF 3 septembre 2002
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ###### Article R*247-5 C
