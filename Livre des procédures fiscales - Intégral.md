@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-07-15
+Version Consolidée au 1988-10-22
 
 # Partie législative
 
@@ -15608,44 +15608,6 @@ propriété est discutée.
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. R2323-5 (V)
-
-
-## LE RECOUVREMENT DE L'IMPOT
-
-### LES PROCEDURES DE RECOUVREMENT
-
-#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.
-
-###### Article R*255-1
-
-Transférée sous l'article R260-A-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L255
-
-	**Nouveaux textes**:
-
-	  - CGI R260 A-1
-
-	**Anciens textes**:
-
-	  - CGIAN2 384 octies
-	  - Décret n°80-216 1980-03-17
-
-	**Modifié par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 98 () JORF 31 décembre 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1002 1988-10-20
-
-	**Transféré par**:
-
-	  - Décret n°88-1002 1988-10-20 : 1ere phrase sans objet, 2eme phrase transférée sous l'article R260 A-1
 
 
 # Partie réglementaire - Arrêtés
