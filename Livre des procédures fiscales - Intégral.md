@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2002-09-01
+Version Consolidée au 2002-12-31
 
 # Partie législative
 
@@ -5281,13 +5281,14 @@ respect de la vie privée s'impose au vérificateur à l'égard de toutes person
 
 ###### Article L104
 
-Les comptables du Trésor chargés du recouvrement des impôts directs délivrent aux personnes qui en font la demande un extrait
-de rôle ou un certificat de non inscription au rôle dans les conditions suivantes :
+Les comptables chargés du recouvrement des impôts directs délivrent aux personnes qui en font la demande soit un extrait de
+rôle ou un certificat de non-inscription au rôle, soit une copie de l'avis de mise en recouvrement, selon le comptable
+compétent pour recouvrer l'impôt, dans les conditions suivantes :
 
 a) Pour les impôts directs d'Etat et taxes assimilées ainsi que pour la taxe départementale sur le revenu, ces documents ne
 peuvent être délivrés que dans la mesure où ils concernent le contribuable lui-même (1).
 
-b) Pour les impôts locaux et taxes annexes à l'exclusion de la taxe départementale sur le revenu , ces documents peuvent être
+b) Pour les impôts locaux et taxes annexes à l'exclusion de la taxe départementale sur le revenu, ces documents peuvent être
 délivrés même s'ils concernent un autre contribuable mais à condition que le demandeur figure personnellement au rôle.
 
 **Nota:**
@@ -5297,30 +5298,20 @@ interviendra après le 2 avril 1993.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 1662 (AL. 1 sauf 4ème ligne)
-	  - CGI 2008
-	  - Décret n°53-701 1953-08-09 art. 4
-	  - Loi n°1914-07-15 art. 24
-	  - Loi n°1941-01-13 annexe I art. 144
-	  - Loi n°47-1465 1947-08-08 art. 31
-	  - Loi n°53-701 1953-07-11 art. 7
+	  - HISTO: Edition du 1er janvier 2003
+	  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 21 III
 
 	**Cité par**:
 
-	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
 	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
-	  - SPEC_APPLI: Loi n°90-669 1990-07-30 art. 56 VIII : L'entrée en vigueur des dispositions du présent article au 1er janvier 1992 sera soumise à l'approbation du Parlement
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
 
 	**Modifié par**:
 
-	  - Loi n°90-669 1990-07-30 art. 56 VI JORF 1er août 1990 en vigueur le 1er janvier 1992
+	  - Loi - art. 21 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2005
 
 
 ###### Article L105
