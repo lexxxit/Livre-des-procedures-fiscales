@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-11-28
+Version Consolidée au 1986-12-09
 
 # Partie législative
 
@@ -3351,6 +3351,30 @@ lui être opposé.
 	  - Loi n°73-6 du 3 janvier 1973 - art. 12 (M)
 	  - Loi n°73-6 du 3 janvier 1973 - art. 13 (M)
 	  - Loi n°76-1211 1976-12-24 ART. 5 I
+
+
+###### Article L116
+
+" L'administration des impôts ne peut opposer le secret professionnel aux enquêteurs désignés à l'article 45 de l'ordonnance
+n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence. "
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+	**Cite**:
+
+	  - Ordonnance 86-1243 1986-12-01 art. 45
+
+	**Modifié par**:
+
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 51 (Ab) JORF 9 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
 
 
 ###### Article L117
@@ -7350,6 +7374,37 @@ fraude.
 	  - HISTO: Edition du 1er juillet 1981
 
 
+##### IV : Infractions aux règles de la facturation
+
+###### Article L246
+
+Les infractions aux règles de la facturation constatées dans les conditions prévues aux articles 45, premier alinéa, 46 et 47
+de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence sont poursuivies
+pénalement dans le délai le plus bref selon les procédures de la comparution immédiate, de l'information ou de la citation
+directe.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1751 1 (1RE PHRASE)
+	  - Loi n°52-401 1952-04-14 ART. 49
+
+	**Cite**:
+
+	  - Ordonnance 86-1243 1986-12-01 art. 45, art. 46, art. 47
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 46 (Ab)
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 47 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 60 () JORF 9 décembre 1986
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1751 (M)
+
+
 #### Chapitre III : Les remises et transactions à titre gracieux
 
 ###### Article L247
@@ -9530,26 +9585,6 @@ L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au sec
 	  - Livre des procédures fiscales - art. R135 D-1 (V)
 
 
-###### Article L116
-
-L'administration des impôts ne peut opposer le secret professionnel aux fonctionnaires désignés à l'article 13 de
-l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1483 1945-06-30 ART. 14
-
-	**Cite**:
-
-	  - Ordonnance n°45-1483 du 30 juin 1945 - art. 13 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-
 ### LES DELAIS DE PRESCRIPTION
 
 #### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.
@@ -9940,42 +9975,6 @@ conditions fixées par décret.
 	  - Livre des procédures fiscales - art. L208 B (V)
 	  - Livre des procédures fiscales - art. R*208-1 (V)
 	  - Livre des procédures fiscales - art. R*208-3 (V)
-
-
-### LES PROCEDURES PENALES
-
-#### EXERCICE DES POURSUITES PENALES.
-
-###### Article L246
-
-Les ventes sans factures, constatées dans les conditions prévues aux articles 5, 6 et 7 de l'ordonnance n° 45-1484 du 30 juin
-1945 modifiée, sont poursuivies pénalement dans le délai le plus bref selon les procédures de la comparution immédiate, de
-l'information ou de la citation directe.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1751 1 (1RE PHRASE)
-	  - Loi n°52-401 1952-04-14 ART. 49
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Cite**:
-
-	  - Ordonnance n°45-1484 du 30 juin 1945 - art. 5 (Ab)
-	  - Ordonnance n°45-1484 du 30 juin 1945 - art. 6 (Ab)
-	  - Ordonnance n°45-1484 du 30 juin 1945 - art. 7 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°83-466 du 10 juin 1983 - art. 26 () JORF 11 juin 1983
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1751 (M)
 
 
 ## LE RECOUVREMENT DE L'IMPOT
