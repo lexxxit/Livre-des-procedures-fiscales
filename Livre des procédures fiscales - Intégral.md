@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1981-07-07
+Version Consolidée au 1981-09-20
 
 # Partie législative
 
@@ -1272,5 +1272,48 @@ extrait et, en cas de recherche, de 0,20 F par année indiquée.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L107 (M)
+
+
+# Partie réglementaire - Arrêtés
+
+## Troisième partie : Partie réglementaire, arrêtés
+
+### Titre II : Le contrôle de l'impôt
+
+#### Chapitre premier : Le droit de contrôle de l'administration
+
+##### Section II : Dispositions particulières à certains impôts
+
+##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées
+
+##### B : Contrôle sur les lieux d'exercice de l'activité
+
+##### Contributions indirectes.
+
+###### Article A26-3
+
+Dans les cercles où sont pratiqués les jeux de hasard, l'intervention des agents des impôts spécialement désignés à cet effet
+par l'administration peut avoir lieu à toute heure du jour et de la nuit, et dans les autres cercles ou maisons de jeux
+pendant tout le temps où ils sont ouverts à leurs membres ou à leur clientèle [*horaires de contrôle*].
+
+Les agents qualifiés du ministère de l'intérieur jouissent des mêmes droits.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1981-09-15 art. 1, art. 2 JORF 20 septembre 1981
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Anciens textes**:
+
+	  - CGIAN4 148 (AL. 1)
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 146 (V)
 
 
