@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-12-14
+Version Consolidée au 1985-12-21
 
 # Partie législative
 
@@ -2850,6 +2850,32 @@ montant total des honoraires qui leur sont effectivement versés par les assuré
 	  - Livre des procédures fiscales - art. R*97-2 (V)
 
 
+###### Article L98
+
+Les organismes débiteurs de l'allocation supplémentaire du fonds national de solidarité prévue par les articles L. 815-1 à L.
+815-22 du code de la sécurité sociale sont tenus de fournir à l'administration des impôts, avant le 31 janvier de chaque
+année [*périodicité*], la liste des personnes auxquelles l'allocation a été attribuée ou supprimée au cours de l'année
+précédente [*obligation*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1414 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L815-1 à L815-22
+
+
 ###### Article L99
 
 Les organismes ou caisses de sécurité sociale ainsi que les caisses de mutualité sociale agricole, doivent communiquer à
@@ -4324,6 +4350,90 @@ régime général ou au régime agricole de sécurité sociale.
 	  - Livre des procédures fiscales - art. R*288-1 (V)
 
 
+###### Article L152 A
+
+Conformément à l'article L. 583-3 du code de la sécurité sociale, l'administration des impôts est tenue de communiquer aux
+organismes débiteurs de prestations familiales toutes les informations nécessaires au contrôle des déclarations des
+allocataires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+
+###### Article L153
+
+Conformément à l'article L. 815-15 du code de la sécurité sociale, les services chargés de l'attribution de l'allocation
+supplémentaire versée par le fonds national de solidarité en application de l'article L. 815-2 du même code peuvent recevoir
+de l'administration des impôts communication des renseignements nécessaires à la liquidation et au contrôle de cette
+allocation, ainsi qu'à la mise en oeuvre des dispositions de l'article L. 815-12 du code précité notamment en ce qui concerne
+la détermination du montant des successions.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L815-12 (M)
+	  - Code de la sécurité sociale. - art. L815-15 (M)
+	  - Code de la sécurité sociale. - art. L815-2 (M)
+
+
+###### Article L154
+
+Les autorités administratives et organismes appelés à intervenir dans les procédures relatives à l'attribution, à la révision
+et au maintien de l'allocation spéciale vieillesse instituée par l'article L. 814-1 du code de la sécurité sociale peuvent
+recevoir des agents de l'administration des impôts communication des renseignements qu'elle détient sur les ressources et
+revenus dont dispose la personne qui présente une demande d'allocation ou qui perçoit cette allocation et sur les biens que
+celle-ci possède ou dont elle a transmis la propriété à d'autres personnes par voie de donation ou donation-partage.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Abrogé par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Décret n°2016-1806 du 21 décembre 2016 (V)
+	  - Livre des procédures fiscales - art. L113 (M)
+	  - Livre des procédures fiscales - art. R*154-1 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale 814-1
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 1999
+
+
 ###### Article L155
 
 Les caisses de mutualité sociale agricole peuvent recevoir de l'administration des impôts communication des renseignements
@@ -4340,6 +4450,38 @@ nécessaires à l'assiette des cotisations des prestations sociales agricoles.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
+
+
+###### Article L156
+
+Les caisses des organisations autonomes d'allocation de vieillesse désignées à l'article L. 621-3 du code de la sécurité
+sociale et aux articles 1108 et 1136 du code rural peuvent recevoir de l'administration des impôts communication des
+renseignements détenus par celle-ci et nécessaires à l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Livre des procédures fiscales - art. L113 (M)
+
+	**Cite**:
+
+	  - Code rural 1108, 1136
+	  - Code de la sécurité sociale. - art. L621-3 (M)
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Liens**:
+
+	  - HISTO: Edition 31 juillet 1986
 	  - HISTO: Edition du 31 mars 1999
 
 	**Abrogé par**:
@@ -4404,6 +4546,39 @@ suppression éventuelle de cet avantage.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article L160
+
+L'administration des impôts est tenue de communiquer aux agents assermentés des organismes et services qui procèdent au
+paiement des allocations de logement prévues par l'article L. 511-1 du code de la sécurité sociale et par la loi n° 71-582 du
+16 juillet 1971 relative à l'allocation de logement, tous les renseignements et pièces nécessaires au contrôle du montant des
+loyers et des ressources des demandeurs ou des bénéficiaires.
+
+L'administration est tenue de communiquer ces mêmes renseignements pour le contrôle des déclarations des demandeurs ou des
+bénéficiaires de l'aide personnalisée au logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction et
+de l'habitation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la construction L351-1 à L351-14
+	  - Loi n°71-582 1971-07-16
+	  - Code de la sécurité sociale. - art. L511-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
+
+	**Abrogé par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article L161
@@ -8842,31 +9017,6 @@ opération qu'ils relatent.
 	  - PEREMPTION: Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
 
 
-#### RENSEIGNEMENTS COMMUNIQUES A L'ADMINISTRATION DES IMPOTS SANS DEMANDE PREALABLE DE SA PART.
-
-###### Article L98
-
-Les organismes débiteurs de l'allocation supplémentaire du fonds national de solidarité prévue par les articles L. 684 à L.
-711-1 du code de la sécurité sociale sont tenus de fournir à l'administration des impôts, avant le 31 janvier de chaque année
-[*périodicité*], la liste des personnes auxquelles l'allocation a été attribuée ou supprimée au cours de l'année précédente
-[*obligation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1414 I (AL. 2)
-	  - Loi n°67-1114 1967-12-24 ART. 17 I
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1414 (M)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L684 A Code de la sécurité sociale L711-1
-
-
 ### LE SECRET PROFESSIONNEL EN MATIERE FISCALE
 
 #### PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL.
@@ -9129,106 +9279,6 @@ et financier de l'entreprise et du plan d'apurement collectif du passif.
 	  - Ordonnance 67-280 1967-09-23 ART. 1
 
 
-###### Article L153
-
-Conformément à l'article L. 700 du code de la sécurité sociale, les services chargés de l'attribution de l'allocation
-supplémentaire versée par le fonds national de solidarité en application de l'article L. 685 du même code peuvent recevoir de
-l'administration des impôts communication des renseignements nécessaires à la liquidation et au contrôle de cette allocation,
-ainsi qu'à la mise en oeuvre des dispositions de l'article L. 698 du code précité notamment en ce qui concerne la
-détermination du montant des successions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2020 1 bis
-	  - Loi n°77-1467 1977-12-30 ART. 98 III
-	  - Code de la sécurité sociale L700
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L700
-
-
-###### Article L154
-
-Les autorités administratives et organismes appelés à intervenir dans les procédures relatives à l'attribution, à la révision
-et au maintien de l'allocation spéciale vieillesse instituée par l'article L. 674 du code de la sécurité sociale peuvent
-recevoir des agents de l'administration des impôts communication des renseignements qu'elle détient sur les ressources et
-revenus dont dispose la personne qui présente une demande d'allocation ou qui perçoit cette allocation et sur les biens que
-celle-ci possède ou dont elle a transmis la propriété à d'autres personnes par voie de donation ou donation-partage.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2020 1 1°
-	  - Loi n°53-79 1953-02-07 ART. 80
-
-	**Cité par**:
-
-	  - Décret n°2016-1806 du 21 décembre 2016 (V)
-	  - Livre des procédures fiscales - art. L113 (M)
-	  - Livre des procédures fiscales - art. R*154-1 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale 674
-
-
-###### Article L156
-
-Les caisses des organisations autonomes d'allocation de vieillesse désignées à l'article L. 645 du code de la sécurité
-sociale et aux articles 1108 et 1136 du code rural [*caisses départementales, pluridépartementales et caisse nationale
-d'assurance vieillesse agricole*] peuvent recevoir de l'administration des impôts communication des renseignements détenus
-par celle-ci et nécessaires à l'accomplissement de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 14 juin 1982 - art. 4 (V)
-	  - Livre des procédures fiscales - art. L113 (M)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L645
-	  - Code rural 1108
-	  - Code rural 1136
-
-	**Modifié par**:
-
-	  - Loi n°85-772 du 25 juillet 1985 - art. 28 () JORF 26 juillet 1985
-
-
-###### Article L160
-
-L'administration des impôts est tenue de communiquer aux agents assermentés des organismes et services qui procèdent au
-paiement des allocations de logement prévues par l'article L. 510 du code de la sécurité sociale et par la loi n° 71-582 du
-16 juillet 1971 relative à l'allocation de logement, tous les renseignements et pièces nécessaires au contrôle du montant des
-loyers et des ressources des demandeurs ou des bénéficiaires.
-
-L'administration est tenue de communiquer ces mêmes renseignements pour le contrôle des déclarations des demandeurs ou des
-bénéficiaires de l'aide personnalisée au logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction et
-de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la construction L351-1 A Code de la construction L351-14
-	  - Loi n°71-582 1971-07-16
-	  - Code de la sécurité sociale L510
-
-	**Modifié par**:
-
-	  - Loi n°85-17 du 4 janvier 1985 - art. 1 () JORF 5 janvier 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1008 1985-09-24
-
-
 ###### Article L167
 
 L'épouse du contribuable peut :
@@ -9301,33 +9351,6 @@ renseignements nécessaires à la mise en oeuvre des procédures prévues par l'
 	**Liens**:
 
 	  - PEREMPTION: Loi n°86-1210 1986-11-27 art. 7 III JORF 28 novembre 1986
-
-
-##### DEROGATIONS AU PROFIT DES AUTORITES ET DES ORGANISMES CHARGES DE L'APPLICATION DE LA LEGISLATION SOCIALE *DROIT DE COMMUNICATION*.
-
-###### Article L152 A
-
-Conformément à l'article L. 554 du code de la sécurité sociale, l'administration des impôts est tenue de communiquer aux
-organismes débiteurs de prestations familiales toutes les informations nécessaires au contrôle des déclarations des
-allocataires.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°85-17 du 4 janvier 1985 - art. 14 () JORF 5 janvier 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1008 1985-09-24
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L113 (VT)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L554
 
 
 ### LES DELAIS DE PRESCRIPTION
