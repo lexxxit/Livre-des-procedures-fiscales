@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-06-12
+Version Consolidée au 1983-07-10
 
 # Partie législative
 
@@ -3899,6 +3899,33 @@ reprise de l'administration.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+##### Section III : Contributions indirectes
+
+###### Article L178 A
+
+Pour les taxes, cotisations, redevances sur les céréales et produits dérivés, le droit de reprise de l'administration
+s'exerce jusqu'à l'expiration de la campagne suivant celle au cours de laquelle a été déposée la déclaration ou accomplie la
+formalité ayant permis d'asseoir, de calculer ou de liquider les sommes dues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°63-1316 1963-12-27 aer. 48 JORF 29 DECEMBRE 1963
+
+	**Codifié par**:
+
+	  - Décret n°83-900 1983-10-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 juillet 1983
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 69 (V)
 
 
 ##### Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilés
