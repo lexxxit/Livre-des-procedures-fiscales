@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-03-10
+Version Consolidée au 2004-03-24
 
 # Partie législative
 
@@ -15943,20 +15943,29 @@ celui de la circonscription sur le territoire de laquelle se trouve le siège de
 partie des biens présentant le plus grand revenu d'après la matrice cadastrale.
 
 Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant d'une direction régionale, d'une direction
-spécialisée ou d'un service à compétence nationale, la réclamation peut être adressée au directeur chargé de ces directions
-ou de ce service.
+spécialisée ou d'un service à compétence nationale, la réclamation est adressée au directeur chargé de ces directions ou de
+ce service.
+
+Les entreprises mentionnées aux deuxième à septième alinéas du I de l'article 1649 quater B quater du code général des impôts
+adressent au service chargé des grandes entreprises l'ensemble des réclamations portant sur les impôts qui relèvent de sa
+compétence ainsi que sur les dégrèvements prévus en matière de taxe professionnelle aux articles 1647 bis et 1647 B sexies,
+quelle que soit la période sur laquelle portent ces réclamations.
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2002-922 2002-06-06
+	  - CGI 1649 quater B quater, 1647 bis, 1647 B sexies
+
+	**Modifié par**:
+
+	  - Décret n°2004-257 du 17 mars 2004 - art. 1 () JORF 24 mars 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2004
 
 	**Cité par**:
 
@@ -16646,9 +16655,14 @@ irrecevables.
 L'administration des impôts ou l'administration des douanes et droits indirects, selon le cas, statue sur les réclamations
 dans le délai de six mois suivant la date de leur présentation. Si elle n'est pas en mesure de le faire, elle doit, avant
 l'expiration de ce délai, en informer le contribuable en précisant le terme du délai complémentaire qu'elle estime nécessaire
-pour prendre sa décision. Ce délai complémentaire ne peut, toutefois, excéder trois mois. Lorsque l'assiette de l'imposition
-contestée a été assurée par un service spécialisé de l'une ou l'autre des administrations précitées, c'est ce service qui
-statue.
+pour prendre sa décision. Ce délai complémentaire ne peut, toutefois, excéder trois mois.
+
+Lorsque l'assiette de l'imposition contestée a été assurée par un service spécialisé de l'une ou l'autre des administrations
+susmentionnées, c'est ce service qui statue. A l'exception des réclamations portant sur des impositions dont l'assiette a été
+établie à l'initiative d'un autre service spécialisé, le service chargé des grandes entreprises, mentionné à l'article R.*
+190-1, statue sur les réclamations portant sur les impôts qui relèvent de sa compétence, ainsi que sur les dégrèvements
+prévus en matière de taxe professionnelle aux articles 1647 bis et 1647 B sexies du même code, quelle que soit la période sur
+laquelle portent ces réclamations.
 
 En cas de rejet total ou partiel de la réclamation, la décision doit être motivée.
 
@@ -16657,22 +16671,24 @@ au cours de la procédure devant le tribunal administratif.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 1647 bis, 1647 B sexies
+	  - Livre des procédures fiscales R190-1
+
 	**Modifié par**:
 
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-311 du 9 mars 1993 - art. 11 () JORF 11 mars 1993
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°97-1195 1997-12-24 art. 6 39°, art. 13
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Jurisprudence 1999-12-01 13O-6-99
+	  - Décret n°2004-257 du 17 mars 2004 - art. 1 () JORF 24 mars 2004
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 289 (M)
 	  - Livre des procédures fiscales - art. R*199-1 (V)
 	  - Livre des procédures fiscales - art. R*200-4 (VD)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
 
 
 ##### Section II : Procédure devant les tribunaux
