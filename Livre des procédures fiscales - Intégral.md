@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1992-12-31
+Version Consolidée au 1993-01-01
 
 # Partie législative
 
@@ -479,16 +479,18 @@ d'un agent de l'administration des impôts est fixé à trente jours à compter 
 	  - Livre des procédures fiscales - art. L57 (V)
 
 
-##### Dispositions relatives à l'examen contradictoire de l'ensemble de la situation fiscale personnelle.
+##### 1° : Dispositions relatives à l'examen contradictoire de l'ensemble de la situation fiscale personnelle
 
 ###### Article L12
 
 L'administration des impôts peut procéder à l'examen contradictoire de l'ensemble de la situation fiscale des personnes
-physiques au regard de l'impôt sur le revenu dans les conditions prévues au présent livre.    A l'occasion de cet examen,
-l'administration peut contrôler la cohérence entre, d'une part les revenus déclarés et, d'autre part, la situation
-patrimoniale, la situation de trésorerie et les éléments du train de vie dES MEMBRES DU FOYER FISCAL.    Sous peine de
-nullité de l'imposition, un examen contradictoire de l'ensemble de la situation fiscale personnelle ne peut s'étendre sur une
-période supérieure à un an à compter de la réception de l'avis de vérification.
+physiques au regard de l'impôt sur le revenu dans les conditions prévues au présent livre.
+
+A l'occasion de cet examen, l'administration peut contrôler la cohérence entre, d'une part les revenus déclarés et, d'autre
+part, la situation patrimoniale, la situation de trésorerie et les éléments du train de vie des membres du foyer fiscal.
+
+Sous peine de nullité de l'imposition, un examen contradictoire de l'ensemble de la situation fiscale personnelle ne peut
+s'étendre sur une période supérieure à un an à compter de la réception de l'avis de vérification.
 
 Cette période est prorogée du délai accordé, le cas échéant, au contribuable et, à la demande de celui-ci, pour répondre aux
 demandes d'éclaircissements ou de justifications pour la partie qui excède les deux mois prévus à l'article L. 16 A.
@@ -498,15 +500,18 @@ obtenir les relevés de compte lorsque le contribuable n'a pas usé de sa facult
 jours à compter de la demande de l'administration ou pour recevoir les renseignements demandés aux autorités étrangères,
 lorsque le contribuable a pu disposer de revenus à l'étranger ou en provenance directe de l'étranger.
 
+La période mentionnée au troisième alinéa est portée à deux ans en cas de découverte, en cours de contrôle, d'une activité
+occulte. Il en est de même lorsque, dans le délai initial d'un an, les articles L. 82 C ou L. 101 ont été mis en oeuvre.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L16 A
+	  - CGI L16 A, L82 C, L101
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 9 I A, IV JORF 9 juillet 1987
+	  - Loi - art. 111 () JORF 31 décembre 1992 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -521,6 +526,10 @@ lorsque le contribuable a pu disposer de revenus à l'étranger ou en provenance
 	  - Livre des procédures fiscales - art. L10 (V)
 	  - Livre des procédures fiscales - art. L13 F (V)
 	  - Livre des procédures fiscales - art. L52 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 ##### 2° : Dispositions relatives aux vérifications des comptabilités
@@ -1633,6 +1642,31 @@ vérifications.
 	  - HISTO: Edition du 18 août 1993
 
 
+###### Article L36 A
+
+Les opérateurs visés aux a et c du II de l'article 57 et aux articles 61 et 62 de la loi n° 92-677 du 17 juillet 1992 sont
+soumis aux contrôles de l'administration dans les conditions prévues à l'article L35.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Article inséré directement dans l'édition du 18 août 1993
+
+	**Cite**:
+
+	  - LPF L35
+	  - Loi n°92-677 1992-07-17 art. 57, art. 61, art. 62
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 95 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R36 B-1 (M)
+
+
 ###### Article L36 B
 
 (Voir R 36 B-1).
@@ -1685,12 +1719,11 @@ Il désigne l'officier de police judiciaire chargé d'assister à ces opération
 
 L'ordonnance comporte :
 
-- le cas échéant, mention de la délégation du président du tribunal de grande instance ;
+le cas échéant, mention de la délégation du président du tribunal de grande instance ;
 
-- l'adresse des lieux à visiter ;
+l'adresse des lieux à visiter ;
 
-- le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de
-visite.
+le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
 l'espèce, l'existence des infractions dont la preuve est recherchée.
@@ -1726,8 +1759,8 @@ peut également être commencée pendant les heures d'ouverture de l'établissem
 des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en
 dehors des personnes relevant de son autorité ou de celle de l'administration des impôts.
 
-Les agents de l'administration des impôts mentionnés au 1 ci-dessus, l'occupant des lieux ou son représentant et l'officier
-de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+Les agents de l'administration des impôts mentionnés au 1, l'occupant des lieux ou son représentant et l'officier de police
+judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
@@ -1745,18 +1778,14 @@ police judiciaire ; l'inventaire est alors établi.
 délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant.
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après exécution de la transaction consécutive à la
-rédaction du procès-verbal de constatation des infractions prévu par le a de l'article L. 212 du présent livre ; en cas de
-poursuites judiciaires, leur restitution est autorisée par l'autorité judiciaire compétente.
+rédaction du procès-verbal de constatation des infractions prévu par l'article L. 212 A ; en cas de poursuites judiciaires,
+leur restitution est autorisée par l'autorité judiciaire compétente.
 
 6. Les informations recueillies ne peuvent être exploitées dans le cadre d'une procédure de vérification de comptabilité ou
 de contrôle de revenu qu'après restitution des pièces ou de leur reproduction et mise en oeuvre des procédures de contrôle
-visées aux premier et deuxième alinéas de l'article L. 47 du présent livre.
+visées aux premier et deuxième alinéas de l'article L. 47.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P) JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -1767,16 +1796,18 @@ visées aux premier et deuxième alinéas de l'article L. 47 du présent livre.
 	  - Livre des procédures fiscales - art. L80 H (V)
 	  - Livre des procédures fiscales - art. R*135 S-2 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°90-799 1990-09-10
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 116 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cite**:
 
-	  - CGI L212
-	  - CGI L47
+	  - CGI Livre des procédures fiscales L212 A, L47
+	  - CODE DE PROCEDURE PENALE - art. 550 (M)
+	  - CODE DE PROCEDURE PENALE - art. 56 (M)
 	  - CODE DE PROCEDURE PENALE - art. 58 (M)
-	  - Code de procédure pénale 550 et s.
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
@@ -2355,8 +2386,7 @@ La procédure de redressement contradictoire n'est pas applicable :
 
 1° En matière d'impositions directes perçues au profit des collectivités locales ou d'organismes divers ;
 
-2° En matière de contributions indirectes, lorsque les faits ont été constatés par procès-verbal suivi de transaction ou de
-poursuites correctionnelles ;
+2° En matière de contributions indirectes ;
 
 3° En matière de droits de timbre, lorsqu'ils ne sont pas payés sur état ou sur déclaration, et de taxe différentielle sur
 les véhicules à moteur prévue à l'article 1599 C du code général des impôts ;
@@ -2370,14 +2400,20 @@ les véhicules à moteur prévue à l'article 1599 C du code général des impô
 	**Cite**:
 
 	  - CGI 1599 C
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81 I Finances pour 1987 JORF 31 décembre 1986
+	  - Livre des procédures fiscales - art. L62 (M)
 
 	**Codifié par**:
 
-	  - Décret n°87-941 1987-11-23
+	  - Décret n°93-1095 1993-09-16
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: en vigueur le 1er janvier 1993)
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 116 () JORF 19 juillet 1992, art. 121 :
 
 	**Cité par**:
 
@@ -3623,14 +3659,53 @@ grade d'inspecteur principal qui vise à cet effet le document comportant la mot
 	  - Livre des procédures fiscales - art. R80 E-1 (V)
 
 
+#### Chapitre I bis : Droit d'enquête
+
+###### Article L80 I
+
+Les agents des douanes, ayant au moins le grade de contrôleur, peuvent disposer du droit d'enquête prévu aux articles L. 80 F
+à L. 80 H pour rechercher les manquements à l'application des règles de facturation afférentes aux acquisitions et
+livraisons, entrant dans le champ d'application de la taxe sur la valeur ajoutée, effectuées avec des Etats membres de la
+Communauté économique européenne.
+
+xxxxxxxxxxxxxxxxxxxxxxxx EURX9200218L EURX9200218L-11 (Loi 93-1420 1993-12-31 art. 11 JORF 1er janvier 1994). Edition du 27
+octobre 1995. Décret 95-1281 1995-12-11 1995-10-27 V 01 CGI Livre des procédures fiscales L80 F à L80 H.    Les agents des
+douanes, ayant au moins le grade de contrôleur, peuvent disposer du droit d'enquête prévu aux articles L. 80 F à L. 80 H pour
+rechercher les manquements à l'application des règles de facturation afférentes aux acquisitions et livraisons, entrant dans
+le champ d'application de la taxe sur la valeur ajoutée, effectuées avec des Etats membres de la Communauté européenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 106 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°93-1095 1993-09-16
+
+	**Cité par**:
+
+	  - Arrêté du 1 juillet 2003 - art. 7 (V)
+	  - Livre des procédures fiscales - art. L80 J (V)
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L80 F à L80 H
+
+	**Liens**:
+
+	  - HISTO: édition du 18 août 1993
+
+
 #### Chapitre II : Le droit de communication
 
 ##### Section I : Définition et étendue du droit de communication
 
 ###### Article L81
 
-Le droit de communication permet aux agents de l'administration des impôts, pour l'établissement de l'assiette et le contrôle
-des impôts, d'avoir connaissance des documents et des renseignements mentionnés aux articles du présent chapitre dans les
+Le droit de communication permet aux agents de l'administration, pour l'établissement de l'assiette et le contrôle des
+impôts, d'avoir connaissance des documents et des renseignements mentionnés aux articles du présent chapitre dans les
 conditions qui y sont précisées.
 
 Le droit prévu à l'alinéa précédent s'exerce quel que soit le support utilisé pour la conservation des documents, y compris
@@ -3663,17 +3738,21 @@ agents des administrations chargés du recouvrement des impôts, droits et taxes
 	  - Livre des procédures fiscales - art. R*81-4 (P)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
-
 	**Modifié par**:
 
-	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-309 du 9 mars 1993 - art. 19 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décision du Conseil Constitutionnel 92-172L 1992-12-29
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-309 1993-03-09 art. 22
+	  - HISTO: Edition du 18 août 1993
+	  - TXT_ASSOCIE: Jurisprudence 2000-04-27 13K-5-00
 
 	**Cite**:
 
-	  - CGI L83, L84, L85, L85 A, L86, L86 A, L87, L88, L89, L90, L91, L92, L94, L95
+	  - Livre des procédures fiscales L83 à L95
 
 
 ##### Section I : Conditions d'exercice du droit de communication
@@ -4300,6 +4379,30 @@ détenues par les organismes visés au premier alinéa.
 	  - Code général des impôts, CGI. - art. 1735 (V)
 
 
+###### Article L96 B
+
+Les personnes mentionnées à l'article 286 quater du code général des impôts sont tenues de présenter à l'administration, sur
+sa demande, les registres prévus à cet article.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Article inséré directement dans l'édition du 18 août 1993
+
+	**Cite**:
+
+	  - CGI 286 quater
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 28 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L114-20 (V)
+
+
 ##### 20° : Intermédiaires sur le MATIF, le MONEP et en matière de bons d'options.
 
 ###### Article L96 C
@@ -4519,9 +4622,9 @@ décès établis au cours du trimestre. Ces relevés sont certifiés par le mair
 
 ###### Article L102 B
 
-Les livres, registres, documents ou pièces sur lesquels peuvent s'exercer les droits de communication et de contrôle de
-l'administration doivent être conservés pendant un délai de six ans à compter de la date de la dernière opération mentionnée
-sur les livres ou registres ou de la date à laquelle les documents ou pièces ont été établis.
+I. - Les livres, registres, documents ou pièces sur lesquels peuvent s'exercer les droits de communication, d'enquête et de
+contrôle de l'administration doivent être conservés pendant un délai de six ans à compter de la date de la dernière opération
+mentionnée sur les livres ou registres ou de la date à laquelle les documents ou pièces ont été établis.
 
 Sans préjudice des dispositions du premier alinéa, lorsque les livres, registres, documents ou pièces mentionnés au premier
 alinéa sont établis ou reçus sur support informatique, ils doivent être conservés sous cette forme pendant une durée au moins
@@ -4530,27 +4633,19 @@ alinéa sont établis ou reçus sur support informatique, ils doivent être cons
 Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
 chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
 
-Lorsqu'ils ne sont pas déjà visés aux alinéas précédents, les informations, données ou traitements soumis au contrôle prévu
-au deuxième alinéa de l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai prévu à
-l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des traitements doit être
-conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
+II. - Lorsqu'ils ne sont pas déjà visés aux alinéas précédents, les informations, données ou traitements soumis au contrôle
+prévu au deuxième alinéa de l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai
+prévu à l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des traitements doit
+être conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
-
 	**Cité par**:
 
+	  - Loi n°89-936 du 29 décembre 1989 - art. 98 (M)
 	  - Arrêté du 8 mars 1993 - art. Annexe (V)
 	  - Arrêté du 4 mars 1996 - art. Annexe (Ab)
 	  - Arrêté du 6 février 1998 - art. Annexe (V)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 98 (M)
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 16 (V)
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 303 (P)
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 178 octies C (P)
@@ -4610,10 +4705,13 @@ conservée jusqu'à l'expiration de la troisième année suivant celle à laquel
 	  - Livre des procédures fiscales - art. L96 A (V)
 	  - Livre des procédures fiscales - art. R80 F-3 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI L13
-	  - CGI L169
+	  - Loi n°92-677 du 17 juillet 1992 - art. 107 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
 
 
 #### Chapitre III : Le secret professionnel en matière fiscale
@@ -7630,6 +7728,28 @@ reprise de l'administration.
 	  - HISTO: Edition du 1er juillet 1981
 
 
+###### Article L177 A
+
+En ce qui concerne la taxe spéciale sur le prix des places de spectacles cinématographiques prévue à l'article 1621 du code
+général des impôts, le droit de reprise de l'administration s'exerce dans le délai fixé par l'article L. 176 en matière de
+taxes sur le chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1621
+	  - CGI Livre des procédures fiscales L176
+
+	**Créé par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 117 () JORF 19 juillet 1992, art. 121 :
+
+	**Liens**:
+
+	  - HISTO: en vigueur le 1er janvier 1993) article créé directement et incorporé dans l'édition du 18 août 1993
+
+
 ##### Section III : Contributions indirectes
 
 ###### Article L178
@@ -7637,10 +7757,10 @@ reprise de l'administration.
 Pour les droits, taxes, redevances, soultes et autres impositions indirectes, le droit de reprise de l'administration
 s'exerce jusqu'à l'expiration de la première année suivant celle au cours de laquelle se situe le fait générateur de l'impôt.
 
-Toutefois, en ce qui concerne l'impôt sur les spectacles prévu à l'article 1559 du code général des impôts, la taxe annuelle
-sur les jeux de boules et de quilles comportant des dispositifs électromécaniques prévue à l'article 1582 bis du même code et
-la taxe spéciale sur le prix des places cinématographiques prévue à l'article 1621 du même code, le droit de reprise de
-l'administration s'exerce dans le délai fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires.
+Toutefois, en ce qui concerne l'impôt sur les spectacles prévu à l'article 1559 du code général des impôts et la taxe
+annuelle sur les jeux de boules et de quilles comportant des dispositifs électromécaniques prévue à l'article 1582 bis du
+même code, le droit de reprise de l'administration s'exerce dans le délai fixé par l'article L. 176 en matière de taxes sur
+le chiffre d'affaires.
 
 Des dispositions particulières, prévues aux articles 621 à 624 du code général des impôts, s'appliquent par ailleurs aux
 acquits-à-caution.
@@ -7649,20 +7769,17 @@ acquits-à-caution.
 
 	**Cite**:
 
-	  - CGI 1559
-	  - CGI 1582 bis
-	  - CGI 1621
-	  - CGI 621 à 624
-	  - CGI L176
+	  - CGI 1559, 1582 bis, 621 à 624
+	  - Livre des procédures fiscales - art. L176 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: en vigueur le 1er janvier 1993)
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 92 Finances pour 1985 JORF 30 décembre 1984
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 30 () JORF 31 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1087 1986-10-07
+	  - Loi n°92-677 du 17 juillet 1992 - art. 117 () JORF 19 juillet 1992, art. 121 :
 
 
 ###### Article L178 A
@@ -7999,25 +8116,33 @@ mention portée sur la notification de redressements qu'elles pourront être év
 ###### Article L190
 
 Les réclamations relatives aux impôts, contributions, droits, taxes, redevances, soultes et pénalités de toute nature,
-établis ou recouvrés par les agents de la direction générale des impôts, relèvent de la juridiction contentieuse lorsqu'elles
-tendent à obtenir soit la réparation d'erreurs commises dans l'assiette ou le calcul des impositions, soit le bénéfice d'un
-droit résultant d'une disposition législative ou réglementaire.    Sont instruites et jugées selon les règles du présent
-chapitre toutes actions tendant à la décharge ou à la réduction d'une imposition ou à l'exercice de droits à déduction,
-fondées sur la non-conformité de la règle de droit dont il a été fait application à une règle de droit supérieure.
+établis ou recouvrés par les agents de l'administration, relèvent de la juridiction contentieuse lorsqu'elles tendent à
+obtenir soit la réparation d'erreurs commises dans l'assiette ou le calcul des impositions, soit le bénéfice d'un droit
+résultant d'une disposition législative ou réglementaire.
+
+Sont instruites et jugées selon les règles du présent chapitre toutes actions tendant à la décharge ou à la réduction d'une
+imposition ou à l'exercice de droits à déduction, fondées sur la non-conformité de la règle de droit dont il a été fait
+application à une règle de droit supérieure.
 
 Lorsque cette non-conformité a été révélée par une décision juridictionnelle, l'action en restitution des sommes versées ou
 en paiement des droits à déduction non exercés ou l'action en réparation du préjudice subi ne peut porter que sur la période
-postérieure au 1er janvier de la quatrième année précédant celle où la décision révélant la non-conformité est intervenue.(1)
-
-(1) Ces dispositions sont applicables à tous les litiges engagés par des réclamations présentées après l'entrée en vigueur de
-la loi de Finances rectificative.
+postérieure au 1er janvier de la quatrième année précédant celle où la décision révélant la non-conformité est intervenue.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°89-936 1989-12-29 art. 36 I, II Finances rectificative pour 1989 JORF 30 décembre 1989
-	  - Modification directe incorporée dans l'édition du 15 juin 1990
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-309 1993-03-09 art. 19 1° et 22 JORF 11 mars 1993 en vigueur le 1er janvier 1993
+	  - Décision du Conseil Constitutionnel 92-172L 1992-12-29
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°93-309 1993-03-09 art. 22
+	  - HISTO: Edition du 18 août 1993
+	  - TXT_ASSOCIE: Jurisprudence 1999-06-02 13O-4-99
+	  - TXT_ASSOCIE: Jurisprudence 2000-09-14 13O-5-00
+	  - TXT_ASSOCIE: Jurisprudence 2000-12-19 13O-7-00
 
 	**Cité par**:
 
@@ -8721,29 +8846,22 @@ paiement effectif des cotisations, s'il intervient avant l'expiration de ce dél
 
 ###### Article L212
 
-Peuvent être constatées par procès-verbal :
+Peuvent être constatées par procès-verbal : 
 
-a) Les infractions en matière de contributions indirectes et de législations édictant les mêmes règles en matière de
-procédure et de recouvrement ;
+a) (Abrogé). 
 
-b) Les infractions en matière de taxes sur le chiffre d'affaires et de taxes assimilées ;
+b) Les infractions en matière de taxes sur le chiffre d'affaires et de taxes assimilées ; 
 
-c) Les infractions aux dispositions des articles 119 bis-2 et 1672-2 du code général des impôts en matière de retenue à la
+c) Les infractions aux dispositions du 2 des articles 119 bis et 1672 du code général des impôts en matière de retenue à la
 source afférente aux revenus de capitaux mobiliers et à celles qui fixent les modalités et conditions d'application de ces
-articles ;
+articles ; 
 
 d) Les infractions aux dispositions du code général des impôts relatives aux ventes publiques de meubles et par enchères, aux
-droits de timbre à l'exception de celles relatives aux droits de timbre perçus sur états ou sur déclarations ;
+droits de timbre à l'exception de celles relatives aux droits de timbre perçus sur états ou sur déclarations ; 
 
 e) Les infractions relatives au récépissé de consignation prévu par l'article 302 octies du code précité.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 119 bis 2
-	  - CGI 1672 2
-	  - CGI 302 octies
 
 	**Anciens textes**:
 
@@ -8753,21 +8871,35 @@ e) Les infractions relatives au récépissé de consignation prévu par l'articl
 	  - CGI 1854 1 (al. 1 P.), 2 (6ème ligne) (a du L212)
 	  - CGI 1887 (P.)
 	  - CGI 874 (al. 2 1er membre de phrase) (d du L212)
+	  - Ordonnance 60-1256 1960-11-29 art. 10
 	  - Décret n°1934-07-24 art. 9 (e du L212)
+	  - Loi n°65-566 1965-07-12 art. 4 4 (c du L212)
 	  - Loi n°13 Brumaire AN VII art. 31
 	  - Loi n°19 Brumaire AN VI art. 94 (a du L212)
 	  - Loi n°1920-06-25 art. 70 (b du L212)
 	  - Loi n°1934-07-06 art. 13
 	  - Loi n°1936-12-31 art. 10 (Réforme fiscale)
 	  - Loi n°22 Pluviôse AN VII art. 8 (d du L 212)
-	  - Ordonnance 60-1256 1960-11-29 art. 10
-	  - Loi n°65-566 1965-07-12 art. 4 4 (c du L212)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 119 bis (V)
+	  - Code général des impôts, CGI. - art. 1672 (V)
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1765 bis (Ab)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 terdecies (V)
 	  - Livre des procédures fiscales - art. L215 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: en vigueur le 1er janvier 1993)
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 116 () JORF 19 juillet 1992, art. 121 :
 
 
 ##### II : Agents compétents pour constater les infractions par procès-verbal
@@ -10080,44 +10212,6 @@ donner lieu à des frais.
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts.
 
-###### Article L256
-
-Un avis de mise en recouvrement est adressé par le comptable de la direction générale des impôts à tout redevable de sommes,
-droits, taxes et redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la
-date d'exigibilité.
-
-L'avis de mise en recouvrement est individuel ou collectif. Il est signé et rendu exécutoire par le directeur des services
-fiscaux. Il est adressé par lettre recommandée avec avis de réception [*condition de forme*]. S'il s'agit d'un avis collectif
-de mise en recouvrement l'envoi porte sur un extrait de cet avis. Les pouvoirs du directeur des services fiscaux sont
-également exercés, sous son autorité, par le comptable de la direction générale des impôts.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1915
-	  - CGI 1918 (P.)
-	  - Loi n°63-1316 1963-12-27 ART. 1 1
-	  - Loi n°72-1121 1972-12-20 ART. 14 III
-
-	**Modifié par**:
-
-	  - Loi n°83-1159 du 24 décembre 1983 - art. 17 () JORF 28 décembre 1983
-
-	**Cité par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
-	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
-	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
-	  - Décret n°2015-964 du 31 juillet 2015 (V)
-	  - Code des postes et des communications électronique - art. R*70-1 (Ab)
-	  - Livre des procédures fiscales - art. R*256-1 (V)
-	  - Livre des procédures fiscales - art. R*273-1 (Ab)
-	  - Livre des procédures fiscales - art. R256-8 (V)
-
-
 ###### Article L256 A
 
 Lorsque l'avis de mise en recouvrement a été détruit dans un cas de force majeure, le paiement des créances fiscales et
@@ -10181,6 +10275,52 @@ sous l'autorité et la responsabilité du comptable, par les agents de la recett
 	**Cité par**:
 
 	  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V)
+
+
+##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
+
+###### Article L256
+
+Un avis de mise en recouvrement est adressé par le comptable public à tout redevable de sommes, droits, taxes et redevances
+de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la date d'exigibilité.
+
+L'avis de mise en recouvrement est individuel ou collectif. Il est signé et rendu exécutoire par l'autorité administrative
+désignée par décret. Il est adressé par lettre recommandée avec avis de réception. S'il s'agit d'un avis collectif de mise en
+recouvrement l'envoi porte sur un extrait de cet avis. Les pouvoirs de l'autorité administrative susmentionnés sont également
+exercés par le comptable public.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1915
+	  - CGI 1918 (P.)
+	  - Loi n°63-1316 1963-12-27 ART. 1 1
+	  - Loi n°72-1121 1972-12-20 ART. 14 III
+
+	**Modifié par**:
+
+	  - Décision du Conseil Constitutionnel 92-172L 1992-12-29
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V) JORF 11 mars 1993 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - SPEC_APPLI: Décret n°93-309 1993-03-09 art. 22
+
+	**Cité par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
+	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
+	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
+	  - Décret n°2015-964 du 31 juillet 2015 (V)
+	  - Code des postes et des communications électronique - art. R*70-1 (Ab)
+	  - Livre des procédures fiscales - art. R*256-1 (V)
+	  - Livre des procédures fiscales - art. R*273-1 (Ab)
+	  - Livre des procédures fiscales - art. R256-8 (V)
 
 
 ##### Section II : Exercice des poursuites
