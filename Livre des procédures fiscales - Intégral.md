@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1983-12-30
+Version Consolidée au 1984-01-25
 
 # Partie législative
 
@@ -2169,6 +2169,39 @@ des cotisations des prestations sociales agricoles.
 
 	  - Code de la sécurité sociale. - art. L114-20 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
+
+
+##### Formules de chèques non barrées.
+
+###### Article L96
+
+L'identité des personnes auxquelles sont délivrées des formules de chèques non barrées et qui ne sont pas rendues, par une
+mention expresse du banquier, intransmissibles par voie d'endossement, sauf au profit d'un établissement de crédit, d'une
+caisse d'épargne, ou d'un établissement assimilé, doit être communiquée à tout moment à l'administration des impôts, sur sa
+demande.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 2001 quinquies
+	  - Loi n°78-1239 1978-12-29 ART. 85 I
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Cité par**:
+
+	  - Loi n°81-1160 du 30 décembre 1981 - art. 96 (M)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 107 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater B (M)
+	  - Code monétaire et financier - art. L112-8 (VD)
+	  - Code monétaire et financier - art. L112-9 (An)
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
 ##### Section I : Conditions d'exercice du droit de communication
@@ -8010,28 +8043,6 @@ opération qu'ils relatent.
 	  - PEREMPTION: Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
 
 
-###### Article L96
-
-L'identité des personnes auxquelles sont délivrées des formules de chèques non barrées et qui ne sont pas rendues, par une
-mention expresse du banquier, intransmissibles par voie d'endossement, sauf au profit d'une banque, d'une caisse d'épargne,
-ou d'un établissement assimilé, doit être communiquée à tout moment à l'administration des impôts, sur sa demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2001 quinquies
-	  - Loi n°78-1239 1978-12-29 ART. 85 I
-
-	**Cité par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 96 (M)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 107 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater B (M)
-	  - Code monétaire et financier - art. L112-8 (VD)
-	  - Code monétaire et financier - art. L112-9 (An)
-
-
 #### RENSEIGNEMENTS COMMUNIQUES A L'ADMINISTRATION DES IMPOTS SANS DEMANDE PREALABLE DE SA PART.
 
 ###### Article L98
@@ -11955,6 +11966,292 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 vicies (V)
 
 
+###### Article R*208-4
+
+Font l'objet d'un remboursement les frais suivants :
+
+<table>
+  <tbody><tr>
+    <td> :=================================:===============================:</td>
+  </tr>
+  <tr>
+    <td> :   NATURE DES GARANTIES          :      NATURE DES FRAIS         :</td>
+  </tr>
+  <tr>
+    <td> :         CONSTITUEES             :                               :</td>
+  </tr>
+  <tr>
+    <td> :---------------------------------:-------------------------------:</td>
+  </tr>
+  <tr>
+    <td> : 1° Créances sur le Trésor :     :                               :</td>
+  </tr>
+  <tr>
+    <td> :   a) Créances sur le Trésor     : Frais de timbre de dimension  :</td>
+  </tr>
+  <tr>
+    <td> :    proprement dites.            :  du nantissement constitué au :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  profit du Trésor.            :</td>
+  </tr>
+  <tr>
+    <td> :                                 : Frais de signification de ce  :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  nantissement au comptable    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  payeur par huissier de       :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  justice.                     :</td>
+  </tr>
+  <tr>
+    <td> :                                 :                               :</td>
+  </tr>
+  <tr>
+    <td> :   b) Dépôts de fonds dans les  : Frais de timbre de dimension  :</td>
+  </tr>
+  <tr>
+    <td> :    trésoreries générales.       :  de l'engagement souscrit par :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  le contribuable au profit du :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  Trésor.                      :</td>
+  </tr>
+  <tr>
+    <td> :                                 :                               :</td>
+  </tr>
+</tbody></table>
+
+<table>
+  <tbody><tr>
+    <td> : 2° Cautionnement                : Frais de timbre de dimension  :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  de l'acte sous seing privé.  :</td>
+  </tr>
+  <tr>
+    <td> :                                 : Rémunération demandée par la  :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  caution, dans une limite     :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  fixée par arrêté.            :</td>
+  </tr>
+  <tr>
+    <td> :                                 : Le cas échéant, frais de      :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  constitution de garanties    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  au profit de la caution :    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  les frais à rembourser ne    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  peuvent pas excéder ceux qui :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  auraient été exposés si les  :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  garanties avaient été        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  constituées au profit du     :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  Trésor.                      :</td>
+  </tr>
+  <tr>
+    <td> :                                 :                               :</td>
+  </tr>
+</tbody></table>
+
+<table>
+  <tbody><tr>
+    <td>:                                 :                               :</td>
+  </tr>
+  <tr>
+    <td> : 3° Valeurs mobilières :         :                               :</td>
+  </tr>
+  <tr>
+    <td> :   a) Dans tous les cas  ...     : Frais de l'acte de            :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  nantissement, s'il s'agit    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  de valeurs au porteur.       :</td>
+  </tr>
+  <tr>
+    <td> :                                 :                               :</td>
+  </tr>
+  <tr>
+    <td> :   b) Titres déposés à la caisse : Frais d'envoi des titres à    :</td>
+  </tr>
+  <tr>
+    <td> :    du comptable chargé du       :  la trésorerie générale.      :</td>
+  </tr>
+  <tr>
+    <td> :    recouvrement.                :                               :</td>
+  </tr>
+  <tr>
+    <td> :                                 :                               :</td>
+  </tr>
+  <tr>
+    <td> :   c) Titres déposés dans un     : Frais réclamés par            :</td>
+  </tr>
+  <tr>
+    <td> :    établissement de crédit.     : l'établissement de crédit     :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  (droit de garde, frais de    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  transport des titres de      :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  l'agence au lieu de          :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  conservation).               :</td>
+  </tr>
+</tbody></table>
+
+<table>
+  <tbody><tr>
+    <td>:  4° Marchandises déposées dans  : Frais de magasinage, débours  :</td>
+  </tr>
+  <tr>
+    <td> :   des magasins agréés par       :  (prime d'assurance,          :</td>
+  </tr>
+  <tr>
+    <td> :   l'Etat et faisant l'objet     :  d'incendie). Timbre des      :</td>
+  </tr>
+  <tr>
+    <td> :   d'un warrant endossé à        :  effets de commerce auquel    :</td>
+  </tr>
+  <tr>
+    <td> :   l'ordre du Trésor.            :  est soumis le warrant.       :</td>
+  </tr>
+  <tr>
+    <td> :                                 :                               :</td>
+  </tr>
+</tbody></table>
+
+<table>
+  <tbody><tr>
+    <td>:  5° Affectations hypothécaires. : Frais de timbre du contrat    :</td>
+  </tr>
+  <tr>
+    <td> :                                 : de constitution d'hypothèque, :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  émoluments du notaire        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  rédacteur de l'acte.         :</td>
+  </tr>
+  <tr>
+    <td> :                                 : Droits d'enregistrement de    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  l'acte. Salaire du           :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  conservateur des hypothèques.:</td>
+  </tr>
+  <tr>
+    <td> :                                 : En cas de radiation de        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  l'inscription : salaire du   :</td>
+  </tr>
+  <tr>
+    <td> :                                 : conservateur des hypothèques, :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  frais de mainlevée notariée  :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  de l'inscription s'il y a    :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  lieu.                        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :                               :</td>
+  </tr>
+</tbody></table>
+
+<table>
+  <tbody><tr>
+    <td>:  6° Nantissement de fonds de    : Frais de timbre du contrat    :</td>
+  </tr>
+  <tr>
+    <td> :   commerce.                     : de nantissement. Droit        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  d'enregistrement de l'acte.  :</td>
+  </tr>
+  <tr>
+    <td> :                                 : Frais d'inscription et        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  salaire du greffier du       :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  tribunal de commerce.        :</td>
+  </tr>
+  <tr>
+    <td> :                                 : En cas de radiation de        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  l'inscription : frais de     :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  radiation, salaire du        :</td>
+  </tr>
+  <tr>
+    <td> :                                 :  greffier.                    :</td>
+  </tr>
+  <tr>
+    <td> :=================================:===============================:</td>
+  </tr>
+</tbody></table>
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: CGI R208-5
+	  - TXT_ASSOCIE: CGI R208-6
+
+	**Anciens textes**:
+
+	  - CGIAN2 398
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. A208-1 (V)
+
+
 ###### Article R*208-5
 
 Les frais sont remboursés en totalité si le contribuable a obtenu la décharge totale des impositions contestées.
@@ -13818,285 +14115,6 @@ Ils sont payés d'office en même temps que les sommes remboursées par le compt
 	  - Décret n°81-860 1981-09-15
 
 
-###### Article R*208-4
-
-Font l'objet d'un remboursement les frais suivants :
-
-<table>
-  <tbody><tr>
-    <td> :=================================:===============================:</td>
-  </tr>
-  <tr>
-    <td> :   NATURE DES GARANTIES          :      NATURE DES FRAIS         :</td>
-  </tr>
-  <tr>
-    <td> :         CONSTITUEES             :                               :</td>
-  </tr>
-  <tr>
-    <td> :---------------------------------:-------------------------------:</td>
-  </tr>
-  <tr>
-    <td> : 1° Créances sur le Trésor :     :                               :</td>
-  </tr>
-  <tr>
-    <td> :   a) Créances sur le Trésor     : Frais de timbre de dimension  :</td>
-  </tr>
-  <tr>
-    <td> :    proprement dites.            :  du nantissement constitué au :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  profit du Trésor.            :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Frais de signification de ce  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  nantissement au comptable    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  payeur par huissier de       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  justice.                     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> :   b) Dépôts de fonds dans les   : Frais de timbre de dimension  :</td>
-  </tr>
-  <tr>
-    <td> :    trésoreries générales.       :  de l'engagement souscrit par :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  le contribuable au profit du :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  Trésor.                      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td> : 2° Cautionnement                : Frais de timbre de dimension  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  de l'acte sous seing privé.  :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Rémunération demandée par la  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  caution, dans une limite     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  fixée par arrêté.            :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Le cas échéant, frais de      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  constitution de garanties    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  au profit de la caution :    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  les frais à rembourser ne    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  peuvent pas excéder ceux qui :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  auraient été exposés si les  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  garanties avaient été        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  constituées au profit du     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  Trésor.                      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> : 3° Valeurs mobilières :         :                               :</td>
-  </tr>
-  <tr>
-    <td> :   a) Dans tous les cas  ...     : Frais de l'acte de            :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  nantissement, s'il s'agit    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  de valeurs au porteur.       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> :   b) Titres déposés à la caisse : Frais d'envoi des titres à    :</td>
-  </tr>
-  <tr>
-    <td> :    du comptable chargé du       :  la trésorerie générale.      :</td>
-  </tr>
-  <tr>
-    <td> :    recouvrement.                :                               :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-  <tr>
-    <td> :   c) Titres déposés dans une    : Frais réclamés par la banque  :</td>
-  </tr>
-  <tr>
-    <td> :    banque.                      :  (droit de garde, frais de    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  transport des titres de      :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'agence au lieu de          :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  conservation).               :</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:  4° Marchandises déposées dans  : Frais de magasinage, débours  :</td>
-  </tr>
-  <tr>
-    <td> :   des magasins agréés par       :  (prime d'assurance,          :</td>
-  </tr>
-  <tr>
-    <td> :   l'Etat et faisant l'objet     :  d'incendie). Timbre des      :</td>
-  </tr>
-  <tr>
-    <td> :   d'un warrant endossé à        :  effets de commerce auquel    :</td>
-  </tr>
-  <tr>
-    <td> :   l'ordre du Trésor.            :  est soumis le warrant.       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:  5° Affectations hypothécaires. : Frais de timbre du contrat    :</td>
-  </tr>
-  <tr>
-    <td> :                                 : de constitution d'hypothèque, :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  émoluments du notaire        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  rédacteur de l'acte.         :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Droits d'enregistrement de    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'acte. Salaire du           :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  conservateur des hypothèques.:</td>
-  </tr>
-  <tr>
-    <td> :                                 : En cas de radiation de        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'inscription : salaire du   :</td>
-  </tr>
-  <tr>
-    <td> :                                 : conservateur des hypothèques, :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  frais de mainlevée notariée  :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  de l'inscription s'il y a    :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  lieu.                        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :                               :</td>
-  </tr>
-</tbody></table>
-
-<table>
-  <tbody><tr>
-    <td>:  6° Nantissement de fonds de    : Frais de timbre du contrat    :</td>
-  </tr>
-  <tr>
-    <td> :   commerce.                     : de nantissement. Droit        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  d'enregistrement de l'acte.  :</td>
-  </tr>
-  <tr>
-    <td> :                                 : Frais d'inscription et        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  salaire du greffier du       :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  tribunal de commerce.        :</td>
-  </tr>
-  <tr>
-    <td> :                                 : En cas de radiation de        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  l'inscription : frais de     :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  radiation, salaire du        :</td>
-  </tr>
-  <tr>
-    <td> :                                 :  greffier.                    :</td>
-  </tr>
-  <tr>
-    <td> :=================================:===============================:</td>
-  </tr>
-</tbody></table>
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI R208-5
-	  - TXT_ASSOCIE: CGI R208-6
-
-	**Anciens textes**:
-
-	  - CGIAN2 398
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. A208-1 (V)
-
-
 ### LES DEGREVEMENTS D'OFFICE.
 
 ###### Article R*211-1
@@ -14661,6 +14679,58 @@ présentes dispositions.
 	  - Livre des procédures fiscales - art. A277-1 (V)
 
 
+###### Article A277-3
+
+Les titres déposés sont remis au comptable qui a effectué le dépôt, sur sa demande et contre quittance ou récépissé
+descriptif. Dans le cas où la demande de retrait porte sur la totalité des titres décrits dans un récépissé, elle est
+accompagnée de ce récépissé dûment déchargé.
+
+La quittance ou le récépissé constatant la remise du titre au comptable libère définitivement l'établissement de crédit.
+
+Les frais de garde, de timbre et tous autres occasionnés par le dépôt sont à la charge de la personne qui a remis les titres
+en garantie. Toutefois, le montant de ces frais est avancé à l'établissement de crédit par le Trésor si l'établissement de
+crédit ne peut en obtenir le remboursement de la part du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Anciens textes**:
+
+	  - CGIAN4 207 E (AL. 2)
+	  - CGIAN4 207 F
+	  - CGIAN4 207 I
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
+###### Article A277-4
+
+Les arrérages des titres sont portés par l'établissement de crédit du contribuable qui les a remis en garantie.
+
+Toutefois, les arrérages qui viennent à échoir postérieurement à la date de réception par l'établissement de crédit de la
+demande de remise des titres présentée par le comptable sont versés à ce comptable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Anciens textes**:
+
+	  - CGIAN4 207 E (AL. 1)
+	  - CGIAN4 207 G
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+
 ###### Article A277-5
 
 En cas de remboursement d'un des titres déposés, le contribuable peut être autorisé à disposer du montant du remboursement, à
@@ -14671,6 +14741,35 @@ charge par lui de présenter une nouvelle garantie de valeur au moins égale à 
 	**Anciens textes**:
 
 	  - CGIAN4 207 H
+
+
+###### Article A277-6
+
+Les titres peuvent être restitués par l'établissement de crédit à la personne nommée au bordereau de dépôt, contre production
+du ou des récépissés de dépôt remis au comptable, revêtus d'une mention constatant que ces titres ont cessé d'être affectés à
+la garantie du Trésor ou, en cas de désaffectation partielle, au vu d'une lettre adressée par le comptable à l'établissement
+de crédit.
+
+Dans ce dernier cas, il est fait mention de la sortie partielle sur le récépissé qui, à cet effet, est communiqué à
+l'établissement de crédit par le comptable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Anciens textes**:
+
+	  - CGIAN4 207 J
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
 ## LE CONTROLE DE L'IMPOT
@@ -14732,58 +14831,6 @@ contribuable l'acceptation des dispositions prévues aux articles A. 277-2 à A.
 	  - CGIAN4 207 A
 	  - CGIAN4 207 B
 	  - CGIAN4 207 C (4 PREMIERES LIGNES, DERNIERE PHRASE)
-
-
-###### Article A277-3
-
-Les titres déposés sont remis au comptable qui a effectué le dépôt, sur sa demande et contre quittance ou récépissé
-descriptif. Dans le cas où la demande de retrait porte sur la totalité des titres décrits dans un récépissé, elle est
-accompagnée de ce récépissé dûment déchargé.
-
-La quittance ou le récépissé constatant la remise du titre au comptable libère définitivement la banque.
-
-Les frais de garde, de timbre et tous autres occasionnés par le dépôt sont à la charge de la personne qui a remis les titres
-en garantie. Toutefois, le montant de ces frais est avancé à la banque par le Trésor si la banque ne peut en obtenir le
-remboursement de la part du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN4 207 E (AL. 2)
-	  - CGIAN4 207 F
-	  - CGIAN4 207 I
-
-
-###### Article A277-4
-
-Les arrérages des titres sont portés par la banque au crédit du contribuable qui les a remis en garantie.
-
-Toutefois, les arrérages qui viennent à échoir postérieurement à la date de réception par la banque de la demande de remise
-des titres présentée par le comptable sont versés à ce comptable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN4 207 E (AL. 1)
-	  - CGIAN4 207 G
-
-
-###### Article A277-6
-
-Les titres peuvent être restitués par la banque à la personne nommée au bordereau de dépôt, contre production du ou des
-récépissés de dépôt remis au comptable, revêtus d'une mention constatant que ces titres ont cessé d'être affectés à la
-garantie du Trésor ou, en cas de désaffectation partielle, au vu d'une lettre adressée par le comptable à la banque.
-
-Dans ce dernier cas, il est fait mention de la sortie partielle sur le récépissé qui, à cet effet, est communiqué à la banque
-par le comptable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN4 207 J
 
 
 ###### Article A277-7
