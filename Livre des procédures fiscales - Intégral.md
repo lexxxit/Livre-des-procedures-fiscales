@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-10-09
+Version Consolidée au 2004-11-01
 
 # Partie législative
 
@@ -18756,40 +18756,6 @@ l'obligation de la personne qui y est désignée.
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
-
-
-###### Article R254-1
-
-En matière d'impôt sur les sociétés, les sommes dues au titre des acomptes et du solde de liquidation de l'impôt et non
-payées à l'échéance fixée par la loi, sont réclamées à la société en vertu d'un titre de perception rendu exécutoire par le
-trésorier-payeur général.
-
-Par dérogation aux dispositions du premier alinéa, les sommes dues par les personnes ou groupements de personnes de droit ou
-de fait mentionnés à l'article 344-0 A de l'annexe III au code général des impôts sont recouvrées par voie de rôle.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 344-0 A
-
-	**Anciens textes**:
-
-	  - CGIAN3 364 2 (3 dernières lignes)
-	  - CGIAN3 365 4 (3 dernières lignes)
-
-	**Modifié par**:
-
-	  - Décret n°2001-1261 du 21 décembre 2001 - art. 1 () JORF 28 décembre 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2004-1152 du 29 octobre 2004 - art. 2 () JORF 30 octobre 2004 en vigueur le 1er novembre 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-	  - HISTO: Edition du 31 mars 2002
 
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
