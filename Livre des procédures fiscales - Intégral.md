@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1990-01-01
+Version Consolidée au 1990-01-13
 
 # Partie législative
 
@@ -15688,23 +15688,23 @@ et qui doivent être précédés de la mention "Supplément" ainsi que, le cas �
 
 #### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office
 
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.
+##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux
 
 ###### Article A208-1
 
-Lorsqu'une réclamation contentieuse est admise en totalité ou en partie, la limite prévue par l'article R208-4-2° dans
-laquelle est remboursée au réclamant la rémunération demandée par la caution est, en taux annuel, de 1 % de l'impôt garanti.
+Lorsqu'une réclamation contentieuse est admise en totalité ou en partie, la limite prévue au 2° de l'article R. 208-4 dans
+laquelle est remboursée au réclamant la rémunération demandée par la caution est, en taux annuel, de 2 % de l'impôt garanti.
 Elle est calculée en fonction du temps effectivement écoulé de la constitution à la mainlevée de la caution.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 82-882 1982-10-15
+	  - Arrêté 1990-01-05 art. 1 JORF 13 janvier 1990
 
 	**Cite**:
 
-	  - CGI R208-4 2°
+	  - Livre des procédures fiscales - art. R*208-4 (V)
 
 
 #### Chapitre II : Les procédures pénales
