@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-12-31
+Version Consolidée au 1987-01-01
 
 # Partie législative
 
@@ -1287,6 +1287,87 @@ vérifications.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+##### C : Droit de visite
+
+###### Article L38
+
+1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du
+code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents
+de l'administration des impôts, habilités à cet effet par le directeur général des impôts, peuvent effectuer des visites en
+tous lieux, même privés, où les pièces et documents se rapportant à ces infractions sont susceptibles d'être détenus et
+procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
+
+2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du président du tribunal de grande
+instance dans le ressort duquel sont situés les locaux à visiter.
+
+L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale ; ce
+pourvoi n'est pas suspensif.
+
+Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
+doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
+
+Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
+
+La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
+
+Il peut se rendre dans les locaux pendant l'intervention.
+
+A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+
+3. La visite ne peut être commencée avant six heures ni après vingt et une heures ; dans les lieux ouverts au public elle
+peut également être commencée pendant les heures d'ouverture de l'établissement. Elle est effectuée en présence de l'occupant
+des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en
+dehors des personnes relevant de son autorité ou de celle de l'administration des impôts.
+
+Les agents de l'administration des impôts mentionnés au 1 ci-dessus, l'occupant des lieux ou son représentant et l'officier
+de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
+
+L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
+dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
+
+4. Le procès-verbal de visite relatant les modalités et le déroulement de l'opération est dressé sur-le-champ par les agents
+de l'administration des impôts. Un inventaire des pièces et documents saisis lui est annexé. Le procès-verbal et l'inventaire
+sont signés par les agents de l'administration des impôts et par l'officier de police judiciaire ainsi que par les personnes
+mentionnées au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en est faite au procès-verbal.
+
+Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des
+lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
+police judiciaire ; l'inventaire est alors établi.
+
+5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a
+délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant.
+
+Les pièces et documents saisis sont restitués à l'occupant des lieux après exécution de la transaction consécutive à la
+rédaction du procès-verbal de constatation des infractions prévu par le a de l'article L. 212 du présent livre ; en cas de
+poursuites judiciaires, leur restitution est autorisée par l'autorité judiciaire compétente.
+
+6. Les informations recueillies ne peuvent être exploitées dans le cadre d'une procédure de vérification de comptabilité ou
+de contrôle de revenu qu'après restitution des pièces ou de leur reproduction et mise en oeuvre des procédures de contrôle
+visées aux premier et deuxième alinéas de l'article L. 47 du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
+
+	**Cité par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P)
+	  - Loi n°2008-776 du 4 août 2008 - art. 164 (V)
+	  - Code général des impôts, CGI. - art. 1735 quater (V)
+	  - Livre des procédures fiscales - art. L10-0 AA (V)
+	  - Livre des procédures fiscales - art. L80 H (V)
+	  - Livre des procédures fiscales - art. R*135 S-2 (V)
+
+	**Cite**:
+
+	  - CGI L212
+	  - CGI L47
+	  - CODE DE PROCEDURE PENALE - art. 58 (M)
+	  - Code de procédure pénale 56 al. 3
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
@@ -9161,185 +9242,6 @@ matière de circulation.
 	  - Livre des procédures fiscales - art. R24-4 (V)
 
 
-###### Article L38
-
-Pour rechercher les infractions à la législation des contributions indirectes et aux législations édictant les mêmes règles
-en matière de procédure et de recouvrement, les agents de l'administration des impôts disposent également d'un droit de
-visite dans les locaux autres que ceux désignés à l'article L. 26. Dans ce cas, l'exercice de ce droit est soumis aux
-formalités définies aux articles L. 39 à L. 43.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P)
-	  - Loi n°2008-776 du 4 août 2008 - art. 164 (V)
-	  - Code général des impôts, CGI. - art. 1735 quater (V)
-	  - Livre des procédures fiscales - art. L10-0 AA (V)
-	  - Livre des procédures fiscales - art. L80 H (V)
-	  - Livre des procédures fiscales - art. R*135 S-2 (V)
-
-	**Anciens textes**:
-
-	  - CGI 1855 (AL. 1 P.)
-	  - Loi n°1816-04-28 ART. 237
-
-	**Cite**:
-
-	  - CGI L26
-	  - CGI L39 A L43
-
-
-###### Article L39
-
-En cas de soupçon de fraude, les agents de l'administration des impôts peuvent faire des visites à l'intérieur des locaux non
-exclusivement réservés à l'habitation.
-
-Les visites ne peuvent avoir lieu que sur un ordre de visite signé d'un agent ayant au moins le grade d'inspecteur principal
-qui rend compte des motifs au directeur des services fiscaux. Les agents doivent se faire assister du maire ou de l'un de ses
-adjoints, ou du commissaire de police, ou d'un autre officier de police judiciaire ; ceux-ci sont tenus de déférer à la
-réquisition qui leur est faite et qui est reproduite en tête du procès-verbal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1855 (AL. 1)
-	  - CGI 1858 (AL. 1)
-	  - Loi n°1816-04-28 ART. 237
-	  - Loi n°1905-08-06 ART. 14
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-
-###### Article L40
-
-L'ordre de visite doit, sous peine de nullité de la procédure, indiquer sommairement les motifs sur lesquels l'administration
-fonde son soupçon de fraude.
-
-Une dénonciation anonyme ne peut servir de base à un soupçon de fraude.
-
-Avant le début des opérations de visite l'ordre doit être visé par l'officier de police judiciaire qui accompagne les agents
-et être lu à l'intéressé ou à son représentant, qui est invité à le contresigner.
-
-En cas de refus de contreseing, les opérations ont néanmoins lieu et le refus est inscrit au procès-verbal.
-
-Si l'intéressé ou son représentant en fait la demande, une copie de l'ordre de visite lui est remise dans les trois jours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1856
-	  - CGI 1858 (AL. 1)
-	  - Loi n°1905-08-06 ART. 15
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-
-###### Article L41
-
-Les visites effectuées dans les locaux servant exclusivement à l'habitation pour la recherche et la constatation des
-infractions à la réglementation économique ou fiscale, doivent être préalablement autorisées par une ordonnance du président
-du tribunal de grande instance, du juge d'instruction ou du juge du tribunal d'instance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1858 (AL. 2)
-	  - Loi n°77-1453 1977-12-29 ART. 17 (AL. 1 1RE PHRASE)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: CGI L42
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-
-###### Article L42
-
-Restent toutefois soumises aux règles fixées par les articles L. 39 et L. 40 les visites dans les locaux exclusivement
-réservés à l'habitation ayant pour objet la découverte :
-
-1° Des fraudes portant sur les tabacs manufacturés ;
-
-2° Des fraudes relatives au sucrage ainsi qu'à la fabrication, à la détention, à la vente ou à la mise en vente des vins
-artificiels ;
-
-3° Des distilleries clandestines dans les villes ayant une population agglomérée de 4.000 habitants et au-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1859
-	  - Loi n°1907-01-30 ART. 21
-	  - Loi n°76-448 1976-05-24 ART. 18 I
-
-	**Cite**:
-
-	  - CGI L39
-	  - CGI L40
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-
-###### Article L43
-
-Après avoir effectué une visite domiciliaire, les agents de l'administration des impôts doivent remettre en état les locaux
-visités.
-
-L'officier de police judiciaire qui les accompagne lors des visites prévues par l'article L. 39, porte les protestations
-éventuelles et leurs motifs sur un document dont il remet une copie à l'intéressé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1857
-	  - Loi n°1905-08-06 ART. 16
-
-	**Cite**:
-
-	  - CGI L39
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-
-###### Article L44
-
-Les marchandises transportées en fraude qui, au moment d'être saisies, seraient introduites dans un local d'habitation pour
-les soustraire aux agents de l'administration des impôts, peuvent être suivies par ces agents sans qu'ils soient tenus, dans
-ce cas, d'observer les formalités prévues aux articles L. 39 ou L. 41.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1855 (AL. 4)
-	  - Loi n°1816-04-28 ART. 237
-
-	**Cite**:
-
-	  - CGI L39
-	  - CGI L41
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-
 #### PROCEDURES DE REDRESSEMENT.
 
 ###### Article L62
@@ -9529,55 +9431,6 @@ régularisé sa situation dans les trente jours de la notification d'une premiè
 	  - Livre des procédures fiscales - art. L21 B (V)
 	  - Livre des procédures fiscales - art. L66 (V)
 	  - Livre des procédures fiscales - art. L76 (VD)
-
-
-###### Article L71
-
-Tout contribuable dont les dépenses personnelles, ostensibles ou notoires, augmentées de ses revenus en nature, dépassent le
-total exonéré et qui n'a pas fait de déclaration ou dont le revenu déclaré, après déduction des charges énumérées à l'article
-156 du code général des impôts, est inférieur au total des mêmes dépenses et revenus en nature, est taxé d'office à l'impôt
-sur le revenu.
-
-Dans ce cas, la base d'imposition est, à défaut d'éléments certains permettant d'attribuer au contribuable un revenu
-supérieur, fixée à une somme égale au montant des dépenses et des revenus en nature diminué du montant des revenus exonérés
-de l'impôt sur le revenu. Le contribuable ne peut faire échec à cette évaluation en faisant valoir qu'il aurait utilisé des
-capitaux ou réalisé des gains en capital ou qu'il recevrait, périodiquement ou non, des libéralités d'un tiers ou que
-certains de ses revenus devraient normalement faire l'objet d'une évaluation forfaitaire.
-
-Avant l'établissement du rôle, l'administration des impôts notifie au contribuable la base de taxation. Le contribuable
-dispose d'un délai de trente jours pour présenter ses observations.
-
-La notification peut être faite après l'établissement du rôle en ce qui concerne les personnes désignées à l'article L. 270
-qui changent fréquemment de lieu de séjour ou qui séjournent dans des locaux d'emprunt ou des locaux meublés.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 156
-	  - CGI L270
-
-	**Anciens textes**:
-
-	  - CGI 180
-	  - Décret n°1934-07-20 ANNEXE ART. 128 3° (LOI 1934-07-06 ART. 13)
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°53-79 1953-02-07 ART. 23 (AL. 2)
-	  - Loi n°54-404 1954-04-10 ART. 33
-	  - Ordonnance 58-1374 1958-12-30 ART. 68 6
-	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
-	  - Loi n°70-1199 1970-12-21 ART. 70
-	  - Loi n°1933-12-23 ART. 5
-	  - Loi n°1941-01-13 ANNEXE I ART. 128 3°
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 82 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987
-
-	**Cité par**:
-
-	  - Décret n°2013-509 du 17 juin 2013 (V)
-	  - Livre des procédures fiscales - art. R* 71-1 (V)
 
 
 ###### Article L72 A
