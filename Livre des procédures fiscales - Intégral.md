@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-01-01
+Version Consolidée au 1982-01-02
 
 # Partie législative
 
@@ -9281,37 +9281,6 @@ compétent.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L552-2 (V)
-
-
-###### Article L278
-
-En ce qui concerne les sommes dont le recouvrement incombe aux comptables de la direction générale des impôts, à concurrence
-de la fraction contestée des droits, le paiement des amendes, pénalités, droits supplémentaires et tous accessoires n'est
-demandé qu'après qu'une décision définitive ait été prise sur la réclamation prévue par l'article L. 277.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1953 (AL. 1 1RE PHRASE 2EME MEMBRE DE PHRASE)
-	  - Loi n°63-1316 1963-12-27 ART. 1 2 (AL. 2, AL. 3)
-
-	**Cite**:
-
-	  - CGI L277
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°81-1179 1981-12-31 ART. 9 FINANCES RECTIFICATIVE POUR 1981 :
-	  - SPEC_APPLI: modifie l'article L278 du livre des procédures fiscales
-
-	**Abrogé par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 9 () JORF 1 JANVIER 1982
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 396 bis (M)
 
 
 ###### Article L279
