@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-10-27
+Version Consolidée au 1983-01-01
 
 # Partie législative
 
@@ -1501,6 +1501,44 @@ poursuivre aucun rehaussement en soutenant une interprétation différente.
 
 ##### Section I : Définition et étendue du droit de communication
 
+###### Article L82
+
+Les livres, registres, documents ou pièces sur lesquels peut s'exercer le droit de communication de l'administration doivent
+être conservés pendant un délai de six ans à compter de la date de la dernière opération mentionnée sur les livres ou
+registres ou de la date à laquelle les documents ou pièces ont été établis.
+
+Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
+chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
+
+L'obligation prévue aux alinéas précédents est applicable quel que soit le support utilisé pour la conservation des
+documents, y compris lorsqu'il est magnétique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 2002 BIS
+	  - Loi n°63-1316 1963-12-27 ART. 55
+	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 76 ()
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 77 (P)
+
+	**Codifié par**:
+
+	  - Décret n°83-900 1983-10-06
+
+	**Abrogé par**:
+
+	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 286 (M)
+
+
 ##### Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative.
 
 ###### Article L83
@@ -1622,6 +1660,33 @@ et sur les feuilles de présence aux assemblées générales.
 	**Modifié par**:
 
 	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
+
+
+##### Membres de certaines professions non commerciales.
+
+###### Article L86 A
+
+La nature des prestations fournies par l'adhérent d'une association agréée ne peut faire l'objet de demandes de
+renseignements de la part de l'administration des impôts lorsque cet adhérent est membre d'une profession non commerciale
+soumis au secret professionnel en application de l'article 378 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 73 () JORF 30 décembre 1982 date d'entrée en vigueur 1er janvier 1983
+
+	**Codifié par**:
+
+	  - Décret n°83-900 1983-10-06
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 quater G (M)
+
+	**Cite**:
+
+	  - Code pénal 378
 
 
 ##### Institutions et organismes versant des rémunérations ou répartissant des fonds.
@@ -7524,6 +7589,42 @@ la déclaration.
 	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
+### LE DROIT DE CONTROLE DE L'IMPOT
+
+#### MODALITES D'EXERCICE DU CONTROLE DE L'IMPOT.
+
+###### Article L45 B
+
+La réalité de l'affectation à la recherche des dépenses [*effectuées par les entreprises industrielles et commerciales*]
+prises en compte pour la détermination du crédit d'impôt défini à l'article 244 quater B du code général des impôts peut,
+sans préjudice des pouvoirs de contrôle de l'administration des impôts qui demeure seule compétente pour l'application des
+procédures de redressement, être vérifiée par les agents du ministère de la recherche et de l'industrie.
+
+Un décret fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater B
+
+	**Créé par**:
+
+	  - Loi n°82-1126 1982-12-29 ART. 67 V, VI JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
+
+	**Codifié par**:
+
+	  - Décret n°83-900 1983-10-06
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater B (M)
+	  - Code de la recherche - art. L131-2 (Ab)
+	  - Code de la recherche - art. L511-2 (V)
+	  - Livre des procédures fiscales - art. R45 B-1 (V)
+
+
 ### LE DROIT DE COMMUNICATION
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*.
@@ -7534,22 +7635,13 @@ Le droit de communication permet aux agents de l'administration des impôts, pou
 des impôts, d'avoir connaissance des documents mentionnés aux articles L. 83 à L. 96 dans les conditions qui y sont
 précisées.
 
+L'obligation prevue a l'alinea precedent est applicable quel que soit le support utilise pour la conservation des documents,
+y compris lorsqu'il est magnetique.
+
 Ce droit est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des agents des
 administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L83, L84, L85, L86, L87, L88, L89, L90, L91, L92, L93, L94, L95
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
 
 	**Cité par**:
 
@@ -7573,38 +7665,19 @@ administrations chargés du recouvrement des impôts, droits et taxes prévus pa
 	  - Livre des procédures fiscales - art. R*81-4 (P)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
+	**Cite**:
+
+	  - CGI L83, L84, L85, L86, L87, L88, L89, L90, L91, L92, L93, L94, L95
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 75 ()
+
 	**Anciens textes**:
 
 	  - Loi n°1920-07-31 ART. 31
 	  - Loi n°1941-01-03 ANNEXE I ART. 151
 	  - Loi n°45-195 1945-12-31 ART. 30
-
-
-###### Article L82
-
-Les livres, registres, documents ou pièces sur lesquels peut s'exercer le droit de communication de l'administration doivent
-être conservés pendant un délai de six ans à compter de la date de la dernière opération mentionnée sur les livres ou
-registres ou de la date à laquelle les documents ou pièces ont été établis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2002 BIS
-	  - Loi n°63-1316 1963-12-27 ART. 55
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 286 (M)
 
 
 ###### Article L86
@@ -8474,33 +8547,6 @@ construction déposée, soit le procès-verbal constatant une infraction a été
 	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
 
 
-#### DISPOSITIONS APPLICABLES AUX IMPOTS DIRECTS ET AUX TAXES SUR LE CHIFFRE D'AFFAIRES.
-
-###### Article L185
-
-Les délais de reprise fixés par les articles L. 169 et L. 176 sont réduits de deux ans en ce qui concerne les erreurs de
-droit commises en matière d'impôts directs, de taxes sur le chiffre d'affaires et de taxes assimilées, par les centres de
-gestion agréés ou les associations agréées des professions libérales dans les déclarations fiscales de leurs adhérents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1966 A
-	  - CGI 1968 A
-	  - Loi n°74-1114 1974-12-27 ART. 1 V
-	  - Loi n°76-1232 1976-12-29 ART. 64 VI
-
-	**Cite**:
-
-	  - CGI L169
-	  - CGI L176
-
-	**Abrogé par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 72 (V)
-
-
 #### INTERRUPTION DE LA PRESCRIPTION.
 
 ###### Article L189
@@ -8537,6 +8583,11 @@ remise d'un avis de vérification [*formalité obligatoire*].
 Cet avis doit préciser les années soumises à vérification et mentionner expressément, sous peine de nullité de la procédure,
 que le contribuable a la faculté de se faire assister par un conseil de son choix.
 
+en cas de controle inopine tendant a la constatation materielle des elements physiques de l'exploitation ou de l'existence et
+de l'etat des documents comptables, l'avis de verification de comptabilite est remis au debut des operations de constatations
+materielles. L'examen au fond des documents comptables ne peut commencer qu'a l'issue d'un delai raisonnable permettant au
+contribuable de se faire assister par un conseil.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8544,6 +8595,10 @@ que le contribuable a la faculté de se faire assister par un conseil de son cho
 	  - CGI 1649 septies
 	  - Loi n°55-349 1955-04-02 ART. UNIQUE II 1°, IV
 	  - Loi n°77-1453 du 29 décembre 1977 - art. 4, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°82-1126 du 29 décembre 1982 - art. 74 () JORF 30 décembre 1982 en vigueur le 1 janvier 1983
 
 	**Cité par**:
 
@@ -13965,24 +14020,6 @@ e) La saisie des moyens de transports si elle a été pratiquée en garantie de 
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
-
-
-###### Article R213-2
-
-Les procès-verbaux constatant des infractions en matière de droit de timbre des affiches peuvent être établis, en dehors des
-agents de la direction générale des impôts, par les agents des douanes, les officiers de police judiciaire, les gendarmes et
-tous les agents habilités à dresser des procès-verbaux en matière de police de la circulation routière.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN3 313 AJ (AL. 1)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-	  - Décret n°83-900 1983-10-06
 
 
 ### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX
