@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2003-08-31
+Version Consolidée au 2003-09-01
 
 # Partie législative
 
@@ -16850,42 +16850,6 @@ conditions prévues par le code de justice administrative.
 	**Codifié par**:
 
 	  - Décret n°2001-436 2001-05-21
-
-
-###### Article R*200-17
-
-Devant la cour administrative d'appel, les contribuables peuvent, par dérogation aux dispositions du premier alinéa de
-l'article R. 811-7 du code de justice administrative, se faire représenter par un mandataire autre que ceux qui sont
-mentionnés à l'article R. 431-2 de ce même code ; en ce cas, les dispositions de l'article R. 197-4 du titre III du présent
-livre sont applicables.
-
-**Nota:**
-
-NOTA : Le VI de l'article 10 du décret n° 2003-543 du 24 juin 2003 abroge cet article R. 200-17 pour les instances engagées à
-partir du 1er septembre 2003.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R200-17
-	  - Décret n°2003-543 du 24 juin 2003 - art. 10, v. init.
-	  - Code de justice administrative. - art. R811-7 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000 - art. 1 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-	  - Décret n°2000-389 du 4 mai 2000 - art. 3 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-	  - Décret n°2000-389 du 4 mai 2000 - art. 5 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-	  - Décret n°2000-389 du 4 mai 2000 - art. 7 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 2001-05-21
-
-	**Abrogé par**:
-
-	  - Décret n°2003-543 du 24 juin 2003 - art. 10 () JORF 25 juin 2003 en vigueur le 1er septembre 2003
 
 
 ###### Article R*200-18
