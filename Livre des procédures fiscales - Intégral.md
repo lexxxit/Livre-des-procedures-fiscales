@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-05-10
+Version Consolidée au 1988-07-15
 
 # Partie législative
 
@@ -9313,6 +9313,25 @@ civile.
 	  - Nouveau code de procédure civile 658
 
 
+###### Article L260 A
+
+(Voir R 260 A-1)
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1002 1988-10-20
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Cite**:
+
+	  - LPF R260 A-1
+
+
 ##### II : Dispositions particulières aux poursuites exercées par les comptables de la direction générale des impôts.
 
 ###### Article L261
@@ -15099,6 +15118,19 @@ l'article R. 256-6. Elle produit ses effets dans les conditions prévues à l'ar
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
+
+
+##### Section II : Exercice des poursuites
+
+###### Article R*260 A-1
+
+Les biens saisis ne peuvent être vendus qu'après autorisation du receveur des finances ou du trésorier-payeur général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°88-1002 1988-10-20
 
 
 ##### Section III : Mesures particulières
