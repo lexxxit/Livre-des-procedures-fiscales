@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-03-27
+Version Consolidée au 2004-06-01
 
 # Partie législative
 
@@ -756,24 +756,13 @@ alinéas de l'article L. 47.
 En ce qui concerne les droits d'enregistrement et la taxe de publicité foncière ou la taxe sur la valeur ajoutée lorsqu'elle
 est due au lieu et place de ces droits ou taxe, l'administration des impôts peut rectifier le prix ou l'évaluation d'un bien
 ayant servi de base à la perception d'une imposition lorsque ce prix ou cette évaluation paraît inférieur à la valeur vénale
-réelle des biens transmis ou désignés dans les actes ou déclarations.
+réelle des biens transmis ou désignés dans les actes ou déclarations. 
 
-La rectification correspondante est effectuée suivant la procédure de redressement contradictoire prévue à l'article L. 55,
+La rectification correspondante est effectuée suivant la procédure de rectification contradictoire prévue à l'article L. 55,
 l'administration étant tenue d'apporter la preuve de l'insuffisance des prix exprimés et des évaluations fournies dans les
 actes ou déclarations.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 667 1
-	  - Décret n°48-1986 1948-12-09 ART. 206 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Loi n°63-1316 1963-12-27 ART. 24 I
-	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81 VI Finances pour 1987 JORF 31 décembre 1986
 
 	**Cité par**:
 
@@ -783,22 +772,17 @@ actes ou déclarations.
 	  - Livre des procédures fiscales - art. L18 (V)
 	  - Livre des procédures fiscales - art. L57 (V)
 
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
-
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
-	  - TXT_ASSOCIE: Jurisprudence 1998-09-24 13l-11-98
-	  - TXT_ASSOCIE: Jurisprudence 1999-12-27 13J-2-99
-	  - TXT_ASSOCIE: Jurisprudence 1999-12-27 7C-5-99
-	  - TXT_ASSOCIE: Jurisprudence 2000-05-24 13O-3-00
-	  - TXT_ASSOCIE: Jurisprudence 2000-05-26 13L-5-00
+	  - HISTO: Edition du 31 août 2004
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L55 (M)
+	  - Livre des procédures fiscales - art. L55 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### 3° : Contrôle des déclarations de succession
@@ -875,29 +859,19 @@ l'administration tant que celle-ci n'a pas fait juger qu'elle n'avait pas d'exis
 ###### Article L21
 
 Si les justifications produites à la suite des demandes prévues à l'article L. 20 sont estimées insuffisantes,
-l'administration peut rectifier les déclarations de succession en se conformant à la procédure de redressement contradictoire
-prévue à l'article L. 55.
+l'administration peut rectifier les déclarations de succession en se conformant à la procédure de rectification
+contradictoire prévue à l'article L. 55.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 771 (2ème PHRASE)
-	  - Loi n°63-254 1963-03-15 ART. 18 III
-	  - Loi n°63-1316 du 27 décembre 1963 - art. 24, v. init.
-
 	**Cite**:
 
-	  - CGI L20
-	  - CGI L55
+	  - Livre des procédures fiscales - art. L20 (V)
+	  - Livre des procédures fiscales - art. L55 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### 4° : Contrôle des ventes publiques de meubles
@@ -971,7 +945,7 @@ délai de réponse qui ne peut être inférieur à deux mois.
 
 En l'absence de réponse ou si les justifications prévues à l'article 885 Z du code général des impôts ou demandées en
 application du premier alinéa sont estimées insuffisantes, l'administration peut rectifier les déclarations d'impôt de
-solidarité sur la fortune en se conformant à la procédure de redressement contradictoire prévue à l'article L. 55.
+solidarité sur la fortune en se conformant à la procédure de rectification contradictoire prévue à l'article L. 55.
 
 **Liens relatifs à cet article**
 
@@ -982,16 +956,16 @@ solidarité sur la fortune en se conformant à la procédure de redressement con
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-
-	**Modifié par**:
-
-	  - Loi - art. 18 () JORF 31 décembre 1998
+	  - HISTO: Edition du 31 août 2004
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L180 (V)
 	  - Livre des procédures fiscales - art. L181-0 A (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicite foncière et à l'impôt de solidarité sur la fortune
@@ -1709,9 +1683,9 @@ le contribuable qu'ils vérifient.
 
 ###### Article L45 A
 
-Lorsqu'une vérification de comptabilité ou une procédure de redressement requiert des connaissances techniques particulières,
-l'administration peut faire appel aux conseils techniques d'agents de l'Etat ou des établissements publics figurant sur une
-liste arrêtée par le ministre chargé du budget.
+Lorsqu'une vérification de comptabilité ou une procédure de rectification requiert des connaissances techniques
+particulières, l'administration peut faire appel aux conseils techniques d'agents de l'Etat ou des établissements publics
+figurant sur une liste arrêtée par le ministre chargé du budget.
 
 Sauf pour l'appréciation du caractère brevetable d'une invention mentionnée au 1 de l'article 39 terdecies du code général
 des impôts, le présent article n'est applicable qu'aux entreprises ainsi que, le cas échéant, à leurs mères et filiales, dont
@@ -1728,37 +1702,31 @@ Les agents ainsi désignés sont tenus au secret professionnel dans les termes d
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
-	  - TXT_ASSOCIE: Instruction 2001-02-15 13L-3-01
-	  - SPEC_APPLI: Ordonnance n°2000-916 du 19 septembre 2000 - art. 19 (V)
+	  - HISTO: Edition du 31 août 2004
 
-	**Modifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 6 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 99 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L198 A (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L45 B
 
 La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt défini à
 l'article 244 quater B du code général des impôts peut, sans préjudice des pouvoirs de contrôle de l'administration des
-impôts qui demeure seule compétente pour l'application des procédures de redressement, être vérifiée par les agents du
-ministère chargé de la recherche et de la technologie.
+impôts qui demeure seule compétente pour l'application des procédures de rectification, être vérifiée par les agents du
+ministère chargé de la recherche et de la technologie. 
 
 Un décret fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quater B
-
-	**Codifié par**:
-
-	  - Décret n°85-1008 1985-09-24
 
 	**Cité par**:
 
@@ -1766,6 +1734,10 @@ Un décret fixe les conditions d'application du présent article.
 	  - Code de la recherche - art. L131-2 (Ab)
 	  - Code de la recherche - art. L511-2 (V)
 	  - Livre des procédures fiscales - art. R45 B-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L45 C
@@ -1797,7 +1769,7 @@ régularisation des déductions opérées indûment sur les taxes payées à l'u
 La réalité et le bien-fondé des dépenses de formation exposées par les employeurs au titre du crédit d'impôt formation prévu
 par l'article 244 quater C du code général des impôts peuvent être contrôlés par les agents commissionnés par l'autorité
 administrative de l'Etat chargée de la formation professionnelle, sans préjudice des pouvoirs de contrôle de l'administration
-des impôts qui demeure seule compétente pour l'application des procédures de redressement. 
+des impôts qui demeure seule compétente pour l'application des procédures de rectification.
 
 Un décret fixe les conditions d'application de cet article.
 
@@ -1807,14 +1779,20 @@ Un décret fixe les conditions d'application de cet article.
 
 	  - CGI 244 quater C
 
-	**Créé par**:
-
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 15 (P) JORF 28 décembre 1988
-
 	**Cité par**:
 
 	  - Décret n°89-353 du 5 juin 1989 - art. 1 (V)
 	  - Livre des procédures fiscales - art. R45 D-1 (P)
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°2007-485 du 30 mars 2007 - art. 1 () JORF 31 mars 2007 conséquence de la péremption de l'article 244 quater C
+	  - HISTO: Edition du 1er janvier 2007
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L45 F
@@ -2040,20 +2018,20 @@ d'engager une vérification de comptabilité pour régulariser la situation fisc
 ###### Article L48
 
 A l'issue d'un examen contradictoire de la situation fiscale personnelle au regard de l'impôt sur le revenu ou d'une
-vérification de comptabilité, lorsque des redressements sont envisagés, l'administration doit indiquer, avant que le
-contribuable présente ses observations ou accepte les rehaussements proposés, dans les notifications prévues aux articles L.
-57 et L. 76, le montant des droits, taxes et pénalités résultant de ces redressements. Lorsqu'à un stade ultérieur de la
-procédure de redressement contradictoire l'administration modifie les rehaussements, pour tenir compte des observations et
-avis recueillis au cours de cette procédure, cette modification est portée par écrit à la connaissance du contribuable avant
-la mise en recouvrement, qui peut alors intervenir sans délai.
+vérification de comptabilité, lorsque des rectifications sont envisagées, l'administration doit indiquer, avant que le
+contribuable présente ses observations ou accepte les rehaussements proposés, dans la proposition prévue au premier alinéa de
+l'article L. 57 ou dans la notification mentionnée à l'article L. 76, le montant des droits, taxes et pénalités résultant de
+ces rectifications. Lorsqu'à un stade ultérieur de la procédure de rectification contradictoire l'administration modifie les
+rehaussements, pour tenir compte des observations et avis recueillis au cours de cette procédure, cette modification est
+portée par écrit à la connaissance du contribuable avant la mise en recouvrement, qui peut alors intervenir sans délai.
 
 Pour une société membre d'un groupe mentionné à l'article 223 A du code général des impôts, l'information prévue au premier
 alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forfaitaire annuelle, le précompte et les pénalités
 correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe.
 
 Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des rappels de droits et pénalités consécutifs aux
-redressements ou le bénéfice des dispositions visées au 3° de l'article L. 247, l'administration en informe les contribuables
-dans les mêmes conditions.
+rectifications ou le bénéfice des dispositions visées au 3° de l'article L. 247, l'administration en informe les
+contribuables dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -2066,62 +2044,43 @@ dans les mêmes conditions.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
-
-	**Modifié par**:
-
-	  - Loi - art. 114 () JORF 31 décembre 2003
+	  - HISTO: Edition du 31 août 2004
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R*256-1 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L49
 
 Quand elle a procédé à un examen contradictoire de la situation fiscale personnelle d'une personne physique au regard de
 l'impôt sur le revenu ou à une vérification de comptabilité, l'administration des impôts doit en porter les résultats à la
-connaissance du contribuable, même en l'absence de redressement.
+connaissance du contribuable, même en l'absence de rectification.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1649 quinquies A 5 (1re phrase)
-	  - Loi n°75-1278 du 30 décembre 1975 - art. 67, v. init.
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
 	**Modifié par**:
 
-	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
-	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L50
 
-Lorsqu'elle a procédé à un un examen contradictoire de la situation fiscale personnelle d'un contribuable au regard de
-l'impôt sur le revenu, l'administration des impôts ne peut plus procéder à des redressements pour la même période et pour le
-même impôt, à moins que le contribuable ne lui ait fourni des éléments incomplets ou inexacts.
+Lorsqu'elle a procédé à un examen contradictoire de la situation fiscale personnelle d'un contribuable au regard de l'impôt
+sur le revenu, l'administration des impôts ne peut plus procéder à des rectifications pour la même période et pour le même
+impôt, à moins que le contribuable ne lui ait fourni des éléments incomplets ou inexacts.
 
-Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A (1).
-
-**Nota:**
-
-(1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en vigueur de la loi.
+Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A.
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-
-	**Modifié par**:
-
-	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
-	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
+	  - HISTO: Edition du 31 août 2004
 
 	**Cité par**:
 
@@ -2130,6 +2089,10 @@ Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L188 A (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L51
@@ -2338,38 +2301,34 @@ des conjoints ou notifiés à l'un d'eux sont opposables de plein droit à l'aut
 
 ###### Article L54 B
 
-La notification d'une proposition de redressement doit mentionner , sous peine de nullité, que le contribuable a la faculté
-de se faire assister d'un conseil de son choix pour discuter la proposition de redressement ou pour y répondre.
+La notification d'une proposition de rectification doit mentionner, sous peine de nullité, que le contribuable a la faculté
+de se faire assister d'un conseil de son choix pour discuter la proposition de rectification ou pour y répondre.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI L58
+	  - HISTO: Edition du 31 août 2004
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### I : Procédure de redressement contradictoire
 
 ###### Article L55
 
-Sous réserve des dispositions de l'article L56, lorsque l'administration des impôts constate une insuffisance, une
+Sous réserve des dispositions de l'article L. 56, lorsque l'administration des impôts constate une insuffisance, une
 inexactitude, une omission ou une dissimulation dans les éléments servant de base au calcul des impôts, droits, taxes,
-redevances ou sommes quelconques dues en vertu du code général des impôts, les redressements correspondants sont effectués
-suivant la procédure de redressement contradictoire définie aux articles L57 à L61 A.
+redevances ou sommes quelconques dues en vertu du code général des impôts, les rectifications correspondantes sont effectuées
+suivant la procédure de rectification contradictoire définie aux articles L. 57 à L. 61 A. 
 
 Cette procédure s'applique également lorsque l'administration effectue la reconstitution du montant déclaré du bénéfice
 industriel ou commercial, du bénéfice non commercial, du bénéfice agricole ou du chiffre d'affaires déterminé selon un mode
 réel d'imposition.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81 I, Finances pour 1987 JORF 31 décembre 1986
 
 	**Cité par**:
 
@@ -2392,22 +2351,23 @@ réel d'imposition.
 	  - Livre des procédures fiscales - art. L23 A (V)
 	  - Livre des procédures fiscales - art. L80 L (V)
 
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
-
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 août 2004
 
 	**Cite**:
 
-	  - Livre des procédures fiscales L56 à L61 A
+	  - Livre des procédures fiscales - art. L56 (V)
+	  - Livre des procédures fiscales - art. L57 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L56
 
-La procédure de redressement contradictoire n'est pas applicable :
+La procédure de rectification contradictoire n'est pas applicable :
 
 1° En matière d'impositions directes perçues au profit des collectivités locales ou d'organismes divers ;
 
@@ -2427,27 +2387,22 @@ les véhicules à moteur prévue à l'article 1599 C du code général des impô
 	  - CGI 1599 C
 	  - Livre des procédures fiscales - art. L62 (M)
 
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: en vigueur le 1er janvier 1993)
-
-	**Modifié par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 116 () JORF 19 juillet 1992, art. 121 :
+	  - HISTO: Edition du 31 août 2004
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L55 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
+
 
 ###### Article L57
 
-L'administration adresse au contribuable une notification de redressement qui doit être motivée de manière à lui permettre de
+L'administration adresse au contribuable une proposition de rectification qui doit être motivée de manière à lui permettre de
 formuler ses observations ou de faire connaître son acceptation.
 
 En cas d'application des dispositions de l'article L. 47 A, l'administration précise au contribuable la nature des
@@ -2471,21 +2426,9 @@ Lorsque l'administration rejette les observations du contribuable sa réponse do
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1649 quinquies A 2 (Al. 1 1ère Phrase, al. 4)
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 5 ()
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 6 ()
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
-	  - TXT_ASSOCIE: Jurisprudence 2001-02-07 13L-2-01
-	  - TXT_ASSOCIE: Jurisprudence 2001-02-26 13L-5-01
-
 	**Modifié par**:
 
-	  - Loi n°93-1353 du 30 décembre 1993 - art. 31 () JORF 31 décembre 1993
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 27 (V)
 
 	**Cité par**:
 
@@ -2523,7 +2466,7 @@ Lorsque l'administration rejette les observations du contribuable sa réponse do
 
 ###### Article L59
 
-Lorsque le désaccord persiste sur les redressements notifiés, l'administration, si le contribuable le demande, soumet le
+Lorsque le désaccord persiste sur les rectifications notifiées, l'administration, si le contribuable le demande, soumet le
 litige à l'avis soit de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à
 l'article 1651 du code général des impôts, soit de la commission départementale de conciliation prévue à l'article 667 du
 même code.
@@ -2537,19 +2480,13 @@ Les commissions peuvent également être saisies à l'initiative de l'administra
 	  - CGI 1651
 	  - CGI 667 2°
 
-	**Modifié par**:
-
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
-
 	**Liens**:
 
-	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
-	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
+	  - HISTO: Edition du 31 août 2004
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Livre des procédures fiscales L59 A
-	  - Livre des procédures fiscales L59 B
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Cité par**:
 
@@ -2719,7 +2656,7 @@ une réclamation conformément à l'article L. 190.
 A l'issue d'une vérification de comptabilité et pour l'ensemble des impôts sur lesquels porte cette vérification, les
 contribuables dont le chiffre d'affaires de l'un quelconque des exercices soumis à vérification, ajusté, s'il y a lieu, à une
 période de douze mois, ne dépasse pas les limites prévues au paragraphe I de l'article 302 septies A du code général des
-impôts, peuvent, à condition de présenter une demande en ce sens avant toute notification de redressement, réparer, moyennant
+impôts, peuvent, à condition de présenter une demande en ce sens avant toute proposition de rectification, réparer, moyennant
 le paiement de l'intérêt de retard visé à l'article 1727 du même code, les erreurs ou inexactitudes, omissions ou
 insuffisances constatées.
 
@@ -2742,13 +2679,9 @@ du code général des impôts sont perçus selon les règles de recouvrement pro
 
 	  - CGI 302 septies A I, 1727, 1729
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 JORF 9 juillet 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1002 1988-10-20
+	  - HISTO: Edition du 31 août 2004
 
 	**Cité par**:
 
@@ -2756,6 +2689,10 @@ du code général des impôts sont perçus selon les règles de recouvrement pro
 	  - Livre des procédures fiscales - art. L56 (MMN)
 	  - Livre des procédures fiscales - art. R62-1 (Ab)
 	  - Livre des procédures fiscales - art. R62-3 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### III : Procédure spéciale de l'article 168 du code général des impôts
@@ -2805,11 +2742,12 @@ c) Ou qui permettent d'éviter, en totalité ou en partie, le paiement des taxes
 opérations effectuées en exécution d'un contrat ou d'une convention.
 
 L'administration est en droit de restituer son véritable caractère à l'opération litigieuse. En cas de désaccord sur les
-redressements notifiés sur le fondement du présent article, le litige est soumis, à la demande du contribuable, à l'avis du
+rectifications notifiées sur le fondement du présent article, le litige est soumis, à la demande du contribuable, à l'avis du
 comité consultatif pour la répression des abus de droit. L'administration peut également soumettre le litige à l'avis du
 comité dont les avis rendus feront l'objet d'un rapport annuel.
 
-Si l'administration ne s'est pas conformée à l'avis du comité, elle doit apporter la preuve du bien-fondé du redressement.
+Si l'administration ne s'est pas conformée à l'avis du comité, elle doit apporter la preuve du bien-fondé de la
+rectification.
 
 **Liens relatifs à cet article**
 
@@ -2829,18 +2767,13 @@ Si l'administration ne s'est pas conformée à l'avis du comité, elle doit appo
 	  - Livre des procédures fiscales - art. R*64-2 (V)
 	  - Loi n°87-502 du 8 juillet 1987 - art. 2 (V)
 
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 14 JORF 9 juillet 1987
-
 	**Liens**:
 
-	  - HISTO: Edition du 10 août 1987
-	  - TXT_ASSOCIE: Instruction 2000-03-08 13L-2-00
-	  - TXT_ASSOCIE: Instruction 2000-03-27 13N-4-00
-	  - TXT_ASSOCIE: Instruction 2001-02-27 13L-4-01
-	  - TXT_ASSOCIE: Instruction 2002-02-22 13L-1-02
-	  - TXT_ASSOCIE: Jurisprudence 1999-10-05 13L-11-99
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L64 A
@@ -3254,23 +3187,18 @@ Ces dispositions s'appliquent en cas d'opposition à la mise en oeuvre du contr�
 
 ###### Article L76
 
-Les bases ou les éléments servant au calcul des impositions d'office sont portés à la connaissance du contribuable, trente
-jours au moins avant la mise en recouvrement des impositions, au moyen d'une notification qui précise les modalités de leur
-détermination. Cette notification est interruptive de prescription. Lorsque le contribuable est taxé d'office en application
-de l'article L. 69, à l'issue d'un examen contradictoire de sa situation fiscale personnelle, la commission départementale
-des impôts directs et des taxes sur le chiffre d'affaires peut être saisie dans les conditions prévues à l'article L. 59.
+Les bases ou éléments servant au calcul des impositions d'office et leurs modalités de détermination sont portées à la
+connaissance du contribuable trente jours au moins avant la mise en recouvrement des impositions. Cette notification est
+interruptive de prescription. Lorsque le contribuable est taxé d'office en application de l'article L. 69, à l'issue d'un
+examen contradictoire de sa situation fiscale personnelle, la commission départementale des impôts directs et des taxes sur
+le chiffre d'affaires peut être saisie dans les conditions prévues à l'article L. 59. 
 
-La prescription des sanctions fiscales autres que celles visées au troisième alinéa de l'article L. 188 est interrompue par
-la mention portée sur la notification de redressements qu'elles pourront être éventuellement appliquées.
+La prescription des sanctions fiscales autres que celles prévues au troisième alinéa de l'article L. 188 est interrompue par
+l'information notifiée au contribuable qu'elles pourront être éventuellement appliquées. 
 
 Les dispositions du présent article ne sont pas applicables dans les cas prévus au deuxième alinéa de l'article L. 67.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-1182 1996-12-30 art. 31 II, III Finances rectificative pour 1996 JORF 31 décembre 1996
-	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -3291,14 +3219,18 @@ Les dispositions du présent article ne sont pas applicables dans les cas prévu
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 août 2004
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L188 (V)
-	  - Livre des procédures fiscales - art. L59 (M)
-	  - Livre des procédures fiscales - art. L67 (M)
+	  - Livre des procédures fiscales - art. L59 (V)
+	  - Livre des procédures fiscales - art. L67 (V)
 	  - Livre des procédures fiscales - art. L69 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L76 A
@@ -3331,17 +3263,17 @@ l'article L. 190.
 En cas de vérification simultanée des taxes sur le chiffre d'affaires et taxes assimilées, de l'impôt sur le revenu ou de
 l'impôt sur les sociétés, le supplément de taxes sur le chiffre d'affaires et taxes assimilées afférent à un exercice donné
 est déduit, pour l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés, des résultats du même exercice, sauf
-demande expresse des contribuables, formulée dans le délai qui leur est imparti pour répondre à la notification de
-redressements. Dans ce dernier cas, la prescription est réputée interrompue, au sens des articles L. 76 et L. 189, à hauteur
+demande expresse des contribuables, formulée dans le délai qui leur est imparti pour répondre à la proposition de
+rectification. Dans ce dernier cas, la prescription est réputée interrompue, au sens des articles L. 76 et L. 189, à hauteur
 des bases de l'impôt sur le revenu ou de l'impôt sur les sociétés notifiées avant déduction du supplément de taxes sur le
 chiffre d'affaires et taxes assimilées.
 
 Toutefois, lorsque la taxe sur la valeur ajoutée rappelée est afférente à une opération au titre de laquelle la taxe due peut
 être totalement ou partiellement déduite par le redevable lui-même, les dispositions prévues au premier alinéa ne
-s'appliquent pas au montant de la taxe déductible (1).
+s'appliquent pas au montant de la taxe déductible.
 
-Les entreprises soumises à l'impôt sur les sociétés peuvent, dans la mesure où le bénéfice correspondant aux redressements
-effectués est considéré comme distribué, par application des articles 109 et suivants du code général des impôts, à des
+Les entreprises soumises à l'impôt sur les sociétés peuvent, dans la mesure où le bénéfice correspondant aux rectifications
+effectuées est considéré comme distribué, par application des articles 109 et suivants du code général des impôts, à des
 associés ou actionnaires dont le domicile ou le siège est situé en France, demander que l'impôt sur le revenu supplémentaire
 dû par les bénéficiaires en raison de cette distribution soit établi sur le montant du rehaussement soumis à l'impôt sur les
 sociétés diminué du montant de ce dernier impôt.
@@ -3361,34 +3293,24 @@ dans la caisse sociale les sommes nécessaires au paiement des taxes sur le chif
 l'impôt sur les sociétés et de la retenue à la source sur les revenus de capitaux mobiliers se rapportant aux sommes qui leur
 ont été distribuées.
 
-**Nota:**
-
-(1) Cette disposition s'applique aux rappels de taxe sur la valeur ajoutée notifiés à compter du 1er janvier 1998.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 109, 119 bis
-	  - Livre des procédures fiscales - art. L189 (M)
-	  - Livre des procédures fiscales - art. L76 (M)
+	  - CGI Livre des procédures fiscales L76, L189
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-
-	**Modifié par**:
-
-	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 12 I, III JORF 3 juillet 1998
-	  - Décret n°99-383 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
-
-	**Codifié par**:
-
-	  - Décret n°99-383 1999-05-18
+	  - HISTO: Edition du 31 août 2004
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L79 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L78
@@ -3465,8 +3387,8 @@ Des compensations peuvent être pratiquées dans les mêmes conditions en ce qui
 de publicité foncière exigible sur les actes qui donnent lieu à la formalité fusionnée en application de l'article 647 du
 code général des impôts et les droits de timbre, perçus au profit de l'Etat.
 
-Les compensations de droits sont opérées dans les mêmes conditions au profit du contribuable qui a fait l'objet d'un
-redressement lorsqu'il démontre qu'une taxation excessive a été établie à son détriment ou lorsque le redressement fait
+Les compensations de droits sont opérées dans les mêmes conditions au profit du contribuable qui a fait l'objet d'une
+rectification lorsqu'il démontre qu'une taxation excessive a été établie à son détriment ou lorsque la rectification fait
 apparaître une double imposition.
 
 **Liens relatifs à cet article**
@@ -3477,11 +3399,7 @@ apparaître une double imposition.
 
 	**Modifié par**:
 
-	  - Loi - art. 12 (P) JORF 31 décembre 1999
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 2001-05-21
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 27 (V) JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Cité par**:
 
@@ -3495,7 +3413,7 @@ apparaître une double imposition.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article L80 A
@@ -3987,7 +3905,7 @@ conditions prévues à l'article L. 47 A ainsi que l'absence de respect des obli
 Ce retrait est notifié à l'intéressé à l'issue du délai de trente jours prévu à l'article L. 80 H.
 
 Les conséquences de ce retrait d'autorisation sont opposées à l'intéressé et aux personnes visées au 2 du II de l'article 277
-A du code général des impôts, au regard d'impositions de toute nature, dans le cadre des procédures de redressement
+A du code général des impôts, au regard d'impositions de toute nature, dans le cadre des procédures de rectification
 mentionnées aux articles L. 55 et suivants, sauf pour l'application de l'amende prévue à l'article 1788 octies du code
 général des impôts.
 
@@ -4003,11 +3921,7 @@ général des impôts.
 
 	**Modifié par**:
 
-	  - Loi - art. 85 (V) JORF 31 décembre 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-401 1998-05-22
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 27 (V) JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Cité par**:
 
@@ -4019,9 +3933,7 @@ général des impôts.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
-	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
-	  - SPEC_APPLI: Loi n°95-1347 1995-12-30 art. 19 XIX
+	  - HISTO: Edition du 31 août 2004
 
 
 #### Chapitre II : Le droit de communication
@@ -8053,8 +7965,8 @@ conditions fixées par cet article.
 L'administration des impôts doit communiquer aux présidents des centres de gestion agréés ou des associations agréées, les
 renseignements qui sont nécessaires à ces organismes pour leur permettre de prononcer, en tant que de besoin, l'exclusion des
 adhérents qui ne respectent pas les obligations leur incombant en vertu des statuts ou du règlement intérieur de ces centres
-de gestion ou associations. Ces renseignements peuvent porter sur la nature et le montant des redressements dont l'adhérent a
-fait l'objet.
+de gestion ou associations. Ces renseignements peuvent porter sur la nature et le montant des rectifications dont l'adhérent
+a fait l'objet.
 
 Elle peut également porter à la connaissance de la commission régionale prévue par l'article 371 G de l'annexe II au code
 général des impôts, qui émet un avis sur la demande de renouvellement ou de retrait de l'agrément accordé à un centre de
@@ -8074,15 +7986,11 @@ sont soumises.
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
-
-	**Anciens textes**:
-
-	  - Loi n°80-30 1980-01-18 ART. 76 I, II
+	  - HISTO: Edition du 31 août 2004
 
 	**Modifié par**:
 
-	  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 #### Chapitre IV : Les délais de prescription
@@ -9044,27 +8952,31 @@ la réponse de l'autorité compétente de l'autre Etat ou territoire au moment o
 
 ###### Article L189
 
-La prescription est interrompue par la notification d'une proposition de redressement, par la déclaration ou la notification
+La prescription est interrompue par la notification d'une proposition de rectification, par la déclaration ou la notification
 d'un procès-verbal, de même que par tout acte comportant reconnaissance de la part des contribuables et par tous les autres
 actes interruptifs de droit commun.
 
 La prescription des sanctions fiscales autres que celles visées au troisième alinéa de l'article L188 est interrompue par la
-mention portée sur la notification de redressements qu'elles pourront être éventuellement appliquées.
+mention portée sur la proposition de rectification qu'elles pourront être éventuellement appliquées.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°84-1208 1984-12-29 art. 105 I finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
 
 	**Cité par**:
 
 	  - Code de l'environnement - art. L213-11-5 (V)
 	  - Livre des procédures fiscales - art. L77 (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L188 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ### Titre III : Le contentieux de l'impôt
@@ -9628,30 +9540,18 @@ fusionnée en application de l'article 647 du code général des impôts et les 
 ###### Article L205
 
 Les compensations de droits prévues aux articles L. 203 et L. 204 sont opérées dans les mêmes conditions au profit du
-contribuable à l'encontre duquel l'administration effectue un redressement lorsque ce contribuable invoque une surtaxe
-commise à son préjudice ou lorsque le redressement fait apparaître une double imposition.
+contribuable à l'encontre duquel l'administration effectue une rectification lorsque ce contribuable invoque une surtaxe
+commise à son préjudice ou lorsque la rectification fait apparaître une double imposition.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1955 5
-	  - Décret n°1948-12-09 art. 2081 3
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°63-1316 1963-12-27 art. 21
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L203 (V)
-	  - Livre des procédures fiscales - art. L204 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### Section IV : Conséquences des décisions prises sur les réclamations et des décisions des cours et tribunaux
@@ -9781,7 +9681,7 @@ sont pas capitalisés.
 ###### Article L209
 
 Lorsque le tribunal administratif rejette totalement ou partiellement la demande d'un contribuable tendant à obtenir
-l'annulation ou la réduction d'une imposition établie en matière d'impôts directs à la suite d'un redressement ou d'une
+l'annulation ou la réduction d'une imposition établie en matière d'impôts directs à la suite d'une rectification ou d'une
 taxation d'office, les cotisations ou fractions de cotisations maintenues à la charge du contribuable et pour lesquelles
 celui-ci avait présenté une réclamation assortie d'une demande de sursis de paiement donnent lieu au paiement d'intérêts
 moratoires au taux de l'intérêt légal. Ces intérêts moratoires ne sont pas dus sur les cotisations ou fractions de
@@ -9798,28 +9698,24 @@ les impositions auxquelles ils s'appliquent.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1731
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Anciens textes**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 73 (P)
-
-	**Modifié par**:
-
-	  - Loi n°94-1163 1994-12-29 art. 35 Finances rectificative pour 1994 JORF 30 décembre 1994
-
 	**Cité par**:
 
 	  - Arrêté du 30 mai 2013 - art. 1
 	  - Code général des impôts, CGI. - art. 1912 (VD)
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 216 (VD)
 	  - Livre des procédures fiscales - art. L247 (V)
+
+	**Cite**:
+
+	  - CGI 1731
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.
@@ -13932,27 +13828,19 @@ conditions prévues au présent livre.
 
 ###### Article R*57-1
 
-La notification de redressement prévue par l'article L. 57 fait connaître au contribuable la nature et les motifs du
-redressement envisagé. L'administration invite, en même temps, le contribuable à faire parvenir son acceptation ou ses
-observations dans un délai de trente jours à compter de la réception de la notification.
+La proposition de rectification prévue par l'article L. 57 fait connaître au contribuable la nature et les motifs de la
+rectification envisagée. L'administration invite, en même temps, le contribuable à faire parvenir son acceptation ou ses
+observations dans un délai de trente jours à compter de la réception de la proposition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1649 quinquies A 2 (AL. 1 2ème PHRASE)
-
-	**Cite**:
-
-	  - CGI L57
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 août 2004
 
 
 ###### Article R*59 B-1
@@ -14067,7 +13955,7 @@ des impôts.
 
 ###### Article R*61 A-1
 
-Le montant de l'impôt exigible à la suite d'une procédure de redressement est calculé :
+Le montant de l'impôt exigible à la suite d'une procédure de rectification est calculé :
 
 a) Soit sur la base acceptée par le contribuable si celui-ci a donné son accord dans le délai prescrit ou s'il a présenté
 dans ce même délai des observations qui ont été reconnues fondées ;
@@ -14081,18 +13969,9 @@ Le montant de l'impôt exigible donne lieu à l'établissement d'un rôle ou à 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1649 quinquies A 2 (AL. 2, AL. 3, 2 PREMIERES LIGNES)
-	  - CGI 1649 quinquies A 3 (AL. 2 2 DERNIERES LIGNES)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article R59 B-2
@@ -14273,7 +14152,7 @@ fiscaux.
 ###### Article R*63-1
 
 La décision de mettre en oeuvre les dispositions prévues à l'article L. 63 est prise par un agent ayant au moins le grade
-d'inspecteur divisionnaire qui vise à cet effet la notification de la proposition de redressement.
+d'inspecteur divisionnaire qui vise à cet effet la notification de la proposition de rectification.
 
 **Liens relatifs à cet article**
 
@@ -14284,11 +14163,11 @@ d'inspecteur divisionnaire qui vise à cet effet la notification de la propositi
 
 	**Modifié par**:
 
-	  - Décret n°96-179 du 5 mars 1996 - art. 1 () JORF 12 mars 1996
+	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 août 2004
 
 
 ##### IV : Procédure de l'abus de droit fiscal
@@ -14296,17 +14175,17 @@ d'inspecteur divisionnaire qui vise à cet effet la notification de la propositi
 ###### Article R*64-1
 
 La décision de mettre en oeuvre les dispositions prévues à l'article L. 64 est prise par un agent ayant au moins le grade
-d'inspecteur divisionnaire qui vise à cet effet la notification de la proposition de redressement.
+d'inspecteur divisionnaire qui vise à cet effet la notification de la proposition de rectification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°96-179 du 5 mars 1996 - art. 1 () JORF 12 mars 1996
+	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Liens**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - HISTO: Edition du 31 août 2004
 
 	**Cite**:
 
@@ -16028,22 +15907,18 @@ charge en démontrant son caractère exagéré.
 
 ###### Article R*194-1
 
-Lorsque, ayant donné son accord au redressement ou s'étant abstenu de répondre dans le délai légal à la notification de
-redressement, le contribuable présente cependant une réclamation faisant suite à une procédure contradictoire de
-redressement, il peut obtenir la décharge ou la réduction de l'imposition, en démontrant son caractère exagéré.
+Lorsque, ayant donné son accord à la rectification ou s'étant abstenu de répondre dans le délai légal à la proposition de
+rectification, le contribuable présente cependant une réclamation faisant suite à une procédure contradictoire de
+rectification, il peut obtenir la décharge ou la réduction de l'imposition, en démontrant son caractère exagéré.
 
 Il en est de même lorsqu'une imposition a été établie d'après les bases indiquées dans la déclaration souscrite par un
 contribuable ou d'après le contenu d'un acte présenté par lui à la formalité de l'enregistrement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article R*195-1
@@ -16177,26 +16052,14 @@ faisant double emploi.
 
 ###### Article R*196-3
 
-Dans le cas où un contribuable fait l'objet d'une procédure de reprise ou de redressement de la part de l'administration des
+Dans le cas où un contribuable fait l'objet d'une procédure de reprise ou de rectification de la part de l'administration des
 impôts, il dispose d'un délai égal à celui de l'administration pour présenter ses propres réclamations.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1932 5
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
 	**Modifié par**:
 
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1992
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Jurisprudence 1997-07-23 13O-3-97
+	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Cité par**:
 
@@ -18858,16 +18721,16 @@ de fait mentionnés à l'article 344-0 A de l'annexe III au code général des i
 L'avis de mise en recouvrement prévu à l'article L. 256 indique pour chaque impôt ou taxe le montant global des droits, des
 pénalités et des intérêts de retard qui font l'objet de cet avis.
 
-Lorsque l'avis de mise en recouvrement est consécutif à une procédure de redressement contradictoire, il fait référence soit
-à la notification prévue à l'article L. 57 et, le cas échéant, aux différentes pièces de procédure adressées par le service
-informant le contribuable d'une modification des rehaussements, soit au document adressé au contribuable qui comporte
-l'information prévue au premier alinéa de l'article L. 48.
+Lorsque l'avis de mise en recouvrement est consécutif à une procédure de rectification contradictoire, il fait référence soit
+à la proposition de rectification prévue à l'article L. 57 et, le cas échéant, aux différentes pièces de procédure adressées
+par le service informant le contribuable d'une modification des rehaussements, soit au document adressé au contribuable qui
+comporte l'information prévue au premier alinéa de l'article L. 48.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2000-348 du 20 avril 2000 - art. 1 () JORF 22 avril 2000
+	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 	**Cité par**:
 
@@ -18876,7 +18739,7 @@ l'information prévue au premier alinéa de l'article L. 48.
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 31 août 2004
 
 	**Cite**:
 
