@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-10-23
+Version Consolidée au 1987-12-31
 
 # Partie législative
 
@@ -1038,6 +1038,48 @@ police municipale de la commune de résidence.
 
 ##### A : Contrôle à la circulation
 
+###### Article L24
+
+Les transporteurs ou conducteurs doivent présenter sur le champ, à toute demande des agents de l'administration des impôts
+habilités à établir des procès-verbaux, les titres de mouvement, permis de circulation, lettres de voitures et autres pièces
+administratives concernant les matériels, produits ou marchandises soumis à des formalités particulières en matière de
+circulation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1739 1 (P.)
+	  - CGI 328 (AL. 2)
+	  - CGI 452 (AL. 1)
+	  - CGI 514 (1RE LIGNE P.)
+	  - CGI 934 (AL. 2 4ème ET 5ème LIGNES)
+	  - Loi n°50-135 du 31 janvier 1950 - art. 10, v. init.
+	  - Loi n°66-10 1966-01-06 ART. 37 5
+	  - Décret n°1934-12-26 ART. 53 (LOI 1934-07-06 ART. 14)
+	  - Décret-loi 1937-07-08 ART. 15
+	  - Loi n°1816-04-28 ART. 17
+	  - Loi n°1872-02-28 ART. 5
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1002 1988-10-20
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 3 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 328 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 I (V)
+	  - Livre des procédures fiscales - art. L25 (V)
+	  - Livre des procédures fiscales - art. R24-2 (V)
+	  - Livre des procédures fiscales - art. R24-3 (P)
+	  - Livre des procédures fiscales - art. R24-4 (V)
+
+
 ###### Article L25
 
 A défaut de présentation des pièces mentionnées à l'article L. 24, qui doivent accompagner un transport de boissons, ou en
@@ -1761,6 +1803,43 @@ et pour le même impôt, à moins que le contribuable ne lui ait fourni des él�
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L16 D (V)
+
+
+###### Article L51
+
+Lorsque la vérification de la comptabilité, pour une période déterminée, au regard d'un impôt ou taxe ou d'un groupe d'impôts
+ou de taxes est achevée, l'administration ne peut procéder à une nouvelle vérification de ces écritures au regard des mêmes
+impôts ou taxes et pour la même période. Toutefois, il est fait exception à cette règle lorsque la vérification a été limitée
+à des opérations déterminées ainsi que dans les cas prévus aux articles L. 176 en matière de taxes sur le chiffre d'affaires
+et L. 187 en cas d'agissements frauduleux, ainsi que dans les cas de vérification de la comptabilité des sociétés mères qui
+ont opté pour le régime prévu à l'article 223 A du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1649 septies B
+	  - CGI 1968 1 (4ème LIGNE)
+	  - CGI 1974 bis (AL. 1 4ème, 5ème LIGNES)
+	  - Loi n°63-1316 1963-12-27 ART. 15 3
+	  - Loi n°70-1199 du 21 décembre 1970 - art. 72, v. init.
+
+	**Cite**:
+
+	  - CGI 223 A
+	  - CGI L176
+	  - CGI L187
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 J (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 V septies (P)
+	  - Livre des procédures fiscales - art. L176 A (P)
 
 
 ###### Article L52
@@ -8912,6 +8991,38 @@ voir article R. 254-1).
 	  - HISTO: Edition du 1er juillet 1981
 
 
+###### Article L255
+
+Lorsque l'impôt n'a pas été payé à la date limite de paiement et à défaut d'une réclamation assortie d'une demande de sursis
+de paiement avec constitution de garanties dans les conditions prévues par l'article L. 277, le comptable du Trésor chargé du
+recouvrement doit envoyer au contribuable une lettre de rappel avant la notification du premier acte de poursuites devant
+donner lieu à des frais.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1842 1 (P.)
+	  - CGI 1843 (AL. 2)
+	  - Loi n°1817-03-25 ART. 72
+	  - Loi n°1818-05-15 ART. 51
+	  - Loi n°46-854 1946-04-27 ART. 12, ART. 13
+	  - Loi n°72-1121 1972-12-20 ART. 14 II
+
+	**Cite**:
+
+	  - CGI L277
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 98 () JORF 31 décembre 1987
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
+	  - Livre des procédures fiscales - art. L260 (V)
+
+
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts.
 
 ###### Article L256
@@ -10088,40 +10199,6 @@ et des justifications dans les conditions prévues à l'article L. 16.
 	  - Livre des procédures fiscales - art. L181-0 A (V)
 
 
-###### Article L24
-
-Les transporteurs ou conducteurs doivent présenter sur le champ, à toute demande des agents de l'administration des impôts
-habilités à établir des procès-verbaux, les titres de mouvement, permis de circulation, bons de remis, lettres de voitures et
-autres pièces administratives concernant les matériels, produits ou marchandises soumis à des formalités particulières en
-matière de circulation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1739 1 (P.)
-	  - CGI 328 (AL. 2)
-	  - CGI 452 (AL. 1)
-	  - CGI 514 (1RE LIGNE P.)
-	  - CGI 934 (AL. 2 4ème ET 5ème LIGNES)
-	  - Loi n°50-135 du 31 janvier 1950 - art. 10, v. init.
-	  - Loi n°66-10 1966-01-06 ART. 37 5
-	  - Décret n°1934-12-26 ART. 53 (LOI 1934-07-06 ART. 14)
-	  - Décret-loi 1937-07-08 ART. 15
-	  - Loi n°1816-04-28 ART. 17
-	  - Loi n°1872-02-28 ART. 5
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 3 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 328 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 178 I (V)
-	  - Livre des procédures fiscales - art. L25 (V)
-	  - Livre des procédures fiscales - art. R24-2 (V)
-	  - Livre des procédures fiscales - art. R24-3 (P)
-	  - Livre des procédures fiscales - art. R24-4 (V)
-
-
 #### PROCEDURES DE REDRESSEMENT.
 
 ###### Article L64 A
@@ -10333,43 +10410,6 @@ pas applicables à l'impôt sur les grandes fortunes.
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
 
 
-## CONTROLE DE L'IMPOT
-
-### LE DROIT DE CONTROLE DE L'ADMINISTRATION
-
-#### MODALITES D'EXERCICE DU DROIT DE CONTROLE.
-
-###### Article L51
-
-Lorsque la vérification de la comptabilité, pour une période déterminée, au regard d'un impôt ou taxe ou d'un groupe d'impôts
-ou de taxes est achevée, l'administration ne peut procéder à une nouvelle vérification de ces écritures au regard des mêmes
-impôts ou taxes et pour la même période. Toutefois, il est fait exception à cette règle lorsque la vérification a été limitée
-à des opérations déterminées ainsi que dans les cas prévus aux articles L. 176 en matière de taxes sur le chiffre d'affaires
-et L. 187 en cas d'agissements frauduleux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1649 septies B
-	  - CGI 1968 1 (4ème LIGNE)
-	  - CGI 1974 bis (AL. 1 4ème, 5ème LIGNES)
-	  - Loi n°63-1316 1963-12-27 ART. 15 3
-	  - Loi n°70-1199 du 21 décembre 1970 - art. 72, v. init.
-
-	**Cite**:
-
-	  - CGI L176
-	  - CGI L187
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 J (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 V septies (P)
-	  - Livre des procédures fiscales - art. L176 A (P)
-
-
 ## CONTENTIEUX DE L'IMPOT
 
 ### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT
@@ -10390,40 +10430,6 @@ devant le tribunal administratif que devant le Conseil d'Etat, jusqu'à la clôt
 	**Codifié par**:
 
 	  - Décret n°87-940 1987-11-23
-
-
-## LE RECOUVREMENT DE L'IMPOT
-
-### LES PROCEDURES DE RECOUVREMENT.
-
-#### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.
-
-###### Article L255
-
-Lorsque l'impôt n'a pas été payé à la date limite de paiement et à défaut d'une réclamation assortie d'une demande de sursis
-de paiement avec constitution de garanties dans les conditions prévues par l'article L. 277, le comptable du Trésor chargé du
-recouvrement doit envoyer au contribuable une lettre de rappel avant la notification du premier acte de poursuites devant
-donner lieu à des frais et procédant d'une contrainte administrative [*formalité obligatoire*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1842 1 (P.)
-	  - CGI 1843 (AL. 2)
-	  - Loi n°1817-03-25 ART. 72
-	  - Loi n°1818-05-15 ART. 51
-	  - Loi n°46-854 1946-04-27 ART. 12, ART. 13
-	  - Loi n°72-1121 1972-12-20 ART. 14 II
-
-	**Cite**:
-
-	  - CGI L277
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
-	  - Livre des procédures fiscales - art. L260 (V)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -14113,6 +14119,28 @@ dresser des procès-verbaux en matière de police de la circulation routière.
 	  - Loi n°2004-1484 du 30 décembre 2004 - art. 42 (V) JORF 31 décembre 2004
 
 
+###### Article R*213-3
+
+Les procès-verbaux constatant les infractions aux lois et règlements relatifs  aux obligations des façonniers, aux transports
+des animaux vivants de boucherie et de charcuterie peuvent être établis par les agents des douanes, les agents de la
+direction générale de la concurrence et de la consommation, les agents habilités à constater les infractions en matière de
+police de la circulation et du roulage et en matière de coordination des transports.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 325
+
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°88-1002 1988-10-20
+
+
 ##### III : Rédaction des procès-verbaux
 
 ###### Article R*226-1
@@ -15525,36 +15553,6 @@ propriété est discutée.
 
 ## LE CONTROLE DE L'IMPOT
 
-### LE DROIT DE CONTROLE DE L'ADMINISTRATION
-
-#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS
-
-###### Article R*24-1
-
-En application de l'article L. 24, les bons de remis doivent être présentés en cours de transport à toute demande des agents
-désignés à l'article R. 213-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L24
-	  - CGI R213-3
-
-	**Anciens textes**:
-
-	  - CGIAN1 310 nonies
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-	  - Décret n°88-1002 1988-10-20
-
-	**Abrogé par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-
 ### LE DROIT DE COMMUNICATION
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.
@@ -15630,28 +15628,6 @@ Si c'est la partie défenderesse, elle sera réputée avoir acquiescé aux faits
 	  - Décret n°81-860 1981-09-15
 
 
-### LES PROCEDURES PENALES
-
-#### CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL
-
-###### Article R*213-3
-
-Les procès-verbaux constatant les infractions aux lois et règlements relatifs aux bons de remis, aux obligations des
-façonniers, aux transports des animaux vivants de boucherie et de charcuterie peuvent être établis par les agents des
-douanes, les agents de la direction générale de la concurrence et de la consommation, les agents habilités à constater les
-infractions en matière de police de la circulation et du roulage et en matière de coordination des transports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 325
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
 ## LE RECOUVREMENT DE L'IMPOT
 
 ### LES PROCEDURES DE RECOUVREMENT
@@ -15660,9 +15636,7 @@ infractions en matière de police de la circulation et du roulage et en matière
 
 ###### Article R*255-1
 
-La contrainte prévue à l'article L. 255 est décernée par le comptable du Trésor chargé du recouvrement [*autorité
-compétente*]. Les biens saisis ne peuvent être vendus qu'après autorisation du receveur des finances ou du trésorier-payeur
-général [*condition*].
+Transférée sous l'article R260-A-1.
 
 **Liens relatifs à cet article**
 
@@ -15670,14 +15644,26 @@ général [*condition*].
 
 	  - CGI L255
 
+	**Nouveaux textes**:
+
+	  - CGI R260 A-1
+
 	**Anciens textes**:
 
 	  - CGIAN2 384 octies
 	  - Décret n°80-216 1980-03-17
 
+	**Modifié par**:
+
+	  - Loi n°87-1060 du 30 décembre 1987 - art. 98 () JORF 31 décembre 1987
+
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°88-1002 1988-10-20
+
+	**Transféré par**:
+
+	  - Décret n°88-1002 1988-10-20 : 1ere phrase sans objet, 2eme phrase transférée sous l'article R260 A-1
 
 
 # Partie réglementaire - Arrêtés
