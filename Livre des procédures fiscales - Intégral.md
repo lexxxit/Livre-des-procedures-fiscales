@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-12-26
+Version Consolidée au 1986-12-31
 
 # Partie législative
 
@@ -459,6 +459,20 @@ comptabilité des contribuables astreints à tenir et à présenter des document
 	**Anciens textes**:
 
 	  - Décret n°55-457 1955-04-30 ART. 21 (LOI 55-349 1955-04-02)
+
+
+##### 2° : Dispositions relatives aux vérifications des comptabilités
+
+###### Article L13 A
+
+Le défaut de présentation de la comptabilité est constaté par procès-verbal que le contribuable est invité à contresigner.
+Mention est faite de son refus éventuel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 I Finances pour 1987 JORF 31 décembre 1986
 
 
 ##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant
@@ -1498,6 +1512,92 @@ de se faire assister d'un conseil de son choix pour discuter la proposition de r
 
 ##### I : Procédure de redressement contradictoire
 
+###### Article L55
+
+Sous réserve des dispositions de l'article L56, lorsque l'administration des impôts constate une insuffisance, une
+inexactitude, une omission ou une dissimulation dans les éléments servant de base au calcul des impôts, droits, taxes,
+redevances ou sommes quelconques dues en vertu du code général des impôts, les redressements correspondants sont effectués
+suivant la procédure de redressement contradictoire définie aux articles L57 à L61 A.
+
+Cette procédure s'applique également lorsque l'administration effectue la reconstitution du montant déclaré du bénéfice
+industriel ou commercial, du bénéfice non commercial, du bénéfice agricole ou du chiffre d'affaires déterminé selon un mode
+réel d'imposition.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 I, Finances pour 1987 JORF 31 décembre 1986
+
+	**Cité par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 81 (V)
+	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
+	  - Arrêté du 29 octobre 2010 (V)
+	  - Décret n°2010-1300 du 29 octobre 2010 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 229 B (V)
+	  - Code de l'urbanisme - art. L331-22 (V)
+	  - Code de l'urbanisme - art. L520-16 (V)
+	  - Code du patrimoine - art. L524-8 (V)
+	  - Code général des collectivités territoriales - art. D2333-79 (Ab)
+	  - Code général des impôts, CGI. - art. 55 (V)
+	  - Code général des impôts, CGI. - art. 98 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quater (V)
+	  - Livre des procédures fiscales - art. L107 B (VT)
+	  - Livre des procédures fiscales - art. L17 (V)
+	  - Livre des procédures fiscales - art. L21 (V)
+	  - Livre des procédures fiscales - art. L21 A (V)
+	  - Livre des procédures fiscales - art. L23 A (V)
+	  - Livre des procédures fiscales - art. L80 L (V)
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Cite**:
+
+	  - Livre des procédures fiscales L56 à L61 A
+
+
+###### Article L56
+
+La procédure de redressement contradictoire n'est pas applicable :
+
+1° En matière d'impositions directes perçues au profit des collectivités locales ou d'organismes divers ;
+
+2° En matière de contributions indirectes, lorsque les faits ont été constatés par procès-verbal suivi de transaction ou de
+poursuites correctionnelles ;
+
+3° En matière de droits de timbre, lorsqu'ils ne sont pas payés sur état ou sur déclaration, et de taxe différentielle sur
+les véhicules à moteur prévue à l'article 1599 C du code général des impôts ;
+
+4° Dans les cas de taxation ou évaluation d'office des  bases d'imposition ;
+
+5° Dans le cas d'application de la procédure de règlement particulière prévue à l'article L. 62.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1599 C
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 I Finances pour 1987 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L55 (VD)
+
+
 ###### Article L57
 
 L'administration adresse au contribuable une notification de redressement qui doit être motivée de manière à lui permettre de
@@ -1761,7 +1861,66 @@ impôts.
 
 ##### Section V : Procédures d'imposition d'office
 
+###### Article L65
+
+Dans les cas limitativement énumérés à la présente section, les revenus ou bénéfices imposables des contribuables et les
+éléments servant au calcul des taxes sur le chiffre d'affaires, des droits d'enregistrement et taxes assimilées ainsi que des
+taxes assises sur les salaires sont taxés ou évalués d'office. "
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 67 () JORF 31 décembre 1985
+	  - Loi n°86-1317 1986-12-30 art. 81-I et II Finances pour 1987 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+
 ##### I : Taxation d'office
+
+##### A : En cas de défaut ou de retard dans le dépôt des déclarations
+
+###### Article L68
+
+La procédure de taxation d'office prévue aux 2° et 5° de l'article L. 66 n'est applicable que si le contribuable n'a pas
+régularisé sa situation dans les trente jours de la notification d'une première mise en demeure.
+
+Toutefois, il n'y a pas lieu de procéder à cette mise en demeure si le contribuable change fréquemment son lieu de résidence
+ou de principal établissement, ou a transféré son activité à l'étranger sans déposer la déclaration de ses résultats ou de
+ses revenus non commerciaux, ou ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du
+tribunal de commerce ou d'un organisme consulaire, ou si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de
+tiers.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L66 2°, 5°
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81-II Finances pour 1987 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L66 (V)
+	  - Livre des procédures fiscales - art. L73 (V)
+
 
 ##### B : En cas de défaut de réponse à une demande d'éclaircissements ou de justifications
 
@@ -2110,6 +2269,42 @@ poursuivre aucun rehaussement en soutenant une interprétation différente.
 	  - TXT_ASSOCIE: Note 2002-02-20 8A-1-02
 	  - TXT_ASSOCIE: Note 2002-11-07 13I-12-02
 	  - TXT_ASSOCIE: Note 2002-11-07 13L-2-02
+
+
+##### Section VII : Sanctions fiscales
+
+###### Article L80 D
+
+Les décisions mettant à la charge des contribuables des sanctions fiscales sont motivées au sens de la loi n° 79-587 du 11
+juillet 1979 relative à la motivation des actes administratifs et à l'amélioration des relations entre l'administration et le
+public, quand un document ou une décision adressés au plus tard lors de la notification du titre exécutoire ou de son extrait
+en a porté la motivation à la connaissance du contribuable (1).
+
+(Le régime des sanctions fiscales a été profondément modifié par l'article 2 de la loi n° 87-502 du 8 juillet 1987 modifiant
+les procédures fiscales et douanières. Ce texte est repris dans le Code général des impôts).
+
+(1) Les décisions notifiées avant le 31 décembre 1986 sont réputées régulièrement motivées (loi n° 86-1318 du 30 décembre
+1986 art. 42 II).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°79-587 1979-07-11
+	  - Loi n°86-1318 1986-12-30 art. 42 II Finances rectificative pour 1986
+	  - Loi n°87-502 du 8 juillet 1987 - art. 2, v. init.
+
+	**Créé par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 42 (M) JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Arrêté du 27 décembre 2000 - art. 1 (V)
 
 
 #### Chapitre II : Le droit de communication
@@ -7686,6 +7881,47 @@ litige devant le tribunal compétent, celui-ci fixe le taux des majorations ou p
 
 #### Chapitre premier : Les procédures de recouvrement
 
+###### Article L252
+
+Le recouvrement des impôts est confié soit aux comptables du Trésor, soit aux comptables de la direction générale des impôts
+par arrêté du ministre chargé des finances [*compétence*].
+
+Ces comptables exercent également les actions liées indirectement au recouvrement des créances fiscales et qui, dès lors,
+n'ont pas une cause étrangère à l'impôt au sens de l'article 38 de la loi n° 55-366 du 3 avril 1955 relative au développement
+des crédits affectés aux dépenses du ministère de l'économie et des finances et des affaires économiques pour l'exercice 1955
+(I. - Charges communes).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°55-366 du 3 avril 1955 - art. 38, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 26 (P) JORF 31 décembre 1986
+
+	**Cité par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 26 (P)
+	  - Arrêté du 26 mars 2009 (V)
+	  - Arrêté du 16 avril 2009 (V)
+	  - Arrêté du 12 octobre 2009 (V)
+	  - Arrêté du 13 novembre 2009 (V)
+	  - Code du domaine de l'Etat - art. L79 (Ab)
+	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
+	  - Code général des impôts, CGI. - art. 1929 ter (VD)
+	  - Livre des procédures fiscales - art. L281 (V)
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 17 août 1987
+
+
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites
 
 ##### I : Impôts recouvrés par les comptables du Trésor
@@ -8282,6 +8518,47 @@ judiciaire.
 	  - Décret n°86-1087 1986-10-07
 
 
+##### 8° : Procédure accélérée
+
+###### Article L270
+
+Pour assurer le recouvrement des impositions établies par voie de taxation d'office dans les conditions prévues aux articles
+L. 66 à L. 70 au nom de personnes qui changent fréquemment de lieu de séjour ou qui séjournent dans des locaux d'emprunt ou
+des locaux meublés, les trésoriers-payeurs généraux sont autorisés, dès réception du rôle et avant l'envoi de tout avis
+d'imposition au contribuable, mais après avis de la commission départementale des chefs des services financiers et des
+représentants des organismes de sécurité sociale, à faire prendre des sûretés sur tous les biens et avoirs du contribuable
+et, notamment, à faire procéder au blocage de tous comptes courants de dépôts ou d'avances ouverts à l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1844 bis
+	  - Loi n°53-79 1953-02-07 ART. 23 (AL. 1, AL. 2 AL. DERNIER)
+	  - Décret n°78-486 du 31 mars 1978 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L66 à L70
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 82 () JORF 31 décembre 1986
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L271 (Ab)
+	  - Livre des procédures fiscales - art. L273 (V)
+
+
 ##### Contrainte par corps.
 
 ###### Article L272
@@ -8459,6 +8736,67 @@ de la prescription applicable puisse excéder l'ancien délai.
 
 
 #### Chapitre II : Le sursis de paiement
+
+###### Article L279
+
+En matière d'impôts directs et de taxes sur le chiffre d'affaires, lorsque les garanties offertes par le contribuable ont été
+refusées, celui-ci peut, dans les quinze jours de la réception de la lettre recommandée qui lui a été adressée par le
+comptable, porter la contestation, par simple demande écrite, devant le juge du référé administratif, qui est un membre du
+tribunal administratif désigné par le président de ce tribunal.
+
+Cette demande n'est recevable que si le redevable a consigné auprès du comptable, à un compte d'attente, une somme égale au
+dixième des impôts contestés. Une caution bancaire ou la remise de valeurs mobilières cotées en bourse peut tenir lieu de
+consignation.
+
+Le juge du référé décide dans le délai d'un mois si les garanties offertes répondent aux conditions prévues à l'article L.
+277 et si, de ce fait, elles doivent être ou non acceptées par le comptable. Il peut également, dans le même délai, décider
+de dispenser le redevable de garanties autres que celles déjà constituées.
+
+Dans les huit jours suivant la décision du juge ou l'expiration du délai laissé à ce dernier pour statuer, le redevable et le
+comptable peuvent, par simple demande écrite, faire appel devant le tribunal administratif. Celui-ci, dans le délai d'un
+mois, décide si les garanties doivent être acceptées comme répondant aux conditions de l'article L. 277 ; à défaut de
+décision dans ce délai, la décision intervenue au premier degré est réputée confirmée.
+
+Pendant la durée de la procédure de référé, le comptable ne peut exercer sur les biens du redevable aucune action autre que
+les mesures conservatoires prévues à l'article L. 277.
+
+Lorsque le juge du référé estime suffisantes les garanties initialement offertes, les sommes consignées sont restituées. Dans
+le cas contraire, les garanties supplémentaires à présenter sont diminuées à due concurrence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1952 2, 1953 (al. 2)
+	  - Loi n°59-1472 1959-12-28 art. 97
+	  - Loi n°63-1316 1963-12-27 art. 1 2 (al. 2, al. 3)
+
+	**Modifié par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 V Finances pour 1987 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
+	  - Code de justice administrative. - art. L552-2 (V)
+	  - Livre des procédures fiscales - art. L16-0 BA (V)
+	  - Livre des procédures fiscales - art. L201 A (V)
+	  - Livre des procédures fiscales - art. L201 B (V)
+	  - Livre des procédures fiscales - art. L208 (V)
+	  - Livre des procédures fiscales - art. L252 B (VD)
+	  - Livre des procédures fiscales - art. L277 (V)
+	  - Livre des procédures fiscales - art. L279 A (V)
+	  - Livre des procédures fiscales - art. R*277-2 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de justice administrative - art. L552-1 (V)
+	  - HISTO: Edition du 10 août 1987
+
 
 ###### Article L280
 
@@ -9004,82 +9342,6 @@ ce cas, d'observer les formalités prévues aux articles L. 39 ou L. 41.
 
 #### PROCEDURES DE REDRESSEMENT.
 
-###### Article L55
-
-Sous réserve des dispositions de l'article L. 56, lorsque l'administration des impôts constate une insuffisance, une
-inexactitude, une omission ou une dissimulation dans les éléments servant de base au calcul des impôts, droits, taxes,
-redevances ou sommes quelconques dus en vertu du code général des impôts, les redressements correspondants sont effectués
-suivant la procédure de redressement contradictoire définie aux articles L. 57 à L. 61 A.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1649 QUINQUIES A 1 (SAUF 6ème, 7ème, 8ème LIGNES)
-	  - Loi n°63-1316 1963-12-27 ART. 24 1
-	  - Décret n°71-290 1971-04-15 ART. 3
-
-	**Cite**:
-
-	  - CGI L56 A CGI L61 A
-
-	**Cité par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 81 (V)
-	  - Loi n°2001-44 du 17 janvier 2001 - art. 9 (Ab)
-	  - Arrêté du 29 octobre 2010 (V)
-	  - Décret n°2010-1300 du 29 octobre 2010 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 229 B (V)
-	  - Code de l'urbanisme - art. L331-22 (V)
-	  - Code de l'urbanisme - art. L520-16 (V)
-	  - Code du patrimoine - art. L524-8 (V)
-	  - Code général des collectivités territoriales - art. D2333-79 (Ab)
-	  - Code général des impôts, CGI. - art. 55 (V)
-	  - Code général des impôts, CGI. - art. 98 (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 quater (V)
-	  - Livre des procédures fiscales - art. L107 B (VT)
-	  - Livre des procédures fiscales - art. L17 (V)
-	  - Livre des procédures fiscales - art. L21 (V)
-	  - Livre des procédures fiscales - art. L21 A (V)
-	  - Livre des procédures fiscales - art. L23 A (V)
-	  - Livre des procédures fiscales - art. L80 L (V)
-
-
-###### Article L56
-
-La procédure de redressement contradictoire n'est pas applicable :
-
-1° En matière d'impositions directes perçues au profit des collectivités locales ou d'organismes divers ;
-
-2° En matière de contributions indirectes, lorsque les faits ont été constatés par procès-verbal suivi de transaction ou de
-poursuites correctionnelles ;
-
-3° En matière de droits de timbre, lorsqu'ils ne sont pas payés sur état ou sur déclaration, et de taxe différentielle  sur
-les véhicules à moteur prévue à l'article 1599 C du code général des impôts ;
-
-4° Dans les cas de taxation, rectification ou évaluation d'office des bases d'imposition ;
-
-5° Dans le cas d'application de la procédure de règlement particulière prévue à l'article L. 62.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1599 C
-
-	**Modifié par**:
-
-	  - Loi n°85-695 du 11 juillet 1985 - art. 18 (V) JORF 12 juillet 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1008 1985-09-24
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L55 (VD)
-
-
 ###### Article L62
 
 A l'issue d'une vérification de comptabilité et pour l'ensemble des impôts sur lesquels porte cette vérification, les
@@ -9191,23 +9453,6 @@ fortunes.
 
 #### PROCEDURES D'IMPOSITION D'OFFICE.
 
-###### Article L65
-
-Dans les cas limitativement énumérés à la présente section [*L67 A L76 A*], les revenus ou bénéfices imposables des
-contribuables et les éléments servant au calcul des taxes sur le chiffre d'affaires sont taxés, évalués ou rectifiés
-d'office.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1934-07-20 ANNEXE ART. 18, ART. 24, ART. 91, ART. 128
-	  - Décret n°48-1986 1948-12-09 ART. 107
-	  - Loi n°63-1316 1963-12-27 ART. 42 3
-	  - Loi n°76-660 1976-07-19 ART. 8 I
-	  - Loi n°76-1234 1976-12-29 ART. 15 (AL. 1 1RE PHRASE)
-
-
 ###### Article L66
 
 Sont taxés d'office :
@@ -9217,25 +9462,36 @@ revenus ou qui n'ont pas déclaré, en application de l'article 150 S du code g�
 qu'ils ont réalisées, sous réserve de la procédure de régularisation prévue à l'article L. 67 ;
 
 2° A l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui n'ont pas déposé dans le délai légal leur
-déclaration de résultats ;
+déclaration, sous réserve de la procédure de régularisation prévue à l'article L. 68 ;
 
 3° Aux taxes sur le chiffre d'affaires, les personnes qui n'ont pas déposé dans le délai légal les déclarations qu'elles sont
-tenues de souscrire en leur qualité de redevables des taxes.
+tenues de souscrire en leur qualité de redevables des taxes ;
 
 4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont pas déposé une déclaration ou qui n'ont pas
 présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
-prévue à l'article L. 67.
+prévue à l'article L. 67 ;
+
+5° Aux taxes assises sur les salaires, les personnes assujetties à ces taxes qui n'ont pas déposé dans le délai légal les
+déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue l'article L. 68."
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 150 S
-	  - CGI L67
+	  - CGI Livre des procédures fiscales L67, L68
 
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 67 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
+	  - Loi n°86-1317 1986-12-30 art. 81-II Finances pour 1987 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
 
 	**Cité par**:
 
@@ -9273,33 +9529,6 @@ régularisé sa situation dans les trente jours de la notification d'une premiè
 	  - Livre des procédures fiscales - art. L21 B (V)
 	  - Livre des procédures fiscales - art. L66 (V)
 	  - Livre des procédures fiscales - art. L76 (VD)
-
-
-###### Article L68
-
-Il n'y a pas lieu de procéder à la mise en demeure prévue à l'article L. 67 :
-
-a) Si le contribuable change fréquemment de lieu de séjour ou séjourne dans des locaux d'emprunt ou des locaux meublés ;
-
-b) Si le contribuable a transféré son domicile fiscal à l'étranger sans déposer sa déclaration de revenus ;
-
-c) Si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 179 A (AL. 3)
-	  - Loi n°77-1453 1977-12-29 ART. 3 III
-
-	**Cite**:
-
-	  - CGI L68
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L66 (V)
-	  - Livre des procédures fiscales - art. L73 (V)
 
 
 ###### Article L71
@@ -9424,41 +9653,6 @@ l'article L. 16 A.
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
 
 
-###### Article L75
-
-Les bénéfices ou les éléments qui servent au calcul des taxes sur le chiffre d'affaires déclarés par les contribuables,
-peuvent être rectifiés d'office dans les cas suivants :
-
-a) En cas de défaut de présentation de la comptabilité ou des documents en tenant lieu ;
-
-b) Lorsque des erreurs, omissions ou inexactitudes graves et répétées sont constatées dans la comptabilisation des opérations
-effectuées par les contribuables ;
-
-c) Lorsque l'absence de pièces justificatives prive la comptabilité ou les documents en tenant lieu de toute valeur probante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 104 (AL. 2)
-	  - CGI 287 A (AL. 1)
-	  - CGI 58 (AL. 1)
-	  - CGI 98 (AL. 4)
-	  - Décret n°1934-07-20 ANNEXE ART. 18 (AL. DERNIER) (LOI 1934-07-06 ART. 13)
-	  - Décret n°48-1986 1948-12-09 ART. 9, ART. 85 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Loi n°1917-07-31 ART. 10
-	  - Loi n°1926-04-04 ART. 9
-	  - Loi n°77-1453 1977-12-29 ART. 3 I 2
-
-	**Abrogé par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81 I Finances pour 1987 JORF 31 décembre 1986
-
-	**Cité par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 81 (V)
-
-
 ###### Article L76
 
 Les bases ou les éléments servant au calcul des impositions d'office sont portés à la connaissance du contribuable, trente
@@ -9521,6 +9715,38 @@ la déclaration.
 	**Abrogé par**:
 
 	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
+
+
+#### SANCTIONS FISCALES.
+
+###### Article L80 E
+
+La décision d'appliquer les majorations ou l'amende prévues aux articles 1729 et 1731 du code général des impôts est prise
+par un agent ayant au moins le grade d'inspecteur principal qui vise à cet effet le document comportant la motivation des
+pénalités. "
+
+(Le régime des sanctions fiscales a été profondément modifié par l'article 2 de la loi n° 87-502 du 8 juillet 1987 modifiant
+les procédures fiscales et douanières).
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1729
+	  - CGI 1731
+	  - Loi n°87-502 du 8 juillet 1987 - art. 2, v. init.
+
+	**Créé par**:
+
+	  - Loi n°86-1317 1986-12-30 art. 81 IV Finances pour 1987 JORF 31 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-940 1987-11-23
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R80 E-1 (V)
 
 
 ### LE DROIT DE COMMUNICATION
@@ -10013,35 +10239,31 @@ conditions fixées par décret.
 	  - Livre des procédures fiscales - art. R*208-3 (V)
 
 
-## LE RECOUVREMENT DE L'IMPOT
+## CONTENTIEUX DE L'IMPOT
 
-### LES PROCEDURES DE RECOUVREMENT.
+### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT
 
-###### Article L252
+#### PROCEDURE DEVANT LES TRIBUNAUX.
 
-Le recouvrement des impôts est confié soit aux comptables du Trésor, soit aux comptables de la direction générale des impôts
-par arrêté du ministre chargé des finances [*compétence*].
+###### Article L199 C
+
+Dans la limite du dégrèvement ou de la restitution sollicités, le contribuable peut faire valoir tout moyen nouveau, tant
+devant le tribunal administratif que devant le Conseil d'Etat, jusqu'à la clôture de l'instruction. "
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°48-1986 1948-12-09 ART. 270 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Décret n°62-1587 1962-12-29 ART. 67 (AL. DERNIER)
-	  - CGI 1907
+	  - Loi n°86-1317 1986-12-30 art. 81 III Finances pour 1987 JORF 31 décembre 1986
 
-	**Cité par**:
+	**Codifié par**:
 
-	  - Loi n°86-1318 du 30 décembre 1986 - art. 26 (P)
-	  - Arrêté du 26 mars 2009 (V)
-	  - Arrêté du 16 avril 2009 (V)
-	  - Arrêté du 12 octobre 2009 (V)
-	  - Arrêté du 13 novembre 2009 (V)
-	  - Code du domaine de l'Etat - art. L79 (Ab)
-	  - Code général de la propriété des personnes publ... - art. L2321-1 (V)
-	  - Code général des impôts, CGI. - art. 1929 ter (VD)
-	  - Livre des procédures fiscales - art. L281 (V)
+	  - Décret n°87-940 1987-11-23
 
+
+## LE RECOUVREMENT DE L'IMPOT
+
+### LES PROCEDURES DE RECOUVREMENT.
 
 #### MODALITES DE RECOUVREMENT ET MESURES PREALABLES AUX POURSUITES.
 
@@ -10074,38 +10296,6 @@ donner lieu à des frais et procédant d'une contrainte administrative [*formali
 
 
 #### MESURES PARTICULIERES
-
-###### Article L270
-
-Pour assurer le recouvrement des impositions établies par voie de taxation d'office dans les conditions prévues aux articles
-L. 66 à L. 71 au nom de personnes qui changent fréquemment de lieu de séjour ou qui séjournent dans des locaux d'emprunt ou
-des locaux meublés, les trésoriers-payeurs généraux sont autorisés, dès réception du rôle et avant l'envoi de tout avis
-d'imposition au contribuable, mais après avis de la commission départementale des chefs des services financiers et des
-représentants des organismes de sécurité sociale, à faire prendre des sûretés sur tous les biens et avoirs du contribuable
-et, notamment, à faire procéder au blocage de tous comptes courants de dépôts ou d'avances ouverts à l'intéressé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1844 bis
-	  - Loi n°53-79 1953-02-07 ART. 23 (AL. 1, AL. 2 AL. DERNIER)
-	  - Décret n°78-486 du 31 mars 1978 - art. 1 (Ab)
-
-	**Cite**:
-
-	  - CGI L66
-	  - CGI L67
-	  - CGI L68
-	  - CGI L69
-	  - CGI L70
-	  - CGI L71
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L271 (Ab)
-	  - Livre des procédures fiscales - art. L273 (V)
-
 
 ###### Article L271
 
@@ -10191,59 +10381,6 @@ compétent.
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de justice administrative. - art. L552-2 (V)
-
-
-###### Article L279
-
-En matière d'impôts directs et de taxes sur le chiffre d'affaires, lorsque les garanties offertes par le contribuable ont été
-refusées, celui-ci peut, dans les huit jours de la réception de la lettre recommandée qui lui a été adressée par le
-comptable, porter la contestation, par simple demande écrite, devant le juge du référé administratif, qui est un membre du
-tribunal administratif désigné par le président de ce tribunal.
-
-Cette demande n'est recevable que si le redevable a consigné auprès du comptable, à un compte d'attente, une somme égale au
-quart des impôts contestés [*condition*].
-
-Le juge du référé [*autorité compétente*] décide dans le délai d'un mois si les garanties offertes répondent aux conditions
-prévues à l'article L. 277 et si, de ce fait, elles doivent être ou non acceptées par le comptable. Il peut également, dans
-le même délai, décider de dispenser le redevable de garanties autres que celles déjà constituées.
-
-Dans les huit jours suivant la décision du juge ou l'expiration du délai laissé à ce dernier pour statuer, le redevable et le
-comptable peuvent, par simple demande écrite, faire appel devant le tribunal administratif. Celui-ci, dans le délai d'un
-mois, décide si les garanties doivent être acceptées comme répondant aux conditions de l'article L. 277 ; à défaut de
-décision dans ce délai, la décision intervenue au premier degré est réputée confirmée.
-
-Pendant la durée de la procédure de référé, le comptable ne peut exercer sur les biens du redevable aucune action autre que
-les mesures conservatoires prévues à l'article L. 277.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1952 2
-	  - CGI 1953 (AL. 2 2me A 5EME LIGNES)
-	  - Loi n°59-1472 1959-12-28 ART. 97
-	  - Loi n°63-1316 1963-12-27 ART. 1 2 (AL. 2, AL. 3)
-
-	**Cite**:
-
-	  - CGI L277
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 167 bis (Ab)
-	  - Code de justice administrative. - art. L552-2 (V)
-	  - Livre des procédures fiscales - art. L16-0 BA (V)
-	  - Livre des procédures fiscales - art. L201 A (V)
-	  - Livre des procédures fiscales - art. L201 B (V)
-	  - Livre des procédures fiscales - art. L208 (V)
-	  - Livre des procédures fiscales - art. L252 B (VD)
-	  - Livre des procédures fiscales - art. L277 (V)
-	  - Livre des procédures fiscales - art. L279 A (V)
-	  - Livre des procédures fiscales - art. R*277-2 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de justice administrative - art. L552-1 (V)
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -11520,6 +11657,42 @@ impôts [*lieu*].
 
 ##### 1° : Délivrance de documents aux contribuables
 
+###### Article R106-1
+
+Les agents des impôts qui délivrent les extraits mentionnés à l'article L. 106 sont autorisés à percevoir :
+
+1° 0,40 F, pour recherches de chaque année indiquée, jusqu'à la sixième inclusivement, et 0,20 F pour chacune des autres
+années au-delà de la sixième, sans qu'en aucun cas la rémunération puisse, de ce chef, excéder 5 F ;
+
+2° Une somme calculée conformément au tarif des honoraires dus aux notaires à l'occasion de la délivrance d'expéditions aux
+particuliers, pour chaque extrait ou copie d'enregistrement ou d'acte déposé, outre, le cas échéant, le droit de timbre de
+dimension, tout rôle commencé étant dû en entier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-1318 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V) JORF 3 février 2001 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°2001-96 du 2 février 2001 - art. 4 (V)
+	  - HISTO: Edition du 10 août 1987
+	  - HISTO: Edition du 31 mars 2002
+
+	**Cité par**:
+
+	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L106 (M)
+
+
 ###### Article R107-1
 
 Les extraits mentionnés à l'article L. 107 donnent lieu, au profit des agents qui les délivrent, au paiement de 0,10 F par
@@ -12577,6 +12750,45 @@ apprécier la base comme président de la commission départementale des impôts
 	**Modifié par**:
 
 	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
+
+
+###### Article R*200-2
+
+Les requêtes sont adressées au greffe du tribunal administratif où elles sont enregistrées. Un accusé de réception est
+délivré aux personnes qui en font la demande.
+
+Elles doivent être signées de leur auteur et accompagnées de deux copies ou, éventuellement, d'un nombre de copies égal à
+celui des parties ayant un intérêt distinct, plus une.
+
+Lorsque les requêtes sont introduites au nom d'un contribuable par un mandataire, les dispositions de l'article R. 197-4 sont
+applicables.
+
+Elles doivent contenir explicitement l'exposé sommaire des faits et moyens, les conclusions, les nom et demeure du demandeur
+et être accompagnées, lorsqu'elles font suite à une décision de l'administration, de l'avis de notification de la décision
+contestée.
+
+Le demandeur ne peut contester devant le tribunal administratif des impositions différentes de celles qu'il a visées dans sa
+réclamation à l'administration.
+
+Les vices de forme prévus aux a, b, et d de l'article R. 197-3 a, b et d peuvent, lorsqu'ils ont motivé le rejet d'une
+réclamation par l'administration, être utilement couverts dans la demande adressée au tribunal administratif.
+
+Il en est de même pour le défaut de signature de la réclamation lorsque l'administration a omis d'en demander la
+régularisation dans les conditions prévues au c du même article.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-941 du 23 novembre 1987, v. init.
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de justice administrative - art. R431-6 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 866 (V)
 
 
 ###### Article R*200-3
@@ -15157,35 +15369,6 @@ désigner un mandataire dûment habilité.
 	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
 
 
-#### PROCEDURES D'IMPOSITION D'OFFICE
-
-###### Article R*75-1
-
-La décision de recourir à la procédure de rectification d'office prévue à l'article L. 75 est prise par un agent ayant au
-moins le grade d'inspecteur principal qui appose un visa sur la notification mentionnant les bases ou les éléments servant au
-calcul des impositions prévue à l'article L. 76.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 287 A (AL. 2)
-	  - CGI 58 (AL. 2)
-
-	**Cite**:
-
-	  - CGI L75
-	  - CGI L76
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°86-1317 1986-12-30 art. 86 1 Finances pour 1987 JORF 31 décembre 1986
-
-
 ### LE DROIT DE COMMUNICATION
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.
@@ -15262,40 +15445,6 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 	  - SPEC_APPLI: Loi n°88-70 du 22 janvier 1988 - art. 25 (Ab)
 
 
-### LE SECRET PROFESSIONNEL EN MATIERE FISCALE
-
-#### PORTEE ET LIMITES DE LA REGLE DU SECRET PROFESSIONNEL.
-
-###### Article R106-1
-
-Les agents des impôts qui délivrent les extraits mentionnés à l'article L. 106 sont autorisés à percevoir :
-
-1° 0,40 F, pour recherches de chaque année indiquée, jusqu'à la sixième inclusivement, et 0,20 F pour chacune des autres
-années au-delà de la sixième, sans qu'en aucun cas la rémunération puisse, de ce chef, excéder 5 F ; 
-
-2° Une somme calculée conformément au tarif des honoraires dus aux notaires à l'occasion de la délivrance d'expéditions aux
-particuliers, pour chaque extrait ou copie d'enregistrement ou d'acte déposé, outre, le cas échéant, le papier timbré, tout
-rôle commencé étant dû en entier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN3 448
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cité par**:
-
-	  - Décret n°2001-96 du 2 février 2001 - art. 3 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L106 (M)
-
-
 ## LE CONTENTIEUX DE L'IMPOT
 
 ### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE.
@@ -15358,51 +15507,6 @@ Si la base d'imposition retenue par l'administration excède celle résultant de
 ### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT
 
 #### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*
-
-###### Article R*200-2
-
-Les requêtes sont adressées au greffe du tribunal administratif où elles sont enregistrées. Un accusé de réception est
-délivré aux personnes qui en font la demande.
-
-Elles doivent être signées de leur auteur et accompagnées de deux copies ou, éventuellement, d'un nombre de copies égal à
-celui des parties ayant un intérêt distinct, plus une.
-
-Lorsque les requêtes sont introduites au nom d'un contribuable par un mandataire, les dispositions de l'article R. 197-4 sont
-applicables.
-
-Elles doivent contenir explicitement l'exposé sommaire des faits et moyens, les conclusions, les nom et demeure du demandeur
-et être accompagnées, lorsqu'elles font suite à une décision de l'administration, de l'avis de notification de la décision
-contestée.
-
-Le demandeur ne peut contester devant le tribunal administratif des impositions différentes de celles qu'il a visées dans sa
-réclamation à l'administration. Mais, dans la limite du dégrèvement ou de la restitution primitivement sollicités, il peut
-faire valoir toutes conclusions nouvelles à condition de les formuler explicitement dans sa demande introductive d'instance.
-
-Les vices de forme prévus aux a, b, et d de l'article R. 197-3 a, b et d peuvent, lorsqu'ils ont motivé le rejet d'une
-réclamation par l'administration, être utilement couverts dans la demande adressée au tribunal administratif.
-
-Il en est de même pour le défaut de signature de la réclamation lorsque l'administration a omis d'en demander la
-régularisation dans les conditions prévues au c du même article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R197-3
-	  - CGI R197-4
-
-	**Modifié par**:
-
-	  - Décret n°85-1049 du 26 septembre 1985 - art. 1 (V)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code de justice administrative - art. R431-6 (V)
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 866 (V)
-
 
 ###### Article R*200-18
 
