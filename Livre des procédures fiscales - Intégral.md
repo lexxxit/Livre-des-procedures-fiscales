@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-03-14
+Version Consolidée au 1986-07-12
 
 # Partie législative
 
@@ -3208,6 +3208,71 @@ dans les services des impôts de ce département.
 	  - HISTO: Edition du 1er juillet 1981
 
 
+##### Publicité de l'impôt.
+
+###### Article L111
+
+I - Une liste des personnes assujetties à l'impôt sur le revenu, ou à l'impôt sur les sociétés est dressée de manière à
+distinguer les deux impôts par commune pour les impositions établies dans son ressort.
+
+Cette liste est complétée par l'indication des personnes physiques ou morales non assujetties dans la commune à l'impôt sur
+le revenu ou à l'impôt sur les sociétés mais y possédant une résidence.
+
+La liste est tenue par la direction des services fiscaux à la disposition des contribuables qui relèvent de sa compétence
+territoriale. L'administration peut en prescrire l'affichage.
+
+Les contribuables qui ont plusieurs résidences, établissements ou exploitations, peuvent demander, en souscrivant leur
+déclaration, que leur nom soit communiqué aux directions des services fiscaux dont dépendent ces résidences, établissements
+ou exploitations.
+
+La liste concernant l'impôt sur le revenu est complétée, dans les conditions fixées par décret, par l'indication du nombre de
+parts retenu pour l'application du quotient familial, du revenu imposable, du montant de l'impôt mis à la charge de chaque
+redevable et du montant de l'avoir fiscal.
+
+L'administration recueille, chaque année, les observations et avis que la commission communale des impôts directs prévue à
+l'article 1650 du code général des impôts peut avoir à formuler sur ces listes.
+
+La publication ou la diffusion par tout autre moyen, soit des listes prévues ci-dessus, soit de toute indication se
+rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à
+l'article 1768 ter du code précité.
+
+II - Les créanciers d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter la liste mentionnée
+au I détenue par la direction des services fiscaux dans le ressort de laquelle l'imposition du débiteur est établie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1650
+	  - CGI 1768 TER
+
+	**Anciens textes**:
+
+	  - CGI 243
+	  - Loi n°46-2914 1946-12-23 ART. 38
+	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
+	  - Ordonnance 59-246 1959-02-04 ART. 9
+	  - Décret n°71-290 1971-04-15 ART. 5
+
+	**Cité par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1768 ter (Ab)
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+	  - Code général des impôts, CGI. - art. 1762 (V)
+	  - Code général des impôts, CGI. - art. 1772 (V)
+	  - Livre des procédures fiscales - art. R111-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+
 ##### Section II : Dérogations à la règle du secret professionnel
 
 ##### I : Dérogations en matière d'assistance fiscale internationale
@@ -4912,11 +4977,92 @@ articles L. 169 à L. 189, sauf dispositions contraires du code général des im
 	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (VD)
 
 
+###### Article L168 A
+
+Le droit de reprise mentionné aux articles L. 169, L. 176 et L. 180 [*délai*] s'exerce jusqu'à la fin de la quatrième année,
+dans les conditions prévues à ces articles :
+
+1° Aux vérifications pour lesquelles l'avis prévu à l'article L. 47 a été envoyé ou remis avant le 2 juillet 1986 [*date*];
+
+2° Aux notifications de redressement adressées avant le 2 janvier 1987 lorsqu'elles ne sont pas consécutives à une
+vérification visée à l'article L. 47.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L169
+	  - CGI L176
+	  - CGI L180
+
+	**Créé par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1086 1986-10-07
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L169 (V)
+	  - Livre des procédures fiscales - art. L176 (V)
+
+
 ##### Section I : Impôts directs et taxes assimilées
 
 ##### I : Impôts directs d'État
 
 ##### A : Dispositions générales
+
+###### Article L169
+
+Pour l'impôt sur le revenu et l'impôt sur les sociétés, le droit de reprise de l'administration des impôts s'exerce, sauf
+application de l'article L 168 A, jusqu'à la fin de la troisième année qui suit celle au titre de laquelle l'imposition est
+due [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°86-824 1986-07-11 art. 18 I, IV finances rectificative pour 1986 JORF 12 juillet 1986
+	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+	**Cité par**:
+
+	  - Arrêté du 16 octobre 2009 - art. Annexe (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
+	  - Arrêté du 22 septembre 2011 - art. 5 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 74 P (Ab)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 90 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1768 bis (Ab)
+	  - Code général des impôts, CGI. - art. 235 ter XA (V)
+	  - Code général des impôts, CGI. - art. 293 B (V)
+	  - Code général des impôts, CGI. - art. 302 septies A ter B (M)
+	  - Code général des impôts, CGI. - art. 38 (VT)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L bis (P)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 W bis (P)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 81 (V)
+	  - Livre des procédures fiscales - art. L102 B (VD)
+	  - Livre des procédures fiscales - art. L168 (V)
+	  - Livre des procédures fiscales - art. L169 A (V)
+	  - Livre des procédures fiscales - art. L171 (V)
+	  - Livre des procédures fiscales - art. L171-0 A (V)
+	  - Livre des procédures fiscales - art. L172 (V)
+	  - Livre des procédures fiscales - art. L173 (V)
+	  - Livre des procédures fiscales - art. L176 (VD)
+	  - Livre des procédures fiscales - art. L52 (V)
+	  - Livre des procédures fiscales - art. R*169 B-1 (P)
+
+	**Cite**:
+
+	  - CGI L168 A
+	  - CGI L185
+
 
 ###### Article L169 A
 
@@ -5285,6 +5431,46 @@ impôts.
 
 ##### Section II : Taxes sur le chiffre d'affaires
 
+###### Article L176
+
+Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce, sauf application de l'article L
+168 A, [*délai*] jusqu'à la fin de la troisième année suivant celle au cours de laquelle la taxe est devenue exigible
+conformément aux dispositions de l'article 269-2 du code général des impôts.
+
+Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
+s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés [*point de départ*] et s'achève le
+31 décembre de la troisième année suivant celle au cours de laquelle se termine cette période.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 269 2
+	  - CGI L168 A
+	  - CGI L185
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 2011 - art. 5 (V)
+	  - Code de la construction et de l'habitation. - art. R452-25-4 (V)
+	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
+	  - Code général des impôts, CGI. - art. 302 bis K (V)
+	  - Livre des procédures fiscales - art. L172 A (V)
+	  - Livre des procédures fiscales - art. L177 A (MMN)
+	  - Livre des procédures fiscales - art. L178 (V)
+	  - Livre des procédures fiscales - art. L182 (V)
+	  - Livre des procédures fiscales - art. L51 (VD)
+	  - Livre des procédures fiscales - art. R*172 B-1 (P)
+
+
 ###### Article L177
 
 En ce qui concerne la taxe sur la valeur ajoutée déductible dans les conditions fixées par l'article 271 du code général des
@@ -5384,6 +5570,48 @@ peut être présentée à l'administration après expiration d'un délai de deux
 	**Modifié par**:
 
 	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+
+##### Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilées
+
+##### I : Dispositions générales.
+
+###### Article L180
+
+Pour les droits d'enregistrement, la taxe de publicité foncière, les droits de timbre, ainsi que les taxes, redevances et
+autres impositions assimilées, le droit de reprise de l'administration s'exerce, sauf application de l'article L 168 A,
+jusqu'à l'expiration de la troisième année suivant celle de l'enregistrement d'un acte ou d'une déclaration ou de
+l'accomplissement de la formalité fusionnée définie à l'article 647 du code général des impôts.
+
+Toutefois, ce délai n'est opposable à l'administration que si l'exigibilité des droits et taxes a été suffisamment révélée
+par le document enregistré ou présenté à la formalité, sans qu'il soit nécessaire de procéder à des recherches ultérieures.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 647
+	  - CGI Livre des procédures fiscales L168 A
+
+	**Modifié par**:
+
+	  - Loi n°86-824 1986-07-11 art. 18 I, IV Finances rectificative pour 1986 JORF 12 juillet 1986
+	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 juillet 1986
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L172 C (V)
+	  - Livre des procédures fiscales - art. L181 (V)
+	  - Livre des procédures fiscales - art. L181-0 A (V)
+	  - Livre des procédures fiscales - art. L181-0 B (V)
 
 
 ##### Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilés
@@ -8279,11 +8507,28 @@ A l'occasion de cette vérification, l'administration peut contrôler la cohére
 d'autre part, la situation patrimoniale, la situation de trésorerie et les éléments du train de vie dES MEMBRES DU FOYER
 FISCAL.
 
+Sous peine de nullité de l'imposition, cette vérification approfondie ne peut s'étendre sur une période supérieure à un an,
+comptée à partir de la réception ou de la remise de l'avis de vérification prévu à l'article L. 47 (1).
+
+Toutefois, la limite prévue à l'alinéa précédent n'est pas applicable lorsque le contribuable a eu recours à des manoeuvres
+frauduleuses, lorsqu'il ne produit pas ses relevés de compte dans un délai de soixante jours à compter de la demande de
+l'administration, lorsqu'il a obtenu des délais complémentaires pour répondre aux demandes de justification prévues à
+l'article L. 16, lorsqu'il a perçu des revenus à l'étranger ou en provenance directe de l'étranger.
+
+(1) Disposition applicable aux vérifications pour lesquelles l'avis de vérification prévu à l'article L 47 est envoyé et
+remis aprés le 1er juillet 1986.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°75-1278 du 30 décembre 1975 - art. 67, v. init.
+	  - CGI L16
+	  - CGI L47
+
+	**Modifié par**:
+
+	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
+	  - loi 86-824 1986-07-11 art. 18 III, IV finances rectificative pour 1986 JORF 12 juillet 1986
 
 	**Cité par**:
 
@@ -8318,7 +8563,7 @@ mentionnés à l'article 125 A-III bis-2° du code général des impôts, ou de 
 d'émission, lorsqu'il n'avait pas communiqué son identité et son domicile fiscal à l'établissement payeur dans les conditions
 prévues au 4° et 6° du III bis du même article. Il en va de même pour les ventes d'or monnayé ou d'or en barres ou en lingots
 de poids et de titres admis par la Banque de France, lorsque l'identité et le domicile du vendeur n'avaient pas été
-enregistrés par l'intermédiaire dans les conditions prévues par l'article 211 A de l'annexe III au code général des impôts.
+enregistrés par l'intermédiaire ou lorsqu'elles ne sont pas attestées par la comptabilité de l'intermédiaire.
 
 Les demandes visées aux alinéas précédents doivent indiquer explicitement les points sur lesquels elles portent et fixer à
 l'intéressé, pour fournir sa réponse, un délai qui ne peut être inférieur au délai de trente jours prévu à l'article L. 11.
@@ -8331,9 +8576,13 @@ l'étranger ou encaissés à l'étranger.
 
 	**Cite**:
 
+	  - CGI 120 à CGI 123
+	  - CGI 125 A III bis 2°, 4°, 6°
 	  - CGI 156
+	  - CGI 157
 	  - CGI 199 septies
 	  - CGI 199 sexies
+	  - CGI L11
 
 	**Cité par**:
 
@@ -8345,7 +8594,7 @@ l'étranger ou encaissés à l'étranger.
 
 	**Modifié par**:
 
-	  - Loi n°84-1208 1984-12-29 art. 95 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+	  - Loi n°86-824 du 11 juillet 1986 - art. 27 () JORF 12 juillet 1986
 
 
 ###### Article L17
@@ -9236,73 +9485,6 @@ Le secret s'étend à toutes les informations recueillies à l'occasion de ces o
 	  - Code pénal 378
 
 
-###### Article L111
-
-I - Une liste des personnes assujetties à l'impôt sur le revenu, à l'impôt sur les sociétés ou à l'impôt sur les grandes
-fortunes est dressée de manière à distinguer les trois impôts par commune pour les impositions établies dans son ressort.
-
-Cette liste est complétée par l'indication des personnes physiques ou morales non assujetties dans la commune à l'impôt sur
-le revenu ou à l'impôt sur les sociétés mais y possédant une résidence.
-
-La liste est tenue par la direction des services fiscaux à la disposition des contribuables qui relèvent de sa compétence
-territoriale. L'administration peut en prescrire l'affichage.
-
-Les contribuables qui ont plusieurs résidences, établissements ou exploitations, peuvent demander, en souscrivant leur
-déclaration, que leur nom soit communiqué aux directions des services fiscaux dont dépendent ces résidences, établissements
-ou exploitations.
-
-La liste concernant l'impôt sur le revenu est complétée, dans les conditions fixées par décret, par l'indication du nombre de
-parts retenu pour l'application du quotient familial, du revenu imposable, du montant de l'impôt mis à la charge de chaque
-redevable et du montant de l'avoir fiscal.
-
-Pour l'impôt sur les grandes fortunes, la liste est complétée par l'indication de la valeur du patrimoine déclaré et du
-montant de l'impôt mis à la charge de chaque redevable.
-
-L'administration recueille, chaque année, les observations et avis que la commission communale des impôts directs prévue à
-l'article 1650 du code général des impôts peut avoir à formuler sur ces listes.
-
-La publication ou la diffusion par tout autre moyen, soit des listes prévues ci-dessus, soit de toute indication se
-rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à
-l'article 1768 ter du code précité.
-
-II - Les créanciers d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter la liste mentionnée
-au I détenue par la direction des services fiscaux dans le ressort de laquelle l'imposition du débiteur est établie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1650
-	  - CGI 1768 TER
-
-	**Anciens textes**:
-
-	  - CGI 243
-	  - Loi n°46-2914 1946-12-23 ART. 38
-	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Ordonnance 59-246 1959-02-04 ART. 9
-	  - Décret n°71-290 1971-04-15 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Cité par**:
-
-	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
-	  - Loi n°90-669 du 30 juillet 1990 - art. 56 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1768 ter (Ab)
-	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
-	  - Code général des impôts, CGI. - art. 1762 (V)
-	  - Code général des impôts, CGI. - art. 1772 (V)
-	  - Livre des procédures fiscales - art. R111-1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 114 () JORF 30 décembre 1983
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
-
-
 #### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
 
 ###### Article L113
@@ -9368,53 +9550,6 @@ l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
 
 
-###### Article L167
-
-L'épouse du contribuable peut :
-
-a) Avoir communication auprès du service des impôts des documents produits par le contribuable ou auxquels ce dernier aurait
-lui-même accès ;
-
-b) Se faire délivrer un extrait de rôle ou un bordereau de situation des cotisations d'impôt sur le revenu.
-
-Ces dispositions sont applicables aux périodes d'imposition commune des époux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°80-30 1980-01-18 ART. 82 II, III
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 décembre 1982
-	  - PEREMPTION: Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986 : dispositions devenues sans objet
-
-
-###### Article L167 A
-
-Les dispositions de l'article L. 167 sont applicables en matière d'impôt sur les grandes fortunes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L167
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Créé par**:
-
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°82-1126 du 29 décembre 1982 - art. 2 (V) JORF 30 décembre 1982
-	  - PEREMPTION: Loi n°86-824 du 11 juillet 1986 - art. 24 () JORF 12 juillet 1986 : dispositions devenues sans objet
-
-
 ##### DEROGATIONS AU PROFIT DE CERTAINES ADMINISTRATIONS, AUTORITES ADMINISTRATIVES, COLLECTIVITES, SERVICES ET ORGANISMES PUBLICS.
 
 ###### Article L135 C
@@ -9444,132 +9579,7 @@ renseignements nécessaires à la mise en oeuvre des procédures prévues par l'
 
 ### LES DELAIS DE PRESCRIPTION
 
-#### IMPOTS DIRECTS ET TAXES ASSIMILEES.
-
-###### Article L169
-
-Pour l'impôt sur le revenu et l'impôt sur les sociétés, le droit de reprise de l'administration des impôts s'exerce jusqu'à
-la fin de la quatrième année qui suit celle au titre de laquelle l'imposition est due (1) [*délai*].
-
-(1) Voir toutefois, art. L. 185
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Décret n°48-1986 1948-12-09 art. 115
-	  - Loi n°63-1316 1963-12-27 art. 15 1
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-	  - CGI 1966 1
-	  - Code de la construction L313-4
-	  - Décret n°1948-12-09 art. 322 1, art. 2102 1
-	  - Loi n°1917-07-31 art. 54
-
-	**Cité par**:
-
-	  - Arrêté du 16 octobre 2009 - art. Annexe (V)
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
-	  - Arrêté du 22 septembre 2011 - art. 5 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 74 P (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 90 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1768 bis (Ab)
-	  - Code général des impôts, CGI. - art. 235 ter XA (V)
-	  - Code général des impôts, CGI. - art. 293 B (V)
-	  - Code général des impôts, CGI. - art. 302 septies A ter B (M)
-	  - Code général des impôts, CGI. - art. 38 (VT)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 L bis (P)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 W bis (P)
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 81 (V)
-	  - Livre des procédures fiscales - art. L102 B (VD)
-	  - Livre des procédures fiscales - art. L168 (V)
-	  - Livre des procédures fiscales - art. L169 A (V)
-	  - Livre des procédures fiscales - art. L171 (V)
-	  - Livre des procédures fiscales - art. L171-0 A (V)
-	  - Livre des procédures fiscales - art. L172 (V)
-	  - Livre des procédures fiscales - art. L173 (V)
-	  - Livre des procédures fiscales - art. L176 (VD)
-	  - Livre des procédures fiscales - art. L52 (V)
-	  - Livre des procédures fiscales - art. R*169 B-1 (P)
-
-	**Cite**:
-
-	  - CGI L185
-
-
-#### TAXES SUR LE CHIFFRE D'AFFAIRES.
-
-###### Article L176
-
-Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce jusqu'à la fin de la quatrième
-année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux dispositions de l'article 269-2 du
-code général des impôts.
-
-Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
-s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés [*point de départ*] et s'achève le
-31 décembre de la quatrième année suivant celle au cours de laquelle se termine cette période (1).
-
-(1) Voir toutefois, art. L. 185.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1968 1 (SAUF 4eme LIGNE)
-	  - Loi n°63-1316 1963-12-27 ART. 15 3 (AL. 1)
-	  - Loi n°66-10 1966-01-06 ART. 38, ART. 54
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-
-	**Cite**:
-
-	  - CGI 269 2
-	  - CGI L185
-
-	**Cité par**:
-
-	  - Arrêté du 22 septembre 2011 - art. 5 (V)
-	  - Code de la construction et de l'habitation. - art. R452-25-4 (V)
-	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
-	  - Code général des impôts, CGI. - art. 302 bis K (V)
-	  - Livre des procédures fiscales - art. L172 A (V)
-	  - Livre des procédures fiscales - art. L177 A (MMN)
-	  - Livre des procédures fiscales - art. L178 (V)
-	  - Livre des procédures fiscales - art. L182 (V)
-	  - Livre des procédures fiscales - art. L51 (VD)
-	  - Livre des procédures fiscales - art. R*172 B-1 (P)
-
-
 #### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.
-
-###### Article L180
-
-Pour les droits d'enregistrement, la taxe de publicité foncière, les droits de timbre, ainsi que les taxes, redevances et
-autres impositions assimilées, le droit de reprise de l'administration s'exerce, sauf application de l'article L 168 A,
-jusqu'à l'expiration de la quatrième année suivant celle de l'enregistrement d'un acte ou d'une déclaration ou de
-l'accomplissement de la formalité fusionnée définie à l'article 647 du code général des impôts.
-
-Toutefois, ce délai [*de reprise*] n'est opposable à l'administration que si l'exigibilité des droits et taxes a été
-suffisamment révélée par le document enregistré ou présenté à la formalité, sans qu'il soit nécessaire de procéder à des
-recherches ultérieures.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 647
-	  - CGI L168 A
-
-	**Modifié par**:
-
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L172 C (V)
-	  - Livre des procédures fiscales - art. L181 (V)
-	  - Livre des procédures fiscales - art. L181-0 A (V)
-	  - Livre des procédures fiscales - art. L181-0 B (V)
-
 
 ###### Article L182
 
