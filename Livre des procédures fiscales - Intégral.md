@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-07-13
+Version Consolidée au 1982-07-31
 
 # Partie législative
 
@@ -10298,6 +10298,47 @@ nécessaires à l'accomplissement des missions pour lesquelles elles sont consen
 	  - Livre des procédures fiscales - art. L114 (V)
 
 
+##### I : Dérogations en matière d'assistance fiscale internationale
+
+###### Article R*114 A-3
+
+L'administration française utilise les renseignements reçus de l'administration d'un autre Etat membre de la communauté
+économique européenne [*CEE*] dans les conditions et limites prévues aux articles L. 103 et suivants.
+
+Toutefois, sur demande de l'administration de l'autre Etat, elle respecte les conditions plus strictes prévues à des fins
+internes par la législation de cet Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L103 ET S.
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-661 du 28 juillet 1982 - art. 3 (V) JORF 31 JUILLET 1982
+
+
+###### Article R*114 A-4
+
+Si l'administration qui fournit les renseignements l'y autorise, l'administration française peut communiquer ces
+renseignements à l'administration d'un autre Etat membre de la communauté économique européenne [*CEE*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-661 du 28 juillet 1982 - art. 4 (V) JORF 31 JUILLET 1982
+
+
 #### Chapitre IV : Les délais de prescription
 
 ##### Section I : Impôts directs et taxes assimilées
@@ -12941,6 +12982,35 @@ c) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2.
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
+
+
+#### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
+
+###### Article R*114 A-5
+
+Les dispositions du décret n° 79-1025 du 28 novembre 1979, autres que celles du paragraphe 3 de l'article 4 et de l'article
+22 concernant les limites de l'échange de renseignements, sont étendues à l'assistance mutuelle en matière de recouvrement de
+la taxe sur la valeur ajoutée et de toutes sommes accessoires instituée par l'article 11-II de la loi n° 81-1179 du 31
+décembre 1981.
+
+Toutefois les attributions dévolues à la commission interministérielle instituée par l'article 3 du décret susvisé sont
+exercées par le service de la législation fiscale, en ce qui concerne la taxe sur la valeur ajoutée et les sommes accessoires
+dont le recouvrement incombe aux comptables de la direction générale des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°79-1025 1979-11-28 ART. 2, ART. 4 PAR. 3, ART. 22
+	  - Loi n°81-1179 1981-12-31 ART. 11 II FINANCES RECTIFICATIVE POUR 1981
+
+	**Créé par**:
+
+	  - Décret n°82-661 1982-07-28 ART. 5 JORF 31 JUILLET 1982
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
 
 
 ## LE CONTENTIEUX DE L'IMPOT
