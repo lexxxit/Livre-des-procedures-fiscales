@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-07-15
+Version Consolidée au 1985-07-19
 
 # Partie législative
 
@@ -3823,6 +3823,45 @@ de la formation professionnelle continue les renseignements nécessaires à l'ac
 	**Créé par**:
 
 	  - loi 84-130 1984-02-24 art. 43 JORF 25 février 1984
+
+
+###### Article L135 B
+
+Les services de l'Etat, les collectivités locales et les établissements publics à caractère administratif peuvent se faire
+communiquer par l'administration fiscale les éléments d'information que celle-ci détient au sujet des valeurs foncières
+déclarées à l'occasion des mutations intervenues dans les cinq dernières années et qui sont nécessaires à l'exercice de leurs
+compétences en matière de politique foncière et d'aménagement. Cette administration ne peut, dans ce cas, se prévaloir de la
+règle du secret.
+
+Ces dispositions ne font pas échec au secret de la défense nationale.
+
+Les personnes qui, en application du présent article, sont appelées à connaître de ces informations, sont elles-mêmes
+soumises au secret professionnel, dans les termes de l'article 378 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (V)
+	  - Arrêté du 8 mars 1996 - art. 5 (V)
+	  - Arrêté du 19 juin 1996 - art. 5 (V)
+	  - Arrêté du 25 août 2010 - art. 2 (V)
+	  - Arrêté du 29 février 2016 - art. 2 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 76 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L322-10 (VD)
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+	  - Livre des procédures fiscales - art. L107 B (VT)
+	  - Livre des procédures fiscales - art. L113 (VT)
+	  - Livre des procédures fiscales - art. L135 J (V)
+	  - Livre des procédures fiscales - art. R*135 B-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°85-729 du 18 juillet 1985 - art. 14 () JORF 19 juillet 1985
+
+	**Cite**:
+
+	  - Code pénal 378
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -8983,7 +9022,7 @@ au I détenue par la direction des services fiscaux dans le ressort de laquelle 
 Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
-Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 126, L. 127, L. 130, L. 135, L. 136,
+Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 136,
 L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans les termes de l'article
 378 du code pénal.
 
@@ -8991,9 +9030,9 @@ L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au sec
 
 	**Cite**:
 
+	  - CGI 135 B
 	  - CGI L123
 	  - CGI L124
-	  - CGI L126
 	  - CGI L127
 	  - CGI L130
 	  - CGI L135
@@ -9008,12 +9047,11 @@ L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au sec
 
 	**Modifié par**:
 
-	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 décembre 1981 en vigueur le 1er janvier 1982
-	  - Loi n°85-17 du 4 janvier 1985 - art. 14 () JORF 5 janvier 1985
+	  - Loi n°85-729 du 18 juillet 1985 - art. 14 () JORF 19 juillet 1985
 
 	**Codifié par**:
 
-	  - Décret n°85-1008 1985-09-24
+	  - Décret n°86-1087 1986-10-07
 
 	**Cité par**:
 
