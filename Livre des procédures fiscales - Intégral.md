@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1987-07-09
+Version Consolidée au 1987-07-19
 
 # Partie législative
 
@@ -11047,6 +11047,28 @@ observations dans un délai de trente jours à compter de la réception de la no
 	  - HISTO: Edition du 1er juillet 1981
 
 
+###### Article R*59 B-1
+
+Lorsque le litige est soumis à la commission départementale de conciliation, en application de l'article L. 59 B, les
+contribuables intéressés sont convoqués trente jours au moins avant la date de la réunion. Ils sont invités à se faire
+entendre ou à faire parvenir leurs observations écrites. Ils peuvent se faire assister par une personne de leur choix ou
+désigner un mandataire dûment habilité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-552 1987-07-17 art. 3 JORF 19 juillet 1987
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L59 B (V)
+
+
 ###### Article R*59-1
 
 Lorsqu'il est fait application de l'article L. 59, l'administration notifie l'avis de la commission [*départementale des
@@ -11066,6 +11088,30 @@ Elle l'informe en même temps du chiffre qu'elle se propose de retenir comme bas
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
+
+
+###### Article R*60-1
+
+Lorsque le litige est soumis à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires, en
+application de l'article L. 59 A, le contribuable est convoqué trente jours au moins avant la date de la réunion. Le rapport
+et les documents mentionnés à l'article L. 60 doivent être tenus à sa disposition, au secrétariat de la commission, pendant
+le délai de vingt jours qui précède la réunion de cette commission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L59 A
+	  - CGI L60
+
+	**Modifié par**:
+
+	  - Décret n°87-552 1987-07-19 art. 4 JORF 19 juillet 1987
+
+	**Liens**:
+
+	  - HISTO: Edition du 10 août 1987
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
 
 
 ###### Article R*60-2
@@ -11310,6 +11356,51 @@ fiscaux.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L62 (M)
+
+
+##### III : Procédure spéciale de l'article 168 du code général des impôts
+
+###### Article R*63-1
+
+La décision de mettre en oeuvre les dispositions prévues à l'article L. 63 est prise par un agent ayant au moins le grade
+d'inspecteur principal qui vise à cet effet la notification de la proposition de redressement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 168
+	  - CGI L63
+
+	**Créé par**:
+
+	  - Décret n°87-552 1987-07-17 art. 1 JORF 19 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+
+##### IV : Procédure de l'abus de droit fiscal
+
+###### Article R*64-1
+
+La décision de mettre en oeuvre les dispositions prévues à l'article L. 64 est prise par un agent ayant au moins le grade
+d'inspecteur principal qui vise à cet effet la notification de la proposition de redressement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L64
+
+	**Créé par**:
+
+	  - Décret n°87-552 1987-07-17 art. 2 JORF 19 juillet 1987
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
 
 
 #### Chapitre II : Le droit de communication
@@ -12049,6 +12140,32 @@ recettes des impôts plus de trois années au-delà de l'année courante [*déla
 ### Titre III : Le contentieux de l'impôt
 
 #### Chapitre premier : Le contentieux de l'établissement de l'impôt et les dégrèvements d'office
+
+###### Article R*190-1
+
+Le contribuable qui désire contester tout ou partie d'un impôt qui le concerne doit d'abord adresser une réclamation au
+service territorial de l'administration des impôts dont dépend le lieu de l'imposition.    Toutefois, en matière de droits
+d'enregistrement ou de taxe de publicité foncière, les réclamations relatives à la valeur vénale réelle d'immeubles, de fonds
+de commerce et des marchandises neuves qui en dépendent, de clientèles, de droits à un bail ou au bénéfice d'une promesse de
+bail portant sur tout ou partie d'un immeuble, de navires et de bateaux, sont adressées au service du lieu de situation des
+biens ou d'immatriculation des navires et bateaux.    Lorsque des biens ne formant qu'une seule exploitation sont situés sur
+plusieurs circonscriptions, le service compétent est celui de la circonscription sur le territoire de laquelle se trouve le
+siège de l'exploitation ou, à défaut de siège, la partie des biens présentant le plus grand revenu d'après la matrice
+cadastrale.    " Lorsque l'imposition contestée a été établie à l'initiative d'un agent dépendant d'une direction régionale
+ou d'une direction spécialisée, la réclamation peut être adressée au directeur chargé de cette direction. "
+
+Les réclamations font l'objet d'un récépissé adressé au contribuable.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°87-552 1987-07-17 art. 5 JORF 19 juillet 1987
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*198-10 (V)
+
 
 ###### Article R*190-2
 
@@ -15317,49 +15434,6 @@ désignés à l'article R. 213-3.
 	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
 
 
-#### PROCEDURES DE REDRESSEMENT
-
-###### Article R*60-1
-
-Le rapport et les documents mentionnés à l'article L. 60 doivent être tenus à la disposition du contribuable au secrétariat
-de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires, pendant le délai de dix jours qui
-précède la réunion de cette commission [*obligation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1651 bis 1 (6ème LIGNE, 7ème LIGNE)
-
-	**Cite**:
-
-	  - CGI L60
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-##### PROCEDURE DE REDRESSEMENT CONTRADICTOIRE.
-
-###### Article R*59 B-1
-
-Lorsque le litige est soumis à la commission départementale de conciliation, en application de l'article L. 59 B, les
-contribuables intéressés sont convoqués vingt jours au moins avant la date de la réunion. Ils sont invités à se faire
-entendre ou à faire parvenir leurs observations écrites. Ils peuvent se faire assister par une personne de leur choix ou
-désigner un mandataire dûment habilité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L59 B
-
-	**Créé par**:
-
-	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
-
-
 ### LE DROIT DE COMMUNICATION
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION.
@@ -15400,39 +15474,6 @@ vigueur, les mots "agents de change" sont remplacés par "sociétés de bourse" 
 
 
 ## LE CONTENTIEUX DE L'IMPOT
-
-### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE.
-
-###### Article R*190-1
-
-Le contribuable qui désire contester tout ou partie d'un impôt qui le concerne doit d'abord adresser une réclamation au
-service territorial de l'administration des impôts dont dépend le lieu de l'imposition.
-
-Toutefois, en matière de droits d'enregistrement ou de taxe de publicité foncière, les réclamations relatives à la valeur
-vénale réelle d'immeubles, de fonds de commerce et des marchandises neuves qui en dépendent, de clientèles, de droits à un
-bail ou au bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble, de navires et de bateaux, sont adressées
-au service du lieu de situation des biens ou d'immatriculation des navires et bateaux.
-
-Lorsque des biens ne formant qu'une seule exploitation sont situés sur plusieurs circonscriptions, le service compétent est
-celui de la circonscription sur le territoire de laquelle se trouve le siège de l'exploitation ou, à défaut de siège, la
-partie des biens présentant le plus grand revenu d'après la matrice cadastrale.
-
-Les réclamations font l'objet d'un récépissé adressé au contribuable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1931
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. R*198-10 (V)
-
 
 ### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT
 
