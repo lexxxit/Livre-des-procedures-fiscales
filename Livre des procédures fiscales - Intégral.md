@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-01-01
+Version Consolidée au 1988-01-05
 
 # Partie législative
 
@@ -6903,6 +6903,37 @@ expressément mentionnés dans l'écrit ou la déclaration comme dépendant de l
 	  - Livre des procédures fiscales - art. L183 A (V)
 
 
+###### Article L182
+
+En ce qui concerne le droit de timbre sur les opérations de bourses de valeurs prévu à l'article 978 du code général des
+impôts, et la taxe sur les conventions d'assurance prévue à l'article 991 du même code, le droit de reprise de
+l'administration s'exerce dans le délai fixé par l'article L. 176 pour les taxes sur le chiffre d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1971 3
+	  - Loi n°63-1316 1963-12-27 art. 15 3 (al. 2)
+
+	**Cite**:
+
+	  - CGI 978, 991
+	  - Livre des procédures fiscales - art. L176 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1988
+
+	**Modifié par**:
+
+	  - Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
+
+	**Codifié par**:
+
+	  - Décret n°88-1002 1988-10-20
+
+
 ###### Article L183
 
 Pour le calcul du délai de prescription des droits et des peines encourues, la date des actes sous signature privée n'est
@@ -10347,74 +10378,7 @@ la déclaration.
 	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
-### LE DROIT DE COMMUNICATION
-
-#### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*.
-
-###### Article L93
-
-Les courtiers, les commissionnaires et toutes les personnes mentionnées à l'article 986 du code général des impôts, dont le
-commerce habituel consiste à recueillir des offres ou à livrer des marchandises et denrées faisant l'objet de transactions
-réglementées dans les bourses de commerce, doivent communiquer à l'administration, sur sa demande, les registres constituant
-le répertoire de leurs opérations.
-
-En outre, l'administration peut obtenir la communication des écrits par lesquels les vendeurs mettent des marchandises à la
-disposition des acheteurs. Ces écrits doivent être conservés pendant un délai de six ans à partir de la date de la dernière
-opération qu'ils relatent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2000 3
-	  - Loi n°1912-02-27 ART. 10 (AL. 3, AL. 4)
-	  - Loi n°63-1316 1963-12-27 ART. 55
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-
-	**Cite**:
-
-	  - CGI 986
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
-
-	**Liens**:
-
-	  - PEREMPTION: Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988
-
-
 ### LES DELAIS DE PRESCRIPTION
-
-#### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.
-
-###### Article L182
-
-En ce qui concerne le droit de timbre sur les opérations de bourses de valeurs prévu à l'article 978 du code général des
-impôts, le droit sur les opérations d'achat ou de vente de marchandises prévu à l'article 987, la surtaxe additionnelle sur
-les opérations concernant les céréales prévue à l'article 990 et la taxe sur les conventions d'assurance prévue à l'article
-991 du même code, le droit de reprise de l'administration s'exerce dans le délai fixé par l'article L. 176 pour les taxes sur
-le chiffre d'affaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1971 3
-	  - Loi n°63-1316 1963-12-27 ART. 15 3 (AL. 2)
-
-	**Cite**:
-
-	  - CGI 978
-	  - CGI 987
-	  - CGI 990
-	  - CGI 991
-	  - CGI L176
-
 
 #### IMPOT SUR LES GRANDES FORTUNES.
 
