@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-07-22
+Version Consolidée au 1984-07-24
 
 # Partie législative
 
@@ -67,6 +67,44 @@ f) La répartition du revenu imposable entre le bailleur et le métayer dans le 
 	**Abrogé par**:
 
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
+
+
+###### Article L2
+
+La décision de la commission départementale est notifiée par le président de la commission aux présidents des fédérations
+départementales de syndicats d'exploitants agricoles et à l'administration des impôts, lesquels peuvent faire appel de cette
+décision devant la commission centrale des impôts directs compétente pour les bénéfices agricoles prévue à l'article 1652 du
+code général des impôts. 
+
+Si la commission départementale n'a pas pris de décision dans les délais qui lui sont impartis, le président de cette
+commission en informe les présidents des fédérations départementales de syndicats d'exploitants agricoles et l'administration
+des impôts. 
+
+Dans le cas prévu à l'alinéa précédent, comme en cas d'appel, les bénéfices forfaitaires et les fermages sont fixés par la
+commission centrale. 
+
+Les représentants des fédérations départementales de syndicats agricoles intéressés et les représentants des syndicats des
+cultures spéciales sont convoqués et, s'ils en expriment le désir, entendus par la commission centrale des impôts directs.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 33
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1652
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 64 (M)
+	  - Livre des procédures fiscales - art. R*2-1 (V)
 
 
 ###### Article L3
@@ -579,6 +617,39 @@ Les mesures destinées à l'application du présent article sont fixées par dé
 	  - HISTO: Edition du 1er juillet 1981
 
 
+###### Article L20
+
+L'administration des impôts peut exiger des justifications au sujet de toutes les dettes déduites de l'actif d'une
+succession.
+
+Elle peut, dans tous les cas, exiger des héritiers et autres ayants droit la production d'une attestation certifiant
+l'existence d'une dette à l'époque de l'ouverture de la succession. Cette attestation, établie par le créancier sur papier
+non timbré et qui doit mentionner la dette de façon précise, ne peut être refusée par ce dernier, sous peine de dommages-
+intérêts, toutes les fois qu'elle est légitimement réclamée.
+
+Le créancier qui certifie l'existence d'une dette doit déclarer expressément connaître les peines prévues par l'article 1840
+F du code général des impôts en cas de fausse attestation.
+
+Toute dette constatée par acte authentique et non échue au jour de l'ouverture de la succession ne peut être écartée par
+l'administration tant que celle-ci n'a pas fait juger qu'elle n'avait pas d'existence réelle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1840 F
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 773 (V)
+	  - Code général des impôts, CGI. - art. 774 (V)
+	  - Livre des procédures fiscales - art. L21 (V)
+
+
 ###### Article L21
 
 Si les justifications produites à la suite des demandes prévues à l'article L. 20 sont estimées insuffisantes,
@@ -1053,6 +1124,33 @@ commerciales et les fraudes fiscales.
 	  - Livre des procédures fiscales - art. R36 B-1 (M)
 
 
+###### Article L36
+
+Les agents de l'administration des impôts ont seuls qualité pour procéder aux visites et vérifications chez les contribuables
+soumis à la législation sur les ouvrages d'or, d'argent et de platine, ainsi que chez les fondeurs et apprêteurs de ces
+métaux.
+
+Ces visites et vérifications ont lieu comme en matière de contributions indirectes et les agents peuvent se faire accompagner
+de l'essayeur.
+
+Les contribuables sont tenus de fournir, le cas échéant, les balances et les poids nécessaires pour effectuer les
+vérifications.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
+	  - Décret n°95-212 du 21 février 1995 - art. 2 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 275 bis C (M)
+	  - Code général des impôts, CGI. - art. 553 bis (P)
+	  - Livre des procédures fiscales - art. R36 B-1 (M)
+
+
 ###### Article L36 B
 
 (Voir R 36 B-1).
@@ -1142,6 +1240,30 @@ Les agents ainsi désignés sont tenus au secret professionnel dans les termes d
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L198 A (V)
+
+
+###### Article L45 C
+
+Les personnes assujetties à la taxe sur la valeur ajoutée [*TVA*] applicable aux produits repris aux tableaux B et C annexés
+à l'article 265 du code des douanes ne peuvent, pour l'ensemble de leurs opérations, opposer l'exception d'incompétence à
+l'encontre des agents de la direction générale des douanes et droits indirects ou de la direction générale des impôts qui
+contrôlent la régularité des déductions prévues par l'article 271 du code général des impôts et qui poursuivent la
+régularisation des déductions opérées indûment sur les taxes payées à l'une ou l'autre de ces administrations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 271
+	  - Code des douanes - art. 265 (M)
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 298 (V)
 
 
 ###### Article L46
@@ -1239,6 +1361,22 @@ des conjoints ou notifiés à l'un d'eux sont opposables de plein droit à l'aut
 
 ##### Section IV : Procédures de rectification
 
+###### Article L54 B
+
+La notification d'une proposition de redressement doit mentionner , sous peine de nullité, que le contribuable a la faculté
+de se faire assister d'un conseil de son choix pour discuter la proposition de redressement ou pour y répondre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI L58
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+
+
 ##### I : Procédure de redressement contradictoire
 
 ###### Article L57
@@ -1285,6 +1423,114 @@ motivation*].
 	  - Livre des procédures fiscales - art. L77 (V)
 	  - Livre des procédures fiscales - art. R*256-1 (V)
 	  - Livre des procédures fiscales - art. R*57-1 (V)
+
+
+###### Article L59
+
+Lorsque le désaccord persiste sur les redressements notifiés, l'administration, si le contribuable le demande, soumet le
+litige à l'avis soit de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à
+l'article 1651 du code général des impôts, soit de la commission départementale de conciliation prévue à l'article 667 du
+même code.
+
+Les commissions peuvent également être saisies à l'initiative de l'administration.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1651
+	  - CGI 667 2°
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+	  - TXT_ASSOCIE: Instruction 2002-08-09 13M-2-02
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales L59 A
+	  - Livre des procédures fiscales L59 B
+
+	**Cité par**:
+
+	  - Code de commerce - art. L641-3 (M)
+	  - Livre des procédures fiscales - art. L192 (VD)
+	  - Livre des procédures fiscales - art. L250 (V)
+	  - Livre des procédures fiscales - art. L76 (VD)
+	  - Livre des procédures fiscales - art. R*59-1 (V)
+	  - Loi n°87-502 du 8 juillet 1987 - art. 10 (V)
+
+
+###### Article L59 A
+
+La commission départementale des impôts directs et des taxes sur le chiffre d'affaires intervient : 
+
+1° Lorsque le désaccord porte soit sur le montant du bénéfice industriel et commercial, du bénéfice non commercial, du
+bénéfice agricole ou du chiffre d'affaires, déterminé selon un mode réel d'imposition, soit sur la valeur vénale des
+immeubles, des fonds de commerce, des parts d'intérêts, des actions ou des parts de sociétés immobilières servant de base à
+la taxe sur la valeur ajoutée [*TVA*], en application de l'article 257 (6° et 7°-1) du code général des impôts ;
+
+2° Lorsqu'il s'agit de différends portant sur l'application des articles 39 1 (1°) et 111 (d) du code général des impôts
+relatifs aux rémunérations non déductibles pour la détermination du bénéfice des entreprises industrielles ou commerciales,
+ou du 5 de l'article 39 du même code relatif aux dépenses que ces mêmes entreprises doivent mentionner sur le relevé prévu à
+l'article 54 quater du code précité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 111 d
+	  - CGI 257 6°, 7° 1
+	  - CGI 39 1 1°, 5
+
+	**Anciens textes**:
+
+	  - CGI L59 al. 3
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1651 C (V)
+	  - Code général des impôts, CGI. - art. 1651 K (V)
+	  - Livre des procédures fiscales - art. L250 (VD)
+	  - Livre des procédures fiscales - art. L59 C (V)
+	  - Livre des procédures fiscales - art. R*60-1 (VD)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+
+
+###### Article L59 B
+
+La commission départementale de conciliation intervient en cas d'insuffisance des prix ou évaluations ayant servi de base aux
+droits d'enregistrement ou à la taxe de publicité foncière dans les cas mentionnés au 2 de l'article 667 du code général des
+impôts ainsi qu'à l'impôt sur les grandes fortunes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 667 2°
+
+	**Anciens textes**:
+
+	  - CGI L59 al. 4
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*59 B-1 (V)
 
 
 ###### Article L60
@@ -1751,6 +1997,58 @@ poursuivre aucun rehaussement en soutenant une interprétation différente.
 
 ##### Section I : Définition et étendue du droit de communication
 
+###### Article L81
+
+Le droit de communication permet aux agents de l'administration des impôts, pour l'établissement de l'assiette et le contrôle
+des impôts, d'avoir connaissance des documents mentionnés aux articles L. 82 A à L. 96 dans les conditions qui y sont
+précisées.
+
+L'obligation prevue a l'alinea precedent est applicable quel que soit le support utilise pour la conservation des documents,
+y compris lorsqu'il est magnétique (1).
+
+Ce droit est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des agents des
+administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts.
+
+(1) Disposition de caractére interprétatif (loi n° 82-1126 du 29 décembre 1982, art. 75).
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 90 (V)
+	  - Décret n°93-309 du 9 mars 1993 - art. 19 (V)
+	  - Décret n°2000-8 du 4 janvier 2000 - art. 2 (V)
+	  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
+	  - Décret n°2006-369 du 28 mars 2006 - art. 24 (V)
+	  - Décret n°2006-1723 du 23 décembre 2006 - art. 2 (Ab)
+	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (M)
+	  - Décret n°2010-1023 du 1 septembre 2010 - art. 4 (Ab)
+	  - Arrêté du 13 septembre 2013 - art. 4 (V)
+	  - Arrêté du 29 février 2016 - art. 6 (V)
+	  - Décret n°2015-531 du 12 mai 2015 (V)
+	  - Décret n°2015-1091 du 28 août 2015 (V)
+	  - Code des transports - art. R1261-8 (V)
+	  - Livre des procédures fiscales - art. R*135 S-2 (V)
+	  - Livre des procédures fiscales - art. R*81-1 (V)
+	  - Livre des procédures fiscales - art. R*81-2 (Ab)
+	  - Livre des procédures fiscales - art. R*81-4 (P)
+	  - Livre des procédures fiscales - art. R81-5 (V)
+
+	**Cite**:
+
+	  - Loi n°82-1126 1982-12-29 art. 5 Finances pour 1983
+	  - CGI L82 A, L82 B, L 83, L84, L85, L85 A, L86 A, L86, L87, L88, L89, L90, L91, L92, L93, L94, L95
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+
 ###### Article L82
 
 Les livres, registres, documents ou pièces sur lesquels peut s'exercer le droit de communication de l'administration doivent
@@ -1787,6 +2085,51 @@ documents, y compris lorsqu'il est magnétique.
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 286 (M)
+
+
+##### Personnes versant des honoraires ou des droits d'auteur.
+
+###### Article L82 A
+
+Les personnes qui doivent souscrire la déclaration prévue à l'article 240 du code général des impôts doivent tenir à la
+disposition des agents de l'administration les documents comptables permettant de connaître le montant annuel des honoraires
+et revenus assimilés qu'elles versent à des tiers.
+
+La même obligation s'impose aux personnes qui procèdent à l'encaissement et au versement de droits d'auteur ou d'inventeur
+qu'elles sont tenues de déclarer en application de l'article 241 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 240
+	  - CGI 241
+
+	**Anciens textes**:
+
+	  - CGI 241 bis
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+
+
+##### Employeurs et débirentiers.
+
+###### Article L82 B
+
+Toute personne physique ou morale qui verse des salaires, pensions ou rentes viagères doit communiquer à l'administration,
+sur sa demande, les documents sur lesquels sont enregistrés les paiements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 86 (V)
 
 
 ##### Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative.
@@ -1938,6 +2281,33 @@ activité.
 
 ##### Membres de certaines professions non commerciales.
 
+###### Article L86
+
+Les agents de l'administration ont un droit de communication à l'égard des membres des professions non commerciales définies
+ci-après :
+
+a. Les professions dont l'exercice autorise l'intervention dans des transactions, la prestation de services à caractère
+juridique, financier ou comptable ou la détention de biens ou de fonds pour le compte de tiers ;
+
+b. Les professions consistant à titre principal en la prestation de services à caractère décoratif ou architectural ou en la
+création et la vente de biens ayant le même caractère.
+
+Le droit prévu au premier alinéa ne porte que sur l'identité du client, le montant, la date et la forme du versement ainsi
+que les pièces annexes de ce versement. Il ne peut entraîner pour les personnes auprès desquelles il est exercé
+l'établissement d'impositions supplémentaires si ce n'est après la mise en oeuvre d'une procédure de vérification prévue aux
+articles L. 47 et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L47 et s.
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+
 ###### Article L86 A
 
 La nature des prestations fournies par l'adhérent d'une association agréée ne peut faire l'objet de demandes de
@@ -2038,6 +2408,43 @@ l'administration, sur sa demande, leurs livres, registres, titres, pièces de re
 	**Modifié par**:
 
 	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
+
+
+##### Personnes effectuant des opérations d'assurance.
+
+###### Article L89
+
+Les entreprises et autres organismes d'assurance ainsi que les courtiers, les agents généraux et autres intermédiaires
+d'assurances habilités doivent communiquer à l'administration, sur sa demande, les livres tenus en vertu de la législation
+relative au contrôle et à la surveillance des assurances, les polices ou copies de polices ainsi que le répertoire des
+opérations prévu à l'article 1002 du code général des impôts.
+
+Cette communication doit être faite tant au siège social que dans les succursales et agences.
+
+En outre, les assurés auprès d'assureurs étrangers n'ayant en France ni établissement, ni agence, ni succursale, ni
+représentant responsable, doivent communiquer à l'administration des impôts, sur sa demande, leurs polices concernant des
+conventions en cours, y compris celles qui ont été renouvelées par tacite reconduction ou sont venues à expiration depuis
+moins de six ans.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1002
+	  - Code des assurances - art. L310-1 (M)
+
+	**Modifié par**:
+
+	  - Décret n°86-686 du 14 mars 1986, v. init.
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-14-2 (V)
+	  - Code monétaire et financier - art. L563-2 (V)
+	  - Code monétaire et financier - art. L711-18 (V)
+	  - Code monétaire et financier - art. L725-3 (V)
+	  - Code monétaire et financier - art. L745-13 (MMN)
+	  - Code monétaire et financier - art. L755-13 (MMN)
 
 
 ##### Entrepreneurs de transport.
@@ -2410,6 +2817,22 @@ toutes les indications recueillies, à l'occasion des vérifications opérées d
 	  - Code du cinéma et de l'image animée - art. L413-3 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 54 septies (M)
 	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+
+
+###### Article L102 A
+
+Le maire doit adresser dans les mois de janvier, avril, juillet et octobre au service des impôts les relevés des actes de
+décès établis au cours du trimestre. Ces relevés sont certifiés par le maire. Il en est accusé réception.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 804
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
 
 
 #### Chapitre III : Le secret professionnel en matière fiscale
@@ -4391,6 +4814,18 @@ formalité ayant permis d'asseoir, de calculer ou de liquider les sommes dues.
 	  - Loi n°2011-1978 du 28 décembre 2011 - art. 69 (V)
 
 
+###### Article L179
+
+Lorsque des marchandises ont été saisies à la suite d'un procès-verbal, aucune demande en restitution de ces marchandises ne
+peut être présentée à l'administration après expiration d'un délai de deux ans à compter de la saisie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+
 ##### Section IV : Droits d'enregistrement, taxe de publicité foncière, impôt de solidarité sur la fortune, droits de timbre, droits et taxes assimilés
 
 ##### II : Dispositions particulières
@@ -5196,6 +5631,40 @@ e) Les infractions relatives au récépissé de consignation prévu par l'articl
 
 ##### II : Agents compétents pour constater les infractions par procès-verbal
 
+###### Article L213
+
+Les procès-verbaux sont établis par les agents de l'administration des impôts, dans les conditions prévues à l'article 429 du
+code de procédure pénale (1). Toutefois en matière de contributions indirectes les procès-verbaux sont nuls s'ils n'ont pas
+été rédigés par les seuls agents ayant pris une part personnelle et directe à la constatation des faits qui constituent
+l'infraction.
+
+En outre les personnes désignées aux articles L. 215 à L. 225 peuvent établir les procès-verbaux constatant les infractions
+indiquées par ces articles.
+
+(1) Code de procédure pénale, art. 429 : "Tout procès-verbal ou rapport n'a de valeur probante que s'il est régulier en la
+forme, si son auteur a agi dans l'exercice de ses fonctions et a rapporté sur une matière de sa compétence ce qu'il a vu,
+entendu ou constaté personnellement".
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L215 à CGI L225
+	  - CODE DE PROCEDURE PENALE - art. 429 (M)
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Décret n°93-265 du 26 février 1993 - art. 6 (V)
+	  - Décret n°96-804 du 12 septembre 1996 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 350 terdecies (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 155 H (Ab)
+	  - Livre des procédures fiscales - art. R213-4 (V)
+
+
 ###### Article L214
 
 En matière de contributions indirectes, les agents de l'administration des impôts compétents pour établir les procès-verbaux
@@ -5426,6 +5895,20 @@ catégorie comprenant les cercles et maisons de jeux, peuvent être établis par
 	  - Décret n°81-859 1981-09-15
 
 
+###### Article L224
+
+Les procès-verbaux constatant les infractions aux lois et réglements relatifs à l'organisation du marché des vins et
+concernant les obligations fixées pour les sorties des vins de la propriété et les mesures prises pour l'amélioration de la
+qualité des vins, peuvent être établis par les agents chargés de la répression des fraudes commerciales et les agents de
+l'office national interprofessionnel des vins de table ayant au moins le grade de contrôleur.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+
 ###### Article L225
 
 Les procès-verbaux constatant les infractions en matière de récépissé de consignation, peuvent être établis par les juges des
@@ -5446,6 +5929,27 @@ tribunaux d'instance, les officiers et agents de police judiciaire, les agents d
 	**Codifié par**:
 
 	  - Décret n°81-859 1981-09-15
+
+
+###### Article L225 A
+
+Les agents qualifiés pour constater les infractions aux dispositions de l'article 1er de la loi du 22 octobre 1940 relatives
+aux règlements par chèques et virements modifiée sont désignés par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 JUILLET 1984
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1840 N sexies (Ab)
+	  - Livre des procédures fiscales - art. A225 A-1 (V)
+
+	**Cite**:
+
+	  - Loi n°1940-10-22 art. 1
 
 
 ##### III : Rédaction des procès-verbaux.
@@ -5575,6 +6079,33 @@ au préalable, le contribuable en demeure de régulariser sa situation.
 	**Codifié par**:
 
 	  - Décret n°81-859 1981-09-15
+
+
+###### Article L230
+
+Les plaintes peuvent être déposées jusqu'à la fin de la troisième année qui suit celle au cours de laquelle l'infraction a
+été commise.
+
+Lorsque l'infraction a été commise dans les conditions prévues à l'article 1837 du code général des impôts, la plainte doit
+être déposée dans les trois ans qui suivent l'affirmation jugée frauduleuse.
+
+La prescription de l'action publique est suspendue pendant une durée maximum de six mois entre la date de saisine de la
+commission des infractions fiscales et la date à laquelle cette commission émet son avis.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1837
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1837 (V)
+	  - Code général des impôts, CGI. - art. 802 (V)
 
 
 ###### Article L231
@@ -6114,6 +6645,42 @@ La remise ne peut être accordée qu'après avis conforme du président de la ju
 	  - Livre des procédures fiscales - art. R*247-5 (V)
 
 
+###### Article L250
+
+Les demandes présentées par les contribuables en vue d'obtenir la remise des majorations de droits prévues par les articles
+1729, dans les cas où la mauvaise foi du contribuable est établie, et 1757 du code général des impôts pour les personnes qui
+n'ont pas indiqué séparément dans leur déclaration de revenus les revenus qu'elles ont encaissés hors de France, sont
+soumises pour avis à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires lorsque ces
+majorations sont consécutives à des redressements relevant de la compétence de cette commission, telle qu'elle est définie
+aux articles L. 59 et L. 59 A.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1965 G bis
+	  - Décret n°55-467 1955-04-30 ART. 10 (LOI 55-349 1955-04-02 ART. UNIQUE I b 4°)
+	  - Loi n°63-1316 1963-12-27 ART. 26 3
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L59 (M)
+	  - Livre des procédures fiscales - art. L59 A (M)
+	  - Livre des procédures fiscales 1729, L59, L59 A
+
+
 ###### Article L251
 
 Lorsqu'une transaction est devenue définitive après accomplissement des obligations qu'elle prévoit et approbation de
@@ -6582,6 +7149,40 @@ d'impôt sur le revenu, des acomptes d'impôt sur les sociétés, des acomptes d
 
 ##### 4° : Responsabilité des dirigeants et gérants de sociétés
 
+###### Article L266
+
+Lorsque le recouvrement des impositions de toute nature et des pénalités fiscales dues par une société à responsabilité
+limitée a été rendu impossible par des manoeuvres frauduleuses ou l'inobservation répétée des diverses obligations fiscales,
+le ou les gérants majoritaires, au sens des articles 62 et 211 du code général des impôts, peuvent être rendus solidairement
+responsables avec cette société du paiement de ces impositions et pénalités.
+
+A cette fin, le comptable du Trésor ou le comptable de la direction générale des impôts assigne le ou les gérants devant le
+président du tribunal de grande instance du lieu du siège social.
+
+Les voies de recours qui peuvent être exercées contre la décision du président du tribunal de grande instance ne font pas
+obstacle à ce que le comptable prenne à leur encontre des mesures conservatoires en vue de préserver le recouvrement de la
+créance du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 62, 211
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+	**Abrogé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 15 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L267 (V)
+	  - Livre des procédures fiscales - art. R*266-1 (T)
+
+
 ###### Article L267
 
 Lorsqu'un dirigeant d'une société, d'une personne morale ou de tout autre groupement, est responsable des manoeuvres
@@ -6686,6 +7287,36 @@ disponibles, de procéder aux mesures d'exécution nécessaires.
 	  - Loi n°67-563 1967-07-13 ART. 35, ART. 80
 
 
+##### Contrainte par corps.
+
+###### Article L272
+
+Lorsque les juridictions répressives prononcent des condamnations par application des articles 1741 et 1771 à 1779 du code
+général des impôts, les dispositions du titre VI du livre V du code de procédure pénale relatives à la contrainte par corps
+sont applicables, à la requête de l'administration, pour le recouvrement des impôts directs dont l'assiette ou le
+recouvrement a motivé les poursuites et, le cas échéant, des majorations et amendes fiscales qui ont sanctionné les
+infractions, à l'encontre des personnes condamnées à titre d'auteurs principaux ou de complices.
+
+Le jugement ou l'arrêt de condamnation fixe la durée de la contrainte par corps pour la totalité des sommes dues au titre des
+condamnations pénales et des créances fiscales mentionnées ci-dessus.
+
+Pour le recouvrement des sommes dues  au titre des condamnations pénales, la contrainte par corps est exercée à la demande du
+comptable du Trésor consignataire de l'extrait du jugement ou de l'arrêt [*autorité compétente*] ; pour le recouvrement des
+créances fiscales, elle est exercée à la demande du comptable chargé du recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1741
+	  - CGI 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778, 1779
+	  - Code de procédure pénale 749 A Code de procédure pénale 762
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+
+
 ##### 10° : Taxes sur le chiffre d'affaires
 
 ###### Article L273
@@ -6753,6 +7384,27 @@ prescription.
 	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
 	  - Loi - art. 21 (M)
 	  - Loi - art. 62 (V)
+
+
+###### Article L274 A
+
+En ce qui concerne la taxe locale d'équipement, l'action en recouvrement de l'administration s'exerce jusqu'à l'expiration de
+la quatrième année suivant celle au cours de laquelle soit le permis de construire a été délivré ou la déclaration de
+construction déposée, soit le procès-verbal constatant une infraction a été établi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI L184
+
+
+###### Article L274 B
+
+En ce qui concerne le versement pour dépassement du plafond légal de densité, l'action en recouvrement de l'administration
+s'exerce jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle le permis de construire a été délivré
+ou considéré comme tacitement accordé.
+
 
 
 #### Chapitre II : Le sursis de paiement
@@ -6885,42 +7537,6 @@ procéder à la saisie.
 	  - Code du domaine de l'Etat - art. L79 (Ab)
 	  - Code général de la propriété des personnes publ... - art. L2323-13 (V)
 	  - Livre des procédures fiscales - art. R*283-1 (V)
-
-
-## LES PROCEDURES DE DETERMINATION FORFAITAIRE DES BASES IMPOSABLES
-
-### DISPOSITIONS RELATIVES AUX EXPLOITATIONS AGRICOLES
-
-#### PROCEDURE DE FIXATION DU BENEFICE FORFAITAIRE.
-
-###### Article L2
-
-La décision de la commission départementale [*des impôts directs et des taxes sur le chiffre d'affaires*] est notifiée par le
-président de la commission aux présidents des fédérations départementales de syndicats d'exploitants agricoles et à
-l'administration des impôts, lesquels peuvent faire appel de cette décision devant la commission centrale des impôts directs
-compétente pour les bénéfices agricoles.
-
-Si la commission départementale n'a pas pris de décision dans les délais qui lui sont impartis, le président de cette
-commission en informe les présidents des fédérations départementales de syndicats d'exploitants agricoles et l'administration
-des impôts.
-
-Dans le cas prévu à l'alinéa précédent, comme en cas d'appel, les bénéfices forfaitaires et les fermages sont fixés par la
-commission centrale [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 66 1 (AL. 6 2ème ET 4ème PHRASE SAUF DELAIS, AL. 7 SAUF LES 2 DERNIERES LIGNES, AL. 8)
-	  - Décret n°48-1986 1948-12-09 ART. 14 1 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°63-1316 1963-12-27 ART. 25 2, 25 3
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 64 (M)
-	  - Livre des procédures fiscales - art. R*2-1 (V)
 
 
 ## LE CONTROLE DE L'IMPOT
@@ -7092,43 +7708,6 @@ La rectification correspondante est effectuée suivant la procédure de redresse
 	  - Livre des procédures fiscales - art. L57 (V)
 
 
-###### Article L20
-
-L'administration des impôts peut exiger des justifications au sujet de toutes les dettes déduites de l'actif d'une
-succession.
-
-Elle peut, dans tous les cas, exiger des héritiers et autres ayants droit la production d'une attestation certifiant
-l'existence d'une dette à l'époque de l'ouverture de la succession. Cette attestation, établie par le créancier sur papier
-non timbré et qui doit mentionner la dette de façon précise, ne peut être refusée par ce dernier, sous peine de dommages-
-intérêts, toutes les fois qu'elle est légitimement réclamée.
-
-Le créancier qui certifie l'existence d'une dette doit déclarer expressément connaître les peines prévues par l'article 1840
-F du code général des impôts en cas de fausse attestation.
-
-Toute dette constatée par acte dressé par un officier public en la forme authentique et non échue au jour de l'ouverture de
-la succession ne peut être écartée par l'administration tant que celle-ci n'a pas fait juger qu'elle n'est pas réelle.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1840 F
-
-	**Anciens textes**:
-
-	  - CGI 771 (1RE PHRASE)
-	  - CGI 772
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 58, v. init.
-	  - Loi n°63-1316 du 27 décembre 1963 - art. 24, v. init.
-	  - Loi n°1901-02-25 ART. 5, ART. 6
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 773 (V)
-	  - Code général des impôts, CGI. - art. 774 (V)
-	  - Livre des procédures fiscales - art. L21 (V)
-
-
 ###### Article L23 A
 
 En vue du contrôle de l'impôt sur les grandes fortunes, l'administration peut demander au contribuable des éclaircissements
@@ -7186,39 +7765,6 @@ matière de circulation.
 	  - Livre des procédures fiscales - art. R24-2 (V)
 	  - Livre des procédures fiscales - art. R24-3 (P)
 	  - Livre des procédures fiscales - art. R24-4 (V)
-
-
-###### Article L36
-
-Les agents de l'administration des impôts ont seuls qualité pour procéder aux visites et vérifications chez les contribuables
-soumis à la législation sur les ouvrages d'or, d'argent et de platine, ainsi que chez les fondeurs et apprêteurs de ces
-métaux.
-
-Ces visites et vérifications ont lieu comme en matière de contributions indirectes.
-
-Les contribuables sont tenus de fournir, le cas échéant, les balances et les poids nécessaires pour effectuer les
-vérifications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 552
-	  - Décret n°28 Floréal AN XIII article unique
-	  - Loi n°1884-01-25 art. 4
-	  - Loi n°19 Brumaire AN VI art. 71, art. 94, art. 101
-	  - Loi n°1901-02-25 art. 26
-	  - Loi n°1902-03-30 art. 20
-	  - Loi n°1910-04-08 art. 37
-	  - Ordonnance 1820-05-05 art. 9
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 275 bis C (M)
-	  - Code général des impôts, CGI. - art. 553 bis (P)
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V)
-	  - Décret n°95-212 du 21 février 1995 - art. 2 (V)
-	  - Livre des procédures fiscales - art. R36 B-1 (M)
 
 
 ###### Article L38
@@ -7483,78 +8029,6 @@ moteur prévues à l'article 1599 C du code général des impôts ;
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L55 (VD)
-
-
-###### Article L58
-
-La notification d'une proposition de redressement doit mentionner, sous peine de nullité, que le contribuable a la faculté de
-se faire assister d'un conseil de son choix pour discuter la proposition de redressement ou pour y répondre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1649 quinquies d
-	  - Loi n°54-817 1954-08-14 art. 38
-
-	**Nouveaux textes**:
-
-	  - CGI L54 B
-
-	**Transféré par**:
-
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
-
-
-###### Article L59
-
-En cas de désaccord sur le résultat de la vérification, l'administration, si le contribuable le demande, soumet le litige à
-l'avis soit de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651
-du code général des impôts, soit de la commission départementale de conciliation prévue à l'article 667 du même code
-[*autorités compétentes*].
-
-Les commissions peuvent également être saisies à l'initiative de l'administration.
-
-La commission départementale des impôts directs et des taxes sur le chiffre d'affaires intervient :
-
-1° Lorsque le désaccord porte soit sur le montant du bénéfice industriel et commercial, du bénéfice non commercial, du
-bénéfice agricole ou du chiffre d'affaires déterminé selon un mode réel d'imposition, soit sur la valeur vénale des
-immeubles, des fonds de commerce, des parts d'intérêts, des actions ou des parts de sociétés immobilières servant de base à
-la taxe sur la valeur ajoutée, en application de l'article 257-6° et 7°-1 du code général des impôts ;
-
-2° Lorsqu'il s'agit de différends portant sur l'application des articles 39-1-1° et 111-d du même code relatifs aux
-rémunérations non déductibles pour l'établissement du bénéfice des entreprises industrielles ou commerciales.
-
-La commission départementale de conciliation intervient en cas d'insuffisance des prix ou évaluations ayant servi de base aux
-droits d'enregistrement ou à la taxe de publicité foncière dans les cas mentionnés à l'article 667-2 du même code.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 111 d
-	  - CGI 1651
-	  - CGI 257 6°, 7° 1
-	  - CGI 39 1 1°
-	  - CGI 667 2°
-
-	**Anciens textes**:
-
-	  - CGI 1649 QUINQUIES A 3 (AL. 1)
-	  - CGI 287 3
-	  - Loi n°59-1472 1959-12-28 ART. 95 I
-	  - Loi n°63-1316 1963-12-27 ART. 24 3 (AL. 1), ART. 27, ART. 28 2
-	  - Loi n°66-10 1966-01-06 ART. 24 3
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 24, v. init.
-
-	**Cité par**:
-
-	  - Code de commerce - art. L641-3 (M)
-	  - Livre des procédures fiscales - art. L192 (VD)
-	  - Livre des procédures fiscales - art. L250 (V)
-	  - Livre des procédures fiscales - art. L76 (VD)
-	  - Livre des procédures fiscales - art. R*59-1 (V)
-	  - Loi n°87-502 du 8 juillet 1987 - art. 10 (V)
 
 
 ###### Article L62
@@ -8045,132 +8519,6 @@ Un décret fixe les conditions d'application du présent article.
 ### LE DROIT DE COMMUNICATION
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*.
-
-###### Article L81
-
-Le droit de communication permet aux agents de l'administration des impôts, pour l'établissement de l'assiette et le contrôle
-des impôts, d'avoir connaissance des documents mentionnés aux articles L. 83 à L. 96 dans les conditions qui y sont
-précisées.
-
-L'obligation prevue a l'alinea precedent est applicable quel que soit le support utilise pour la conservation des documents,
-y compris lorsqu'il est magnetique.
-
-Ce droit est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des agents des
-administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 14 juin 1982 - art. 4 (V)
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 90 (V)
-	  - Décret n°93-309 du 9 mars 1993 - art. 19 (V)
-	  - Décret n°2000-8 du 4 janvier 2000 - art. 2 (V)
-	  - Décret n°2000-738 du 1 août 2000 - art. 2-1 (VT)
-	  - Décret n°2006-369 du 28 mars 2006 - art. 24 (V)
-	  - Décret n°2006-1723 du 23 décembre 2006 - art. 2 (Ab)
-	  - Décret n°2009-707 du 16 juin 2009 - art. 4 (M)
-	  - Décret n°2010-1023 du 1 septembre 2010 - art. 4 (Ab)
-	  - Arrêté du 13 septembre 2013 - art. 4 (V)
-	  - Décret n°2015-531 du 12 mai 2015 (V)
-	  - Décret n°2015-1091 du 28 août 2015 (V)
-	  - Arrêté du 29 février 2016 - art. 6 (V)
-	  - Code des transports - art. R1261-8 (V)
-	  - Livre des procédures fiscales - art. R*135 S-2 (V)
-	  - Livre des procédures fiscales - art. R*81-1 (V)
-	  - Livre des procédures fiscales - art. R*81-2 (Ab)
-	  - Livre des procédures fiscales - art. R*81-4 (P)
-	  - Livre des procédures fiscales - art. R81-5 (V)
-
-	**Cite**:
-
-	  - CGI L83, L84, L85, L86, L87, L88, L89, L90, L91, L92, L93, L94, L95
-
-	**Modifié par**:
-
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 75 ()
-
-	**Anciens textes**:
-
-	  - Loi n°1920-07-31 ART. 31
-	  - Loi n°1941-01-03 ANNEXE I ART. 151
-	  - Loi n°45-195 1945-12-31 ART. 30
-
-
-###### Article L86
-
-Les agents de l'administration ont un droit de communication à l'égard des membres des professions non commerciales définies
-ci-après :
-
-a. Les professions dont l'exercice autorise l'intervention dans des transactions, la prestation de services à caractère
-juridique, financier ou comptable ou la détention de biens ou de fonds pour le compte de tiers ;
-
-b. Les professions consistant à titre principal en la prestation de services à caractère décoratif ou architectural ou en la
-création et la vente de biens ayant le même caractère.
-
-Le droit prévu au premier alinéa ne porte que sur l'identité du client, le montant, la date et la forme du versement ainsi
-que les pièces annexes de ce versement. Il ne peut entraîner pour les personnes auprès desquelles il est exercé
-l'établissement d'impositions supplémentaires si ce n'est après la mise en oeuvre de la procédure de redressement prévue aux
-articles L. 55 et suivants.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L55 ET S.
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-	**Anciens textes**:
-
-	  - Loi n°80-30 du 18 janvier 1980 - art. 77, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1er janvier 1982
-
-
-###### Article L89
-
-Les entreprises d'assurance soumises au contrôle de l'Etat en vertu de l'article L. 310-1 du code des assurances, ainsi que
-les courtiers d'assurances, les agents généraux d'assurances et autres intermédiaires habilités doivent communiquer à
-l'administration, sur sa demande, les livres tenus en vertu de la législation relative au contrôle et à la surveillance des
-assurances, les polices ou copies de polices ainsi que le répertoire des opérations prévu à l'article 1002 du code général
-des impôts.
-
-Cette communication doit être faite tant au siège social que dans les succursales et agences.
-
-En outre, les assurés auprès d'assureurs étrangers n'ayant en France ni établissement, ni agence, ni succursale, ni
-représentant responsable, doivent communiquer à l'administration des impôts, sur sa demande, leurs polices concernant des
-conventions en cours, y compris celles qui ont été renouvelées par tacite reconduction ou sont venues à expiration depuis
-moins de six ans.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1002
-	  - Code des assurances - art. L310-1 (M)
-
-	**Modifié par**:
-
-	  - Loi n°81-1179 du 31 décembre 1981 - art. 7 (P) JORF 1 JANVIER 1982
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L561-14-2 (V)
-	  - Code monétaire et financier - art. L563-2 (V)
-	  - Code monétaire et financier - art. L711-18 (V)
-	  - Code monétaire et financier - art. L725-3 (V)
-	  - Code monétaire et financier - art. L745-13 (MMN)
-	  - Code monétaire et financier - art. L755-13 (MMN)
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
 
 ###### Article L93
 
@@ -8754,44 +9102,29 @@ acquits-à-caution.
 	  - Loi n°63-1316 1963-12-27 art. 15 3 (Al. 2), art. 17 1
 
 
-###### Article L179
-
-Lorsque des marchandises ont été saisies à la suite d'un procès-verbal, elles ne peuvent plus être rendues si la demande de
-restitution intervient plus de deux années après la saisie [*délai*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1970 1
-	  - Décret n°1er Germinal AN XIII art. 50
-
-
 #### DROITS D'ENREGISTREMENT, TAXE DE PUBLICITE FONCIERE, DROITS DE TIMBRE, DROITS ET TAXES ASSIMILEES.
 
 ###### Article L180
 
 Pour les droits d'enregistrement, la taxe de publicité foncière, les droits de timbre, ainsi que les taxes, redevances et
-autres impositions assimilées, le droit de reprise de l'administration s'exerce jusqu'à l'expiration de la quatrième année
-suivant celle de l'enregistrement d'un acte ou du dépôt d'une déclaration ou de l'accomplissement de la formalité fusionnée
-définie à l'article 647 du code général des impôts.
+autres impositions assimilées, le droit de reprise de l'administration s'exerce, sauf application de l'article L 168 A,
+jusqu'à l'expiration de la quatrième année suivant celle de l'enregistrement d'un acte ou d'une déclaration ou de
+l'accomplissement de la formalité fusionnée définie à l'article 647 du code général des impôts.
 
-Toutefois, ce délai n'est opposable à l'administration que si l'exigibilité des droits et taxes a été suffisamment révélée
-par le document enregistré ou présenté à la formalité, sans qu'il soit nécessaire de procéder à des recherches ultérieures.
+Toutefois, ce délai [*de reprise*] n'est opposable à l'administration que si l'exigibilité des droits et taxes a été
+suffisamment révélée par le document enregistré ou présenté à la formalité, sans qu'il soit nécessaire de procéder à des
+recherches ultérieures.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1971 1
-	  - Loi n°63-1316 1963-12-27 ART. 16
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-	  - Loi n°69-1168 1969-12-26 ART. 1 II, ART. 5
-	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
 
 	**Cite**:
 
 	  - CGI 647
+	  - CGI L168 A
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
 
 	**Cité par**:
 
@@ -8845,30 +9178,6 @@ pas applicables à l'impôt sur les grandes fortunes.
 	**Créé par**:
 
 	  - Loi n°81-1160 du 30 décembre 1981 - art. 9 (V) JORF 31 DECEMBRE 1981
-
-
-#### TAXE LOCALE D'EQUIPEMENT.
-
-###### Article L184
-
-En ce qui concerne la taxe d'équipement, l'action en recouvrement de l'administration s'exerce jusqu'à l'expiration de la
-quatrième année suivant celle au cours de laquelle soit le permis de construire a été délivré ou la déclaration de
-construction déposée, soit le procès-verbal constatant une infraction a été établi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1973 ter (1re PHRASE)
-	  - Loi n°75-1328 1975-12-31 ART. 24 IV
-
-	**Nouveaux textes**:
-
-	  - CGI L274 A
-
-	**Transféré par**:
-
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
 
 
 #### INTERRUPTION DE LA PRESCRIPTION.
@@ -9236,102 +9545,7 @@ conditions fixées par décret.
 
 ### LES PROCEDURES PENALES
 
-#### CONSTATATION DES INFRACTIONS PAR PROCES-VERBAL.
-
-###### Article L213
-
-Les procès-verbaux sont établis par les agents de l'administration des impôts, dans les conditions prévues à l'article 429 du
-code de procédure pénale.
-
-En outre les personnes désignées aux articles L. 215 à L. 225 peuvent établir les procès-verbaux constatant les infractions
-indiquées par ces articles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1852 1 (5ème ligne)
-	  - CGI 1854 2 (6ème, 7ème lignes)
-	  - CGI 1863
-	  - CGI 1887 (1re ligne)
-	  - CGI 1889 (4ème ligne P.)
-	  - Décret n°60-1151 1960-10-29 art. 13
-	  - Loi n°63-1316 1963-12-27 art. 49
-	  - Décret n°65-32 1965-01-14 art. 8
-	  - Décret n°71-340 1971-05-03 art. 8
-	  - Loi n°13 Brumaire AN VII art. 31
-	  - Loi n°1871-08-23 art. 23
-	  - Loi n°1920-06-25 art. 70
-
-	**Cite**:
-
-	  - CGI L215 A CGI L225
-	  - CODE DE PROCEDURE PENALE - art. 429 (M)
-
-	**Cité par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 6 (V)
-	  - Décret n°96-804 du 12 septembre 1996 - art. 1 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 350 terdecies (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 155 H (Ab)
-	  - Livre des procédures fiscales - art. R213-4 (V)
-
-
-###### Article L224
-
-Les procès-verbaux constatant les infractions aux dispositions législatives et réglementaires relatives aux sorties des vins
-de la propriété et aux mesures prises pour l'amélioration de la qualité des vins, peuvent être établis par les agents chargés
-de la répression des fraudes commerciales et les agents de l'office national interprofessionnel des vins de table ayant au
-moins le grade de contrôleur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1854 2 (7EME à 10EME LIGNES)
-	  - Loi n°63-1316 1963-12-27 ART. 49
-	  - Décret n°76-302 du 7 avril 1976 - art. 1, v. init.
-
-
 #### EXERCICE DES POURSUITES PENALES.
-
-###### Article L230
-
-Les plaintes peuvent être déposées jusqu'à la fin de la troisième année qui suit celle au cours de laquelle l'infraction a
-été commise.
-
-Lorsque l'infraction a été commise par un héritier dans les conditions prévues à l'article 1837 du code général des impôts,
-le délai court à compter de l'affirmation estimée frauduleuse [*point de départ*].
-
-La prescription de l'action publique est suspendue pendant une durée maximum de six mois entre la date de saisine de la
-commission des infractions fiscales et la date à laquelle cette commission émet son avis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1741 (al. 6 dernière phrase)
-	  - CGI 1741 A (al. 7)
-	  - CGI 1743 (al. dernier)
-	  - CGI 1780 (al. 3)
-	  - CGI 1837 (al. 4 2ème phrase)
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Ordonnance 58-1372 1958-12-29 art. 47 IV
-	  - Loi n°77-1453 1977-12-29 art. 1 (avant-dernier al.)
-	  - Décret n°1938-06-14 art. 3
-	  - Décret n°1948-12-09 art. 1889, art. 1966
-	  - Loi n°1918-04-18 art. 9
-	  - Loi n°1938-04-13
-
-	**Cite**:
-
-	  - CGI 1837
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1837 (V)
-	  - Code général des impôts, CGI. - art. 802 (V)
-
 
 ###### Article L240
 
@@ -9380,32 +9594,6 @@ l'information ou de la citation directe.
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1751 (M)
-
-
-### LES REMISES ET TRANSACTIONS A TITRE GRACIEUX.
-
-###### Article L250
-
-Les demandes présentées par les contribuables en vue d'obtenir la remise des majorations de droits prévues par les articles
-1729, dans les cas où la mauvaise foi du contribuable est établie, et 1757 du code général des impôts pour les personnes qui
-n'ont pas indiqué séparément dans leur déclaration de revenus les revenus qu'elles ont encaissés hors de France [*à
-l'étranger*], sont soumises pour avis à la commission départementale des impôts directs et des taxes sur le chiffre
-d'affaires lorsque ces majorations sont consécutives à des redressements relevant de la compétence de cette commission, telle
-qu'elle est définie à l'article L. 59.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1729
-	  - CGI 1757
-	  - CGI L59
-
-	**Anciens textes**:
-
-	  - CGI 1965 G bis
-	  - Décret n°55-467 1955-04-30 ART. 10 (LOI 55-349 1955-04-02 ART. UNIQUE I b 4°)
-	  - Loi n°63-1316 1963-12-27 ART. 26 3
 
 
 ## LE RECOUVREMENT DE L'IMPOT
@@ -9470,39 +9658,6 @@ donner lieu à des frais et procédant d'une contrainte administrative [*formali
 
 #### MESURES PARTICULIERES
 
-###### Article L266
-
-Lorsque le recouvrement des impositions de toute nature et des pénalités fiscales dues par une société à responsabilité
-limitée a été rendu impossible par des manoeuvres frauduleuses ou l'inobservation répétée des diverses obligations fiscales,
-le ou les gérants majoritaires, au sens des articles 62 et 211 du code général des impôts, peuvent être rendus solidairement
-responsables avec cette société du paiement de ces impositions et pénalités.
-
-A cette fin, le comptable du Trésor ou le comptable de la direction générale des impôts assigne le ou les gérants devant le
-président du tribunal de grande instance du lieu du siège social. Le tribunal statue selon la procédure à jour fixe.
-
-Les voies de recours qui peuvent être exercées contre la décision du président du tribunal de grande instance ne font pas
-obstacle à ce que le comptable prenne à leur encontre des mesures conservatoires en vue de préserver le recouvrement de la
-créance du Trésor.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1724 ter
-	  - Code de procédure civile ART. 788(Décret 75-1122 1975-12-05 ART. 3, ART. 33, ART. 34)
-	  - Ordonnance 58-1372 1958-12-29 ART. 54
-
-	**Cite**:
-
-	  - CGI 211
-	  - CGI 62
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L267 (V)
-	  - Livre des procédures fiscales - art. R*266-1 (T)
-
-
 ###### Article L270
 
 Pour assurer le recouvrement des impositions établies par voie de taxation d'office dans les conditions prévues aux articles
@@ -9564,36 +9719,6 @@ celui de la réduction de la durée de la contrainte prévue à l'article 751 du
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L273 (M)
-
-
-###### Article L272
-
-Lorsque les juridictions répressives prononcent des condamnations par application des articles 1741 et 1771 à 1779 du code
-général des impôts, les dispositions du titre VI du livre V du code de procédure pénale relatives à la contrainte par corps
-sont applicables, à la requête de l'administration, pour le recouvrement des impôts directs dont l'assiette ou le
-recouvrement a motivé les poursuites et, le cas échéant, des majorations et amendes fiscales qui ont sanctionné les
-infractions, à l'encontre des personnes condamnées à titre d'auteurs principaux ou de complices.
-
-Le jugement ou l'arrêt de condamnation fixe la durée de la contrainte par corps pour la totalité des sommes dues au titre des
-condamnations pénales et des créances fiscales mentionnées ci-dessus.
-
-La contrainte par corps est exercée à la demande du comptable du Trésor ou du comptable de la direction générale des impôts
-consignataire de l'extrait du jugement ou de l'arrêt [*autorité compétente*].
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1741
-	  - CGI 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778, 1779
-	  - Code de procédure pénale 749 A Code de procédure pénale 762
-
-	**Anciens textes**:
-
-	  - CGI 1845
-	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Loi n°1944-01-31 ART. 10
-	  - Ordonnance 58-1372 1958-12-29 ART. 47 V
 
 
 #### PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT.
@@ -9793,6 +9918,25 @@ Les bénéfices forfaitaires définitivement arrêtés sont publiés au Journal 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L2 (V)
+
+
+###### Article R1-3
+
+La copie du procès-verbal des travaux de la commission est adressée par lettre recommandée avec avis de réception à tous les
+membres de la commission ayant assisté aux délibérations de cet organisme.
+
+Ceux-ci disposent d'un délai de cinq jours pour fournir leurs observations, lesquelles sont annexées au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+	  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
 
 
 ##### Section II :
@@ -10018,7 +10162,82 @@ procès-verbaux [*obligation*].
 
 ##### B : Contrôle sur les lieux d'exercice d'activité
 
+##### 1 : Contributions indirectes
+
+###### Article R*26-1
+
+Les dénaturateurs d'alcool par le procédé général mentionné à l'article 511 du code général des impôts doivent, dès qu'ils en
+sont requis, assister aux vérifications ou s'y faire représenter par délégués. Ils doivent faciliter ces vérifications en
+fournissant notamment la main-d'oeuvre et les ustensiles nécessaires. Ils doivent, lors des inventaires, déclarer la quantité
+et le titre alcoométrique volumique des alcools restant en magasin. 
+
+Ils sont aussi tenus de mettre gratuitement à la disposition des agents, dans leurs ateliers, deux chaises et une table avec
+tiroir fermant à clé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN1 177
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 511 (Ab)
+
+
+###### Article R*32-2
+
+Lors des opérations d'inventaire prévues par le code général des impôts et des contrôles prévus par le présent livre, les
+exploitants des distilleries doivent fournir la main-d'oeuvre et les instruments nécessaires.
+
+Pour ces opérations, les exploitants des distilleries sont tenus de se conformer aux prescriptions prévues pour les marchands
+en gros par l'article L34.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L34
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
+
+	**Cité par**:
+
+	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
+
+
 ##### Contributions indirectes.
+
+###### Article R*26-2
+
+Les agents des impôts sont autorisés, aux fins d'analyse, à prélever des échantillons chez les marchands en gros et les
+détaillants d'alcool dénaturé par le procédé général.
+
+Des prélèvements peuvent être effectués également sur les liquides mis en vente chez les débitants de boissons.
+
+Si les produits sont reconnus réunir les éléments prescrits, la valeur des échantillons prélevés est remboursée aux
+intéressés par le service des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 511
+
+	**Anciens textes**:
+
+	  - CGIAN1 183
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
 
 ###### Article R*29-1
 
@@ -10374,6 +10593,26 @@ Le montant de l'impôt exigible donne lieu à l'établissement d'un rôle ou à 
 	  - HISTO: Edition du 1er juillet 1981
 
 
+###### Article R59 B-2
+
+La commission départementale de conciliation peut entendre toutes les personnes qu'elle croit pouvoir l'éclairer. Elle a la
+possibilité de se transporter sur les lieux ou de déléguer à cet effet un de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 350 B
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+
+
 ###### Article R60-1 A
 
 Le rapport prévu par l'article L. 60 doit obligatoirement indiquer, selon le cas, le montant du forfait, du bénéfice, du
@@ -10410,6 +10649,121 @@ ou, en cas d'absence ou de mutation, son successeur ou remplaçant.
 
 	  - HISTO: Edition du 20 juillet 1984
 	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+
+
+##### II : Procédure de règlement particulière.
+
+###### Article R62-1
+
+Le versement des rappels de droits simples et des intérêts de retard prévus au 3° de l'article L. 62 s'effectue sur
+présentation d'une fiche de paiement remise au contribuable par l'agent qui a procédé à la vérification.
+
+Cette fiche mentionne :
+
+1° Le comptable compétent ;
+
+2° L'identité du débiteur ;
+
+3° Le montant de la dette fiscale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 344 J 1°
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 JUILLET 1984
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 25 I, II Finances rectificative pour 2005 JORF 31 décembre 2004
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 25 (V) JORF 31 décembre 2004
+
+	**Codifié par**:
+
+	  - Décret n°2005-331 2005-04-06
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L62 (M)
+
+
+###### Article R62-2
+
+Le versement des droits simples et intérêts de retard est constaté par la délivrance d'un certificat de paiement, qui
+mentionne obligatoirement :
+
+1° La date et le montant du versement ;
+
+2° La répartition du versement effectué pour chacun des impôts u ou taxes et pour chacun des exercices vérifiés en faisant
+apparaître distinctement le montant des droits simples, d'une part, celui des intérêts de retard, d'autre part ;
+
+3° L'adresse du service vérificateur auquel le certificat de paiement doit être présenté ;
+
+4° Le cachet et la signature du ou des comptables compétents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 344 J 2°
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 JUILLET 1984
+
+	**Codifié par**:
+
+	  - Décret n°2005-331 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 25 I, II Finances rectificative pour 2005 JORF 31 décembre 2004
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 25 (V) JORF 31 décembre 2004
+
+
+###### Article R62-3
+
+Les droits simples et les intérêts de retard afférents à des impôts directs perçus selon la procédure de règlement
+particulière visée à l'article L. 62 font l'objet d'une ordonnance de régularisation délivrée par le directeur des services
+fiscaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN3 344 J 4°
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 5, art. 7 JORF 24 JUILLET 1984
+
+	**Codifié par**:
+
+	  - Décret n°2005-331 2005-04-06
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 2004-12-30 art. 25 I, II Finances rectificative pour 2005 JORF 31 décembre 2004
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 25 (V) JORF 31 décembre 2004
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L62 (M)
 
 
 #### Chapitre II : Le droit de communication
@@ -10598,6 +10952,23 @@ compétentes*].
 	  - Décret n°81-860 1981-09-15
 
 
+###### Article R*97-2
+
+Lorsque le relevé récapitulatif concerne des praticiens adhérents d'une association agréée, les organismes prévus à l'article
+L. 97 doivent communiquer au lieu et place de la nature des prestations fournies les mentions correspondant à la nomenclature
+générale des actes professionnels.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L97
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+
 ###### Article R*101-1
 
 Pendant les quinze jours qui suivent la date à laquelle est rendue une décision, de quelque nature qu'elle soit, par une
@@ -10757,6 +11128,38 @@ laquelle les impositions publiées ont été établies.
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
+
+
+##### Publicité de l'impôt.
+
+###### Article R111-1
+
+La liste des personnes assujetties à l'impôt sur le revenu établie en application de l'article L. 111, comprend les
+impositions mises en recouvrement au 30 avril de l'année suivant celle de la production des déclarations de revenus
+[*période*].
+
+Elle comporte, pour chaque contribuable, les indications suivantes [*mentions*] :
+
+a) Ses nom, prénoms et adresse ;
+
+b) Le nombre de parts correspondant à sa situation et à ses charges de famille ;
+
+c) Le revenu imposable ;
+
+d) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2 ;
+
+e) Le montant de l'avoir fiscal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L111
+	  - CGI R111-2
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 
 ##### Section II : Dérogations à la règle du secret professionnel
@@ -11245,6 +11648,19 @@ suivant celle au cours de laquelle la vacance ou l'inexploitation atteint la dur
 	  - Décret n°81-860 1981-09-15
 
 
+###### Article R*196-6
+
+Les réclamations relatives aux taxes, cotisations, redevances sur les céréales et produits dérivés sont recevables jusqu'à
+l'expiration de la campagne suivant celle au cours de laquelle a été, soit notifié l'avis de mise en recouvrement, soit
+effectué le versement de la somme contestée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+
 ##### II : Forme et contenu des réclamations.
 
 ###### Article R*197-1
@@ -11539,6 +11955,34 @@ notifications faites au cours de la procédure devant le tribunal administratif.
 
 ##### I : Tribunaux compétents
 
+###### Article R*199-1
+
+L'action doit être introduite devant le tribunal compétent dans le délai de deux mois à partir du jour de la réception de
+l'avis par lequel l'administration notifie au contribuable la décision prise sur la réclamation, que cette notification soit
+faite avant ou après l'expiration du délai de six mois prévu à l'article R. 198-10. 
+
+Toutefois, le contribuable qui n'a pas reçu la décision de l'administration dans un délai de six mois mentionné au premier
+alinéa peut saisir le tribunal dès l'expiration de ce délai. 
+
+L'administration peut soumettre d'office au tribunal la réclamation présentée par un contribuable. Elle doit en informer ce
+dernier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Jurisprudence 1999-12-01 13O-6-99
+	  - TXT_ASSOCIE: Jurisprudence 2001-04-17 13O-2-01
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*198-10 (V)
+
+
 ###### Article R*199-2
 
 Les jugements des tribunaux administratifs peuvent être soumis au Conseil d'Etat par la voie d'appel.
@@ -11707,6 +12151,29 @@ qu'il n'y a pas lieu à instruction.
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
+
+
+###### Article R*200-8
+
+Les dispositions des articles R.[* 117 à R.*] 148 du code des tribunaux administratifs relatifs aux mesures d'instruction
+sont applicables en matière fiscale sous réserve des dispositions particulières des articles R.[* 200-9 à R.*] 200-13 du
+présent livre concernant les expertises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des tribunaux administratifs R117 à R148
+	  - Livre des procédures fiscales R200-8, R200-9 à R200-13
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+	  - Modification directe incorporée dans l'édition du 15 juin 1990
+
+	**Abrogé par**:
+
+	  - Décret n°89-948 du 22 décembre 1989 - art. 6 () JORF 31 décembre 1989, en vigueur le 1er janvier 1990
 
 
 ###### Article R*200-9
@@ -12014,6 +12481,34 @@ par le contribuable ou par l'administration.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*202-6 (V)
+
+
+###### Article R*202-4
+
+L'expertise est faite par un seul expert. Toutefois, si le tribunal l'estime nécessaire ou si l'une des parties le demande,
+l'expertise est confiée à trois experts choisis respectivement par le tribunal et chacune des parties.
+
+Le jugement qui ordonne l'expertise et désigne le ou les experts fixe leur mission ainsi que le délai dans lequel ils sont
+tenus de déposer leur rapport au secrétariat-greffe.
+
+S'il y a plusieurs experts, ils procèdent ensemble à la visite des lieux et dressent un seul rapport. Dans le cas où ils sont
+d'avis différents, le rapport indique l'opinion de chacun d'eux et les motifs à l'appui.
+
+Le secrétaire-greffier informe les parties, par lettre recommandée avec demande d'avis de réception, du dépôt du rapport au
+greffe. Les conclusions du contribuable et de l'administration sur ce rapport sont formulées par mémoires respectivement
+signifiés dans les deux mois qui suivent cette notification.
+
+Le tribunal statue à l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 	**Cité par**:
 
@@ -12515,6 +13010,33 @@ b) Le lieu, la date et l'heure auxquels ils ont été rédigés et achevés.
 	  - Décret n°81-860 1981-09-15
 
 
+###### Article R*226-2
+
+Lorsque la constatation de l'infraction est suivie de la saisie d'objets ou marchandises, le procès-verbal doit préciser :
+
+a) La date de la saisie et de la déclaration qui en a été faite à la personne en infraction ;
+
+b) La description des objets ou marchandises, leur quantité et leur valeur ;
+
+b bis ) La présence de la personne en infraction à la rédaction du procès-verbal ou la sommation qui lui a été faite d'y
+assister ;
+
+c) Le nom, la qualité et l'adresse du gardien des objets ou marchandises saisis et son engagement de présenter à la première
+demande de l'administration ces objets ou marchandises à l'endroit où ils sont conservés ;
+
+d) L'engagement pris par la personne en infraction de présenter les objets ou marchandises saisis ou d'en payer la valeur à
+toute demande qui pourrait lui être faite si la mainlevée de la saisie a été donnée et que le prix des objets ou marchandises
+saisis n'a pas été versé ;
+
+e) La saisie des moyens de transports si elle a été pratiquée en garantie de l'amende encourue.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
+
+
 ###### Article R*226-3
 
 Dans le cas où la saisie est motivée par l'établissement ou l'usage d'un document altéré ou constituant un faux, le procès-
@@ -12639,6 +13161,36 @@ prépondérante.
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
+
+
+###### Article R*228-5
+
+Les séances de la commission et des sections ne sont pas publiques .La commission et les sections délibèrent en dehors de la
+présence de l'autorité qui l'a saisie et du contribuable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+
+###### Article R*228-6
+
+Le président notifie l'avis de la commission au ministre. Cet avis n'est pas motivé.
+
+Le contribuable est informé de l'avis de la commission par le secrétariat si cet avis est défavorable à l'engagement de
+poursuites ou, dans le cas contraire, par l'administration lors du dépôt de la plainte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies-0 B (VD)
 
 
 #### Chapitre III : Les remises et transactions à titre gracieux
@@ -12802,6 +13354,38 @@ l'autorité qui a saisi le comité, ou son représentant, à présenter, si elle
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
+
+
+###### Article R*247-15
+
+Les séances du comité et des sections ne sont pas publiques. Le comité et ses sections délibèrent en dehors de la présence de
+l'autorité qui l'a saisi et du contribuable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 396 terdecies
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
+
+
+###### Article R*247-16
+
+L'avis du comité doit être adressé par le président à l'autorité qui l'a saisi. La décision qui est notifiée au contribuable
+comporte l'indication qu'elle a été prise après avis du comité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 396 quaterdecies
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 
 ###### Article R247-2
@@ -13182,6 +13766,36 @@ l'article R. 256-6. Elle produit ses effets dans les conditions prévues à l'ar
 
 
 ##### Section III : Mesures particulières
+
+##### 4° : Responsabilité des dirigeants et gérants de sociétés.
+
+###### Article R*266-1
+
+En cas d'assignation prévue par l'article L. 266, deuxième alinéa, le président du tribunal statue selon la procédure à jour
+fixe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
+
+	**Transféré par**:
+
+	  - Décret n°2006-357 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L266 (M)
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales R267-1
+
 
 ##### 10° : Taxes sur le chiffre d'affaires
 
@@ -13640,7 +14254,8 @@ Les membres de la commission départementale [*des impots directs et des taxes s
 connaissance du montant des bénéfices forfaitaires adoptés dans le département et dans les départements limitrophes au titre
 de l'année précédente.
 
-La commission recueille l'avis du directeur départemental de l'agriculture.
+La commission recueille l'avis du directeur départemental de l'agriculture. Celui-ci peut se faire représenter par un
+fonctionnaire de son service.
 
 Elle prend sa décision dans les conditions prévues à l'article 1651-7 du code général des impôts, au plus tard le 15 février
 suivant l'année d'imposition. Toutefois, pour les cultures spéciales dont la valeur des récoltes ne peut être appréciée avec
@@ -13652,14 +14267,9 @@ une exactitude suffisante à cette date, la décision peut être retardée jusqu
 
 	  - CGI 1651 7
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 66 1 (AL. 2 2ème LIGNE, AL. 4, AL. 5, AL. 6 1ère PHRASE)
-	  - CGI 66 2
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
 
 
 ## LE CONTROLE DE L'IMPOT
@@ -13692,27 +14302,6 @@ désignés à l'article R. 213-3.
 	**Abrogé par**:
 
 	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-
-###### Article R*32-2
-
-Lors des opérations d'inventaire prévues par le code général des impôts et des contrôles prévus par le présent livre,
-
-les exploitants des distilleries doivent fournir la main-d'oeuvre et les instruments nécessaires [*obligation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN1 66 (DERNIERE PHRASE)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cité par**:
-
-	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
 
 
 #### MODALITES D'EXERCICE DU DROIT DE CONTROLE.
@@ -13777,6 +14366,26 @@ précède la réunion de cette commission [*obligation*].
 	  - Décret n°81-860 1981-09-15
 
 
+##### PROCEDURE DE REDRESSEMENT CONTRADICTOIRE.
+
+###### Article R*59 B-1
+
+Lorsque le litige est soumis à la commission départementale de conciliation, en application de l'article L. 59 B, les
+contribuables intéressés sont convoqués vingt jours au moins avant la date de la réunion. Ils sont invités à se faire
+entendre ou à faire parvenir leurs observations écrites. Ils peuvent se faire assister par une personne de leur choix ou
+désigner un mandataire dûment habilité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L59 B
+
+	**Créé par**:
+
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
+
+
 #### PROCEDURES D'IMPOSITION D'OFFICE
 
 ###### Article R*75-1
@@ -13812,15 +14421,15 @@ calcul des impositions prévue à l'article L. 76.
 
 ###### Article R*81-1
 
-Le droit de communication défini à l'article L. 81 est exclusivement exercé par les agents de l'administration des impôts
-titulaires ou stagiaires, appartenant à des corps des catégories A et B et agissant dans le ressort territorial du service
-auquel il sont affectés [*autorités compétentes*].
+Lorsqu'il concerne les documents mentionnés aux articles L. 83 à L. 85 et L. 87, le droit de communication défini à l'article
+L. 81 ne peut être exercé que par les fonctionnaires titulaires ou stagiaires, appartenant à des corps des catégories A et B
+et agissant dans le ressort territorial du service auquel ils sont affectés.
 
 Toutefois, ce droit peut être exercé par des fonctionnaires ayant le grade d'agent de constatation ou d'assiette lorsqu'ils
 agissent sur ordre écrit d'un agent ayant au moins le grade de contrôleur ; cet ordre, qui doit être présenté au
 contribuable, précise le nom du ou des contribuables intéressés.
 
-Le droit de communication peut également, lorsque les besoins du service le requierent et qu'il n'existe aucun fonctionnaire
+Le droit de communication peut également, lorsque les besoins du service le requièrent et qu'il n'existe aucun fonctionnaire
 apte à l'exercer, être confié par intérim à d'anciens fonctionnaires des mêmes catégories ou grades.
 
 **Liens relatifs à cet article**
@@ -13828,15 +14437,15 @@ apte à l'exercer, être confié par intérim à d'anciens fonctionnaires des m�
 	**Cite**:
 
 	  - CGI L81
+	  - CGI L83
+	  - CGI L84
+	  - CGI L85
+	  - CGI L87
+	  - CGI R81-1 AL. 1
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGIAN2 406 bis (AL. 1)
-	  - CGIAN2 409 (P.)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
 
 	**Cité par**:
 
@@ -13914,39 +14523,6 @@ rôle commencé étant dû en entier.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L106 (M)
-
-
-###### Article R111-1
-
-La liste des personnes assujetties à l'impôt sur le revenu ou à l'impôt sur les sociétés, établie en application de l'article
-L. 111, comprend les impositions mises en recouvrement au 30 avril de l'année suivant celle de la production des déclarations
-de revenus [*période*].
-
-Elle comporte, pour chaque contribuable, les indications suivantes [*mentions*] :
-
-a) Ses nom, prénoms et adresse ;
-
-b) Le nombre de parts correspondant à sa situation et à ses charges de famille ;
-
-c) Le revenu imposable ;
-
-d) Le montant de l'impôt mis à sa charge, défini par l'article R. 111-2 ;
-
-e) Le montant de l'avoir fiscal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R111-2
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 114 () JORF 30 décembre 1983
 
 
 #### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
@@ -14079,29 +14655,6 @@ pertes, la date du sinistre et le nombre approximatif des contribuables atteints
 
 #### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*
 
-###### Article R*199-1
-
-L'action peut être introduite devant le tribunal compétent dans le délai de deux mois à partir du jour de la réception de
-l'avis par lequel l'administration notifie au contribuable la décision prise sur sa réclamation [*point de départ*], et si le
-contribuable n'a pas reçu la décision de l'administration, dans le délai de six mois suivant la date de présentation de sa
-réclamation.
-
-L'administration peut soumettre d'office au tribunal la réclamation présentée par un contribuable. Elle doit en informer ce
-dernier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1938 3 (AL. 1)
-	  - CGI 1939 1 (AL. 1 5éme A 7ème LIGNES), 2
-	  - CGI 1947 1
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
 ###### Article R*200-2
 
 Les requêtes sont adressées au greffe du tribunal administratif où elles sont enregistrées. Un accusé de réception est
@@ -14150,27 +14703,6 @@ tribunal administratif.
 	  - Code général des impôts, CGI. - art. 866 (V)
 
 
-###### Article R*200-8
-
-Les dispositions des articles R. 117 à R. 136 du code des tribunaux administratifs relatifs aux expertises sont applicables
-en matière fiscale sous réserve des dispositions particulières des articles R. 200-9 à R. 200-13.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1943 1 (AL. 1)
-
-	**Cite**:
-
-	  - Code des tribunaux administratifs R117 à R136
-	  - Livre des procédures fiscales R200-9 à R200-13
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
 ###### Article R*200-18
 
 Le ministre chargé des finances peut faire appel des jugements des tribunaux administratifs rendus en matière fiscale.
@@ -14199,39 +14731,6 @@ Si c'est la partie défenderesse, elle sera réputée avoir acquiescé aux faits
 	**Codifié par**:
 
 	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*202-4
-
-L'expertise est faite par un seul expert. Toutefois, si le tribunal l'estime nécessaire ou si l'une des parties le demande,
-l'expertise est confiée à trois experts [*nombre*] ; l'un d'eux est choisi par le tribunal et chacun des autres par l'une des
-parties.
-
-Le jugement qui ordonne l'expertise et désigne le ou les experts fixe leur mission ainsi que le délai dans lequel ils sont
-tenus de déposer leur rapport au secrétariat-greffe [*lieu*].
-
-S'il y a plusieurs experts, ils procèdent ensemble à la visite des lieux et dressent un seul rapport. Dans le cas où ils sont
-d'avis différents, le rapport indique l'opinion de chacun d'eux et les motifs à l'appui.
-
-Le secrétaire-greffier [*autorité compétente*] informe les parties, par lettre recommandée avec demande d'avis de réception
-[*condition de forme*], du dépôt du rapport au greffe. Les conclusions du contribuable et de l'administration sur ce rapport
-sont formulées par mémoires respectivement signifiés dans les deux mois qui suivent cette notification.
-
-Le tribunal statue à l'expiration de ce délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Modifié par**:
-
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. R*202-6 (V)
 
 
 #### CONSEQUENCES DES DECISIONS PRISES SUR LES RECLAMATIONS ET DES JUGEMENTS DES TRIBUNAUX.
@@ -14394,35 +14893,6 @@ infractions en matière de police de la circulation et du roulage et en matière
 	**Anciens textes**:
 
 	  - CGIAN1 325
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
-###### Article R*226-2
-
-Lorsque la constatation de l'infraction est suivie de la saisie d'objets ou marchandises, le procès-verbal doit préciser
-[*mentions obligatoires*] :
-
-a) La date de la saisie et de la déclaration qui en a été faite à la personne en infraction ;
-
-b) La description des objets ou marchandises, leur quantité et leur valeur ;
-
-c) Le nom, la qualité et l'adresse du gardien des objets ou marchandises saisis et son engagement de présenter à la première
-demande de l'administration ces objets ou marchandises à l'endroit où ils sont conservés ;
-
-d) L'engagement pris par la personne en infraction de présenter les objets ou marchandises saisis ou d'en payer la valeur à
-toute demande qui pourrait lui être faite si la mainlevée de la saisie a été donnée et que le prix des objets ou marchandises
-saisis n'a pas été versé ;
-
-e) La saisie des moyens de transports si elle a été pratiquée en garantie de l'amende encourue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1862 (AL. 2 P.)
 
 	**Codifié par**:
 
