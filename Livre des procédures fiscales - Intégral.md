@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-07-20
+Version Consolidée au 1984-07-22
 
 # Partie législative
 
@@ -11957,6 +11957,39 @@ présentant le plus grand revenu d'après la matrice cadastrale.
 
 
 ##### C : Procédure devant le tribunal de grande instance.
+
+###### Article R*202-2
+
+La demande en justice est formée par assignation. L'instruction se fait par simples mémoires respectivement signifiés.
+
+Toutefois, le redevable a le droit de présenter, par lui-même ou par le ministère d'un avocat inscrit au tableau, des
+explications orales. La même faculté appartient à l'administration.
+
+Les parties ne sont pas obligées de recourir au ministère d'un avocat.
+
+Le tribunal accorde aux parties ou aux agents de l'administration qui suivent les instances, les délais nécessaires pour
+présenter leur défense.
+
+Les notifications sont valablement faites au domicile réel du contribuable alors même que celui-ci aurait constitué
+mandataire et élu domicile chez ce dernier. Si le contribuable est domicilié hors de France, la notification est faite au
+domicile élu en France par lui.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1938 3° (Al. 3)
+	  - CGI 1947 2, 3
+	  - CGI 1959 2
+
+	**Modifié par**:
+
+	  - Décret n°84-674 du 17 juillet 1984 - art. 1 () JORF 22 juillet 1984
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*202-6 (V)
+
 
 ###### Article R*202-3
 
