@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1994-08-18
+Version Consolidée au 1994-09-02
 
 # Partie législative
 
@@ -1633,26 +1633,19 @@ commerciales et les fraudes fiscales.
 	  - Livre des procédures fiscales - art. R36 B-1 (M)
 
 
-##### Contributions indirectes.
-
 ###### Article L36
 
-Les agents de l'administration ont seuls qualité pour procéder aux visites et vérifications chez les contribuables soumis à
-la législation sur les ouvrages d'or, d'argent et de platine, ainsi que chez les fondeurs et apprêteurs de ces métaux.
+Les agents de l'administration ont seuls qualité pour procéder aux visites et vérifications chez les contribuables et les
+organismes de contrôle agréés soumis à la législation sur les ouvrages d'or ou contenant de l'or, d'argent et de platine,
+ainsi que chez les fondeurs et apprêteurs de ces métaux.
 
 Ces visites et vérifications ont lieu comme en matière de contributions indirectes et les agents peuvent se faire accompagner
 de l'essayeur.
 
-Les contribuables sont tenus de fournir, le cas échéant, les balances et les poids nécessaires pour effectuer les
-vérifications.
+Les contribuables et les organismes de contrôle agréés sont tenus de fournir, le cas échéant, les balances et les poids
+nécessaires pour effectuer les vérifications.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-265 du 26 février 1993 - art. 1 (V) JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
@@ -1664,33 +1657,45 @@ vérifications.
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 26 () JORF 5 janvier 1994, art. 31, en vigueur le 13 décembre 1993
 
 
 ###### Article L36 A
 
-Les opérateurs visés aux a et c du II de l'article 57 et aux articles 61 et 62 de la loi n° 92-677 du 17 juillet 1992 sont
+Les opérateurs visés aux a et c du II de l'article 302 D et aux articles 302 H et 302 I du code général des impôts sont
 soumis aux contrôles de l'administration dans les conditions prévues à l'article L35.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
-
-	  - Article inséré directement dans l'édition du 18 août 1993
-
 	**Cite**:
 
-	  - LPF L35
-	  - Loi n°92-677 1992-07-17 art. 57, art. 61, art. 62
+	  - CGI 302 H, 302 I
+	  - Livre des procédures fiscales - art. L35 (M)
 
 	**Créé par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 95 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 57 (V) JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 61 (V) JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+	  - Loi n°92-677 du 17 juillet 1992 - art. 62 (V) JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R36 B-1 (M)
 
+
+##### Contributions indirectes.
 
 ###### Article L36 B
 
@@ -2020,6 +2025,23 @@ Un décret fixe les conditions d'application du présent article.
 	  - HISTO: Edition du 11 avril 1997
 
 
+###### Article L45-0 A
+
+Sans préjudice des dispositions de l'article 11 du code général des impôts, lorsque le lieu de déclaration ou d'imposition
+d'un contribuable a été ou aurait dû être modifié, les agents des impôts compétents à l'issue de ce changement peuvent
+également assurer l'assiette et le contrôle de l'ensemble des impôts ou taxes non atteints par la prescription.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-1353 du 30 décembre 1993 - art. 46 () JORF 31 décembre 1993
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 11 (V)
+
+
 ###### Article L46
 
 Les autorités civiles et militaires et la force publique prêtent aide et assistance aux agents de l'administration des impôts
@@ -2181,6 +2203,69 @@ résultats à la connaissance du contribuable, même en l'absence de redressemen
 	  - Loi n°87-502 1987-07-08 art. 9 I B, art. 11 JORF 9 juillet 1987
 
 
+###### Article L52
+
+Sous peine de nullité de l'imposition, la vérification sur place des livres ou documents comptables ne peut s'étendre sur une
+durée supérieure à trois mois en ce qui concerne :
+
+1° Les entreprises industrielles et commerciales ou les contribuables se livrant à une activité non commerciale dont le
+chiffre d'affaires ou le montant annuel des recettes brutes n'excède pas les limites prévues au I de l'article 302 septies A
+du code général des impôts (1) ;
+
+2° Les contribuables se livrant à une activité agricole, lors que le montant annuel des recettes brutes n'excède pas la
+limite prévue au b du II de l'article 69 du code général des impôts (2).
+
+Toutefois, l'expiration du délai de trois mois n'est pas opposable à l'administration pour l'instruction des observations ou
+des requêtes présentées par le contribuable, après l'achèvement des opérations de vérification.
+
+Elle ne l'est pas non plus pour l'examen, en vertu de l'article L. 12, des comptes financiers utilisés à titre privé et
+professionnel, ni pour la vérification, en vertu de l'article L. 13, des comptes utilisés pour l'exercice d'activités
+distinctes (3).
+
+Les dispositions du premier alinéa sont valables dans les cas où un même vérificateur contrôle à la fois l'assiette de
+plusieurs catégories différentes d'impôts ou de taxes.
+
+Cf. Instruction 1993-02-22 13L-2-93, ESFP.
+
+(1) Les limites de 5 000 000 F (4) et 1 500 000 F (4) prévues au I de l'article 302 septies A du CGI s'appliquent aux
+contrôles pour lesquels la première intervention sur place a lieu à compter du 1er janvier 1996.
+
+(2) Ces dispositions s'appliquent aux contrôles pour lesquels la première intervention sur place a eu lieu à compter de
+l'entrée en vigueur de la loi 94-126 du 11 février 1994.
+
+(3) Cette disposition s'applique pour le règlement des litiges nés à compter  de la date d'entrée en vigueur de la loi
+92-1476 du 31 décembre 1992 publiée au JO des 4 et 5 janvier 1993.
+
+(4) Ces montants sont portés respectivement à 763 000 et 230 000 euros à compter du 1er janvier 2002.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 septies A, 69
+	  - Livre des procédures fiscales - art. L12 (M)
+	  - Livre des procédures fiscales - art. L13 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+	  - TXT_ASSOCIE: Instruction 1993-02-22 13L-2-93
+	  - TXT_ASSOCIE: Instruction 2000-02-03 13L-1-00
+	  - SPEC_APPLI: Loi n°94-1163 1994-12-30 art. 15 I III
+	  - SPEC_APPLI: Loi n°94-126 1994-02-11 art. 30 II
+	  - SPEC_APPLI: Loi n°95-1347 1995-12-30 art. 15 IV Finances rectificative pour 1995
+
+	**Modifié par**:
+
+	  - Loi n°94-126 du 11 février 1994 - art. 30 (V) JORF 13 février 1994
+
+	**Cité par**:
+
+	  - Loi n°94-1163 du 29 décembre 1994 - art. 15 (V)
+	  - Loi - art. 15 (V)
+	  - Livre des procédures fiscales - art. L52 A (V)
+
+
 ##### Garanties accordées au contribuable en matière de vérification.
 
 ###### Article L48
@@ -2271,55 +2356,6 @@ ont opté pour le régime prévu à l'article 223 A du code général des impôt
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 V septies (P)
 	  - Livre des procédures fiscales - art. L176 A (P)
-
-
-###### Article L52
-
-Sous peine de nullité de l'imposition, la vérification sur place des livres et documents comptables ne peut s'étendre sur une
-durée supérieure à trois mois en ce qui concerne :
-
-1° Les entreprises dont l'activité principale est de vendre des marchandises, objets, fournitures et denrées à emporter ou à
-consommer sur place ou de fournir le logement et dont le chiffre d'affaires n'excède pas 3.000.000 F [*montant, plafond*].
-
-2° Les autres entreprises industrielles et commerciales, lorsque leur chiffre d'affaires n'excède pas 900.000 F ;
-
-3° Les contribuables se livrant à une activité agricole, lorsque le montant annuel des recettes brutes n'excède pas 1.800.000
-F ;
-
-4° Les contribuables se livrant à une activité non commerciale, lorsque le montant annuel des recettes brutes n'excède pas
-900.000 F.
-
-Toutefois, l'expiration du délai de trois mois n'est pas opposable à l'administration pour l'instruction des observations ou
-des requêtes présentées par le contribuable, après l'achèvement des opérations de vérification.
-
-Elle ne l'est pas non plus pour l'examen, en vertu de l'article L. 12, des comptes financiers utilisés à titre privé et
-professionnel, ni pour la vérification, en vertu de l'article L. 13, des comptes utilisés pour l'exercice d'activités
-distinctes.
-
-Les dispositions du premier alinéa sont valables dans les cas où un même vérificateur contrôle à la fois l'assiette de
-plusieurs catégories différentes d'impôts ou de taxes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L12, L13
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1993-02-22 13L-2-93
-	  - SPEC_APPLI: Loi n°92-1476 1992-12-31 art. 86 III Finances rectificative pour 1992
-
-	**Modifié par**:
-
-	  - Loi - art. 86 (V) JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
-
-	**Cité par**:
-
-	  - Loi n°94-1163 du 29 décembre 1994 - art. 15 (V)
-	  - Loi - art. 15 (V)
-	  - Livre des procédures fiscales - art. L52 A (V)
 
 
 ##### 2° : Actes de procédure
@@ -2513,25 +2549,39 @@ formuler ses observations ou de faire connaître son acceptation.
 En cas d'application des dispositions de l'article L. 47 A, l'administration précise au contribuable la nature des
 traitements effectués.
 
-Lorsque l'administration rejette les observations du contribuable sa réponse doit également être motivée [*obligation de
-motivation*].
+Lorsque, pour rectifier le prix ou l'évaluation d'un fonds de commerce ou d'une clientèle, en application de l'article L. 17,
+l'administration se fonde sur la comparaison avec la cession d'autres biens, l'obligation de motivation en fait est remplie
+par l'indication :
+
+1° Des dates des mutations considérées ;
+
+2° De l'adresse des fonds ou lieux d'exercice des professions ;
+
+3° De la nature des activités exercées ;
+
+4° Et des prix de cession, chiffres d'affaires ou bénéfices, si ces informations sont soumises à une obligation de publicité
+ou, dans le cas contraire, des moyennes de ces données chiffrées concernant les entreprises pour lesquelles sont fournis les
+éléments mentionnés aux 1°, 2° et 3°.
+
+Lorsque l'administration rejette les observations du contribuable sa réponse doit également être motivée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - CGI 1649 QUINQUIES A 2 (AL. 1 1ère PHRASE, AL. 4)
+	  - CGI 1649 quinquies A 2 (Al. 1 1ère Phrase, al. 4)
 	  - Loi n°77-1453 du 29 décembre 1977 - art. 5 ()
 	  - Loi n°77-1453 du 29 décembre 1977 - art. 6 ()
 
-	**Cite**:
+	**Liens**:
 
-	  - CGI L47 A
+	  - HISTO: Edition du 2 septembre 1994
+	  - TXT_ASSOCIE: Jurisprudence 2001-02-07 13L-2-01
+	  - TXT_ASSOCIE: Jurisprudence 2001-02-26 13L-5-01
 
 	**Modifié par**:
 
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
-	  - Modification directe incorporée dans l'édition du 15 juin 1990
+	  - Loi n°93-1353 du 30 décembre 1993 - art. 31 () JORF 31 décembre 1993
 
 	**Cité par**:
 
@@ -2561,6 +2611,10 @@ motivation*].
 	  - Livre des procédures fiscales - art. L77 (V)
 	  - Livre des procédures fiscales - art. R*256-1 (V)
 	  - Livre des procédures fiscales - art. R*57-1 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L17 (M)
 
 
 ###### Article L59
@@ -4283,34 +4337,35 @@ articles L. 47 et suivants.
 	  - Livre des procédures fiscales - art. L47 (V)
 
 
-##### Membres de certaines professions non commerciales.
-
 ###### Article L86 A
 
 La nature des prestations fournies par l'adhérent d'une association agréée ne peut faire l'objet de demandes de
 renseignements de la part de l'administration des impôts lorsque cet adhérent est membre d'une profession non commerciale
-soumis au secret professionnel en application de l'article 378 du code pénal.
+soumis au secret professionnel en application ((des articles 226-13 et 226-14 du code pénal)) (M).
 
-**Nota:**
+(M) Modification.
 
-NOTA : Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par la
-référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378 du
-code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.
+Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
-
 	**Modifié par**:
 
-	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990 :
+	  - Loi n°92-1336 1992-12-16 art. 333, 372, 373 JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
+	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
-	  - HISTO: modification de la table des matières à la date du 15 juin 1990)
+	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Cité par**:
 
@@ -4318,7 +4373,8 @@ code pénal, cette mention vise les peines fixées par l'article 226-13 du code 
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 
 ##### 9° : Institutions et organismes versant des rémunérations ou répartissant des fonds
@@ -4622,24 +4678,33 @@ résidents.
 
 Les dispositions de l'article L. 102 B sont applicables.
 
-Un décret en Conseil d'Etat fixe les règles particulières relatives à la conservation et à la communication des informations
-détenues par les organismes visés au premier alinéa.
+Un décret en Conseil d'Etat fixe ((après avis de la Commission nationale de l'informatique et des libertés)) (M) les règles
+particulières relatives à la conservation et à la communication des informations détenues par les organismes visés au premier
+alinéa.
+
+(M) Modification.
+
+[*Cf. Instruction 1995-11-16 13K-3-95.*]
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-46 1984-01-24 art. 8
 	  - CGI 1649 A al. 2
 	  - CGI L102 B
+	  - Loi n°84-46 1984-01-24 art. 8
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°89-935 1989-12-29 art. 98 Finances pour 1990 JORF 30 décembre 1990
+	  - TXT_ASSOCIE: Instruction 1995-11-16 13K-3-95
+
+	**Modifié par**:
+
+	  - Loi n°89-935 1989-12-29 art. 98 3 Finances pour 1990 JORF 30 décembre 1990
 
 	**Codifié par**:
 
-	  - Décret n°90-799 1990-09-10
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
@@ -5038,22 +5103,23 @@ prévu à l'article L. 169. La documentation relative aux analyses, à la progra
 
 ###### Article L103
 
-L'obligation du secret professionnel, telle qu'elle est définie à l'article 378 du code pénal, s'applique à toutes les
-personnes appelées à l'occasion de leurs fonctions ou attributions à intervenir dans l'assiette, le contrôle, le recouvrement
-ou le contentieux des impôts, droits, taxes et redevances prévus au code général des impôts.
+L'obligation du secret professionnel, telle qu'elle est définie aux articles 226-13 et 226-14 du code pénal, s'applique à
+toutes les personnes appelées à l'occasion de leurs fonctions ou attributions à intervenir dans l'assiette, le contrôle, le
+recouvrement ou le contentieux des impôts, droits, taxes et redevances prévus au code général des impôts.
 
 Le secret s'étend à toutes les informations recueillies à l'occasion de ces opérations. Pour les informations recueillies à
 l'occasion d'un examen contradictoire de l'ensemble de la situation fiscale personnelle, l'obligation du secret professionnel
 nécessaire au respect de la vie privée s'impose au vérificateur à l'égard de toutes personnes autres que celles ayant, par
 leurs fonctions, à connaître du dossier.
 
-**Nota:**
-
-Nota - Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par la
-référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378 du
-code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.
-
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
 
 	**Cité par**:
 
@@ -5083,17 +5149,21 @@ code pénal, cette mention vise les peines fixées par l'article 226-13 du code 
 	  - Livre des procédures fiscales - art. R*103-1 (V)
 	  - Livre des procédures fiscales - art. R*114 A-3 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
-
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-09 art. 9 VI JORF 9 juillet 1987
+	  - Loi n°92-1336 1992-12-16 art. 333, art. 372, art. 373 JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
+	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 
 ##### 1° : Délivrance de documents aux contribuables
@@ -5440,47 +5510,36 @@ Des dérogations à la règle du secret professionnel sont établies au profit d
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 135 E, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret
-professionnel dans les termes de l'article 378 du code pénal.
+D, L. 135 E, L. 135 F, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret
+professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
 
-**Nota:**
-
-NOTA - Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par la
-référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378 du
-code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.
+Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 135 B
-	  - CGI 135 D
-	  - CGI L123
-	  - CGI L124
-	  - CGI L127
-	  - CGI L130
-	  - CGI L135
-	  - CGI L135 E
-	  - CGI L136
-	  - CGI L139 A
-	  - CGI L152 A
-	  - CGI L154
-	  - CGI L156
-	  - CGI L158
-	  - CGI L161
-	  - Code pénal 378
+	  - CGI Livre des procédures fiscales L123, L124, L127, L130, L135, L135 B, L135 D, L135 E, L135 F, L136, L139 A, L152 A, L154, L156, L158, L161
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Modifié par**:
 
-	  - Loi n°91-3 1991-01-03 art. 1 JORF 5 janvier 1991
+	  - Loi n°92-1336 1992-12-16 art. 333, 372, 373 JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
+	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
 
 	**Codifié par**:
 
-	  - Décret n°91-882 1991-09-09
+	  - Décret n°94-900 1994-10-17
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
+	  - HISTO: Edition du 2 septembre 1994
+	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
 
 	**Cité par**:
 
@@ -5751,10 +5810,10 @@ l'une des professions relevant de l'ordre.
 Lorsque des contribuables réclament à l'Etat, aux départements, aux communes ou aux établissements publics autres que les
 établissements à caractère industriel et commercial des indemnités ou dommages-intérêts dont le montant dépend de leurs
 bénéfices ou revenus ou de la valeur de leurs biens, les collectivités publiques intéressées ainsi que les experts appelés à
-fournir un rapport sur ces demandes d'indemnités ou de dommages-intérêts peuvent recevoir de l'administration des impôts
-communication des déclarations produites et des évaluations fournies par ces contribuables pour l'établissement ou la
-liquidation de l'un quelconque des impôts ou taxes prévus au code général des impôts, à l'exception des droits perçus à
-l'occasion de mutations à titre gratuit.
+fournir un rapport sur ces demandes d'indemnités ou de dommages-intérêts peuvent recevoir de l'administration des impôts ou
+de l'administration des douanes et droits indirects communication des déclarations produites et des évaluations fournies par
+ces contribuables pour l'établissement ou la liquidation de l'un quelconque des impôts ou taxes prévus au code général des
+impôts, à l'exception des droits perçus à l'occasion de mutations à titre gratuit.
 
 Sous réserve des dispositions particulières prévues en matière d'expropriation, ces déclarations et évaluations sont
 opposables aux demandeurs dans la mesure où elles sont antérieures au fait sur lequel se fonde leur demande.
@@ -5764,9 +5823,23 @@ opposables aux demandeurs dans la mesure où elles sont antérieures au fait sur
 	**Anciens textes**:
 
 	  - CGI 2016 quater B
-	  - Loi n°62-896 1962-08-04 ART. 1
-	  - Loi n°1936-12-31 ART. 41
-	  - Loi n°1941-01-13 ANNEXE I ART. 143 bis
+	  - Loi n°1936-12-31 art. 41
+	  - Loi n°1941-01-13 annexe I art. 143 bis
+	  - Loi n°62-896 1962-08-04 art. 1
+
+	**Modifié par**:
+
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article L123
@@ -6132,28 +6205,36 @@ versement en cas de dépassement du plafond légal de densité mentionné à l'a
 Les agents de la direction générale des douanes et droits indirects, les agents agréés à cet effet et assermentés des
 organismes de sécurité sociale et des caisses de mutualité sociale agricole, les inspecteurs du travail et fonctionnaires de
 contrôle assimilés au sens de l'article L. 611-10 du code du travail ainsi que les officiers et les agents assermentés des
-affaires maritimes peuvent recevoir de l'administration des impôts communication de tous les renseignements et documents
-nécessaires à l'accomplissement de leur mission de lutte contre le travail clandestin.
+affaires maritimes peuvent recevoir ((de l'administration des impôts ou de l'administration des douanes et droits indirects,
+le cas échéant,)) (1) communication de tous les renseignements et documents nécessaires à l'accomplissement de leur mission
+de lutte contre le travail clandestin.
+
+(1) Modifications.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-648 1972-07-11 ART. 5, ART. 6
+	  - CGI 2020 1 8° (SAUF 1RE LIGNE)
 
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 2020 1 8° (SAUF 1RE LIGNE)
-	  - Loi n°72-648 1972-07-11 ART. 5, ART. 6
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°91-1 du 3 janvier 1991 - art. 29 () JORF 5 janvier 1991
-	  - Loi n°91-1383 du 31 décembre 1991 - art. 6 () JORF 1er janvier 1991
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
 
 	**Codifié par**:
 
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°94-900 1994-10-17
 
 	**Cite**:
 
@@ -6164,23 +6245,29 @@ nécessaires à l'accomplissement de leur mission de lutte contre le travail cla
 
 Conformément à l'article L. 351-18 du Code du travail, les agents chargés des opérations de contrôle de la recherche d'emploi
 prévue aux articles L. 351-1 et L. 351-16 du même code peuvent, pour l'exercice de leur mission, recevoir communication des
-renseignements détenus par l'administration des impôts.
+renseignements détenus par l'administration des impôts ou par l'administration des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°84-198 du 21 mars 1984 - art. 1 () JORF 22 mars 1984
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
 
 	**Codifié par**:
 
-	  - Décret n°85-1008 1985-09-24
+	  - Décret n°94-900 1994-10-17
 
 	**Cite**:
 
 	  - Code du travail - art. L351-1 (M)
 	  - Code du travail - art. L351-16 (P)
 	  - Code du travail - art. L351-18 (T)
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article L134 B
@@ -6273,17 +6360,17 @@ Les communes et l'administration peuvent se communiquer mutuellement les informa
 des impositions directes locales.
 
 Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par
-le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
-fichiers et aux libertés. Leur utilisation respecte les obligations de discrétion et de sécurité selon des modalités définies
-par un décret en Conseil d'Etat.
-
-**Nota:**
-
-NOTA : Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par la
-référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378 du
-code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.
+le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
+l'informatique, aux fichiers et aux libertés. Leur utilisation respecte les obligations de discrétion et de sécurité selon
+des modalités définies par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
 
 	**Cite**:
 
@@ -6305,35 +6392,29 @@ code pénal, cette mention vise les peines fixées par l'article 226-13 du code 
 	  - Livre des procédures fiscales - art. L135 J (V)
 	  - Livre des procédures fiscales - art. R*135 B-1 (V)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
-
 	**Modifié par**:
 
-	  - Loi - art. 85 () JORF 5 janvier 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Loi n°92-1336 1992-12-16 art. 256 à 261, 373 JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 256 () JORF 23 décembre 1992
+	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
 
 
 ###### Article L135 D
 
-Les agents de l'administration des impôts peuvent communiquer aux agents de l'Institut national de la statistique et des
-études économiques et aux agents des services statistiques ministériels, dans les limites et conditions prévues par la loi n°
-86-1305 du 23 décembre 1986, les renseignements utiles à l'établissement de statistiques. "
+Les agents de l'administration des impôts et de l'administration des douanes et droits indirects peuvent communiquer aux
+agents de l'Institut national de la statistique et des études économiques et aux agents des services statistiques
+ministériels, dans les limites et conditions prévues par la loi n° 86-1305 du 23 décembre 1986, les renseignements utiles à
+l'établissement de statistiques.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°86-1305 1986-12-23
-
-	**Créé par**:
-
-	  - Loi n°86-1305 1986-12-23 art. 1 JORF 26 décembre 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
 
 	**Cité par**:
 
@@ -6350,6 +6431,20 @@ Les agents de l'administration des impôts peuvent communiquer aux agents de l'I
 	  - Code de la recherche - art. L511-3 (V)
 	  - Livre des procédures fiscales - art. L113 (VT)
 	  - Livre des procédures fiscales - art. R135 D-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article L135 E
@@ -6382,6 +6477,46 @@ Les membres de la mission interministérielle d'enquête sur les marchés créé
 
 	**Cité par**:
 
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+
+###### Article L135 F
+
+Afin d'assurer l'exécution de sa mission, l'autorité des marchés financiers peut obtenir des informations et documents
+conformément à la première phrase du I de l'article L. 621-9, à l'article L. 621-9-1, au premier alinéa de l'article L.
+621-9-3 et à l'article L. 621-10 du code monétaire et financier ci-après reproduits :
+
+"Art. L. 621-9 : Afin d'assurer l'exécution de sa mission, l'Autorité des marchés financiers effectue des contrôles et des
+enquêtes ;
+
+Art. L. 621-9-1 : Lorsque le secrétaire général de l'Autorité des marchés financiers décide de procéder à des enquêtes, il
+habilite les enquêteurs selon des modalités fixées par le règlement général.
+
+Les personnes susceptibles d'être habilitées répondent à des conditions d'exercice définies par décret en Conseil d'Etat ;
+
+Art. L621-9-3 : Dans le cadre des contrôles et enquêtes mentionnés aux articles L. 621-9 et L. 621-9-1, le secret
+professionnel ne peut être opposé à l'Autorité des marchés financiers ni, le cas échéant, aux entreprises de marché ou aux
+chambres de compensation, corps de contrôle, personnes ou autorités mentionnés à l'article L.621-9-2, lorsqu'ils assistent
+l'Autorité des marchés financiers, sauf par les auxiliaires de justice ;
+
+L. 621-10 : Les enquêteurs peuvent, pour les nécessités de l'enquête, se faire communiquer tous documents, quel qu'en soit le
+support, y compris les données conservées et traitées par les opérateurs de télécommunications dans la cadre de l'article L.
+34-1 du code des postes et télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n°
+2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique et en obtenir la copie. Ils peuvent convoquer et
+entendre toute personne susceptible de leur fournir des informations. Ils peuvent accéder aux locaux à usage professionnel."
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance 67-833 1967-09-28 art. 5 JORF 29 septembre 1967
+	  - Loi n°88-70 du 22 janvier 1988 - art. 13 () JORF 23 janvier 1988
+	  - Loi n°89-531 du 2 août 1989 - art. 13 () JORF 4 août 1989
+	  - Loi n°89-531 du 2 août 1989 - art. 2 () JORF 4 août 1989
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
 	  - Livre des procédures fiscales - art. L113 (VT)
 
 
@@ -6447,24 +6582,32 @@ infractions fiscales mentionnée à l'article L. 228.
 ###### Article L138
 
 Les membres et les rapporteurs du comité du contentieux fiscal, douanier et des changes peuvent recevoir communication, de la
-part de l'administration des impôts, des renseignements nécessaires à l'élaboration du rapport annuel établi par le comité
-sur les conditions dans lesquelles ont été conclues ou accordées les transactions, remises ou modérations relevant de la
-compétence des services déconcentrés de la direction générale des impôts.
+part de l'administration des impôts ou de l'administration des douanes et droits indirects, des renseignements nécessaires à
+l'élaboration du rapport annuel établi par le comité sur les conditions dans lesquelles ont été conclues ou accordées les
+transactions, remises ou modérations relevant de la compétence des services déconcentrés de la direction générale des impôts
+ou de la direction générale des douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - CGI 2026
-	  - Loi n°77-1453 1977-12-29 ART. 20 (AL. 6 2EME PHRASE)
+	  - Loi n°77-1453 1977-12-29 art. 20 (al. 6 2ème phrase)
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Décret n°94-900 du 17 octobre 1994 - art. 1
 
 	**Codifié par**:
 
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
@@ -6564,9 +6707,10 @@ discipline budgétaire et financière.
 
 ###### Article L141
 
-Les officiers et agents de police judiciaire peuvent recevoir de l'administration des impôts communication de tous les
-renseignements et documents nécessaires à l'accomplissement de leur mission de lutte contre le travail clandestin.
-nécessaires à l'accomplissement de leur mission pour la constatation des infractions relatives au travail clandestin.
+Les officiers et agents de police judiciaire peuvent recevoir de l'administration des impôts ou de l'administration des
+douanes et droits indirects communication de tous les renseignements et documents nécessaires à l'accomplissement de leur
+mission de lutte contre le travail clandestin. nécessaires à l'accomplissement de leur mission pour la constatation des
+infractions relatives au travail clandestin.
 
 **Liens relatifs à cet article**
 
@@ -6576,16 +6720,22 @@ nécessaires à l'accomplissement de leur mission pour la constatation des infra
 
 	**Anciens textes**:
 
-	  - CGI 2020 1 8° (1RE, 5EME, 6EME LIGNES)
-	  - Loi n°72-648 1972-07-11 ART. 5, ART. 6
+	  - CGI 2020 1 8° (1re, 5ème, 6ème lignes)
+	  - Loi n°72-648 1972-07-11 art. 5, art. 6
 
 	**Modifié par**:
 
-	  - Loi n°91-1383 du 31 décembre 1991 - art. 5 () JORF 1er janvier 1991
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
 
 	**Codifié par**:
 
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article L142
@@ -6695,12 +6845,16 @@ L. 13-13 à L. 13-17 du code de l'expropriation pour cause d'utilité publique.
 
 ###### Article L145 A
 
-Pour la mise en oeuvre des dispositions de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable
-des difficultés des entreprises, le président du tribunal de commerce ou du tribunal de grande instance peut recevoir de
-l'administration communication des renseignements de nature à lui donner une exacte information sur la situation économique
-et financière du débiteur.
+Pour la mise en oeuvre des dispositions de la loi n° 84-148 du 1er mars 1984 modifiée relative à la prévention et au
+règlement amiable des difficultés des entreprises, le président du tribunal de commerce ou du tribunal de grande instance
+peut recevoir de l'administration communication des renseignements de nature à lui donner une exacte information sur la
+situation économique et financière du débiteur.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Cite**:
 
@@ -6708,14 +6862,13 @@ et financière du débiteur.
 
 	**Modifié par**:
 
-	  - Loi n°84-148 1984-03-01 art. 36 JORF 2 mars 1984
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Loi n°84-148 1984-03-01 art. 34, 37 JORF 2 mars 1984
+	  - Loi n°94-475 du 10 juin 1994 - art. 3 () JORF 11 juin 1994
+	  - Loi n°94-475 du 10 juin 1994 - art. 4 () JORF 11 juin 1994
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
@@ -6724,9 +6877,11 @@ et financière du débiteur.
 
 ###### Article L145 B
 
-Le juge-commissaire désigné par le tribunal, en application de l'article 10 de la loi n° 85-98 du 25 janvier 1985 relative au
-redressement et à la liquidation judiciaire des entreprises, peut obtenir de l'administration communication des
-renseignements de nature à lui donner une exacte information sur la situation économique et financière de l'entreprise.
+Le juge-commissaire désigné par le tribunal, en application de l'article 10 ((modifié)) (1) de la loi n° 85-98 du 25 janvier
+1985 relative au redressement et à la liquidation judiciaire des entreprises, peut obtenir de l'administration communication
+des renseignements de nature à lui donner une exacte information sur la situation économique et financière de l'entreprise.
+
+(1) Modification.
 
 **Liens relatifs à cet article**
 
@@ -6736,44 +6891,41 @@ renseignements de nature à lui donner une exacte information sur la situation �
 
 	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 19 (Ab) JORF 26 janvier 1985
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Loi n°94-475 du 10 juin 1994 - art. 16 () JORF 11 juin 1994
+	  - Loi n°94-475 du 10 juin 1994 - art. 17 () JORF 11 juin 1994
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°94-900 1994-10-17
 
 
 ###### Article L145 C
 
-Pour l'application des dispositions des articles 180 à 182 de la loi n° 85-98 du 25 janvier 1985, relative au redressement et
-à la liquidation judiciaire des entreprises, le tribunal peut charger le juge-commissaire ou, à défaut, un membre de la
-juridiction qu'il désigne, d'obtenir de l'administration communication de tout document ou information sur la situation
-patrimoniale des dirigeants personnes physiques ou morales ainsi que des personnes physiques représentants permanents de ces
-dirigeants personnes morales.
+Pour l'application des dispositions des articles 180 à 182 modifiés de la loi n° 85-98 du 25 janvier 1985, relative au
+redressement et à la liquidation judiciaire des entreprises, le tribunal peut charger le juge-commissaire ou, à défaut, un
+membre de la juridiction qu'il désigne, d'obtenir de l'administration communication de tout document ou information sur la
+situation patrimoniale des dirigeants personnes physiques ou morales ainsi que des personnes physiques représentants
+permanents de ces dirigeants personnes morales.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°85-98 1985-01-25 art. 179 et 184 JORF 26 janvier 1985
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Cite**:
 
 	  - Loi n°85-98 1985-01-25 art. 180 à art. 182
 
+	**Modifié par**:
+
+	  - Loi n°94-475 du 10 juin 1994 - art. 83 () JORF 11 juin 1994
+	  - Loi n°94-475 du 10 juin 1994 - art. 84 () JORF 11 juin 1994
+	  - Loi n°94-475 du 10 juin 1994 - art. 92 () JORF 11 juin 1994
+
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°94-900 1994-10-17
 
 
 ###### Article L145 D
@@ -6914,21 +7066,25 @@ utiles devant la juridiction saisie du litige.
 Aux fins d'assurer l'exécution d'un titre exécutoire, le procureur de la République peut obtenir des administrations de
 l'Etat, communication des renseignements relatifs :
 
-A l'adresse du débiteur ;
+a. A l'adresse du débiteur ;
 
-Aux nom et adresse de son employeur ;
+b. A l'adresse de son employeur ;
 
-Aux noms et adresses des organismes auprès desquels un compte est ouvert au nom du débiteur.
+c. A l'adresse des organismes auprès desquels un compte est ouvert au nom du débiteur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°91-650 1991-07-09 art. 39, art. 40, art. 97 JORF 14 juillet 1991 en vigueur le 1er août 1991
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°91-650 1991-07-09 art. 39, art. 40 JORF 14 juillet 1991, en vigueur le 1er août 1991
 
 	**Codifié par**:
 
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°94-900 1994-10-17
 
 
 ##### V : Dérogations au profit des officiers ministériels
@@ -7490,6 +7646,34 @@ communication de la répartition entre les associés du capital de la société 
 
 ##### 3° : Syndicats
 
+###### Article L165
+
+Les syndicats et organismes professionnels ou interprofessionnels habilités à exercer les droits réservés à la partie civile
+en application de l'article L. 233 peuvent recevoir de l'administration des impôts ou de l'administration des douanes et
+droits indirects communication des renseignements utiles pour leur permettre de se constituer partie civile dans les
+conditions fixées par cet article.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L233 (M)
+
+
 ###### Article L166
 
 L'administration des impôts doit communiquer aux présidents des centres de gestion agréés ou des associations agréées, les
@@ -7525,30 +7709,6 @@ sont soumises.
 	**Modifié par**:
 
 	  - Loi n°89-936 du 29 décembre 1989 - art. 100 () JORF 30 décembre 1989
-
-
-##### Syndicats.
-
-###### Article L165
-
-Les syndicats et organismes professionnels ou interprofessionnels habilités à exercer les droits réservés à la partie civile
-en application de l'article L. 233 peuvent recevoir de l'administration des impôts communication des renseignements utiles
-pour leur permettre de se constituer partie civile dans les conditions fixées par cet article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2020 bis
-	  - Loi n°59-1472 1959-12-28 ART. 78 II
-
-	**Cite**:
-
-	  - CGI L233
-
-	**Liens**:
-
-	  - HISTO: date d'entrée en vigueur 1er JANVIER 1982)
 
 
 #### Chapitre IV : Les délais de prescription
@@ -7597,34 +7757,41 @@ contraires du code général des impôts.
 
 ###### Article L168 A
 
-Le droit de reprise mentionné aux articles L. 169, L. 176 et L. 180 [*délai*] s'exerce jusqu'à la fin de la quatrième année,
-dans les conditions prévues à ces articles :
+Le droit de reprise mentionné ((au premier alinéa de l' article L. 169, aux articles L. 176 et L. 180)) (M) s'exerce jusqu'à
+la fin de la quatrième année, dans le conditions prévues à ces articles :
 
-1° Aux vérifications pour lesquelles l'avis prévu à l'article L. 47 a été envoyé ou remis avant le 2 juillet 1986 [*date*];
+1° Aux vérifications pour lesquelles l'avis prévu à l'article L. 47 a été envoyé ou remis avant le 2 juillet 1986 ;
 
 2° Aux notifications de redressement adressées avant le 2 janvier 1987 lorsqu'elles ne sont pas consécutives à une
 vérification visée à l'article L. 47.
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L169
-	  - CGI L176
-	  - CGI L180
-
-	**Créé par**:
-
-	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
+	  - CGI Livre des procédures fiscales L169, L176, L180, L47
 
 	**Codifié par**:
 
-	  - Décret n°86-1086 1986-10-07
+	  - Décret n°94-900 1994-10-17
+	  - Décret n°97-662 1997-05-28
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°97-662 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
+	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L169 (V)
 	  - Livre des procédures fiscales - art. L176 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-1352 1993-12-29 art. 82 VII Finances pour 1994 JORF 30 décembre 1993
 
 
 ##### Section I : Impôts directs et taxes assimilées
@@ -7637,18 +7804,26 @@ vérification visée à l'article L. 47.
 
 Pour l'impôt sur le revenu et l'impôt sur les sociétés, le droit de reprise de l'administration des impôts s'exerce, sauf
 application de l'article L 168 A, jusqu'à la fin de la troisième année qui suit celle au titre de laquelle l'imposition est
-due [*délai*].
+due.
+
+((Si le déficit d'ensemble ou la moins-value nette à long terme d'ensemble subis par un groupe mentionné à l'article 223 A du
+code général des impôts sont imputés dans les conditions prévues aux articles 223 C et 223 D dudit code sur le résultat
+d'ensemble ou la plus-value nette à long terme d'ensemble réalisés au titre de l'un des exercices clos au cours de la période
+mentionnée à l'alinéa précédent, les résultats et les plus-values ou moins-values nettes à long terme réalisés par les
+sociétés de ce groupe et qui ont concouru à la détermination de ce déficit ou de cette moins-value peuvent être remis en
+cause à hauteur du montant du déficit ou de la moins-value ainsi imputés, nonobstant les dispositions prévues au premier
+alinéa.
+
+((Si le groupe a cessé d'exister, les règles définies à l'alinéa précédent demeurent applicables au déficit ou à la moins-
+value nette à long terme définis au dernier alinéa de l'article 223 S du code général des impôts)) (M).
+
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°86-824 1986-07-11 art. 18 I, IV finances rectificative pour 1986 JORF 12 juillet 1986
-	  - Loi n°86-824 du 11 juillet 1986 - art. 18 (V) JORF 12 juillet 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1087 1986-10-07
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 82 () JORF 31 décembre 1993
 
 	**Cité par**:
 
@@ -7678,8 +7853,12 @@ due [*délai*].
 
 	**Cite**:
 
-	  - CGI L168 A
-	  - CGI L185
+	  - CGI 223 A, 223, 223 S
+	  - CGI Livre des procédures fiscales L168 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 ###### Article L169 A
@@ -7848,33 +8027,30 @@ a été exercé au titre d'un exercice prescrit.
 
 ###### Article L172
 
-Même si les délais de reprise prévus à l'article L. 169 sont écoulés, lorsque, à la suite de l'ouverture de la succession
-d'un contribuable ou de L'UN DES epoux soumis a une imposition commune, il est constate que le defunt n'a pas ete impose ou a
-ete insuFfisamment impose au titre de l'annee du deces ou de l'une des quatre annees anterieures, l'impot sur le revenu qui
-n'a pas ete etabli  peut etre mis en recouvrement jusqu'a la fin de la deuxieme annee  suivant l'année de la déclaration de
-succession ou, si cette déclaration n'a pas été faite, l'année du paiement par les héritiers des droits de mutation par
-décès.
+Même si les délais de reprise prévus au premier alinéa de l'article L. 169 sont écoulés, lorsque, à la suite de l'ouverture
+de la succession d'un contribuable ou de l'un des époux soumis à une imposition commune, il est constaté que le défunt n'a
+pas été imposé ou a été insuffisamment imposé au titre de l'année du décès ou de l'une des quatre années antérieures, l'impôt
+sur le revenu qui n'a pas été établi peut être mis en recouvrement jusqu'à la fin de la deuxième année suivant l'année de la
+déclaration de succession ou, si cette déclaration n'a pas été faite, l'année du paiement par les héritiers des droits de
+mutation par décès.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 1966 4
-	  - Décret n°48-1986 1948-12-09 art. 1, art. 115, art. 2102 4
-	  - Décret n°50-478 1950-04-06 art. 1966 4
-	  - Loi n°1914-07-15 art. 20
-	  - Loi n°1932-03-31 art. 10
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°63-1316 1963-12-27 art. 15 2
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
-
-	**Cite**:
-
-	  - CGI L169
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 204 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L169 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-1352 1993-12-29 art. 82 VII Finances pour 1994 JORF 30 décembre 1993
 
 
 ###### Article L172 A
@@ -8864,21 +9040,21 @@ dispositions de l'article L. 45 A sont applicables dans les mêmes conditions.
 
 En matière d'impôts directs et de taxes sur le chiffre d'affaires ou de taxes assimilées, les décisions rendues par
 l'administration sur les réclamations contentieuses et qui ne donnent pas entière satisfaction aux intéressés peuvent être
-portées devant le tribunal administratif. Il en est de même pour les décisions prises d'office en matière de mutation de cote
-en application des dispositions de l'article 1404 du code général des impôts ainsi que pour les décisions intervenues en cas
-de contestation pour la fixation du montant des abonnements prévus à l'article 1700 du même code pour les établissements
-soumis à l'impôt sur les spectacles.
+portées devant le tribunal administratif. ((Il en est de même pour les décisions intervenues en cas de contestation pour la
+fixation du montant des abonnements prévus à l'article 1700 du code général des impôts pour les établissements soumis à
+l'impôt sur les spectacles.)) (1).
 
 En matière de droits d'enregistrement, de taxe de publicité foncière, de droits de timbre, de contributions indirectes et de
-taxes assimilées à ces droits, taxes ou contributions , le tribunal compétent est le tribunal de grande instance. Les
+taxes assimilées à ces droits, taxes ou contributions, le tribunal compétent est le tribunal de grande instance. Les
 jugements des tribunaux de grande instance sont sans appel et ne peuvent être attaqués que par voie de cassation.
+
+(1) Modification de la loi 93-1352, applicable à compter du 1er août 1994.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1404
-	  - CGI 1700
+	  - CGI 1404, 1700
 
 	**Anciens textes**:
 
@@ -8893,11 +9069,16 @@ jugements des tribunaux de grande instance sont sans appel et ne peuvent être a
 
 	**Codifié par**:
 
-	  - Décret n°91-882 1991-09-09
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
+	  - Loi n°93-1352 1993-12-30 art. 85 II 3, V Finances pour 1994 JORF 31 décembre 1993
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 85 (V) JORF 31 décembre 1993
 
 	**Cité par**:
 
@@ -9663,15 +9844,28 @@ code de la route.
 
 ###### Article L222
 
-Les procès-verbaux constatant les infractions commises par les marchands ambulants d'ouvrages d'or et d'argent, peuvent être
-établis par les maires, leurs adjoints et les commissaires de police.
+Les procès-verbaux constatant les infractions commises par les marchands ambulants d'ouvrages d'or ou contenant de l'or,
+d'argent ou de platine, peuvent être établis par les maires, leurs adjoints et les commissaires de police.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - CGI 1854 1 3°
-	  - Loi n°19 Brumaire AN VI art. 94
+	  - Loi n°19 Brumaire an 06 art. 94
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 du 4 janvier 1994 - art. 26 () JORF 5 janvier 1994, art. 31, en vigueur le 13 décembre 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 89 () JORF 31 décembre 2004
 
 
 ###### Article L223
@@ -9909,11 +10103,11 @@ commission des infractions fiscales et la date à laquelle cette commission éme
 Sous réserve de l'application des articles 203 et 210 du code de procédure pénale relatifs à la connexité des infractions,
 les poursuites en vue de l'application des sanctions pénales prévues à l'article 1741 du code général des impôts en cas de
 fraude fiscale sont portées devant le tribunal correctionnel dans le ressort duquel l'un quelconque des impôts en cause
-aurait dû être établi ou acquitté [*juridiction compétente*].
+aurait dû être établi ou acquitté. 
 
-Dans le cas où une personne a commis l'une des infractions prévues aux articles 1771 à 1779 du code général des impôts en
+Dans le cas où une personne a commis l'une des infractions prévues aux articles 1771 à 1778 du code général des impôts en
 matière d'impôts directs, les poursuites sont portées devant le tribunal correctionnel dans le ressort duquel l'infraction a
-été commise.
+été commise. 
 
 Lorsqu'une personne a commis l'infraction d'affirmation frauduleuse prévue à l'article 1837 du code général des impôts en
 matière de droits d'enregistrement et de taxe de publicité foncière, les poursuites sont portées devant le tribunal
@@ -9927,29 +10121,36 @@ autres cas, devant le tribunal correctionnel soit du domicile de l'auteur du dé
 	  - CGI 1741 (al. 6 2ème phrase)
 	  - CGI 1780 (al. 2)
 	  - CGI 1837 (al. 5)
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Ordonnance 58-1372 1958-12-29 art. 47 I
 	  - Décret n°1938-06-14 art. 4
 	  - Décret n°1948-12-09 art. 1889
 	  - Loi n°1918-04-18 art. 9
 	  - Loi n°1920-06-25 art. 112
+	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
+	  - Ordonnance 58-1372 1958-12-29 art. 47 I
 
 	**Cite**:
 
-	  - CGI 1741, 1771 à 1779, 1837
-	  - CODE DE PROCEDURE PENALE - art. 203 (M)
-	  - CODE DE PROCEDURE PENALE - art. 210 (M)
+	  - Code général des impôts, CGI. - art. 1771 (V)
+	  - Code de procédure pénale - art. 203 (V)
+	  - Code de procédure pénale - art. 210 (V)
 
 	**Cité par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 21
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1837 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 802 (M)
 	  - Code général des impôts, CGI. - art. 1741 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 21
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: date d'entrée en vigueur 1er JANVIER 1982)
+	  - Décret n°94-900 1994-10-17
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 1992-12-16 art. 323, 372, 373 JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
+	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
 
 
 ###### Article L232
@@ -9979,28 +10180,37 @@ constituer partie civile.
 ###### Article L233
 
 Les syndicats et organismes professionnels ou interprofessionnels peuvent exercer les droits réservés à la partie civile dans
-les poursuites engagées par l'administration des impôts soit par voie de plainte sur le fondement des articles 1741 et 1743
-du code général des impôts, soit par voie de citation directe.
+les poursuites engagées par l'administration des impôts ou par l'administration des douanes et droits indirects soit par voie
+de plainte sur le fondement des articles 1741 et 1743 du code général des impôts, soit par voie de citation directe.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1741
-	  - CGI 1743
+	  - CGI 1741, 1743
 
 	**Anciens textes**:
 
 	  - CGI 1744
-	  - Loi n°59-1472 1959-12-28 ART. 78 I
+	  - Loi n°59-1472 1959-12-28 art. 78 I
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L165 (V)
-
-	**Liens**:
-
-	  - HISTO: date d'entrée en vigueur 1er JANVIER 1982)
 
 
 ##### II : Dispositions particulières aux taxes et droits perçus à l'importation ou sur les produits pétroliers
@@ -11383,31 +11593,28 @@ disponibles, de procéder aux mesures d'exécution nécessaires.
 	  - Loi n°67-563 1967-07-13 ART. 35, ART. 80
 
 
-##### Liquidation judiciaire.
+##### 7° : Liquidation judiciaire
 
 ###### Article L269 A
 
 Le comptable public compétent peut, pour ses créances privilégiées, dès lors qu'il les a déclarées même s'il n'est pas encore
 admis, exercer son droit de poursuite individuelle si le liquidateur n'a pas entrepris la liquidation des biens grevés dans
-le délai de trois mois à compter du jugement qui prononce la liquidation judiciaire.
+le délai de trois mois à compter du jugement qui ouvre ou prononce la liquidation judiciaire.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°93-1095 1993-09-06
+	  - HISTO: Edition du 2 septembre 1994
+	  - TXT_ASSOCIE: Jurisprudence 1994-03-24 12C-4-94
 
 	**Modifié par**:
 
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Loi n°85-98 1985-01-25 art. 161 JORF 26 janvier 1985
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Loi n°94-475 du 10 juin 1994 - art. 73 () JORF 11 juin 1994
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 18 août 1993
-	  - TXT_ASSOCIE: Jurisprudence 1994-03-24 12C-4-94
+	  - Décret n°94-900 1994-10-17
 
 
 ##### 8° : Procédure accélérée
@@ -11485,6 +11692,45 @@ corps est immédiatement applicable.
 	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
 
 
+###### Article L272
+
+Lorsque les juridictions répressives prononcent des condamnations par application des articles 1741 et 1771 à 1778 du code
+général des impôts, les dispositions du titre VI du livre V du code de procédure pénale relatives à la contrainte par corps
+sont applicables, à la requête de l'administration, pour le recouvrement des impôts directs dont l'assiette ou le
+recouvrement a motivé les poursuites et, le cas échéant, des majorations et amendes fiscales qui ont sanctionné les
+infractions, à l'encontre des personnes condamnées à titre d'auteurs principaux ou de complices.
+
+Le jugement ou l'arrêt de condamnation fixe la durée de la contrainte par corps pour la totalité des sommes dues au titre des
+condamnations pénales et des créances fiscales mentionnées ci-dessus.
+
+Pour le recouvrement des sommes dues au titre des condamnations pénales, la contrainte par corps est exercée à la demande du
+comptable du Trésor consignataire de l'extrait du jugement ou de l'arrêt ; pour le recouvrement des créances fiscales, elle
+est exercée à la demande du comptable chargé du recouvrement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1741, 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778
+	  - Code de procédure pénale 749 à 762
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 1992-12-16 art. 323, 372, 373 JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
+	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
+
+	**Abrogé par**:
+
+	  - Loi n°2004-204 du 9 mars 2004 - art. 198 (V) JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+
 ###### Article L272 A
 
 La contrainte par corps pour le recouvrement des impôts dont la perception incombe aux comptables du Trésor ne peut être
@@ -11520,36 +11766,6 @@ au 6° de l'article 750 du code de procédure pénale (1).
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 750 (M)
-
-
-##### Contrainte par corps.
-
-###### Article L272
-
-Lorsque les juridictions répressives prononcent des condamnations par application des articles 1741 et 1771 à 1779 du code
-général des impôts, les dispositions du titre VI du livre V du code de procédure pénale relatives à la contrainte par corps
-sont applicables, à la requête de l'administration, pour le recouvrement des impôts directs dont l'assiette ou le
-recouvrement a motivé les poursuites et, le cas échéant, des majorations et amendes fiscales qui ont sanctionné les
-infractions, à l'encontre des personnes condamnées à titre d'auteurs principaux ou de complices.
-
-Le jugement ou l'arrêt de condamnation fixe la durée de la contrainte par corps pour la totalité des sommes dues au titre des
-condamnations pénales et des créances fiscales mentionnées ci-dessus.
-
-Pour le recouvrement des sommes dues  au titre des condamnations pénales, la contrainte par corps est exercée à la demande du
-comptable du Trésor consignataire de l'extrait du jugement ou de l'arrêt [*autorité compétente*] ; pour le recouvrement des
-créances fiscales, elle est exercée à la demande du comptable chargé du recouvrement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1741
-	  - CGI 1771, 1772, 1773, 1774, 1775, 1776, 1777, 1778, 1779
-	  - Code de procédure pénale 749 A Code de procédure pénale 762
-
-	**Modifié par**:
-
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
 
 
 ##### 10° : Taxes sur le chiffre d'affaires
@@ -11627,11 +11843,26 @@ En ce qui concerne la taxe locale d'équipement, l'action en recouvrement de l'a
 la quatrième année suivant celle au cours de laquelle soit le permis de construire a été délivré ou la déclaration de
 construction déposée, soit le procès-verbal constatant une infraction a été établi.
 
+((Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février
+1994 portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement
+est prolongé d'un an)) (1).
+
+(1) Modification de la loi.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - CGI L184
+
+	**Cite**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 11 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-112 du 9 février 1994 - art. 13 () JORF 10 février 1994
+	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
 
 
 ###### Article L274 B
@@ -11640,30 +11871,26 @@ En ce qui concerne le versement pour dépassement du plafond légal de densité,
 s'exerce jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle le permis de construire a été délivré
 ou considéré comme tacitement accordé.
 
+((Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février
+1994 portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement
+est prolongé d'un an)) (1).
 
-
-###### Article L274 C
-
-Lorsqu'une cotisation de taxe foncière sur les propriétés bâties ou non bâties a été mutée dans les conditions prévues à
-l'article 1404 du code général des impôts, au nom d'un redevable autre que celui figurant au rôle, l'action du comptable du
-Trésor à l'égard du nouveau débiteur de l'impôt s'exerce à compter de la date de notification de la décision de mutation au
-redevable, dans les délais prévus à l'article L. 274.
+(1) Modification de la loi.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - CGI L184
+
 	**Cite**:
 
-	  - CGI 1404
-	  - CGI L274
+	  - Loi n°94-112 du 9 février 1994 - art. 11 (M)
 
 	**Modifié par**:
 
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
-
-	**Abrogé par**:
-
-	  - Loi n°93-1352 1993-12-30 art. 85 II, V Finances pour 1994 JORF 31 décembre 1993
-	  - Loi n°93-1352 du 30 décembre 1993 - art. 85 (V) JORF 31 décembre 1993
+	  - Loi n°94-112 du 9 février 1994 - art. 13 () JORF 10 février 1994
+	  - Modifications directes incorporées dans l'édition du 2 septembre 1994
 
 
 ###### Article L275
@@ -12033,6 +12260,47 @@ d'entrée en vigueur, quelle que soit la date de la mise en recouvrement des imp
 	**Cite**:
 
 	  - Loi n°92-1376 1992-12-30
+
+
+###### Article L285
+
+Pour l'application du présent livre, la société par actions simplifiée est assimilée à une société anonyme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Créé par**:
+
+	  - Loi n°93-1353 du 30 décembre 1993 - art. 32 (V)
+	  - Loi n°94-126 1994-02-11 [*loi Madelin*] art. 4 II JORF 13 février 1994
+
+
+###### Article L286
+
+Lorsque la transmission d'une déclaration écrite entre une entreprise et l'administration est soumise à une date limite
+d'envoi, le cachet de la poste fait foi de la date de cet envoi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-1353 du 30 décembre 1993 - art. 32 (V)
+	  - Loi n°94-126 1994-02-11 [*loi Madelin*] art. 4 II JORF 13 février 1994
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
 
 
 # Partie réglementaire - Décrets en Conseil d'Etat
@@ -13482,27 +13750,36 @@ Cet article devient sans objet en application de la loi n° 2014-1655 du 29 déc
 Le droit de communication mentionné à l'article L. 81 est exercé par les agents de la direction générale des impôts. Le droit
 de communication visé au premier alinéa de l'article précité peut être exercé par les agents de la direction générale des
 douanes et droits indirects dans les conditions définies aux articles L. 82 C, L. 83, L. 84, au premier alinéa de l'article
-L. 85, aux articles L. 85-A, L. 90, L. 92, L. 95, L. 101, R.[* 81-1, R.*] 81-3, R.[* 81-4, R.*] 101-1 et A. 85-1 en ce qui
-concerne les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et le droit de
-garantie.
+L. 85, aux articles L. 85-A, L. 90, L. 92, L. 95, L. 101, R. 81-1, R. 81-3, R. 81-4, R. 101-1 et A. 85-1 en ce qui concerne
+les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et le droit spécifique
+prévu par l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales L81, L82 C, L83, L84, L85
-
-	**Créé par**:
-
-	  - Décret n°93-309 1993-03-09 art. 19 2° et 22 JORF 11 mars 1993
+	  - CGI 527
+	  - Livre des procédures fiscales - art. L81 (MMN)
+	  - Livre des procédures fiscales - art. L82 C (M)
+	  - Livre des procédures fiscales - art. L83 (MMN)
+	  - Livre des procédures fiscales - art. L84 (M)
+	  - Livre des procédures fiscales - art. L85 (MMN)
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
 	  - Décret n°2012-1352 du 4 décembre 2012 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
 
 
 ##### Section I : Conditions d'exercice du droit de communication
@@ -14242,16 +14519,10 @@ règlement n° 3-84 C.E.E. du 19 décembre 1983.
 
 ###### Article R*169 B-1
 
-Le délai de reprise [*de l'administration des impôts*] prévu à l'article L. 169 pour l'impôt sur le revenu s'applique au
-prélèvement [*spécial sur les bénéfices réalisés à l'occasion de la création d'une force de dissuasion*] mentionné à
-l'article L. 169 B.
+Le délai de reprise prévu au premier alinéa de l'article L. 169 pour l'impôt sur le revenu s'applique au prélèvement
+mentionné à l'article L. 169 B.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L169
-	  - CGI L169 B
 
 	**Anciens textes**:
 
@@ -14259,7 +14530,23 @@ l'article L. 169 B.
 
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°94-900 1994-10-17
+	  - Décret n°2000-478 2000-06-02
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+	  - HISTO: Edition du 31 mars 2000
+	  - PEREMPTION: Loi - art. 30 () JORF 31 décembre 1999
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L169 (M)
+	  - Livre des procédures fiscales - art. L169 B (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-1352 1993-12-29 art. 82 VII Finances pour 1994, JORF 30 décembre 1993
 
 
 ##### B : Dispositions particulières à certains impôts
@@ -14383,21 +14670,27 @@ L'auteur de la réclamation est avisé par le service qui a été saisi le premi
 
 Les agents mentionnés au premier alinéa de l'article L. 190 sont ceux de la direction générale des impôts et ceux de la
 direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les réclamations relatives aux
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et au droit de garantie.
+contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et au droit spécifique prévu
+par l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales L190
-
-	**Créé par**:
-
-	  - Décret n°93-309 1993-03-09 art. 20 2° et 22 JORF 11 mars 1993
+	  - CGI 527
+	  - Livre des procédures fiscales - art. L190 (M)
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
 
 
 ##### Charge et administration de la preuve
@@ -15597,9 +15890,9 @@ a) Au trésorier-payeur général, s'il s'agit d'impôts directs recouvrés par 
 b) Au directeur des services fiscaux, s'il s'agit d'impôts, droits ou taxes recouvrés par les comptables de la direction
 générale des impôts ;
 
-c) Au directeur régional des douanes et droits indirects,  s'il s'agit de contributions indirectes, droits, taxes,
-redevances,  impositions assimilées et de droit de garantie recouvrés par les  comptables de la direction générale des
-douanes et droits indirects.
+c) Au directeur régional des douanes et droits indirects, s'il s'agit de  contributions indirectes, droits, taxes,
+redevances, impositions  assimilées et du droit spécifique prévu par l'article 527 du code  général des impôts recouvrés par
+les comptables de la direction générale  des douanes et droits indirects. 
 
 La demande, appuyée de toutes justifications utiles, doit être formulée dans le délai d'un an à compter de la notification de
 la décision soit du directeur ou du trésorier-payeur général soit du tribunal saisi.
@@ -15608,12 +15901,12 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 
 	**Cite**:
 
-	  - CGI L208
+	  - CGI 527
+	  - Livre des procédures fiscales - art. L208 (M)
 
-	**Modifié par**:
+	**Codifié par**:
 
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-311 du 9 mars 1993 - art. 14 () JORF 11 mars 1993
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
@@ -15621,7 +15914,11 @@ la décision soit du directeur ou du trésorier-payeur général soit du tribuna
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
 
 
 ###### Article R*208-4
@@ -15744,13 +16041,13 @@ applicables aux litiges relatifs au recouvrement des impôts considérés.
 
 ###### Article R*210-1
 
-Les dégrèvements contentieux ainsi que les mutations de cote entraînent les dégrèvements correspondants des taxes établies
-d'après les mêmes bases, au profit de l'Etat, des départements, des communes ou de divers organismes.
+Les dégrèvements contentieux entraînent les dégrèvements correspondants des taxes établies d'après les mêmes bases, au profit
+de l'Etat, des départements, des communes ou de divers organismes.
 
 Toutefois, les décisions d'exonération permanente ou temporaire de la taxe foncière sur les propriétés bâties ou sur les
 propriétés non bâties n'entraînent le dégrèvement correspondant des taxes perçues au profit des départements et des communes
 en rémunération des services rendus que si les dispositions législatives ou réglementaires concernant ces taxes le prévoient
-expressément [*condition*].
+expressément.
 
 **Liens relatifs à cet article**
 
@@ -15758,13 +16055,13 @@ expressément [*condition*].
 
 	  - CGI 1958 1, 2
 
-	**Modifié par**:
-
-	  - Loi n°90-1169 du 29 décembre 1990 - art. 44 () JORF 30 décembre 1990
-
 	**Codifié par**:
 
-	  - Décret n°91-882 1991-09-09
+	  - Décret n°94-900 1994-10-17
+
+	**Modifié par**:
+
+	  - Loi n°93-1352 1993-12-29 art. 85 I IV Finances pour 1994, JORF 30 décembre 1993
 
 
 ##### Section V : Dégrèvements d'office
@@ -15774,11 +16071,7 @@ expressément [*condition*].
 L'administration des impôts ou l'administration des douanes et droits indirects selon le cas, peut prononcer d'office le
 dégrèvement ou la restitution d'impositions qui n'étaient pas dues, jusqu'au 31 décembre de la quatrième année suivant celle
 au cours de laquelle le délai de réclamation a pris fin, ou, en cas d'instance devant les tribunaux, celle au cours de
-laquelle la décision intervenue a été notifiée [*date limite*].
-
-L'administration des impôts peut dans ce même délai prononcer d'office les dégrèvements des taxes foncières indûment établies
-lorsque l'erreur d'imposition ne peut plus être rectifiée par une mutation de cote au nom de la personne qui aurait dû être
-imposée.
+laquelle la décision intervenue a été notifiée.
 
 L'administration des impôts peut prononcer dans le délai de trente ans les dégrèvements d'office prévus aux articles 1414
 III, 1414 A, 1414 B, 1414 C et 1601 du code général des impôts relatifs à la taxe d'habitation et à la taxe pour frais de
@@ -15795,55 +16088,56 @@ chambres de métiers.
 	  - CGI 1951 1 (AL. 1, AL. 2)
 	  - CGI 1951 A
 
-	**Modifié par**:
-
-	  - Loi n°89-935 1989-12-29 art. 6 Finances pour 1990 JORF 30 décembre 1989
-	  - Loi n°91-1322 1991-12-30 art. 21 I d Finances pour 1992 JORF 31 décembre 1991
-	  - Décret n°93-311 du 9 mars 1993 - art. 17 () JORF 11 mars 1993
-
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 316 A (V)
 	  - Livre des procédures fiscales - art. R*211-2 (V)
 
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°93-1352 1993-12-29 art. 85 I V Finances pour 1994, JORF 30 décembre 1993
+
 
 ###### Article R*211-2
 
-Les propositions de dégrèvements d'office, de restitutions et de mutations de cote prévues à l'article R. 211-1 peuvent être
-faites par les agents de l'administration des impôts ou de l'administration des douanes et droits indirects, selon le cas, et
-les comptables du Trésor, chargés du recouvrement [*autorités compétentes*]. Ces propositions sont portées sur des états
-adressés, selon le cas, au directeur des services fiscaux ou au directeur régional des douanes et droits indirects pour la
-suite à donner.
+Les propositions de dégrèvements d'office et de restitutions prévues à l'article R. 211-1 peuvent être faites par les agents
+de l'administration des impôts ou de l'administration des douanes et droits indirects, selon le cas, et les comptables du
+Trésor, chargés du recouvrement. Ces propositions sont portées sur des états adressés, selon le cas, au directeur des
+services fiscaux ou au directeur régional des douanes et droits indirects pour la suite à donner.
 
 Les agents appartenant au corps des géomètres du cadastre sont également admis, dans les conditions fixées par le directeur
-général des impôts, à proposer d'office, en matière de taxe foncière, des mutations de cote et le dégrèvement des droits
-formant surtaxe.
+général des impôts, à proposer d'office, en matière de taxe foncière, le dégrèvement des droits formant surtaxe.
 
 Sauf s'il s'agit des dégrèvements d'office prévus par les articles 1414 III, 1414 A, 1414 B et 1414 C du code général des
-impôts, les propositions de dégrèvements ou de mutations sont communiquées par l'administration au maire ou à la commission
-communale des impôts directs conformément à l'article R. 198-3.
+impôts, les propositions de dégrèvements sont communiquées par l'administration au maire ou à la commission communale des
+impôts directs conformément à l'article R. 198-3.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1414, 1414 A, 1414 B, 1414 C
-	  - CGI Livre des procédures fiscales R211-1, R198-3
-
-	**Modifié par**:
-
-	  - Loi n°89-935 1989-12-29 art. 6 JORF 30 décembre 1989
-	  - Loi n°91-1322 1991-12-30 art. 21 I d Finances pour 1992 JORF 31 décembre 1991
-	  - Décret n°93-311 du 9 mars 1993 - art. 18 () JORF 11 mars 1993
-	  - Décret n°93-311 du 9 mars 1993 - art. 28 (V) JORF 11 mars 1993
+	  - Livre des procédures fiscales R211-1, R198-3
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°94-900 1994-10-17
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°93-1352 1993-12-29 art. 85 I V Finances pour 1994, JORF 30 décembre 1993
 
 
 #### Chapitre II : Les procédures pénales
@@ -15945,27 +16239,32 @@ police de la circulation et du roulage et en matière de coordination des transp
 
 Les procès-verbaux prévus à l'article L. 213 sont établis par les agents de la direction générale des impôts et par ceux de
 la direction générale des douanes et droits indirects en ce qui concerne, pour ces derniers, les contributions indirectes,
-droits, taxes, redevances et impositions obéissant aux mêmes règles, et le droit de garantie.
+droits, taxes, redevances et impositions obéissant aux mêmes règles, et le droit spécifique prévu par l'article 527 du code
+général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales L213
-
-	**Créé par**:
-
-	  - Décret n°93-265 du 26 février 1993 - art. 15 (V) JORF 28 février 1993
-	  - Décret n°93-265 du 26 février 1993 - art. 6 (V) JORF 28 février 1993
+	  - CGI 527
+	  - Livre des procédures fiscales - art. L213 (M)
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
 	  - Décret n°96-804 du 12 septembre 1996 - art. 1 (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 350 terdecies (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
 
 
 ###### Article R214-1
@@ -16898,43 +17197,6 @@ trésorier-payeur général.
 	  - HISTO: Edition du 1er juillet 1981
 
 
-##### Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects.
-
-###### Article R256-8
-
-Le comptable mentionné aux premier et deuxième alinéas de l'article L. 256 est le comptable de la direction générale des
-impôts ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne, pour ce dernier, le
-recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et du droit de
-garantie.
-
-L'autorité administrative habilitée à signer et rendre exécutoires les avis de mise en recouvrement, mentionnée au deuxième
-alinéa de l'article L. 256, est le directeur des services fiscaux ou le directeur régional des douanes en ce qui concerne,
-pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
-règles et du droit de garantie.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L256
-
-	**Créé par**:
-
-	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V) JORF 11 mars 1993
-	  - Décret n°93-309 du 9 mars 1993 - art. 22 (V) JORF 11 mars 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
-	**Cité par**:
-
-	  - Décret n°2013-1193 du 19 décembre 2013 (V)
-	  - Décret n°2015-607 du 3 juin 2015 (V)
-	  - Décret n°2017-214 du 20 février 2017 - art. 1 (V)
-	  - Décret n°2017-381 du 22 mars 2017 (V)
-
-
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
 
 ###### Article R*256-1
@@ -17078,6 +17340,54 @@ comptable chargé du recouvrement.
 	  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1993
 
 
+###### Article R*256-6
+
+La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
+résidence ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des impôts ou au service des douanes
+et droits indirects compétent, de l'"ampliation" si l'avis de mise en recouvrement est individuel ou de l'"extrait" s'il est
+collectif.
+
+Au cas où la lettre recommandée ne pourrait, pour quelque cause que ce soit, être remise au redevable destinataire ou à son
+fondé de pouvoir, il doit être demandé à la Poste de renvoyer au service des impôts ou au service des douanes et droits
+indirects expéditeur, le pli non distribué annoté :
+
+a) D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
+adresse connue de l'administration des postes et télécommunications ;
+
+b) D'autre part, du motif de sa non-délivrance.
+
+Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé à la recette des impôts ou à la recette des
+douanes et droits indirects chargée du recouvrement où il peut en être délivré copie, à tout moment et sans frais, au
+redevable lui-même ou à son fondé de pouvoir.
+
+La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
+alors soumise aux règles de signification des actes d'huissier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGIAN2 393
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Modifié par**:
+
+	  - Loi n°90-568 1990-07-02 art. 1, art. 41 JORF 8 juillet 1990
+	  - Loi n°90-568 du 2 juillet 1990 - art. 41 () JORF 8 juillet 1990
+
+	**Codifié par**:
+
+	  - Décret n°94-900 1994-10-17
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*257-0 A (T)
+	  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
+
+
 ###### Article R*256-7
 
 L'avis de mise en recouvrement individuel ou collectif est réputé avoir été notifié :
@@ -17108,47 +17418,42 @@ présentation.
 	  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
 
 
-##### II : Impôts recouvrés par les comptables de la direction générale de impôts ou de la direction générale des douanes et droits indirects.
+###### Article R256-8
 
-###### Article R*256-6
+Le comptable mentionné aux premier et deuxième alinéas de l'article L. 256 est le comptable de la direction générale des
+impôts ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne, pour ce dernier, le
+recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et du droit de
+garantie.
 
-La notification de l'avis de mise en recouvrement comporte l'envoi au redevable, soit au lieu de son domicile, de sa
-résidence ou de son siège, soit à l'adresse qu'il a lui-même fait connaître au service des impôts ou au service des douanes
-et droits indirects compétent, de l'"ampliation" si l'avis de mise en recouvrement est individuel ou de l'"extrait" s'il est
-collectif.
-
-Au cas où la lettre recommandée [*condition de forme*] ne pourrait, pour quelque cause que ce soit, être remise au redevable
-destinataire ou à son fondé de pouvoir, il doit être demandé à l'administration des postes et télécommunications de renvoyer
-au service des impôts ou au service des douanes et droits indirects expéditeur, le pli non distribué annoté :
-
-a) D'une part, de la date de sa première présentation à l'adresse indiquée à la souscription ou, s'il y a lieu, à la nouvelle
-adresse connue de l'administration des postes et télécommunications ;
-
-b) D'autre part, du motif de sa non-délivrance.
-
-Dans cette éventualité, l'"ampliation" ou l'"extrait" renvoyé reste déposé à la recette des impôts ou à la recette des
-douanes et droits indirects chargée du recouvrement où il peut en être délivré copie, à tout moment et sans frais, au
-redevable lui-même ou à son fondé de pouvoir.
-
-La notification de l'avis de mise en recouvrement peut également être effectuée par le ministère d'un huissier. Elle est
-alors soumise aux règles de signification des actes d'huissier.
+L'autorité administrative habilitée à signer et rendre exécutoires les avis de mise en recouvrement, mentionnée au deuxième
+alinéa de l'article L. 256, est le directeur des services fiscaux ou le directeur régional des douanes en ce qui concerne,
+pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
+règles et droit spécifique prévu par l'article 527 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGIAN2 393
-
-	**Modifié par**:
-
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-311 du 9 mars 1993 - art. 24 () JORF 11 mars 1993
-	  - Modifications directes incorporées dans l'édition du 18 août 1993
+	  - Décret n°94-900 1994-10-17
 
 	**Cité par**:
 
-	  - Livre des procédures fiscales - art. R*257-0 A (T)
-	  - Livre des procédures fiscales - art. R*257-0 A-1 (V)
+	  - Décret n°2013-1193 du 19 décembre 2013 (V)
+	  - Décret n°2015-607 du 3 juin 2015 (V)
+	  - Décret n°2017-214 du 20 février 2017 - art. 1 (V)
+	  - Décret n°2017-381 du 22 mars 2017 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 2 septembre 1994
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L256 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-6 1994-01-06 art. 7, art. 31 JORF 5 janvier 1994, en vigueur le 13 décembre 1993
 
 
 ##### Section II : Exercice des poursuites
