@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-07-26
+Version Consolidée au 1985-10-01
 
 # Partie législative
 
@@ -12073,6 +12073,39 @@ En matière d'impôts directs locaux, une réclamation distincte doit être pré
 	  - Décret n°81-860 1981-09-15
 
 
+###### Article R*197-3
+
+Toute réclamation doit à peine d'irrecevabilité [*mentions obligatoires*] :
+
+a) Mentionner l'imposition contestée ;
+
+b) Contenir l'exposé sommaire des moyens et les conclusions de la partie ;
+
+c) Porter la signature manuscrite de son auteur ; à défaut l'administration invite par lettre recommandée avec accusé de
+réception le contribuable à signer la réclamation dans un délai de trente jours ;
+
+d) Etre accompagnée soit de l'avis d'imposition, d'une copie de cet avis ou d'un extrait du rôle, soit de l'avis de mise en
+recouvrement ou d'une copie de cet avis, soit, dans le cas où l'impôt n'a pas donné lieu à l'établissement d'un rôle ou d'un
+avis de mise en recouvrement, d'une pièce justifiant le montant de la retenue ou du versement.
+
+La réclamation peut être régularisée à tout moment par la production de l'une des pièces énumérées au d.
+
+Les réclamations collectives introduites par les maires pour cause de pertes de récoltes doivent indiquer la nature des
+pertes, la date du sinistre et le nombre approximatif des contribuables atteints.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1049 du 26 septembre 1985 - art. 1 (V) JORF 1er octobre 1985
+
+	**Cité par**:
+
+	  - Code de justice administrative - art. R431-6 (V)
+	  - Livre des procédures fiscales - art. R*200-2 (V)
+	  - Livre des procédures fiscales - art. R*208 A-1 (V)
+
+
 ###### Article R*197-4
 
 Toute personne qui introduit ou soutient une réclamation pour autrui doit justifier d'un mandat régulier [*obligation*]. Le
@@ -15059,44 +15092,6 @@ Si la base d'imposition retenue par l'administration excède celle résultant de
 
 ### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT
 
-#### PROCEDURE PREALABLE AUPRES DE L'ADMINISTRATION DES IMPOTS.
-
-###### Article R*197-3
-
-Toute réclamation doit à peine d'irrecevabilité [*mentions obligatoires*] :
-
-a) Mentionner l'imposition contestée ;
-
-b) Contenir l'exposé sommaire des moyens et les conclusions de la partie ;
-
-c) Porter la signature manuscrite de son auteur ;
-
-d) Etre accompagnée soit de l'avis d'imposition, d'une copie de cet avis ou d'un extrait du rôle, soit de l'avis de mise en
-recouvrement ou d'une copie de cet avis, soit, dans le cas où l'impôt n'a pas donné lieu à l'établissement d'un rôle ou d'un
-avis de mise en recouvrement, d'une pièce justifiant le montant de la retenue ou du versement.
-
-La réclamation peut être régularisée à tout moment par la production de l'une des pièces énumérées au d.
-
-Les réclamations collectives introduites par les maires pour cause de pertes de récoltes doivent indiquer la nature des
-pertes, la date du sinistre et le nombre approximatif des contribuables atteints.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1933 4, 5
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cité par**:
-
-	  - Code de justice administrative - art. R431-6 (V)
-	  - Livre des procédures fiscales - art. R*200-2 (V)
-	  - Livre des procédures fiscales - art. R*208 A-1 (V)
-
-
 #### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*
 
 ###### Article R*200-2
@@ -15118,25 +15113,22 @@ Le demandeur ne peut contester devant le tribunal administratif des impositions 
 réclamation à l'administration. Mais, dans la limite du dégrèvement ou de la restitution primitivement sollicités, il peut
 faire valoir toutes conclusions nouvelles à condition de les formuler explicitement dans sa demande introductive d'instance.
 
-A l'exception du défaut de signature de la réclamation initiale, les vices de forme prévus à l'article R. 197-3 peuvent,
-lorsqu'ils ont motivé le rejet d'une réclamation par l'administration, être utilement couverts dans la demande adressée au
-tribunal administratif.
+Les vices de forme prévus aux a, b, et d de l'article R. 197-3 a, b et d peuvent, lorsqu'ils ont motivé le rejet d'une
+réclamation par l'administration, être utilement couverts dans la demande adressée au tribunal administratif.
+
+Il en est de même pour le défaut de signature de la réclamation lorsque l'administration a omis d'en demander la
+régularisation dans les conditions prévues au c du même article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1939 3
-	  - CGI 1940
 
 	**Cite**:
 
 	  - CGI R197-3
 	  - CGI R197-4
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-860 du 15 septembre 1981 (V)
+	  - Décret n°85-1049 du 26 septembre 1985 - art. 1 (V)
 
 	**Liens**:
 
