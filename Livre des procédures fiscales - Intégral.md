@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-03-22
+Version Consolidée au 1982-04-10
 
 # Partie législative
 
@@ -9739,6 +9739,58 @@ préciser dans sa demande en s'engageant à payer les frais qui résulteront de 
 	**Cité par**:
 
 	  - Code général des impôts annexe 1, CGIAN1. - art. 67 (V)
+
+
+###### Article R27-1
+
+Lors des visites et vérifications effectuées par les agents des impôts dans les conditions fixées à l'article L. 27, les
+fabricants d'isoglucose sont tenus d'ouvrir, à toute demande, leurs fabriques, ateliers, magasins et tous autres bâtiments,
+entrepôts et locaux professionnels enclavés dans la même enceinte que la fabrique ou dépendant de cette dernière.
+
+Ils sont également tenus de fournir la main-d'oeuvre et les matériels nécessaires pour le pesage et le mesurage de
+l'isoglucose lors des exercices, des recensements, des inventaires, des prélèvements d'échantillons et autres contrôles de la
+production.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L27
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 2 (V) JORF 10 AVRIL 1982
+	  - Décret n°82-323 du 5 avril 1982 - art. 4 (V) JORF 10 AVRIL 1982
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 Q (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
+
+
+###### Article R27-2
+
+Chez les fabricants d'isoglucose, les agents des impôts peuvent effectuer tous inventaires ou prélèvements d'échantillons qui
+leur paraissent nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°82-323 du 5 avril 1982 - art. 6 (V) JORF 10 AVRIL 1982
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
 
 
 ###### Article R33-1
