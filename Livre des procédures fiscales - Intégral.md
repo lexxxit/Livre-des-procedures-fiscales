@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-01-25
+Version Consolidée au 1984-02-25
 
 # Partie législative
 
@@ -3189,6 +3189,26 @@ nécessaires à la liquidation du prélèvement sur le bénéfice net des chanti
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+
+###### Article L135 A
+
+Conformément à l'article L. 950-8 du code du travail, l'administration des impôts est tenue de communiquer aux agents chargés
+de la formation professionnelle continue les renseignements nécessaires à l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code du travail - art. L950-8 (M)
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Créé par**:
+
+	  - loi 84-130 1984-02-24 art. 43 JORF 25 février 1984
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -13910,28 +13930,6 @@ pertes, la date du sinistre et le nombre approximatif des contribuables atteints
 	  - Code de justice administrative - art. R431-6 (V)
 	  - Livre des procédures fiscales - art. R*200-2 (V)
 	  - Livre des procédures fiscales - art. R*208 A-1 (V)
-
-
-###### Article R*198-6
-
-Les réclamations sont communiquées pour avis au service chargé du contrôle de la formation professionnelle lorsque le litige
-porte sur le montant de la participation consentie par l'employeur ou sur les versements au Trésor public mis à la charge des
-employeurs ou des dispensateurs de formation en vertu des articles L. 920-9 et L. 920-10 du code du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1960 ter (2ème PHRASE)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cite**:
-
-	  - Code du travail - art. L920-10 (M)
-	  - Code du travail - art. L920-9 (M)
 
 
 #### PROCEDURE DEVANT LES TRIBUNAUX *JURIDICTIONS*
