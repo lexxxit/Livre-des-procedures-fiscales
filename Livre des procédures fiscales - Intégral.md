@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1995-10-27
+Version Consolidée au 1996-05-12
 
 # Partie législative
 
@@ -579,6 +579,63 @@ Mention est faite de son refus éventuel.
 	**Créé par**:
 
 	  - Loi n°86-1317 1986-12-30 art. 81 I Finances pour 1987 JORF 31 décembre 1986
+
+
+###### Article L13 B
+
+Lorsque, au cours d'une vérification de comptabilité, l'administration a réuni des éléments faisant présumer qu'une
+entreprise a opéré un transfert indirect de bénéfices, au sens des dispositions de l'article 57 du code général des impôts,
+elle peut demander à cette entreprise des informations et documents précisant :
+
+1° La nature des relations entrant dans les prévisions de l'article 57 du code général des impôts, entre cette entreprise et
+une ou plusieurs entreprises exploitées hors de France ou sociétés ou groupements établis hors de France ;
+
+2° La méthode de détermination des prix des opérations de nature industrielle, commerciale ou financière qu'elle effectue
+avec des entreprises, sociétés ou groupements visés au 1° et les éléments qui la justifient ainsi que, le cas échéant, les
+contreparties consenties ;
+
+3° Les activités exercées par les entreprises, sociétés ou groupements visés au 1°, liées aux opérations visées au 2° ;
+
+4° Le traitement fiscal réservé aux opérations visées au 2° et réalisées par les entreprises qu'elle exploite hors de France
+ou par les sociétés ou groupements visés au 1° dont elle détient, directement ou indirectement, la majorité du capital ou des
+droits de vote.
+
+Les demandes visées au premier alinéa doivent être précises et indiquer explicitement, par nature d'activité ou par produit,
+le pays ou le territoire concerné, l'entreprise, la société ou le groupement visé ainsi que, le cas échéant, les montants en
+cause. Elles doivent, en outre, préciser à l'entreprise vérifiée le délai de réponse qui lui est ouvert. Ce délai, qui ne
+peut être inférieur à deux mois, peut être prorogé sur demande motivée sans pouvoir excéder au total une durée de trois mois.
+
+Lorsque l'entreprise a répondu de façon insuffisante, l'administration lui adresse une mise en demeure d'avoir à compléter sa
+réponse dans un délai de trente jours en précisant les compléments de réponse qu'elle souhaite. Cette mise en demeure doit
+rappeler les sanctions applicables en cas de défaut de réponse (1).
+
+(1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en vigueur de la loi 96-314.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 57
+
+	**Créé par**:
+
+	  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 39 I, V JORF 13 avril 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-557 1996-06-21
+
+	**Cité par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 136 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 nonies (Ab)
+	  - Code général des impôts, CGI. - art. 1735 (V)
+	  - Code général des impôts, CGI. - art. 57 (V)
+	  - Livre des procédures fiscales - art. L80 B (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 
 ##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant
@@ -2203,6 +2260,80 @@ résultats à la connaissance du contribuable, même en l'absence de redressemen
 	  - Loi n°87-502 1987-07-08 art. 9 I B, art. 11 JORF 9 juillet 1987
 
 
+###### Article L50
+
+Lorsqu'elle a procédé à un un examen contradictoire de l'ensemble de la situation fiscale personnelle d'un contribuable au
+regard de l'impôt sur le revenu, l'administration des impôts ne peut plus procéder à des redressements pour la même période
+et pour le même impôt, à moins que le contribuable ne lui ait fourni des éléments incomplets ou inexacts.
+
+((Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A)) (M).
+
+(M) Modification de la loi 96-314. Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en
+vigueur de la loi.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L188 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - SPEC_APPLI: Loi n°96-314 1996-04-12 art. 40 IV
+
+	**Modifié par**:
+
+	  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 40 II 1, IV JORF 13 avril 1996
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L16 D (V)
+
+
+###### Article L51
+
+Lorsque la vérification de la comptabilité, pour une période déterminée, au regard d'un impôt ou taxe ou d'un groupe d'impôts
+ou de taxes est achevée, l'administration ne peut procéder à une nouvelle vérification de ces écritures au regard des mêmes
+impôts ou taxes et pour la même période. Toutefois, il est fait exception à cette règle lorsque la vérification a été limitée
+à des opérations déterminées ainsi que dans les cas prévus aux articles L. 176 en matière de taxes sur le chiffre d'affaires
+et L. 187 en cas d'agissements frauduleux, ainsi que dans les cas de vérification de la comptabilité des sociétés mères qui
+ont opté pour le régime prévu à l'article 223 A du code général des impôts et dans les cas prévus à l'article L. 188 A après
+l'intervention de la réponse de l'autorité compétente de l'autre Etat ou territoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1649 septies B
+	  - CGI 1968 1 (4ème ligne)
+	  - CGI 1974 bis (al. 1 4ème, 5ème lignes)
+	  - Loi n°63-1316 1963-12-27 art. 15 3
+	  - Loi n°70-1199 du 21 décembre 1970 - art. 72, v. init.
+
+	**Cite**:
+
+	  - CGI 223 A
+	  - Livre des procédures fiscales - art. L176 (M)
+	  - Livre des procédures fiscales - art. L188 A (M)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 J (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 V septies (P)
+	  - Livre des procédures fiscales - art. L176 A (P)
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - SPEC_APPLI: Loi n°96-314 1996-04-12 art. 40 IV
+
+	**Modifié par**:
+
+	  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 40 II 2, IV JORF 13 avril 1996
+
+
 ###### Article L52
 
 Sous peine de nullité de l'imposition, la vérification sur place des livres ou documents comptables ne peut s'étendre sur une
@@ -2302,60 +2433,6 @@ les contribuables dans les mêmes conditions.
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R*256-1 (M)
-
-
-###### Article L50
-
-Lorsqu'elle a procédé à un un examen contradictoire de l'ensemble de la situation fiscale personnelle d'un contribuable au
-regard de l'impôt sur le revenu, l'administration des impôts ne peut plus procéder à des redressements pour la même période
-et pour le même impôt, à moins que le contribuable ne lui ait fourni des éléments incomplets ou inexacts.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 9 I B JORF 9 juillet 1987
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L16 D (V)
-
-
-###### Article L51
-
-Lorsque la vérification de la comptabilité, pour une période déterminée, au regard d'un impôt ou taxe ou d'un groupe d'impôts
-ou de taxes est achevée, l'administration ne peut procéder à une nouvelle vérification de ces écritures au regard des mêmes
-impôts ou taxes et pour la même période. Toutefois, il est fait exception à cette règle lorsque la vérification a été limitée
-à des opérations déterminées ainsi que dans les cas prévus aux articles L. 176 en matière de taxes sur le chiffre d'affaires
-et L. 187 en cas d'agissements frauduleux, ainsi que dans les cas de vérification de la comptabilité des sociétés mères qui
-ont opté pour le régime prévu à l'article 223 A du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1649 septies B
-	  - CGI 1968 1 (4ème LIGNE)
-	  - CGI 1974 bis (AL. 1 4ème, 5ème LIGNES)
-	  - Loi n°63-1316 1963-12-27 ART. 15 3
-	  - Loi n°70-1199 du 21 décembre 1970 - art. 72, v. init.
-
-	**Cite**:
-
-	  - CGI 223 A
-	  - CGI L176
-	  - CGI L187
-
-	**Modifié par**:
-
-	  - Loi n°87-1060 du 30 décembre 1987 - art. 68 (P) JORF 31 décembre 1987
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 J (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 V septies (P)
-	  - Livre des procédures fiscales - art. L176 A (P)
 
 
 ##### 2° : Actes de procédure
@@ -3636,14 +3713,36 @@ poursuivre aucun rehaussement en soutenant une interprétation différente.
 
 ###### Article L80 B
 
-La garantie prévue au premier alinéa de l'article 80 A est applicable lorsque l'administration a formellement pris position
-sur l'appréciation d'une situation de fait au regard d'un texte fiscal.
+La garantie prévue au premier alinéa de l'article L. 80 A est applicable :
+
+1° Lorsque l'administration a formellement pris position sur l'appréciation d'une situation de fait au regard d'un texte
+fiscal ;
+
+2° Lorsque l'administration n'a pas répondu dans un délai de trois mois à un redevable de bonne foi qui :
+
+a. a demandé le bénéfice des dispositions du deuxième alinéa de l'article 39 AB, du dernier alinéa de l'article 39 quinquies
+D ou du deuxième alinéa de l'article 39 quinquies DA du code général des impôts ;
+
+b. a notifié à l'administration sa volonté de bénéficier des dispositions du premier alinéa de l'article 39 AB, des articles
+39 AC, 39 quinquies A, des premier et deuxième alinéas de l'article 39 quinquies D, du premier alinéa de l'article 39
+quinquies DA ou des articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC ou 44 sexies du code général
+des impôts.
+
+La demande ou la notification doit être préalable à l'opération en cause et effectuée à partir d'une présentation écrite
+précise et complète de la situation de fait.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent 2°, notamment le contenu, le lieu de dépôt des
+demandes ainsi que les modalités selon lesquelles l'administration accuse réception de ces demandes et notifications.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 19 JORF 9 juillet 1987
+	  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 12 I, II JORF 13 avril 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-557 1996-06-21
 
 	**Cité par**:
 
@@ -3683,7 +3782,12 @@ sur l'appréciation d'une situation de fait au regard d'un texte fiscal.
 
 	**Cite**:
 
-	  - CGI L80 A al. 1
+	  - CGI 39 AB, 39 quinquies D, 39 quinquies DA, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies
+	  - CGI Livre des procédures fiscales L80 A
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 
 ###### Article L80 C
@@ -3777,23 +3881,21 @@ contribuable peut présenter ses observations.
 
 La décision d'appliquer des majorations prévues à l'article 1729 du code général des impôts, lorsque la mauvaise foi est
 établie ou lorsque le contribuable s'est rendu coupable de manoeuvres frauduleuses, est prise par un agent ayant au moins le
-grade d'inspecteur principal qui vise à cet effet le document comportant la motivation des pénalités.
+grade d'inspecteur divisionnaire qui vise à cet effet le document comportant la motivation des pénalités.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1729
-	  - CGI 1731
-	  - Loi n°87-502 du 8 juillet 1987 - art. 2, v. init.
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987
-
-	**Codifié par**:
-
-	  - Décret n°88-1002 1988-10-20
+	  - Loi - art. 27 () JORF 31 décembre 1995
 
 	**Cité par**:
 
@@ -3987,6 +4089,103 @@ conducteur.
 	  - Livre des procédures fiscales - art. L80 I (M)
 	  - Code des douanes - art. 60 (V)
 	  - Code des douanes - art. 61 (V)
+
+
+#### Chapitre I ter : Le droit de contrôle des entrepôts
+
+###### Article L80 K
+
+Pour rechercher les manquements aux obligations et formalités auxquelles sont soumises les personnes autorisées à ouvrir un
+entrepôt fiscal mentionné au 2° du I de l'article 277 A du code général des impôts, les agents des impôts ou des douanes,
+ayant au moins le grade de contrôleur, peuvent, dans les conditions et selon les modalités prévues aux articles L. 80 F et L.
+80 G, se faire présenter les registres et les factures, ainsi que tous les documents pouvant se rapporter aux biens placés ou
+destinés à être placés dans un entrepôt fiscal et aux opérations et prestations afférentes à ces biens. Ils peuvent également
+procéder à la constatation matérielle des éléments physiques de l'exploitation.
+
+Lorsque les registres sont tenus au moyen de systèmes informatisés, l'intervention porte sur l'ensemble des informations,
+données et traitements informatiques qui concourent directement ou indirectement à leur élaboration et à celle des
+déclarations rendues obligatoires en cas de cessation du régime prévu au II de l'article 277 A du code général des impôts
+ainsi que sur la documentation relative aux analyses, à la programmation et à l'exécution des traitements. Les agents des
+impôts et des douanes peuvent procéder à cette intervention selon les modalités prévues à l'article L. 47 A.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 277 A
+	  - Livre des procédures fiscales - art. L47 A (V)
+	  - Livre des procédures fiscales - art. L80 F (M)
+	  - Livre des procédures fiscales - art. L80 G (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - TXT_ASSOCIE: Instruction 2000-01-24 13K-2-00
+	  - SPEC_APPLI: Loi n°95-1347 1995-12-30 art. 19 XIX
+
+	**Créé par**:
+
+	  - Loi - art. 19 (V) JORF 31 décembre 1995, en vigueur le 1er janvier 1996
+	  - Loi n°95-1347 1995-12-30 art. 19 VIII D, XIX Finances rectificative pour 1995, JORF 31 décembre 1995, en vigueur le 1er janvier 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-557 1996-06-21
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1788 octies (Ab)
+	  - Code général des impôts, CGI. - art. 1788 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 A (VD)
+	  - Livre des procédures fiscales - art. R*135 S-2 (V)
+	  - Livre des procédures fiscales - art. R80 K (P)
+	  - Livre des procédures fiscales - art. R80 K-1 (V)
+
+
+###### Article L80 L
+
+A l'issue des opérations de contrôle, les agents de l'administration établissent un procès-verbal consignant les
+constatations opérées dans les conditions et délais fixés à l'article L. 80 H.
+
+L'interdiction d'accès aux lieux cités à l'article L. 80 F, l'opposition à la présentation ou à l'examen des documents dont
+la tenue ou la conservation est obligatoire et aux constatations matérielles et à la mise en oeuvre du contrôle dans les
+conditions prévues à l'article L. 47 A ainsi que l'absence de respect des obligations comptables visées au III de l'article
+277 A du code général des impôts entraînent le retrait de l'autorisation prévue au 2° du I de l'article 277 A du même code.
+Ce retrait est notifié à l'intéressé à l'issue du délai de quinze jours prévu à l'article L. 80 H.
+
+Les conséquences de ce retrait d'autorisation sont opposées à l'intéressé et aux personnes visées au 2 du II de l'article 277
+A du code général des impôts, au regard d'impositions de toute nature, dans le cadre des procédures de redressement
+mentionnées aux articles L. 55 et suivants, sauf pour l'application de l'amende prévue à l'article 1788 octies du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 277 A, 277, 1788 octies
+	  - CGI Livre des procédures fiscales L80 H, L80 F, L47 A, L55
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - SPEC_APPLI: Loi n°95-1347 1995-12-30 art. 19 XIX
+
+	**Créé par**:
+
+	  - Loi - art. 19 (V) JORF 31 décembre 1995, en vigueur le 1er janvier 1996
+	  - Loi n°95-1347 1995-12-30 art. 19 VIII D, XIX Finances rectificative pour 1995, JORF 31 décembre 1995, en vigueur le 1er janvier 1996
+
+	**Codifié par**:
+
+	  - Décret n°96-557 1996-06-21
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1788 octies (Ab)
+	  - Code général des impôts, CGI. - art. 1788 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 85 A (VD)
+	  - Livre des procédures fiscales - art. R80 K (P)
+	  - Livre des procédures fiscales - art. R80 K-1 (V)
 
 
 #### Chapitre II : Le droit de communication
@@ -4695,26 +4894,28 @@ Les dispositions de l'article L. 102 B sont applicables.
 	  - TXT_ASSOCIE: Instruction 1995-11-16 13K-3-95
 
 
-##### Opérations de transfert de fonds à l'étranger.
+##### 19° : Déplacements intracommunautaires de biens. Assujettis et façonniers astreints à la tenue d'un registre des biens. Obligations du titulaire de l'entrepôt fiscal
 
 ###### Article L96 B
 
-Les personnes mentionnées à l'article 286 quater du code général des impôts sont tenues de présenter à l'administration, sur
-sa demande, les registres prévus à cet article.
+Les personnes mentionnées aux articles 277 A et 286 quater du code général des impôts sont tenues de présenter à
+l'administration, sur sa demande, les registres prévus à ces articles.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Article inséré directement dans l'édition du 18 août 1993
+	  - Loi - art. 19 (V) JORF 31 décembre 1995 en vigueur le 1er janvier 1996
+	  - Loi n°95-1347 1995-12-30 art. 19 VIII E, XIX Finances rectificative pour 1995 JORF 31 décembre 1995 en vigueur le 1er janvier 1996
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-1347 1995-12-30 art. 19 XIX
 
 	**Cite**:
 
-	  - CGI 286 quater
-
-	**Créé par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 28 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
+	  - Code général des impôts, CGI. - art. 277 A (V)
+	  - Code général des impôts, CGI. - art. 286 quater (V)
 
 	**Cité par**:
 
@@ -5493,8 +5694,8 @@ Des dérogations à la règle du secret professionnel sont établies au profit d
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 135 E, L. 135 F, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret
-professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
+D, L. 135 E, L. 135 F, L. 135 H, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis
+au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
 
 Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
 
@@ -5502,27 +5703,16 @@ Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
 
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales L123, L124, L127, L130, L135, L135 B, L135 D, L135 E, L135 F, L136, L139 A, L152 A, L154, L156, L158, L161
+	  - CGI Livre des procédures fiscales L123, L124, L127, L130, L135, L135 B, L135 D, L135 E, L135 F, L135 H, L136, L139 A, L152 A, L154, L156, L158, L161
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
 
-	**Modifié par**:
-
-	  - Loi n°92-1336 1992-12-16 art. 333, 372, 373 JORF 23 décembre 1992
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992
-	  - Loi n°93-913 1993-07-19 art. 1 JORF 20 juillet 1993
-
-	**Codifié par**:
-
-	  - Décret n°94-900 1994-10-17
-
 	**Liens**:
 
-	  - HISTO: Edition du 2 septembre 1994
 	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
 	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
+	  - HISTO: Edition du 12 mai 1996
 
 	**Cité par**:
 
@@ -5674,6 +5864,23 @@ d'inspecteur qui appartiennent à d'autres administrations des finances et qui s
 	**Codifié par**:
 
 	  - Décret n°93-1095 1993-09-16
+
+
+###### Article L117 A
+
+Les services en charge du recouvrement des impôts directs sont autorisés à communiquer au service de la redevance de
+l'audiovisuel les informations relatives aux nom, prénom et adresse des contribuables assujettis à la taxe d'habitation ou
+qui en sont exonérés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+	**Abrogé par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 32
 
 
 ###### Article L118
@@ -6529,6 +6736,22 @@ portant sur les immeubles.
 	  - Loi n°94-1163 1994-12-29 art. 28 Finances rectificative pour 1994 JORF 30 décembre 1994
 
 
+###### Article L135 H
+
+L'administration fiscale transmet aux chambres de commerce et d'industrie, l'année précédant leur renouvellement, les bases
+d'imposition agrégées, par contribuable, nécessaires à l'établissement du rapport préalable aux élections consulaires.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+
 ##### III : Dérogations au profit de diverses commissions
 
 ###### Article L136
@@ -6747,6 +6970,27 @@ infractions relatives au travail clandestin.
 	  - HISTO: Edition du 2 septembre 1994
 
 
+###### Article L141 A
+
+Conformément à l'article 132-22 du code pénal, le procureur de la République, le juge d'instruction ou le tribunal saisi
+peuvent obtenir de l'administration la communication des renseignements utiles de nature financière ou fiscale, sans que
+puisse être opposée l'obligation au secret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°92-683 du 22 juillet 1992 - art. 1 (V) JORF 23 juillet 1992 en vigueur le 1er mars 1994
+
+	**Codifié par**:
+
+	  - Décret n°96-557 1996-06-21
+
+	**Cite**:
+
+	  - Code pénal - art. 132-22 (V)
+
+
 ###### Article L142
 
 Lorsqu'une plainte régulière a été portée par l'administration contre un redevable et qu'une information a été ouverte, les
@@ -6886,26 +7130,31 @@ situation économique et financière du débiteur.
 
 ###### Article L145 B
 
-Le juge-commissaire désigné par le tribunal, en application de l'article 10 ((modifié)) (1) de la loi n° 85-98 du 25 janvier
-1985 relative au redressement et à la liquidation judiciaire des entreprises, peut obtenir de l'administration communication
-des renseignements de nature à lui donner une exacte information sur la situation économique et financière de l'entreprise.
-
-(1) Modification.
+Le juge-commissaire désigné par le tribunal, en application des articles 10, 139 et 148-1 de la loi n° 85-98 du 25 janvier
+1985 modifiée relative au redressement et à la liquidation judiciaire des entreprises, peut obtenir de l'administration
+communication des renseignements de nature à lui donner une exacte information sur la situation économique et financière de
+l'entreprise.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
 	**Cite**:
 
-	  - Loi n°85-98 1985-01-25 art. 10
+	  - Loi n°85-98 1985-01-25 art. 10, art. 139, art. 148-1
+	  - Loi n°85-98 du 25 janvier 1985 - art. 148-1 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°94-475 du 10 juin 1994 - art. 16 () JORF 11 juin 1994
-	  - Loi n°94-475 du 10 juin 1994 - art. 17 () JORF 11 juin 1994
+	  - Loi n°85-98 1985-01-25 art. 19, art. 140 JORF 26 janvier 1985
+	  - Loi n°85-98 du 25 janvier 1985 - art. 19 (Ab) JORF 26 janvier 1985
+	  - Loi n°94-475 du 10 juin 1994 - art. 70 () JORF 11 Juin 1994
 
 	**Codifié par**:
 
-	  - Décret n°94-900 1994-10-17
+	  - Décret n°96-557 1996-06-21
 
 
 ###### Article L145 C
@@ -8221,16 +8470,35 @@ au rehaussement.
 Les omissions ou les erreurs concernant la taxe professionnelle peuvent être réparées par l'administration jusqu'à
 l'expiration de la troisième année suivant celle au titre de laquelle l'imposition est due.
 
+((Par exception aux dispositions du premier alinéa, lorsque le chiffre d'affaires ou la valeur ajoutée à raison desquels la
+situation du contribuable a été appréciée au regard des dispositions du I de l'article 1647 E du code général des impôts sont
+affectés ultérieurement par des rehaussements effectués en matière d'impôt sur le revenu ou d'impôt sur les bénéfices, les
+cotisations de taxe professionnelle correspondantes peuvent être établies et mises en recouvrement dans le même délai que
+l'impôt sur le revenu ou l'impôt sur les bénéfices correspondant aux rehaussements)) (M).
+
+(M) Modification.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1647 E
 
 	**Anciens textes**:
 
-	  - CGI 1967 A
-	  - Loi n°75-678 du 29 juillet 1975 - art. 7, v. init.
+	  - CGI 1647 E, V, alinéa 2
+
+	**Modifié par**:
+
+	  - Loi - art. 17 () JORF 31 décembre 1995
 
 	**Codifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Décret n°96-557 1996-06-21
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
 
 	**Cité par**:
 
@@ -8704,6 +8972,49 @@ pour les peines correctionnelles de droit commun et il s'applique dans les même
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article L188 A
+
+Lorsque l'administration a, dans le délai initial de reprise, demandé à l'autorité compétente d'un autre Etat ou territoire
+des renseignements concernant soit les relations d'un contribuable qui entrent dans les prévisions des articles 57 ou 209 B
+du code général des impôts avec une entreprise, une société ou un groupement exploitant une activité ou établi dans cet Etat
+ou ce territoire, soit les biens, les avoirs ou les revenus dont un contribuable a pu disposer hors de France ou les
+activités qu'il a pu y exercer, soit ces deux catégories de renseignements, les omissions ou insuffisances d'imposition y
+afférentes peuvent être réparées, même si le délai initial de reprise est écoulé, jusqu'à la fin de l'année qui suit celle de
+la réponse à la demande et au plus tard jusqu'à la fin de la cinquième année qui suit celle au titre de laquelle l'imposition
+est due.
+
+Le présent article s'applique sous réserve des dispositions de l'article L. 186 et dans la mesure où le contribuable a été
+informé de l'existence de la demande de renseignements, au moment où celle-ci a été formulée, ainsi que de l'intervention de
+la réponse de l'autorité compétente de l'autre Etat ou territoire au moment où cette réponse est parvenue à l'administration
+(1).
+
+(1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en vigueur de la loi 96-314.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 57, 209 B
+	  - Livre des procédures fiscales - art. L186 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+	  - SPEC_APPLI: Loi n°96-314 1996-04-12 art. 40 IV
+
+	**Créé par**:
+
+	  - Loi n°96-314 1996-04-12 art. 40 I, IV JORF 13 avril 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 40 (V) JORF 13 avril 1996
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1727 A (Ab)
+	  - Code général des impôts, CGI. - art. 1727 (VD)
+	  - Livre des procédures fiscales - art. L50 (V)
+	  - Livre des procédures fiscales - art. L51 (V)
 
 
 ##### Section VIII : Interruption de la prescription.
@@ -13075,6 +13386,70 @@ du II et du III de l'article 298 bis du code général des impôts et de l'appli
 	  - Décret n°93-1095 1993-09-16
 
 
+###### Article R27-1
+
+Lors des visites et vérifications effectuées par les agents du service des douanes et droits indirects dans les conditions
+fixées à l'article L. 27, les fabricants d'isoglucose et les fabriquants de sirop d'inuline sont tenus d'ouvrir, à toute
+demande, leurs fabriques, ateliers, magasins et tous autres bâtiments, entrepôts et locaux professionnels enclavés dans la
+même enceinte que la fabrique ou dépendant de cette dernière.
+
+Ils sont également tenus de fournir la main-d'oeuvre et les matériels nécessaires pour le pesage et le mesurage de
+l'isoglucose ou du sirop d'inuline lors des exercices, des recensements, des inventaires, des prélèvements d'échantillons et
+autres contrôles de la production.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la loi n° 2006-1666 du 21 décembre 2006, article 92-I [1°] et III, conformément
+au décret n° 2009-388 du 7 avril 2009, article 2.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 3 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-388 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 12 mai 1996
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 Q (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L27
+
+
+###### Article R27-2
+
+Chez les fabricants d'isoglucose et les fabricants de sirop d'inuline, les agents du service des douanes et droits indirects
+peuvent effectuer tous inventaires ou prélèvements d'échantillons qui leur paraissent nécessaires.
+
+**Nota:**
+
+Article devenu sans objet en conséquence de la loi n° 2006-1666 du 21 décembre 2006, article 92-I [1°] et III, conformément
+au décret n° 2009-388 du 7 avril 2009, article 2.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-1185 du 6 novembre 1995 - art. 3 () JORF 9 novembre 1995
+
+	**Liens**:
+
+	  - PERIME: Décret n°2009-388 du 7 avril 2009 - art. 2
+	  - HISTO: Edition du 12 mai 1996
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
+
+
 ###### Article R30-2
 
 La direction générale des douanes et droits indirects exerce le contrôle mentionné à l'article L. 30.
@@ -13175,52 +13550,6 @@ L. 33, L. 34, L. 35, L. 36 et L. 36 A.
 	  - Livre des procédures fiscales - art. L36 A (M)
 
 
-##### Contributions indirectes.
-
-###### Article R27-1
-
-Lors des visites et vérifications effectuées par les agents du service des douanes et droits indirects dans les conditions
-fixées à l'article L. 27, les fabricants d'isoglucose sont tenus d'ouvrir, à toute demande, leurs fabriques, ateliers,
-magasins et tous autres bâtiments, entrepôts et locaux professionnels enclavés dans la même enceinte que la fabrique ou
-dépendant de cette dernière.
-
-Ils sont également tenus de fournir la main-d'oeuvre et les matériels nécessaires pour le pesage et le mesurage de
-l'isoglucose lors des exercices, des recensements, des inventaires, des prélèvements d'échantillons et autres contrôles de la
-production.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L27
-
-	**Modifié par**:
-
-	  - Décret n°93-10 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 Q (P)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
-
-
-###### Article R27-2
-
-Chez les fabricants d'isoglucose, les agents du service des douanes et droits indirects peuvent effectuer tous inventaires ou
-prélèvements d'échantillons qui leur paraissent nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-10 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
-
-
 ##### 2 : Droits de timbre
 
 ###### Article R37-1
@@ -13295,8 +13624,8 @@ Les résultats de ce contrôle sont notifiés à l'entreprise et sont communiqu�
 
 Les contrôles de la réalité et du bien-fondé des dépenses de formation exposées au titre du crédit d'impôt-formation
 mentionné à l'article L. 45 D, effectués par les agents commissionnés par l'autorité administrative de l'Etat chargée de la
-formation professionnelle, peuvent être opérés soit sur pièces, soit sur place conformément à la procédure prévue à l'article
-R. 950-24 du code du travail.
+formation professionnelle, peuvent être opérés soit sur pièces, soit sur place conformément à la procédure prévue aux
+articles R. 991-1 à R. 991-8 du code du travail.
 
 A l'occasion des contrôles sur place, les employeurs sont tenus de présenter les documents comptables prévus au titre II du
 livre Ier du code de commerce ainsi que tous documents et pièces de nature à justifier de la réalité et du bien-fondé des
@@ -13310,20 +13639,21 @@ conditions prévues au présent livre.
 	**Liens**:
 
 	  - TXT_SOURCE: Loi n°88-1149 1988-12-23 art. 15 V Finances pour 1989
+	  - HISTO: Edition du 12 mai 1996
 
 	**Modifié par**:
 
-	  - Décret n°89-353 du 5 juin 1989 - art. 1 (V) JORF 7 juin 1989
-	  - Décret n°89-353 du 5 juin 1989 - art. 2 () JORF 7 juin 1989
+	  - Décret n°91-1083 du 16 octobre 1991 - art. 1 () JORF 19 octobre 1991
+	  - Décret n°91-1083 du 16 octobre 1991 - art. 2 () JORF 19 octobre 1991
 
 	**Codifié par**:
 
-	  - Décret n°91-882 1991-09-09
+	  - Décret n°96-557 1996-06-21
 
 	**Cite**:
 
+	  - Code du travail R991-1 à R991-8
 	  - Livre des procédures fiscales - art. L45 D (M)
-	  - Code du travail - art. R950-24 (T)
 
 
 ###### Article R45 E-1
@@ -13707,22 +14037,22 @@ fiscaux.
 ###### Article R*63-1
 
 La décision de mettre en oeuvre les dispositions prévues à l'article L. 63 est prise par un agent ayant au moins le grade
-d'inspecteur principal qui vise à cet effet la notification de la proposition de redressement.
+d'inspecteur divisionnaire qui vise à cet effet la notification de la proposition de redressement.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 168
-	  - CGI L63
+	  - Livre des procédures fiscales - art. L63 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-552 1987-07-17 art. 1 JORF 19 juillet 1987
+	  - Décret n°96-179 du 5 mars 1996 - art. 1 () JORF 12 mars 1996
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°87-941 1987-11-23
+	  - HISTO: Edition du 12 mai 1996
 
 
 ##### IV : Procédure de l'abus de droit fiscal
@@ -13730,21 +14060,21 @@ d'inspecteur principal qui vise à cet effet la notification de la proposition d
 ###### Article R*64-1
 
 La décision de mettre en oeuvre les dispositions prévues à l'article L. 64 est prise par un agent ayant au moins le grade
-d'inspecteur principal qui vise à cet effet la notification de la proposition de redressement.
+d'inspecteur divisionnaire qui vise à cet effet la notification de la proposition de redressement.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°96-179 du 5 mars 1996 - art. 1 () JORF 12 mars 1996
+
+	**Liens**:
+
+	  - HISTO: Edition du 12 mai 1996
+
 	**Cite**:
 
-	  - CGI L64
-
-	**Créé par**:
-
-	  - Décret n°87-552 1987-07-17 art. 2 JORF 19 juillet 1987
-
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
+	  - Livre des procédures fiscales - art. L64 (M)
 
 
 ###### Article R*64-2
@@ -14104,6 +14434,26 @@ est soumis aux obligations définies à l'article R. 87-1.
 	  - Livre des procédures fiscales - art. R87-1 (M)
 
 
+###### Article R87-3
+
+Le gérant d'un fonds commun d'intervention sur les marchés à terme ou le dépositaire des actifs de ce fonds est soumis aux
+obligations définies à l'article R. 87-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 6 (V) JORF 30 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-557 1996-06-21
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R87-1 (V)
+
+
 ##### 15° : Intermédiaires professionnels des bourses de valeur
 
 ###### Article R*94-1
@@ -14131,83 +14481,108 @@ faire connaître les numéros et les dates des bordereaux ainsi que les noms des
 	  - Décret n°88-1002 1988-10-20
 
 
-##### Etablissements, personnes et sociétés tenant le compte des opérations réalisées par leurs clients sur un marché à terme d'instruments financiers ou de marchandises.
+##### 20° : Etablissements, personnes et sociétés tenant le compte des opérations réalisées par leurs clients sur un MATIF, sur un MONEP, sur un FCIMT, ou tenant le compte des opérations sur bons d'option
 
 ###### Article R96 C-1
 
 Les établissements, personnes et sociétés mentionnés aux articles 41 septdecies J et 41 septdecies K de l'annexe III au code
-général des impôts doivent tenir à la disposition de l'administration tout document de nature à justifier la date et le
-montant des encaissements et décaissements effectués par chacun de leurs clients ainsi que les caractéristiques des contrats
-et positions correspondants.
+général des impôts doivent tenir à la disposition de l'administration tout document de nature à justifier la date de
+réalisation et le montant du profit ou de la perte dégagé par chacun de leurs clients à la clôture de chaque position ainsi
+que les caractéristiques des contrats et positions correspondants.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°95-1329 du 28 décembre 1995 - art. 3 () JORF 30 décembre 1995
+	  - Décret n°95-1329 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
+
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales L94
-	  - CGIAN3 41 septdecies J, 41 septdecies K
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies J
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies K
 
-	**Créé par**:
-
-	  - Décret n°92-234 du 11 mars 1992 - art. 5 (V) JORF 15 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-837 1992-08-27
-
-
-##### Etablissements, personnes et sociétés tenant le compte des opérations réalisées par leurs clients sur un marché d'options négociables.
 
 ###### Article R96 C-2
 
 Les établissements, personnes et sociétés mentionnés aux articles 41 septdecies N et 41 septdecies O de l'annexe III au code
-général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier la date et le
-montant des encaissements et décaissements effectués par chacun de leurs clients, les caractéristiques des contrats et
-positions correspondants ainsi que, en cas d'exercice de l'option, le cours coté de l'actif sous-jacent à la date d'exercice
-de l'option.
+général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier par chacun de
+leurs clients la date de réalisation et le montant du profit ou de la perte dégagé par chacun de leurs clients à la clôture
+de chaque position, les caractéristiques des contrats et positions correspondants ainsi que, en cas d'exercice de l'option,
+le cours coté de l'actif sous-jacent à la date d'exercice de l'option.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°95-1330 du 28 décembre 1995 - art. 3 () JORF 30 décembre 1995
+	  - Décret n°95-1330 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
+
 	**Cite**:
 
-	  - CGIAN3 41 septdecies N, 41 septdecies O
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies N
 
-	**Créé par**:
-
-	  - Décret n°92-234 du 11 mars 1992 - art. 5 (V) JORF 15 mars 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-837 1992-08-27
-
-
-##### Etablissements, personnes et sociétés tenant le compte des opérations sur bons d'option
 
 ###### Article R96 C-3
 
 Les établissements, personnes et sociétés mentionnés aux articles 41 septdecies R et 41 septdecies S de l'annexe III au code
-général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier la date et le
-montant des encaissements et décaissements effectués par chacun de leurs clients, les caractéristiques des bons et positions
-correspondants ainsi que, lorsque l'exercice du droit attaché au bon d'option se traduit par la livraison de l'actif sous-
-jacent, le cours coté de cet actif sous-jacent à la date d'exercice.
+général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier la date de
+réalisation et le montant du profit ou de la perte dégagé par chacun de leurs clients à la clôture de chaque position, les
+caractéristiques des bons et positions correspondants ainsi que, lorsque l'exercice du droit attaché au bon d'option se
+traduit par la livraison de l'actif sous-jacent, le cours coté de cet actif sous-jacent à la date d'exercice.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°95-1331 du 28 décembre 1995 - art. 3 () JORF 30 décembre 1995
+	  - Décret n°95-1331 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
+
 	**Cite**:
 
-	  - CGIAN3 41 septdecies R, 41 septdecies S
-
-	**Créé par**:
-
-	  - Décret n°92-605 du 30 juin 1992 - art. 5 (V) JORF 4 juillet 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-837 1992-08-27
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies R
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 150 decies (Ab)
+
+
+###### Article R96 C-4
+
+Les établissements, personnes et sociétés visés aux articles 41 septdecies U et 41 septdecies W de l'annexe III au code
+général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier la date et le
+montant des cessions ou des rachats réalisés par chacun des propriétaires de parts ou associés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-1332 du 28 décembre 1995 - art. 5 (V) JORF 30 décembre 1995
+
+	**Codifié par**:
+
+	  - Décret n°96-557 du 21 juin 1996
+
+	**Abrogé par**:
+
+	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
+
+	**Cite**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies U
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies W
 
 
 ##### 21° : Organisme gestionnaire d'un plan d'épargne en actions
