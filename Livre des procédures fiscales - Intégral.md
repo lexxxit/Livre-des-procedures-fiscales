@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1982-07-31
+Version Consolidée au 1982-08-05
 
 # Partie législative
 
@@ -11945,6 +11945,31 @@ seulement si des faits nouveaux sont invoqués [*condition*].
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 21 (V)
 
 
+###### Article R247-8
+
+Les transactions ou les remises ou modérations prévues par les articles L. 247 et L. 248 peuvent être accordées sur
+proposition du directeur départemental des impôts dans les limites et conditions fixées par le directeur général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L247
+	  - CGI L248
+
+	**Anciens textes**:
+
+	  - CGIAN3 421
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
+
+
 ###### Article R247-9
 
 Le directeur des services fiscaux ou le directeur régional peut, dans les conditions fixées par le directeur général des
@@ -13911,28 +13936,6 @@ de certaines entreprises.
 	  - Décret n°81-860 1981-09-15
 
 
-###### Article R247-8
-
-Les transactions ou les remises ou modérations prévues par les articles L. 247 et L. 248 peuvent être accordées sur
-proposition du directeur départemental des impôts [*autorité compétente*] dans les limites et conditions fixées par le
-directeur général des impôts après avis du conseil d'administration.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L247
-	  - CGI L248
-
-	**Anciens textes**:
-
-	  - CGIAN3 421
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-
 ###### Article R247-10
 
 Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
@@ -13946,31 +13949,30 @@ n'excèdent pas 400.000 F [*montant*] par cote.
 
 La décision appartient au directeur de la comptabilité publique lorsque, s'agissant de sommes n'excédant pas la limite prévue
 au troisième alinéa, le trésorier-payeur général a émis un avis ne concordant pas avec celui du directeur des services
-fiscaux [*contraire*] et qu'ayant été saisies de l'affaire en raison de ce désaccord, la direction de la comptabilité
-publique et la direction générale des impôts ont émis des avis concordants.
+fiscaux et qu'ayant été saisies de l'affaire en raison de ce désaccord, la direction de la comptabilité publique et la
+direction générale des impôts ont émis des avis concordants.
 
 Il en est de même, lorsque s'agissant de sommes qui excèdent la limite précitée, la direction de la comptabilité publique et
 la direction générale des impôts ont émis des avis concordants.
 
-Le ministre statue, après avis du comité des remises et transactions, quel que soit le montant des sommes dues, lorsque les
-avis émis par la direction de la comptabilité publique et la direction générale des impôts ne sont pas concordants.
+Le ministre statue, quel que soit le montant des sommes dues, lorsque les avis émis par la direction de la comptabilité
+publique et la direction générale des Impôts ne sont pas concordants.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN3 424 1
-	  - CGIAN3 425 1
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 	  - Livre des procédures fiscales - art. R*247-10 A (T)
 	  - Livre des procédures fiscales - art. R*247-18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°82-882 1982-10-15
+
+	**Modifié par**:
+
+	  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 
 ###### Article R247-11
@@ -13981,13 +13983,13 @@ services fiscaux dont dépend le comptable chargé du recouvrement.
 
 La décision appartient :
 
-a) Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes faisant l'objet de la demande n'excèdent pas
-400.000 F [*montant*] par exercice ou affaire, selon la nature des impôts ;
+a. Au directeur des services fiscaux [*autorité compétente*], lorsque les sommes faisant l'objet de la demande n'excèdent pas
+400.000 F, par exercice ou affaire, selon la nature des impôts ;
 
-b) Au directeur général, après avis du conseil d'administration, lorsque les sommes faisant l'objet de la demande n'excèdent
-pas 1.000.000 F par exercice ou affaire ;
+b. Au directeur général, lorsque les sommes faisant l'objet de la demande n'excèdent pas 1.000.000 F par exercice ou
+affaire ;
 
-c) Au ministre, après avis du comité des remises et transactions, dans les autres cas.
+c. Au ministre, dans les autres cas [*montant limite, seuil*].
 
 **Liens relatifs à cet article**
 
@@ -13999,15 +14001,14 @@ c) Au ministre, après avis du comité des remises et transactions, dans les aut
 
 	  - CGIAN3 424 2
 	  - CGIAN3 425 2
-	  - Décret n°80-591 du 24 juillet 1980 - art. 3 (V)
 
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°82-882 1982-10-15
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Décret n°82-913 du 22 octobre 1982 - art. 3 (V)
+	  - Décret n°82-685 du 3 août 1982 - art. 1 (V) JORF 5 AOUT 1982
 
 	**Cité par**:
 
