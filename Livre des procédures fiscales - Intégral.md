@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-03-22
+Version Consolidée au 1984-07-20
 
 # Partie législative
 
@@ -3523,6 +3523,31 @@ des ayants droit de ces exploitants.
 	  - Code des débits de boissons L49-1
 
 
+###### Article L147 A
+
+Lorsqu'elle intervient pour la défense de ses agents mis en cause dans les termes de l'article 11 de la loi n° 83-634 du 13
+juillet 1983 portant droits et obligations des fonctionnaires, l'administration des impôts peut produire tous renseignements
+utiles devant la juridiction saisie du litige.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Cite**:
+
+	  - Loi n°83-634 1983-07-13 art. 11
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
+
+
 ##### V : Dérogations au profit des officiers ministériels
 
 ###### Article L148
@@ -4783,6 +4808,29 @@ dispositions de l'article L. 45 A sont applicables dans les mêmes conditions.
 
 ##### II : Règles de procédure
 
+##### A : Dispositions générales
+
+###### Article L199 B
+
+Les affaires portées devant les juridictions de l'ordre judiciaire ou de l'ordre administratif, relatives au contentieux des
+impôts, droits, taxes et redevances prévus au code général des impôts ainsi que des amendes fiscales correspondantes, sont
+jugées en séances publiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+
+	**Créé par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 93 (V) JORF 30 décembre 1983
+
+
 ##### B : Procédure devant le tribunal administratif.
 
 ###### Article L200
@@ -5446,6 +5494,56 @@ de se soustraire à l'établissement et au paiement des impôts mentionnés par 
 
 	  - Code général des impôts, CGI. - art. 1741 (V)
 	  - Code général des impôts, CGI. - art. 1743 (V)
+
+
+###### Article L228
+
+Sous peine d'irrecevabilité, les plaintes tendant à l'application de sanctions pénales en matière d'impôts directs, de taxe
+sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et
+de droits de timbre sont déposées par l'administration sur avis conforme de la commission des infractions fiscales.
+
+La commission examine les affaires qui lui sont soumises par le ministre chargé des finances. Le contribuable est avisé de la
+saisine de la commission qui l'invite à lui communiquer, dans un délai de trente jours, les informations qu'il jugerait
+nécessaires.
+
+Le ministre est lié par les avis de la commission.
+
+Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - CGI 1741 A (AL. 6, AL. 5, AL. 1)
+	  - Loi n°77-1453 1977-12-29 ART. 1 (AL. 1, AL. 5 1RE, 2EME PHRASE, AL. 6)
+
+	**Modifié par**:
+
+	  - Loi n°77-1453 du 29 décembre 1977 - art. 1 (V) JORF 30 décembre 1977
+
+	**Cité par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
+	  - Décret n°2013-576 du 2 juillet 2013 (V)
+	  - Code de procédure pénale - art. 28-2 (V)
+	  - Code de procédure pénale - art. 705 (V)
+	  - Code de procédure pénale - art. 706-1-1 (V)
+	  - Code général des impôts, CGI. - art. 1741 A (VD)
+	  - Code général des impôts, CGI. - art. 1746 (V)
+	  - Livre des procédures fiscales - art. L137 (V)
+	  - Livre des procédures fiscales - art. L188 B (V)
+	  - Livre des procédures fiscales - art. L228 A (V)
+	  - Livre des procédures fiscales - art. R*228-1 (V)
+	  - Livre des procédures fiscales - art. R*228-2 (V)
+	  - Livre des procédures fiscales - art. R*228-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
 
 
 ###### Article L229
@@ -9197,42 +9295,6 @@ moins le grade de contrôleur.
 
 #### EXERCICE DES POURSUITES PENALES.
 
-###### Article L228
-
-Sous peine d'irrecevabilité, les plaintes tendant à l'application de sanctions pénales en matière d'impôts directs, de taxe
-sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et
-de droits de timbre sont déposées par l'administration sur avis conforme de la commission des infractions fiscales.
-
-La commission examine les affaires qui lui sont soumises par le ministre chargé des finances. Le contribuable est avisé de la
-saisine de la commission qui l'invite à lui communiquer, dans un délai de trente jours, les informations qu'il jugerait
-nécessaires.
-
-Le ministre est lié par les avis de la commission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°77-1453 1977-12-29 ART. 1 (AL. 1, AL. 5 1RE, 2EME PHRASE, AL. 6)
-	  - CGI 1741 A (AL. 6, AL. 5, AL. 1)
-
-	**Cité par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
-	  - Décret n°2013-576 du 2 juillet 2013 (V)
-	  - Code de procédure pénale - art. 28-2 (V)
-	  - Code de procédure pénale - art. 705 (V)
-	  - Code de procédure pénale - art. 706-1-1 (V)
-	  - Code général des impôts, CGI. - art. 1741 A (VD)
-	  - Code général des impôts, CGI. - art. 1746 (V)
-	  - Livre des procédures fiscales - art. L137 (V)
-	  - Livre des procédures fiscales - art. L188 B (V)
-	  - Livre des procédures fiscales - art. L228 A (V)
-	  - Livre des procédures fiscales - art. R*228-1 (V)
-	  - Livre des procédures fiscales - art. R*228-2 (V)
-	  - Livre des procédures fiscales - art. R*228-6 (V)
-
-
 ###### Article L230
 
 Les plaintes peuvent être déposées jusqu'à la fin de la troisième année qui suit celle au cours de laquelle l'infraction a
@@ -9559,19 +9621,6 @@ Le délai de dix ans mentionné au premier alinéa est interrompu dans les condi
 	  - Loi n°84-1208 du 29 décembre 1984 - art. 103 (V)
 	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
 	  - Livre des procédures fiscales - art. R*275-1 (Ab)
-
-
-###### Article L276
-
-En ce qui concerne les sommes avancées par l'Etat au titre de l'aide judiciaire, l'action en vue du recouvrement se prescrit
-par cinq ans [*délai, prescription quinquennale*], après la décision de justice ou l'acte d'exécution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1972
-	  - Loi n°1972-01-03 ART. 27 (AL. DERNIER), ART. 33
 
 
 ### LE SURSIS DE PAIEMENT.
@@ -10323,6 +10372,44 @@ Le montant de l'impôt exigible donne lieu à l'établissement d'un rôle ou à 
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+###### Article R60-1 A
+
+Le rapport prévu par l'article L. 60 doit obligatoirement indiquer, selon le cas, le montant du forfait, du bénéfice, du
+chiffre d'affaires ou de la valeur vénale que l'intéressé était en dernier lieu disposé à accepter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L60 (V)
+
+
+###### Article R60-2 A
+
+A la demande de l'un de ses membres, la commission départementale peut, si elle l'estime utile, entendre en séance tout
+fonctionnaire qui a pris part à la détermination de la base d'imposition qui fait l'objet du désaccord dont elle est saisie
+ou, en cas d'absence ou de mutation, son successeur ou remplaçant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
+
+	**Liens**:
+
+	  - HISTO: Edition du 20 juillet 1984
+	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
 
 
 #### Chapitre II : Le droit de communication
@@ -14511,6 +14598,37 @@ Les agents qualifiés du ministère de l'intérieur jouissent des mêmes droits.
 	  - Code général des impôts, annexe 4, CGIAN4. - art. 146 (V)
 
 
+###### Article A26-4
+
+Les agents de l'administration des impôts peuvent pendant leur intervention dans les cercles assister aux jeux, au comptage
+des cagnottes, prendre connaissance sur place de toutes pièces et de tous documents relatifs au fonctionnement du cercle ou
+de la maison de jeux et procéder au contrôle des pourboires encaissés dans l'établissement. Les cercles et maisons de jeux
+sont tenus de présenter à toute demande les carnets d'enregistrement des cagnottes dont ils sont détenteurs.
+
+Les agents de l'administration des impôts peuvent également, pour une ou plusieurs tables de jeux, demander le remplacement
+du croupier et faire procéder simultanément à un relevé intermédiaire du montant de la cagnotte et à un contrôle du produit
+de la caisse des pourboires.
+
+Les agents qualifiés du ministre de l'intérieur jouissent des mêmes droits.
+
+Les contrôles doivent être effectués de façon à n'occasionner qu'un minimun de gêne pour les joueurs [*condition d'exercice
+du contrôle*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Anciens textes**:
+
+	  - CGIAN4 148 (SAUF AL. 1)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 153 (V)
+
+
 ##### Dispositions applicables dans les départements d'outre-mer.
 
 ###### Article A27-1
@@ -14586,6 +14704,33 @@ lieu.
 
 
 #### Chapitre II : Le droit de communication
+
+##### Section I : Définition et étendue du droit de communication.
+
+###### Article A85-1
+
+Les directeurs, entrepreneurs, propriétaires d'établissements mentionnés à l'article 1563, deuxième alinéa, du code général
+des impôts, dans lesquels il est d'usage de consommer mais pour lesquels soit il n'est pas exigé de prix d'entrée, soit le
+prix d'entrée est inférieur au montant de la première consommation, sont tenus de présenter leurs registres de comptabilité
+ou leurs livres à la première demande des agents des impôts chargés de percevoir l'impôt sur les spectacles. Ils doivent
+justifier toutes les inscriptions portées sur ces documents ainsi que, d'une manière générale, toutes les opérations
+effectuées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - CGI 1563 al. 2
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 145 (M)
+	  - Livre des procédures fiscales - art. R81-5 (VD)
+
 
 ##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part
 
@@ -14681,9 +14826,68 @@ Elle est calculée en fonction du temps effectivement écoulé de la constitutio
 	  - CGI R208-4 2°
 
 
+#### Chapitre II : Les procédures pénales
+
+##### Section I : Constatation des infractions par procès-verbal
+
+##### II : Agents compétents pour constater les infractions par procès-verbal.
+
+###### Article A225 A-1
+
+Les procès-verbaux constatant les infractions mentionnées à l'article L. 225 A peuvent être établis par les agents des
+impôts, par les agents des douanes, ainsi que par les agents de la direction générale de la concurrence et de la consommation
+qui ont prêté le serment requis des agents des administrations financières pour l'exercice de leurs fonctions. 
+
+Les procès-verbaux sont rédigés à la requête du directeur général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L225 A (V)
+
+
 ### Titre IV : Le recouvrement de l'impôt
 
 #### Chapitre II : Le sursis de paiement
+
+###### Article A277-1
+
+Le contribuable qui fournit des valeurs mobilières au titre des garanties prévues par l'article L. 277 doit déposer ces
+valeurs à la caisse du comptable chargé du recouvrement. 
+
+Toutefois, les établissements de crédit admis à servir d'intermédiaires pour le paiement des impôts directs peuvent être
+autorisés, sur leur demande ou celle de leur client, à recevoir les titres en dépôt sur un compte de dépôt de titres ouvert
+au nom du contribuable. 
+
+La demande doit être adressée au comptable appelé à recevoir les titres ; elle implique pour l'établissement de crédit comme
+pour le contribuable l'acceptation des dispositions prévues aux articles A. 277-2 à A. 277-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Arrêté 1984-10-01
+
+	**Anciens textes**:
+
+	  - CGIAN4 207 A
+	  - CGIAN4 207 B
+	  - CGIAN4 207 C (4 PREMIERES LIGNES, DERNIERE PHRASE)
+
+	**Modifié par**:
+
+	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. A277-2 (V)
+	  - Livre des procédures fiscales - art. L277 (V)
+
 
 ###### Article A277-2
 
@@ -14795,66 +14999,9 @@ l'établissement de crédit par le comptable.
 	  - Loi n°84-46 1984-01-24 art. 94 II JORF 25 janvier 1984
 
 
-## LE CONTROLE DE L'IMPOT
-
-### LE DROIT DE CONTROLE DE L'ADMINISTRATION
-
-#### DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.
-
-###### Article A26-4
-
-Les agents de l'administration des impôts peuvent pendant leur intervention dans les cercles assister aux jeux, au comptage
-des cagnottes, prendre connaissance sur place de toutes pièces et de tous documents relatifs au fonctionnement du cercle ou
-de la maison de jeux et procéder au contrôle des pourboires encaissés dans l'établissement.
-
-Ils peuvent également, pour une ou plusieurs tables de jeux, demander le remplacement du croupier et faire procéder
-simultanément à un relevé intermédiaire du montant de la cagnotte et à un contrôle du produit de la caisse des pourboires.
-
-Les agents qualifiés du ministre de l'intérieur jouissent des mêmes droits.
-
-Les contrôles doivent être effectués de façon à n'occasionner qu'un minimun de gêne pour les joueurs [*condition d'exercice
-du contrôle*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN4 148 (SAUF AL. 1)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 153 (V)
-
-
 ## LE RECOUVREMENT DE L'IMPOT
 
 ### LE SURSIS DE PAIEMENT.
-
-###### Article A277-1
-
-Le contribuable qui fournit des valeurs mobilières au titre des garanties prévues par l'article L. 277 doit déposer ces
-valeurs à la caisse du comptable chargé du recouvrement.
-
-Toutefois, les banques admises à servir d'intermédiaires pour le paiement des impôts directs peuvent être autorisées, sur
-leur demande ou celle de leur client, à recevoir les titres en dépôt sur un compte de dépôt de titres ouvert au nom du
-contribuable.
-
-La demande doit être adressée au comptable appelé à recevoir les titres ; elle implique pour la banque comme pour le
-contribuable l'acceptation des dispositions prévues aux articles A. 277-2 à A. 277-10.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI A277-2 A CGI A277-10
-	  - CGI L277
-
-	**Anciens textes**:
-
-	  - CGIAN4 207 A
-	  - CGIAN4 207 B
-	  - CGIAN4 207 C (4 PREMIERES LIGNES, DERNIERE PHRASE)
-
 
 ###### Article A277-7
 
