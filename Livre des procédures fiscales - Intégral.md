@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1999-03-31
+Version Consolidée au 1999-07-01
 
 # Partie législative
 
@@ -1394,6 +1394,27 @@ vins, vins de liqueur et eaux-de-vie.
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
+
+
+###### Article L34 A
+
+Pour l'exercice des visites et vérifications chez les personnes mentionnées au 1° de l'article 302 F ter du code général des
+impôts, les agents des douanes et droits indirects ont accès aux locaux professionnels, y compris les moyens de transport,
+dans lesquels les opérateurs précités exercent leur activité ou détiennent des produits repris à l'article 302 B.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 302 F ter, 302 B
+
+	**Créé par**:
+
+	  - Loi - art. 18 (V) JORF 31 décembre 1999 en vigueur le 1er juillet 1999
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R36 B-1 (M)
 
 
 ###### Article L35
