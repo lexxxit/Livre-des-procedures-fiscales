@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2004-10-01
+Version Consolidée au 2004-10-09
 
 # Partie législative
 
@@ -14343,6 +14343,60 @@ dispositions du d de l'article R. 80 B-5 ont été mises en oeuvre, à compter d
 	**Créé par**:
 
 	  - Décret n°97-496 du 16 mai 1997 - art. 1 () JORF 18 mai 1997
+
+
+###### Article R*80 B-7
+
+Les dispositions des articles R.[* 80 B-1 à R.*] 80 B-3 sont applicables aux demandes d'appréciation mentionnées au 4° de
+l'article L. 80 B, sous réserve de l'application des dispositions suivantes :
+
+a) Le modèle prévu à l'article R.[* 80 B-1 est fixé par arrêté du ministre chargé du budget et du ministre chargé de la
+recherche ;
+
+b) L'administration des impôts sollicite l'avis des services du ministère chargé de la recherche lorsque l'appréciation du
+caractère scientifique et technique du projet de recherche présenté par l'entreprise le nécessite ;
+
+c) La demande d'éléments complémentaires prévue à l'article R.*] 80 B-3 peut être faite par le délégué régional à la
+recherche et à la technologie ou le directeur des services fiscaux ;
+
+d) Le directeur des services fiscaux informe l'organisme chargé du recouvrement des cotisations patronales de sécurité
+sociale dont dépend l'entreprise des suites données à sa demande d'appréciation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1067 du 6 octobre 2004 - art. 1 () JORF 9 octobre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (M)
+	  - Livre des procédures fiscales R80 B-1 à R80 B-3, L80 B
+
+
+###### Article R*80 B-8
+
+Le délai de quatre mois prévu au 4° de l'article L. 80 B court à compter de la réception de la demande d'appréciation ou, si
+les dispositions de l'article R.* 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2004-1067 du 6 octobre 2004 - art. 1 () JORF 9 octobre 2004
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2004
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (M)
+	  - Livre des procédures fiscales L80 B, R80 B-3
 
 
 ###### Article R*80 C-1
