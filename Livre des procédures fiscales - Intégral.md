@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2003-07-01
+Version Consolidée au 2003-08-31
 
 # Partie législative
 
@@ -634,21 +634,17 @@ l'administration des impôts, ayant au moins le grade d'inspecteur et habilités
 impôts, à rechercher la preuve de ces agissements, en effectuant des visites en tous lieux, même privés, où les pièces et
 documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support.
 
-II. Chaque visite doit être autorisée par une ordonnance du président du tribunal de grande instance dans le ressort duquel
-sont situés les lieux à visiter ou d'un juge délégué par lui.
-
-(Le président du tribunal de grande instance peut confier cette fonction au juge des libertés et de la détention).
+II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande
+instance dans le ressort duquel sont situés les lieux à visiter.
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
 
 L'ordonnance comporte :
 
-Le cas échéant, mention de la délégation du président du tribunal de grande instance ;
+l'adresse des lieux à visiter ;
 
-L'adresse des lieux à visiter ;
-
-Le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
+le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
 l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.
@@ -695,7 +691,7 @@ L'officier de police judiciaire veille au respect du secret professionnel et des
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
 
 IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
-dressé sur le champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est
+dressé sur-le-champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est
 annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des impôts et par
 l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du III ; en cas de refus de signer,
 mention en est faite au procès-verbal.
@@ -714,11 +710,11 @@ VI. L'administration des impôts ne peut opposer au contribuable les information
 et documents saisis ou de leur reproduction et mise en oeuvre des procédures de contrôle visées aux premier et deuxième
 alinéas de l'article L. 47.
 
-**Nota:**
-
-Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
-
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
 
 	**Cité par**:
 
@@ -735,18 +731,12 @@ Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
 
 	**Modifié par**:
 
-	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
+	  - Loi n°2000-516 2000-06-15 art. 49 VI, art. 140 JORF 16 juin 2000
+	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 1er janvier 2003
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L47 (M)
-	  - CODE DE PROCEDURE PENALE - art. 550 (M)
-	  - CODE DE PROCEDURE PENALE - art. 56 (M)
-	  - CODE DE PROCEDURE PENALE - art. 58 (M)
+	  - Décret n°2003-934 2003-09-30
 
 
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt de solidarité sur la fortune et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
@@ -1859,33 +1849,59 @@ Un décret fixe les conditions d'application de cet article.
 
 ###### Article L45 E
 
-Les agents dépendant du ministère chargé de l'emploi sont compétents pour constater et contrôler les éléments servant au
-calcul du crédit d'impôt pour augmentation de la durée d'utilisation des équipements et réduction de la durée hebdomadaire du
-travail prévu à l'article 244 quater E du code général des impôts, ainsi que les conditions auxquelles l'octroi du crédit
-d'impôt est subordonné, sans préjudice des pouvoirs de contrôle de l'administration des impôts qui demeure seule compétente
-pour l'application des procédures de redressement.
-
-Un décret fixe les conditions d'application du présent article.
+Les agents mandatés par le directeur général des impôts peuvent contrôler sur le lieu d'exploitation le respect des
+conditions liées à la réalisation, l'affectation et la conservation des investissements productifs ayant ouvert un droit au
+bénéfice des dispositions des articles 199 undecies A, 199 undecies B, 217 undecies et 217 duodecies du code général des
+impôts et prévues aux mêmes articles.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 244 quater E
-
-	**Créé par**:
-
-	  - Loi n°89-935 1989-12-29 art. 121 IX, X Finances pour 1990, JORF 30 décembre 1989
-
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
-	  - Décret n°97-662 1997-05-28
+	  - CGI 199 undecies A, 199 undecies B, 217 undecies, 217 duodecies
 
 	**Liens**:
 
-	  - PEREMPTION: Décret n°97-662 du 28 mai 1997 - art. 1 () JORF 1er juin 1997
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 août 2003
+	  - PEREMPTION: Décret n°2003-934 du 30 septembre 2003 - art. 1
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 42 () JORF 22 juillet 2003
+
+
+###### Article L45 F
+
+Les agents mandatés par le directeur général des impôts peuvent contrôler sur le lieu d'exploitation le respect des
+conditions liées à la réalisation, l'affectation et la conservation des investissements productifs ayant ouvert un droit au
+bénéfice des dispositions des articles 199 undecies A, 199 undecies B, 217 undecies et 217 duodecies du code général des
+impôts et prévues aux mêmes articles.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 199 undecies A, 199 undecies B, 217 undecies, 217 duodecies
+
+	**Créé par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 42 () JORF 22 juillet 2003
+
+	**Codifié par**:
+
+	  - Décret n°2003-934 2003-09-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
+	**Cité par**:
+
+	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 1 (Saint-Martin) (V)
+	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 2 (Polynésie) (V)
+	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 3 (Saint-Barthélemy) (V)
+	  - Livre des procédures fiscales - art. R*45 F-2 (V)
+	  - Livre des procédures fiscales - art. R45 F-1 (V)
 
 
 ###### Article L45-0 A
@@ -3664,6 +3680,39 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent 3
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
+
+
+###### Article L80 C
+
+L'amende fiscale prévue à l'article 1768 quater du code général des impôts n'est pas applicable lorsque l'administration n'a
+pas répondu dans un délai de six mois à un organisme qui a demandé, dans les mêmes conditions que celles prévues à l'avant-
+dernier alinéa du 2° de l'article L. 80 B, s'il relève de l'une des catégories mentionnées aux articles 200 et 238 bis du
+code général des impôts.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1768 quater, 200, 238 bis
+	  - Livre des procédures fiscales - art. L80 B (M)
+
+	**Cité par**:
+
+	  - Décret n°2007-807 du 11 mai 2007 - art. 1 (V)
+	  - Décret n°2007-807 du 11 mai 2007 - art. 12-1 (V)
+	  - Livre des procédures fiscales - art. L80 CB (V)
+	  - Livre des procédures fiscales - art. R*80 C-1 (V)
+	  - Livre des procédures fiscales - art. R*80 C-4 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-709 du 1 août 2003 - art. 1 (V) JORF 2 août 2003
 
 
 ###### Article L80 CA
@@ -7883,30 +7932,27 @@ l'intervention de ces organismes pour le recouvrement des créances alimentaires
 ###### Article L162 B
 
 Conformément aux dispositions de l'article L. 232-16 du code de l'action sociale et des familles, pour vérifier les
-déclarations des intéressés, les services chargés de l'évaluation des droits à l'allocation personnalisée d'autonomie peuvent
-demander toutes les informations nécessaires aux administrations publiques, notamment aux administrations fiscales, aux
-collectivités territoriales, aux organismes de sécurité sociale et de retraite complémentaire qui sont tenus de les leur
-communiquer. Lesdites informations doivent être limitées aux données nécessaires à l'identification de la situation du
-demandeur en vue de l'attribution de l'allocation personnalisée d'autonomie. Elle sont transmises et utilisées dans les
-conditions garantissant leur confidentialité.
+déclarations des intéressés et s'assurer de l'effectivité de l'aide qu'ils reçoivent, les services chargés de l'évaluation
+des droits à l'allocation personnalisée d'autonomie et du contrôle de son utilisation peuvent demander toutes les
+informations nécessaires aux administrations publiques, notamment aux administrations fiscales, aux collectivités
+territoriales, aux organisations de sécurité sociale et de retraite complémentaire qui sont tenues de les leur communiquer.
+Lesdites informations doivent être limitées aux données nécessaires à l'identification de la situation du demandeur en vue de
+l'attribution de l'allocation personnalisée d'autonomie et au contrôle de l'effectivité de l'aide, en adéquation avec le
+montant d'allocation versé. Elles sont transmises et utilisées dans des conditions garantissant leur confidentialité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-647 du 20 juillet 2001 - art. 1 () JORF 21 juillet 2001
+	  - Loi n°2003-289 du 31 mars 2003 - art. 4 () JORF 1er avril 2003
 
 	**Codifié par**:
 
-	  - Décret n°2002-922 2002-06-06
+	  - Décret n°2003-934 2003-09-30
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L232-16 (T)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code de l'action sociale et des familles - art. L232-16 (V)
 
 
 ##### VII : Dérogations au profit d'organismes divers
@@ -10895,9 +10941,7 @@ procédures de la comparution immédiate, de l'information ou de la citation dir
 L'administration peut accorder sur la demande du contribuable ;
 
 1° Des remises totales ou partielles d'impôts directs régulièrement établis lorsque le contribuable est dans l'impossibilité
-de payer par suite de gêne ou d'indigence ; ces remises totales ou partielles sont également prises au vu des recommandations
-de la commission visée à l'article L. 331-1 du code de la consommation ou des mesures prises par le juge visées à l'article
-L. 332-3 du même code.
+de payer par suite de gêne ou d'indigence ;
 
 2° Des remises totales ou partielles d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas échéant,
 les impositions auxquelles elles s'ajoutent sont définitives ;
@@ -10946,17 +10990,39 @@ droits, taxes et contributions.
 
 	**Modifié par**:
 
-	  - Loi n°98-657 du 29 juillet 1998 - art. 94 () JORF 31 juillet 1998
+	  - Loi n°2003-710 du 1 août 2003 - art. 45 () JORF 2 août 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 1999
-	  - TXT_ASSOCIE: Instruction 2000-02-02 13S-2-00
+	  - HISTO: Edition du 31 août 2003
 
 	**Cite**:
 
 	  - Code de la consommation - art. L331-1 (M)
 	  - Code de la consommation - art. L332-3 (M)
+
+
+###### Article L247 A
+
+Les contribuables de bonne foi, en situation de gêne ou d'indigence, qui ont déposé auprès de la commission de surendettement
+des particuliers visée à l'article L. 331-1 du code de la consommation une demande faisant état de dettes fiscales et qui ne
+font pas l'objet d'une procédure de rétablissement personnel prévue à l'article L. 332-6 dudit code bénéficient d'un remise
+d'impôts directs au moins équivalente à celle recommandée par ladite commission pour les autres créances.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-1 (M)
+	  - Code de la consommation - art. L332-6 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 45 () JORF 2 août 2003
 
 
 ###### Article L248
@@ -14229,26 +14295,26 @@ litige soit soumis à l'avis du comité consultatif pour la répression des abus
 
 ###### Article R*80 B-1
 
-La demande d'agrément visée au a du 2° de l'article L. 80 B ou la notification visée au b du 2° du même article précise le
-nom ou la raison sociale et l'adresse de son auteur et indique les dispositions législatives dont l'entreprise entend
-bénéficier. Elle fournit une présentation précise et complète de la situation de fait et est établie conformément au modèle
-fixé par arrêté du ministre chargé du budget. Ce modèle énonce, le cas échéant en distinguant selon les dispositions
-concernées, les catégories d'informations nécessaires pour permettre à l'administration d'apprécier si les conditions
-requises par la loi pour le bénéfice de l'avantage en cause sont effectivement remplies.
+La notification visée au b du 2° de l'article L. 80 B précise le nom ou la raison sociale et l'adresse de son auteur et
+indique les dispositions législatives dont l'entreprise entend bénéficier. Elle fournit une présentation précise et complète
+de la situation de fait et est établie conformément au modèle fixé par arrêté du ministre chargé du budget. Ce modèle énonce,
+le cas échéant en distinguant selon les dispositions concernées, les catégories d'informations nécessaires pour permettre à
+l'administration d'apprécier si les conditions requises par la loi pour le bénéfice de l'avantage en cause sont effectivement
+remplies.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+	  - Loi - art. 92 () JORF 31 décembre 1999
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2003-934 2003-09-30
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L80 B (M)
+	  - Livre des procédures fiscales - art. L80 B (V)
 
 	**Cité par**:
 
@@ -14261,20 +14327,23 @@ requises par la loi pour le bénéfice de l'avantage en cause sont effectivement
 
 ###### Article R*80 B-2
 
-La demande d'agrément ou la notification mentionnée à l'article R. 80 B-1 est adressée, par pli recommandé avec demande
-d'avis de réception postal, selon le cas au ministre chargé du budget ou à la direction des services fiscaux dont dépend le
-service auprès duquel le contribuable est tenu de souscrire ses déclarations de résultats ; elle peut également faire l'objet
-d'un dépôt contre décharge.
+La notification mentionnée à l'article R. 80 B-1 est adressée, par pli recommandé avec demande d'avis de réception postal, à
+la direction des services fiscaux dont dépend le service auprès duquel le contribuable est tenu de souscrire ses déclarations
+de résultats ; elle peut également faire l'objet d'un dépôt contre décharge.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+	  - Loi - art. 92 () JORF 31 décembre 1999
+
+	**Codifié par**:
+
+	  - Décret n°2003-934 2003-09-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 août 2003
 
 	**Cité par**:
 
@@ -14283,25 +14352,29 @@ d'un dépôt contre décharge.
 
 	**Cite**:
 
-	  - Livre des procédures fiscales R80 B-1
+	  - Livre des procédures fiscales R80 B
 
 
 ###### Article R*80 B-3
 
-Si la demande d'agrément ou la notification mentionnée à l'article R.[* 80 B-1 est incomplète au regard des dispositions de
-cet article, le ministre ou le directeur invite son auteur, par lettre recommandée avec demande d'avis de réception postal, à
-fournir les éléments complémentaires nécessaires. Ces éléments sont produits dans les conditions prévues à l'article R.*] 80
-B-2.
+Si la notification mentionnée à l'article R. 80 B-1 est incomplète au regard des dispositions de cet article, le directeur
+invite son auteur, par lettre recommandée avec demande d'avis de réception postal, à fournir les éléments complémentaires
+nécessaires. Ces éléments sont produits dans les conditions prévues à l'article R. 80 B-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+	  - Loi - art. 92 () JORF 31 décembre 1999
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2003-934 2003-09-30
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*80 B-1 (V)
+	  - Livre des procédures fiscales - art. R*80 B-2 (V)
 
 	**Cité par**:
 
@@ -14310,31 +14383,26 @@ B-2.
 	  - Livre des procédures fiscales - art. R*80 B-7 (V)
 	  - Livre des procédures fiscales - art. R*80 B-8 (V)
 
-	**Cite**:
-
-	  - Livre des procédures fiscales R80 B-1, R80 B-2
-
 
 ###### Article R*80 B-4
 
-Le délai de trois mois prévu au 2° de l'article L. 80 B court à compter de la réception de la demande d'agrément ou de la
-notification ou, si les dispositions de l'article R. 80 B-3 ont été mises en oeuvre, à compter de la réception des
-compléments demandés.
+Le délai de trois mois prévu au 2° de l'article L. 80 B court à compter de la réception de la notification ou, si les
+dispositions de l'article R. 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°96-677 du 25 juillet 1996 - art. 1 () JORF 31 juillet 1996
+	  - Loi - art. 92 () JORF 31 décembre 1999
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2003-934 2003-09-30
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L80 B (M)
-	  - Livre des procédures fiscales L80 B, R80 B-3
+	  - Livre des procédures fiscales - art. L80 B (V)
+	  - Livre des procédures fiscales - art. R*80 B-3 (V)
 
 
 ###### Article R*80 B-5
@@ -14428,24 +14496,20 @@ des impôts, affecté ou non dans le ressort territorial du même service et app
 ###### Article R80 F-2
 
 Les fonctionnaires qui ont compétence pour procéder à la mise en oeuvre du droit d'enquête auprès d'un assujetti à la taxe
-sur la valeur ajoutée, en application de l'article R80 F-1, peuvent exercer ce droit dans tous les établissements de
+sur la valeur ajoutée, en application de l'article R. 80 F-1, peuvent exercer ce droit dans tous les établissements de
 l'intéressé, quel que soit leur lieu de situation. Ils peuvent également l'exercer à l'égard des assujettis, ayant avec
-celui-ci des relations professionnelles impliquant une obligation de facturation ou de production de documents en tenant
-lieu, quel que soit le lieu de leur siège, de leur établissement, de leur domicile ou de l'exercice de leur activité.
+celui-ci des relations professionnelles impliquant une obligation de facturation, quel que soit le lieu de leur siège, de
+leur établissement, de leur domicile ou de l'exercice de leur activité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-1219 du 26 décembre 1994 - art. 1 () JORF 31 décembre 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1282 1995-12-11
+	  - Décret n°2003-659 du 18 juillet 2003 - art. 2 () JORF 20 juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 27 octobre 1995
+	  - HISTO: Edition du 31 août 2003
 
 	**Cite**:
 
@@ -15140,6 +15204,47 @@ qui n'ont pas reçu cet état dans les délais prévus à l'article précité do
 	  - Livre des procédures fiscales R102 AA
 
 
+#### Chapitre II bis : Obligation et délais de conservation des documents
+
+###### Article R*102 C-1
+
+I. - Pour l'application des dispositions de l'article L. 102 C, les assujettis ne peuvent stocker les factures transmises par
+voie électronique dans un pays non lié à la France par une convention prévoyant, d'une part, une assistance mutuelle ayant
+une portée similaire à celle prévue par la directive 76/308/CEE du Conseil du 15 mars 1976 concernant l'assistance mutuelle
+en matière de recouvrement des créances relatives à certaines cotisations, droits, taxes et autres mesures, par la directive
+77/799/CEE du Conseil du 19 décembre 1977 concernant l'assistance mutuelle des autorités compétentes des Etats membres dans
+le domaine des impôts directs et indirects et le règlement (CEE) n° 218/92 du Conseil du 27 janvier 1992 concernant la
+coopération administrative dans le domaine des impôts indirects (TVA) et, d'autre part, un droit d'accès en ligne, de
+téléchargement et d'utilisation de l'ensemble des données concernées.
+
+II. - La déclaration du lieu de stockage prévue à l'article L. 102 C précité s'effectue sur papier libre ou par voie
+électronique. Elle comporte les nom et adresse des clients ou des tiers chargés du stockage ainsi que les périodes concernées
+par celui-ci. Les assujettis sont tenus de déclarer toute modification du lieu de stockage dans le mois qui suit la
+survenance d'un tel événement au service des impôts auprès duquel ils déposent leur déclaration de résultats ou de bénéfices.
+
+III. - Pour l'application de l'article L. 102 C précité, l'assujetti s'assure que les factures et données détenues par lui-
+même ou, en son nom et pour son compte, par un client ou par un tiers sont accessibles dans le meilleur délai depuis son
+siège ou son principal établissement en cas de contrôle de l'administration, quel que soit le lieu de détention de ces
+documents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Directive 76-308 CEE 1976-03-15 (Conseil)
+	  - Directive 77-799 CEE 1977-12-19 (Conseil)
+	  - Livre des procédures fiscales - art. L102 C (V)
+	  - Règlement 218-92 CEE 1992-01-27 (Conseil)
+
+	**Créé par**:
+
+	  - Décret n°2003-632 du 7 juillet 2003 - art. 2 () JORF 9 juillet 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 août 2003
+
+
 #### Chapitre III : Le secret professionnel en matière fiscale
 
 ##### Section I : Portée et limites de la règle du secret professionnel
@@ -15256,12 +15361,12 @@ La direction générale des douanes et droits indirects exerce les compétences 
 
 ###### Article R111-1
 
-La liste des personnes assujetties à l'impôt sur le revenu établie en application du I de l'article L. 111, comprend les
+La liste des personnes assujetties à l'impôt sur le revenu, établie en application du I de l'article L. 111, comprend les
 impositions mises en recouvrement au 30 avril de l'année suivant celle de la production des déclarations de revenus.
 
 Elle comporte, pour chaque contribuable, les indications suivantes :
 
-a) Ses nom, prénoms et adresse ;
+a) Son nom, la première lettre de son prénom et son adresse ;
 
 b) Le nombre de parts correspondant à sa situation et à ses charges de famille ;
 
@@ -15275,11 +15380,11 @@ e) Le montant de l'avoir fiscal.
 
 	**Modifié par**:
 
-	  - Loi n°90-669 1990-07-30 art. 56 VII JORF 1er août 1990
+	  - Décret n°2003-610 du 27 juin 2003 - art. 1 () JORF 4 juillet 2003
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°92-837 1992-08-27
+	  - HISTO: Edition du 31 août 2003
 
 	**Cite**:
 
