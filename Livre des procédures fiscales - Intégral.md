@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-02-25
+Version Consolidée au 1984-03-22
 
 # Partie législative
 
@@ -3158,6 +3158,54 @@ clandestin.
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+
+###### Article L134 A
+
+Conformément à l'article L. 351-18 du Code du travail, les agents chargés des opérations de contrôle de la recherche d'emploi
+prévue aux articles L. 351-1 et L. 351-16 du même code peuvent, pour l'exercice de leur mission, recevoir communication des
+renseignements détenus par l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°84-198 du 21 mars 1984 - art. 1 () JORF 22 mars 1984
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cite**:
+
+	  - Code du travail - art. L351-1 (M)
+	  - Code du travail - art. L351-16 (P)
+	  - Code du travail - art. L351-18 (T)
+
+
+###### Article L134 B
+
+Les agents des impôts peuvent communiquer aux organismes chargés, en application de l'article L. 351-21 du code du travail,
+du service des allocations d'assurance et du recouvrement des contributions mentionnées à l'article L. 351-3 du même code
+ainsi que de la gestion des allocations de solidarité mentionnées aux articles L. 351-9 et L. 351-10 du code précité, les
+renseignements nécessaires à l'assiette des cotisations et au calcul des prestations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°84-198 du 21 mars 1984 - art. 1 () JORF 22 mars 1984
+
+	**Cite**:
+
+	  - Code du travail - art. L351-10 (M)
+	  - Code du travail - art. L351-21 (T)
+	  - Code du travail - art. L351-3 (M)
+	  - Code du travail - art. L351-9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°84-876 1984-10-01
 
 
 ###### Article L135
@@ -8256,29 +8304,6 @@ l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-
-###### Article L134 A
-
-Conformément à l'article L. 351-18 du Code du travail, les agents chargés des opérations de contrôle de la recherche d'emploi
-prévue aux articles L. 351-1 et L. 351-17 du même code peuvent, pour l'exercice de leur mission, recevoir communication des
-renseignements détenus par l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L351-1 (M)
-	  - Code du travail - art. L351-17 (T)
-	  - Code du travail - art. L351-18 (T)
-
-	**Codifié par**:
-
-	  - Décret n°84-876 1984-10-01
-
-	**Modifié par**:
-
-	  - Ordonnance 79-198 1979-03-21 art. 1 JORF 22 mars 1984
 
 
 ###### Article L139
