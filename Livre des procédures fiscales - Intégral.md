@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1988-10-22
+Version Consolidée au 1988-12-28
 
 # Partie législative
 
@@ -1737,6 +1737,31 @@ régularisation des déductions opérées indûment sur les taxes payées à l'u
 	  - Code général des impôts, CGI. - art. 298 (V)
 
 
+###### Article L45 D
+
+La réalité et le bien-fondé des dépenses de formation exposées par les employeurs au titre du crédit d'impôt formation prévu
+par l'article 244 quater C du code général des impôts peuvent être contrôlés par les agents commissionnés par l'autorité
+administrative de l'Etat chargée de la formation professionnelle, sans préjudice des pouvoirs de contrôle de l'administration
+des impôts qui demeure seule compétente pour l'application des procédures de redressement. 
+
+Un décret fixe les conditions d'application de cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater C
+
+	**Créé par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 15 (P) JORF 28 décembre 1988
+
+	**Cité par**:
+
+	  - Décret n°89-353 du 5 juin 1989 - art. 1 (V)
+	  - Livre des procédures fiscales - art. R45 D-1 (P)
+
+
 ###### Article L46
 
 Les autorités civiles et militaires et la force publique prêtent aide et assistance aux agents de l'administration des impôts
@@ -2510,6 +2535,54 @@ taxes assises sur les salaires sont taxés ou évalués d'office. "
 ##### I : Taxation d'office
 
 ##### A : En cas de défaut ou de retard dans le dépôt des déclarations
+
+###### Article L66
+
+Sont taxés d'office :
+
+1° A l'impôt sur le revenu, les contribuables qui n'ont pas déposé dans le délai légal la déclaration d'ensemble de leurs
+revenus ou qui n'ont pas déclaré, en application de l'article 150 S du code général des impôts, les plus-values imposables
+qu'ils ont réalisées, sous réserve de la procédure de régularisation prévue à l'article L. 67 ;
+
+2° A l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui n'ont pas déposé dans le délai légal leur
+déclaration, sous réserve de la procédure de régularisation prévue à l'article L. 68 ;
+
+3° Aux taxes sur le chiffre d'affaires, les personnes qui n'ont pas déposé dans le délai légal les déclarations qu'elles sont
+tenues de souscrire en leur qualité de redevables des taxes ;
+
+Les mêmes dispositions s'appliquent en cas d'absence de dépôt dans le délai légal des déclarations abrégées prévues à
+l'article 242 quater de l'annexe II au code général des impôts.
+
+4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont pas déposé une déclaration ou qui n'ont pas
+présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
+prévue à l'article L. 67 ;
+
+5° Aux taxes assises sur les salaires, les personnes assujetties à ces taxes qui n'ont pas déposé dans le délai légal les
+déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue l'article L. 68.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 150 S
+	  - CGI L67
+	  - CGI L68
+	  - CGIAN2 242 quater
+
+	**Modifié par**:
+
+	  - Loi n°88-1149 du 23 décembre 1988 - art. 78 () JORF 28 décembre 1988
+
+	**Cité par**:
+
+	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 (V)
+	  - Code de la sécurité sociale. - art. L136-6 (VT)
+	  - Code général des impôts, CGI. - art. 1600-0 H (V)
+	  - Livre des procédures fiscales - art. L270 (V)
+	  - Livre des procédures fiscales - art. L67 (V)
+	  - Livre des procédures fiscales - art. L68 (V)
+
 
 ###### Article L67
 
@@ -10300,57 +10373,6 @@ fortunes.
 
 
 #### PROCEDURES D'IMPOSITION D'OFFICE.
-
-###### Article L66
-
-Sont taxés d'office :
-
-1° A l'impôt sur le revenu, les contribuables qui n'ont pas déposé dans le délai légal la déclaration d'ensemble de leurs
-revenus ou qui n'ont pas déclaré, en application de l'article 150 S du code général des impôts, les plus-values imposables
-qu'ils ont réalisées, sous réserve de la procédure de régularisation prévue à l'article L. 67 ;
-
-2° A l'impôt sur les sociétés, les personnes morales passibles de cet impôt qui n'ont pas déposé dans le délai légal leur
-déclaration, sous réserve de la procédure de régularisation prévue à l'article L. 68 ;
-
-3° Aux taxes sur le chiffre d'affaires, les personnes qui n'ont pas déposé dans le délai légal les déclarations qu'elles sont
-tenues de souscrire en leur qualité de redevables des taxes ;
-
-4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont pas déposé une déclaration ou qui n'ont pas
-présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
-prévue à l'article L. 67 ;
-
-5° Aux taxes assises sur les salaires, les personnes assujetties à ces taxes qui n'ont pas déposé dans le délai légal les
-déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue l'article L. 68."
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 150 S
-	  - CGI Livre des procédures fiscales L67, L68
-
-	**Modifié par**:
-
-	  - Loi n°86-1317 1986-12-30 art. 81-II Finances pour 1987 JORF 31 décembre 1986
-
-	**Codifié par**:
-
-	  - Décret n°87-941 1987-11-23
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-
-	**Cité par**:
-
-	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 (V)
-	  - Code de la sécurité sociale. - art. L136-6 (VT)
-	  - Code général des impôts, CGI. - art. 1600-0 H (V)
-	  - Livre des procédures fiscales - art. L270 (V)
-	  - Livre des procédures fiscales - art. L67 (V)
-	  - Livre des procédures fiscales - art. L68 (V)
-
 
 ###### Article L72 A
 
