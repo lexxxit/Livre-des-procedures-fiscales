@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-07-01
 
 # Partie législative
 
@@ -632,10 +632,12 @@ ou en passant ou en faisant passer sciemment des écritures inexactes ou fictive
 est imposée par le code général des impôts, elle peut, dans les conditions prévues au II, autoriser les agents de
 l'administration des impôts, ayant au moins le grade d'inspecteur et habilités à cet effet par le directeur général des
 impôts, à rechercher la preuve de ces agissements, en effectuant des visites en tous lieux, même privés, où les pièces et
-documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie. 
+documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support.
 
-II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande
-instance dans le ressort duquel sont situés les lieux à visiter (1).
+II. Chaque visite doit être autorisée par une ordonnance du président du tribunal de grande instance dans le ressort duquel
+sont situés les lieux à visiter ou d'un juge délégué par lui.
+
+(Le président du tribunal de grande instance peut confier cette fonction au juge des libertés et de la détention).
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
@@ -712,15 +714,16 @@ VI. L'administration des impôts ne peut opposer au contribuable les information
 et documents saisis ou de leur reproduction et mise en oeuvre des procédures de contrôle visées aux premier et deuxième
 alinéas de l'article L. 47.
 
-(1) Ces dispositions entreront en vigueur le 16 juin 2002. Jusqu'à cette date, le président du tribunal peut confier cette
-autorisation au juge des libertés et de la détention.
+**Nota:**
+
+Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
-	  - Décret n°2000-159 du 23 février 2000 - art. 1 (V)
 	  - Loi n°89-936 du 29 décembre 1989 - art. 108 (P)
+	  - Décret n°2000-159 du 23 février 2000 - art. 1 (V)
 	  - Code général des impôts, CGI. - art. 1735 quater (V)
 	  - Livre des procédures fiscales - art. L10-0 AA (V)
 	  - Livre des procédures fiscales - art. L16-0 BA (V)
@@ -730,16 +733,13 @@ autorisation au juge des libertés et de la détention.
 	  - Livre des procédures fiscales - art. R*135 S-2 (V)
 	  - Livre des procédures fiscales - art. R16 B-1 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Jurisprudence 1998-07-17 13L-5-98
-	  - SPEC_APPLI: Loi n°2000-516 du 15 juin 2000 - art. 140 (M)
-	  - SPEC_APPLI: Loi n°2000-516 du 15 juin 2000 - art. 142 ()
-
 	**Modifié par**:
 
-	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000
+	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
 
 	**Cite**:
 
@@ -1611,7 +1611,7 @@ l'administration dans les conditions prévues à l'article L. 35.
 code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents
 habilités à cet effet par l'administration des douanes et droits indirects, peuvent effectuer des visites en tous lieux, même
 privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions sont susceptibles d'être détenus et
-procéder à leur saisie. Ils sont accompagnés d'un officier de police judiciaire.
+procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du président du tribunal de grande
 instance dans le ressort duquel sont situés les locaux à visiter ou d'un juge délégué par lui.
@@ -1694,6 +1694,10 @@ visées aux premier et deuxième alinéas de l'article L. 47.
 effet par le directeur général des impôts, pour la recherche et la constatation des infractions aux dispositions de l'article
 290 quater et du III de l'article 298 bis du code général des impôts.
 
+**Nota:**
+
+Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -1707,27 +1711,11 @@ effet par le directeur général des impôts, pour la recherche et la constatati
 
 	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
-	  - Loi n°92-677 du 17 juillet 1992 - art. 116 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 1
-
-	**Codifié par**:
-
-	  - Décret n°93-1127 1993-09-24
-
-	**Cite**:
-
-	  - CGI 298 bis
-	  - Livre des procédures fiscales - art. L212 A (V)
-	  - Livre des procédures fiscales - art. L47 (M)
-	  - Livre des procédures fiscales L212 A, L47, 290 quater
-	  - CODE DE PROCEDURE PENALE - art. 550 (M)
-	  - CODE DE PROCEDURE PENALE - art. 56 (M)
-	  - CODE DE PROCEDURE PENALE - art. 58 (M)
+	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 1er janvier 2003
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
@@ -3767,7 +3755,8 @@ A cette fin, ils peuvent avoir accès de 8 heures à 20 heures et durant les heu
 aux locaux à usage professionnel, à l'exclusion des parties de ces locaux affectées au domicile privé, ainsi qu'aux terrains
 et aux entrepôts. Ils ont également accès aux moyens de transport à usage professionnel et à leur chargement.
 
-Ils peuvent se faire délivrer copie des pièces se rapportant aux opérations ayant donné ou devant donner lieu à facturation.
+Ils peuvent obtenir ou prendre copie, par tous moyens et sur tous supports, des pièces se rapportant aux opérations ayant
+donné ou devant donner lieu à facturation.
 
 Ils peuvent recueillir sur place ou sur convocation des renseignements et justifications. Ces auditions donnent lieu à
 l'établissement de comptes rendus d'audition.
@@ -3777,23 +3766,26 @@ A.
 
 En outre, chaque intervention fait l'objet d'un procès-verbal relatant les opérations effectuées.
 
+**Nota:**
+
+Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Directive CEE 77-388 1977-05-17 art. 22-3 (6ème directive)
-	  - Loi n°87-502 du 8 juillet 1987 - art. 2, v. init.
 	  - Livre des procédures fiscales L10 à L47 A
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 1er janvier 2003
 	  - TXT_ASSOCIE: Instruction 1999-06-24 13K-8-99
 	  - TXT_ASSOCIE: Jurisprudence 2000-04-27 13K-5-00
 
 	**Modifié par**:
 
-	  - Loi - art. 85 (V) JORF 31 décembre 1997
+	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
 
 	**Cité par**:
 
@@ -4049,11 +4041,14 @@ Le droit de communication permet aux agents de l'administration, pour l'établis
 impôts, d'avoir connaissance des documents et des renseignements mentionnés aux articles du présent chapitre dans les
 conditions qui y sont précisées.
 
-Le droit prévu au premier alinéa s'exerce quel que soit le support utilisé pour la conservation des documents, y compris
-lorsqu'il est magnétique.
+Le droit prévu au premier alinéa s'exerce quel que soit le support utilisé pour la conservation des documents.
 
 Le droit de communication est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des
 agents des administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts.
+
+**Nota:**
+
+Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
 
 **Liens relatifs à cet article**
 
@@ -4079,17 +4074,13 @@ agents des administrations chargés du recouvrement des impôts, droits et taxes
 	  - Livre des procédures fiscales - art. R*81-4 (P)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2002-922 2002-06-06
-
 	**Modifié par**:
 
-	  - Décret n°2002-922 du 6 juin 2002 - art. 3 () JORF 8 juin 2002
+	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2002
+	  - HISTO: Edition du 1er janvier 2003
 
 	**Cite**:
 
@@ -5125,19 +5116,26 @@ III. Un décret fixe les conditions d'application du présent article (1).
 
 I. - Les livres, registres, documents ou pièces sur lesquels peuvent s'exercer les droits de communication, d'enquête et de
 contrôle de l'administration doivent être conservés pendant un délai de six ans à compter de la date de la dernière opération
-mentionnée sur les livres ou registres ou de la date à laquelle les documents ou pièces ont été établis.
+mentionnée sur les livres ou registres ou de la date à laquelle les documents ou pièces ont été établis. 
 
 Sans préjudice des dispositions du premier alinéa, lorsque les livres, registres, documents ou pièces mentionnés au premier
 alinéa sont établis ou reçus sur support informatique, ils doivent être conservés sous cette forme pendant une durée au moins
-égale au délai prévu au premier alinéa de l'article L. 169.
+égale au délai prévu au premier alinéa de l'article L. 169. 
 
 Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
-chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
+chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa. 
 
-II. - Lorsqu'ils ne sont pas déjà visés aux alinéas précédents, les informations, données ou traitements soumis au contrôle
-prévu au deuxième alinéa de l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai
-prévu au premier alinéa de l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des
-traitements doit être conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
+Le registre des opérations mentionné au 9 de l'article 298 sexdecies F est conservé pendant dix ans à compter du 31 décembre
+de l'année de l'opération. 
+
+II. - Lorsqu'ils ne sont pas déjà visés au I, les informations, données ou traitements soumis au contrôle prévu au deuxième
+alinéa de l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai prévu au premier
+alinéa de l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des traitements doit
+être conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
+
+**Nota:**
+
+Ces dispositions s'appliquent à compter du 1er juillet 2003.
 
 **Liens relatifs à cet article**
 
@@ -5208,16 +5206,63 @@ traitements doit être conservée jusqu'à l'expiration de la troisième année 
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - Loi - art. 15 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L13 (M)
-	  - Livre des procédures fiscales - art. L169 (M)
+	  - Code général des impôts, CGI. - art. 298 sexdecies F (VT)
+	  - Livre des procédures fiscales - art. L13 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+
+###### Article L102 C
+
+Pour l'application des dispositions de l'article L. 102 B, les factures émises par les assujettis ou, en leur nom et pour
+leur compte, par leur client ou par un tiers, ainsi que toutes les factures qu'ils ont reçues, doivent être stockées sur le
+territoire français, lorsque ce stockage n'est pas effectué par voie électronique garantissant un accès immédiat, complet et
+en ligne aux données concernées.
+
+Les assujettis ne peuvent stocker les factures transmises par voie électronique dans un pays non lié à la France par une
+convention prévoyant une assistance mutuelle ainsi qu'un droit d'accès en ligne immédiat, le téléchargement et l'utilisation
+de l'ensemble des données concernées.
+
+Les assujettis sont tenus de déclarer, en même temps que leur déclaration de résultats ou de bénéfices, le lieu de stockage
+de leurs factures ainsi que toute modification de ce lieu lorsque celui-ci est situé hors de France.
+
+Les autorités compétentes des Etats membres de la Communauté européenne ont un droit d'accès par voie électronique, de
+téléchargement et d'utilisation des factures stockées sur le territoire français par ou pour le compte d'un assujetti
+relevant de leur juridiction, dans les limites fixées par la réglementation de l'Etat d'établissement de l'assujetti et dans
+la mesure où cela est nécessaire aux fins de contrôle.
+
+Tout assujetti stockant ses factures par voie électronique sur le territoire français s'assure que l'administration a, à des
+fins de contrôle, un accès en ligne permettant le téléchargement et l'utilisation des données stockées.
+
+Un décret en Conseil d'Etat détermine et fixe les conditions et modalités d'application du présent article.
+
+**Nota:**
+
+Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2003
+
+	**Créé par**:
+
+	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*102 C-1 (V)
 
 
 #### Chapitre III : Le secret professionnel en matière fiscale
