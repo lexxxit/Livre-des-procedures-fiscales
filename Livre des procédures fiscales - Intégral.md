@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-07-12
+Version Consolidée au 1985-07-15
 
 # Partie législative
 
@@ -3651,6 +3651,30 @@ peut disposer et qui sont utiles à la mise en oeuvre de la procédure de recouv
 	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 99
 
 
+###### Article L132 A
+
+L'administration des impôts est tenue de communiquer à l'administration publique qui demande le paiement direct d'une pension
+alimentaire les renseignements mentionnés à l'article L. 151.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Créé par**:
+
+	  - Loi n°73-5 du 2 janvier 1973 - art. 6 (V) JORF 3 janvier 1973 en vigueur le 1er février 1974
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L151 (M)
+
+
 ###### Article L133
 
 Les maires ou les présidents des organes délibérants des établissements publics mentionnés à l'article 1635 bis B du code
@@ -4402,6 +4426,37 @@ l'administration concernant les ressources dont disposent les bénéficiaires de
 	  - Loi - art. 107 (V) JORF 31 décembre 1998
 
 
+###### Article L162 A
+
+Les organismes débiteurs de prestations familiales peuvent obtenir de l'administration des impôts les renseignements prévus à
+l'article L. 151 pour l'exercice de la mission qui leur est confiée par la loi n° 84-1171 du 22 décembre 1984 relative à
+l'intervention de ces organismes pour le recouvrement des créances alimentaires impayées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+	**Cite**:
+
+	  - CGI L151
+	  - Loi n°84-1171 1984-12-22
+
+	**Créé par**:
+
+	  - Loi n°84-1171 du 22 décembre 1984 - art. 6 (V) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+	  - Loi n°84-1171 du 22 décembre 1984 - art. 7 (V) JORF 30 décembre 1984, en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+
 ##### VII : Dérogations au profit d'organismes divers
 
 ##### 1° : Activités littéraires ou artistiques
@@ -4694,6 +4749,27 @@ initiale.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L169 (V)
+
+
+###### Article L171 A
+
+Pour l'application de l'article 220 quinquies du code général des impôts, l'administration est fondée à vérifier l'existence
+et la quotité de la créance et à en rectifier le montant, même si l'option pour le report en arrière du déficit correspondant
+a été exercé au titre d'un exercice prescrit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°84-1208 du 29 décembre 1984 - art. 19 (P) JORF 30 décembre 1984 en vigueur le 1er janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 220 quinquies (M)
 
 
 ###### Article L172
@@ -11158,6 +11234,30 @@ organismes.
 	**Liens**:
 
 	  - HISTO: Edition du 10 juillet 1983
+
+
+###### Article R87-2
+
+Le gérant d'un fonds commun de placement à risques ou le dépositaire des actifs de ce fonds agissant pour le compte du gérant
+est soumis aux obligations définies à l'article R. 87-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-41 du 8 janvier 1985 - art. 1 (V) JORF 12 janvier 1985
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R87-1 (M)
 
 
 ##### Section II : Renseignements communiqués à l'administration des impôts sans demande préalable de sa part.
