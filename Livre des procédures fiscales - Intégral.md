@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-01
 
 # Partie législative
 
@@ -4134,6 +4134,51 @@ l'administration des impôts communication des renseignements de nature à lui d
 	  - Livre des procédures fiscales - art. R145 A-1 (V)
 
 
+###### Article L145 B
+
+Le juge-commissaire désigné par le tribunal, en application de l'article 10 de la loi n° 85-98 du 25 janvier 1985 relative au
+redressement et à la liquidation judiciaire des entreprises, peut obtenir de l'administration des impôts communication des
+renseignements de nature à lui donner une exacte information sur la situation économique et financière de l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25 art. 10
+
+	**Créé par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 19 (Ab) JORF 26 janvier 1985, en vigueur le 1er janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+
+###### Article L145 C
+
+Pour l'application des dispositions des articles 180 à 182 de la loi n° 85-98 du 25 janvier 1985, relative au redressement et
+à la liquidation judiciaire des entreprises, le tribunal peut charger le juge-commissaire ou, à défaut, un membre de la
+juridiction qu'il désigne, d'obtenir de l'administration des impôts communication de tout document ou information sur la
+situation patrimoniale des dirigeants personnes physiques ou morales ainsi que des personnes physiques représentants
+permanents de ces dirigeants personnes morales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°85-98 1985-01-25 art. 180 à art. 182
+
+	**Créé par**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 184 (Ab) JORF 26 janvier 1985, en vigueur le 1er janvier 1986
+	  - loi 85-98 1985-01-25 art. 179, art. 184 JORF 26 janvier 1985, en vigueur le 1er janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+
 ###### Article L146
 
 La commission, instituée par l'article 706-4 du code de procédure pénale, chargée de l'indemnisation de certaines victimes de
@@ -7806,6 +7851,26 @@ disponibles, de procéder aux mesures d'exécution nécessaires.
 	  - Loi n°67-563 1967-07-13 ART. 35, ART. 80
 
 
+##### Liquidation judiciaire.
+
+###### Article L269 A
+
+Le comptable du Trésor ou le comptable de la direction générale des impôts peut, pour ses créances privilégiées, dès lors
+qu'il les a déclarées même s'il n'est pas encore admis, exercer son droit de poursuite individuelle si le liquidateur n'a pas
+entrepris la liquidation des biens grevés dans le délai de trois mois à compter du jugement qui prononce la liquidation
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°85-98 1985-01-25 art. 161 JORF 26 janvier 1985 en vigueur le 1er janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
+
+
 ##### Contrainte par corps.
 
 ###### Article L272
@@ -8725,6 +8790,10 @@ déclaration de résultats ;
 3° Aux taxes sur le chiffre d'affaires, les personnes qui n'ont pas déposé dans le délai légal les déclarations qu'elles sont
 tenues de souscrire en leur qualité de redevables des taxes.
 
+4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont pas déposé une déclaration ou qui n'ont pas
+présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
+prévue à l'article L. 67.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -8732,30 +8801,19 @@ tenues de souscrire en leur qualité de redevables des taxes.
 	  - CGI 150 S
 	  - CGI L67
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 150 S (al. 1)
-	  - CGI 179 (al. 1)
-	  - CGI 223 1 (al. 4)
-	  - CGI 288 (P.)
-	  - Décret n°1934-07-20 annexe art. 128 (1° du L66)
-	  - Décret n°48-1986 1948-12-09 art. 107 (2° du L66)
-	  - Loi n°1934-07-06 art. 13
-	  - Loi n°1941-01-13 annexe I art. 128 1°
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°63-1316 1963-12-27 art. 42 3 (3° du L66)
-	  - Loi n°76-660 1976-07-19 art. 8 I
-	  - Loi n°78-1240 du 29 décembre 1978 - art. 41 ()
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 67 () JORF 31 décembre 1985, en vigueur le 1er janvier 1986
 
 	**Cité par**:
 
-	  - Code de la sécurité sociale. - art. L136-6 (VT)
-	  - Code général des impôts, CGI. - art. 1600-0 H (V)
-	  - Livre des procédures fiscales - art. L67 (V)
-	  - Livre des procédures fiscales - art. L68 (V)
 	  - Ordonnance n°96-50 du 24 janvier 1996 - art. 15 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 (V)
+	  - Code de la sécurité sociale. - art. L136-6 (VT)
+	  - Code général des impôts, CGI. - art. 1600-0 H (V)
 	  - Livre des procédures fiscales - art. L270 (V)
+	  - Livre des procédures fiscales - art. L67 (V)
+	  - Livre des procédures fiscales - art. L68 (V)
 
 
 ###### Article L67
@@ -9302,38 +9360,6 @@ retenues à l'occasion des mutations intervenues dans les cinq dernières année
 	**Anciens textes**:
 
 	  - Loi n°80-502 1980-07-04 ART. 25 (AL. 6)
-
-
-###### Article L145
-
-Les tribunaux appelés à connaître de la procédure de suspension provisoire des poursuites instituée par l'article 1er de
-l'ordonnance n° 67-280 du 23 septembre 1967, peuvent recevoir de l'administration des impôts communication des renseignements
-détenus par cette administration et qui leur sont nécessaires pour avoir une exacte information sur la situation économique
-et financière du débiteur.
-
-Le juge éventuellement désigné pour remplir la fonction de juge commissaire dans le cadre de cette procédure peut, dans les
-mêmes conditions, recevoir communication des renseignements nécessaires à l'établissement du plan de redressement économique
-et financier de l'entreprise et du plan d'apurement collectif du passif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2020 1 7°
-	  - Ordonnance n°67-820 du 23 septembre 1967 - art. 14 (Ab)
-	  - Ordonnance n°67-820 du 23 septembre 1967 - art. 9 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°85-98 1985-01-25 art. 238-3 JORF 26 janvier 1985 en vigueur le 1er janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°86-1087 1986-10-07
-
-	**Cite**:
-
-	  - Ordonnance 67-280 1967-09-23 ART. 1
 
 
 ###### Article L167
@@ -11689,6 +11715,44 @@ renseignements à l'administration d'un autre Etat membre de la communauté éco
 	**Créé par**:
 
 	  - Décret n°82-661 du 28 juillet 1982 - art. 4 (V) JORF 31 JUILLET 1982
+
+
+###### Article R*114 A-5
+
+Les dispositions du décret n° 79-1025 du 28 novembre 1979, autres que celles du paragraphe 3 de l'article 4 et de l'article
+22 concernant les limites de l'échange de renseignements, sont étendues à l'assistance mutuelle en matière de recouvrement de
+la taxe sur la valeur ajoutée et de toutes sommes accessoires instituée par l'article 11-II de la loi n° 81-1179 du 31
+décembre 1981.
+
+Toutefois les attributions dévolues à la commission interministérielle instituée par l'article 3 du décret susvisé sont
+exercées :
+
+1° Par la direction générale des impôts, en ce qui concerne la taxe sur la valeur ajoutée et les sommes accessoires dont le
+recouvrement incombe à ses comptables.
+
+2° Par la direction générale des douanes et droits indirects en ce qui concerne les taxes sur le chiffre d'affaires, accises
+et autres taxes à la consommation relatives aux opérations de circulation intracommunautaire définies par l'article 1er du
+règlement n° 3-84 C.E.E. du 19 décembre 1983.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°79-1025 1979-11-28 art. 3, art. 4, art. 22
+	  - Loi n°81-1179 1981-12-31 art. 11 II FINANCES RECTIFICATIVE POUR 1981
+	  - Règlement CEE n°3-84 1983-12-19
+
+	**Liens**:
+
+	  - HISTO: Edition 31 juillet 1986
+
+	**Modifié par**:
+
+	  - Décret n°85-1486 du 31 décembre 1985 - art. 1 (V) JORF 1er janvier 1986
+
+	**Codifié par**:
+
+	  - Décret n°86-1087 1986-10-07
 
 
 #### Chapitre IV : Les délais de prescription
@@ -15101,35 +15165,6 @@ rôle commencé étant dû en entier.
 	  - Livre des procédures fiscales - art. L106 (M)
 
 
-#### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
-
-###### Article R*114 A-5
-
-Les dispositions du décret n° 79-1025 du 28 novembre 1979, autres que celles du paragraphe 3 de l'article 4 et de l'article
-22 concernant les limites de l'échange de renseignements, sont étendues à l'assistance mutuelle en matière de recouvrement de
-la taxe sur la valeur ajoutée et de toutes sommes accessoires instituée par l'article 11-II de la loi n° 81-1179 du 31
-décembre 1981.
-
-Toutefois les attributions dévolues à la commission interministérielle instituée par l'article 3 du décret susvisé sont
-exercées par la direction générale des impôts, en ce qui concerne la taxe sur la valeur ajoutée et les sommes accessoires
-dont le recouvrement incombe aux comptables de la direction générale des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°79-1025 1979-11-28 ART. 2, ART. 4 PAR. 3, ART. 22
-	  - Loi n°81-1179 1981-12-31 ART. 11 II FINANCES RECTIFICATIVE POUR 1981
-
-	**Modifié par**:
-
-	  - Décret n°85-481 1985-05-03 art. 1 JORF 7 mai 1985
-
-	**Codifié par**:
-
-	  - Décret n°85-1008 1985-09-24
-
-
 ## LE CONTENTIEUX DE L'IMPOT
 
 ### LE CONTENTIEUX DE L'ETABLISSEMENT DE L'IMPOT ET LES DEGREVEMENTS D'OFFICE.
@@ -15349,6 +15384,35 @@ d) Au ministre, après avis du comité précité, dans les autres cas.
 	  - Décret n°97-1195 du 24 décembre 1997 - art. 2 (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 	  - Livre des procédures fiscales - art. R*247-12 (V)
+
+
+###### Article R*247-17
+
+Des remises, modérations ou transactions portant sur les créances fiscales peuvent être accordées aux entreprises soumises à
+la procédure de redressement ou de liquidation judiciaires instituée la loi n° 85-98 du 25 janvier 1985 dans les limites et
+conditions fixées par l'article L. 247.    Dans le régime général du redressement judiciaire, l'administration statue sur les
+demandes écrites des représentants des créanciers dans le délai de six semaines suivant la date de leur présentation. Ce
+délai est porté à huit semaines lorsque l'administration doit consulter le comité du contentieux fiscal, douanier ou des
+changes. Dans la procédure simplifiée, elle statue dans un délai de quatre semaines qui est porté à six semaines en cas de
+consultation du comité.
+
+Les délais de trente jours et de quinze jours prévus aux articles R* 247-12 et R* 247-13 du livre des procédures fiscales ne
+sont pas applicables.
+
+Le défaut de réponse de l'administration dans les délais impartis vaut rejet des demandes *refus implicite*.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L247
+	  - CGI R247-12
+	  - CGI R247-13
+	  - Loi n°85-98 1985-01-25
+
+	**Créé par**:
+
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 179 (Ab) JORF 29 décembre 1985 en vigueur le 1er janvier 1986
 
 
 ###### Article R247-5 A
