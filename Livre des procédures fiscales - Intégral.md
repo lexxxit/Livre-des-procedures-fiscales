@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2000-08-31
+Version Consolidée au 2000-12-31
 
 # Partie législative
 
@@ -6737,6 +6737,33 @@ Les dispositions du cinquième alinéa de l'article L. 135 B sont applicables au
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L135 B (M)
+
+
+###### Article L135 K
+
+Les agents des services financiers, les commissaires aux comptes ainsi que les représentants des autorités publiques de
+contrôle et de régulation sont déliés du secret professionnel à l'égard des membres du Parlement chargés de suivre et de
+contrôler, au nom de la commission compétente, les entreprises et organismes visés aux articles L. 133-1 à L. 133-5 du code
+des juridictions financières, un organisme gérant un système légalement obligatoire de sécurité sociale, les recettes de
+l'Etat ou le budget d'un département ministériel. Lorsque ces compétences de suivi et de contrôle sont exercées par les
+membres du Parlement chargés de présenter, au nom de la commission compétente, le rapport sur le budget d'un département
+ministériel, la levée du secret professionnel qui leur serait éventuellement opposé est subordonnée à l'accord du président
+et du rapporteur général de la commission en charge des affaires budgétaires.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 30 () JORF 14 juillet 2000
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 31 () JORF 14 juillet 2000
+
+	**Codifié par**:
+
+	  - Décret n°2001-436 2001-05-21
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L133-1 (V)
 
 
 ###### Article L135 L
