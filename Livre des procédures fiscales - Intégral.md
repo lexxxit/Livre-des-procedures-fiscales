@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1993-08-18
+Version Consolidée au 1994-08-18
 
 # Partie législative
 
@@ -6725,7 +6725,7 @@ et financière du débiteur.
 ###### Article L145 B
 
 Le juge-commissaire désigné par le tribunal, en application de l'article 10 de la loi n° 85-98 du 25 janvier 1985 relative au
-redressement et à la liquidation judiciaire des entreprises, peut obtenir de l'administration des impôts communication des
+redressement et à la liquidation judiciaire des entreprises, peut obtenir de l'administration communication des
 renseignements de nature à lui donner une exacte information sur la situation économique et financière de l'entreprise.
 
 **Liens relatifs à cet article**
@@ -6734,13 +6734,16 @@ renseignements de nature à lui donner une exacte information sur la situation �
 
 	  - Loi n°85-98 1985-01-25 art. 10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 19 (Ab) JORF 26 janvier 1985, en vigueur le 1er janvier 1986
+	  - Loi n°85-98 du 25 janvier 1985 - art. 19 (Ab) JORF 26 janvier 1985
+	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
+	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
+	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
 
 	**Codifié par**:
 
-	  - Décret n°86-1087 1986-10-07
+	  - Décret n°93-1095 1993-09-16
 
 
 ###### Article L145 C
