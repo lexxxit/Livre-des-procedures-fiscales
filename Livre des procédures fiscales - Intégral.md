@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2002-08-31
+Version Consolidée au 2002-09-01
 
 # Partie législative
 
@@ -18099,37 +18099,6 @@ En matière d'impôts locaux, les demandes gracieuses sont soumises à l'avis du
 	**Cité par**:
 
 	  - Décret n°2013-443 du 30 mai 2013 - art. 11 (VD)
-
-
-###### Article R247-5 A
-
-En matière de taxe professionnelle et de taxes additionnelles à cet impôt, la décision sur les demandes des contribuables
-tendant à obtenir une remise ou une modération appartient :
-
-a) au directeur des services fiscaux chargé d'une direction départementale lorsque les sommes faisant l'objet de la demande
-n'excèdent pas 228 673,53 euros par cote ;
-
-b) abrogé (à compter du 01/01/1998).
-
-c) au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
-changes dans les autres cas.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2002-1108 du 30 août 2002 - art. 3 (V) JORF 1er septembre 2002
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
 
 
 ###### Article R247-7
