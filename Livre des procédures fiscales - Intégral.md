@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-05
 
 # Partie législative
 
@@ -2221,14 +2221,28 @@ F ;
 Toutefois, l'expiration du délai de trois mois n'est pas opposable à l'administration pour l'instruction des observations ou
 des requêtes présentées par le contribuable, après l'achèvement des opérations de vérification.
 
+Elle ne l'est pas non plus pour l'examen, en vertu de l'article L. 12, des comptes financiers utilisés à titre privé et
+professionnel, ni pour la vérification, en vertu de l'article L. 13, des comptes utilisés pour l'exercice d'activités
+distinctes.
+
 Les dispositions du premier alinéa sont valables dans les cas où un même vérificateur contrôle à la fois l'assiette de
 plusieurs catégories différentes d'impôts ou de taxes.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L12, L13
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Instruction 1993-02-22 13L-2-93
+	  - SPEC_APPLI: Loi n°92-1476 1992-12-31 art. 86 III Finances rectificative pour 1992
+
 	**Modifié par**:
 
-	  - Loi n°87-502 1987-07-08 art. 12 JORF 9 juillet 1987
+	  - Loi - art. 86 (V) JORF 5 janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -3884,38 +3898,29 @@ pouvoir opposer le secret professionnel.
 	  - HISTO: Edition du 15 juin 1990
 
 
-##### Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative.
-
 ###### Article L84
 
-Les renseignements individuels d'ordre économique ou financier recueillis au cours d'enquêtes statistiques faites dans le
-cadre de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le secret en matière de statistiques ne peuvent
-en aucun cas être utilisés à des fins de contrôle fiscal. Les administrations dépositaires de renseignements de cette nature
-ne sont pas tenues par l'obligation découlant de l'article L. 83.
+Les renseignements individuels portant sur l'identité ou l'adresse des personnes ou d'ordre économique ou financier,
+recueillis au cours des enquêtes statistiques visées à l'article 2 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la
+coordination et le secret en matière de statistiques ne peuvent en aucun cas être utilisés à des fins de contrôle fiscal. Les
+administrations dépositaires de renseignements de cette nature ne sont pas tenues par l'obligation découlant de l'article L.
+83.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L83
-	  - Loi n°51-711 1951-06-07
-
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
+	  - Loi n°51-711 du 7 juin 1951 - art. 2 (V)
+	  - Livre des procédures fiscales - art. L83 (V)
 
 	**Modifié par**:
 
-	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990 :
+	  - Loi - art. 84 () JORF 5 janvier 1993
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L114-20 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
-
-	**Liens**:
-
-	  - HISTO: modification de la table des matières à la date du 15 juin 1990)
 
 
 ##### 6° : Personnes ayant la qualité de commerçant
@@ -5913,10 +5918,29 @@ règle du secret.
 
 Ces dispositions ne font pas échec au secret de la défense nationale.
 
-Les personnes qui, en application du présent article, sont appelées à connaître de ces informations, sont elles-mêmes
-soumises au secret professionnel, dans les termes de l'article 378 du code pénal.
+L'administration fiscale est tenue de transmettre, chaque année, aux collectivités locales et à leurs groupements dotés d'une
+fiscalité propre les rôles généraux des impôts directs locaux comportant les impositions émises à leur profit.
+
+Les communes et l'administration peuvent se communiquer mutuellement les informations nécessaires au recensement des bases
+des impositions directes locales.
+
+Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par
+le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés. Leur utilisation respecte les obligations de discrétion et de sécurité selon des modalités définies
+par un décret en Conseil d'Etat.
+
+**Nota:**
+
+NOTA : Loi 92-1336 1992-12-16 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est remplacée par la
+référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par l'article 378 du
+code pénal, cette mention vise les peines fixées par l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+	  - Code pénal 378
 
 	**Cité par**:
 
@@ -5933,13 +5957,14 @@ soumises au secret professionnel, dans les termes de l'article 378 du code péna
 	  - Livre des procédures fiscales - art. L135 J (V)
 	  - Livre des procédures fiscales - art. R*135 B-1 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°85-729 du 18 juillet 1985 - art. 14 () JORF 19 juillet 1985
+	  - TXT_ASSOCIE: Loi n°92-1336 1992-12-16 art. 333
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal 378
+	  - Loi - art. 85 () JORF 5 janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 
 ###### Article L135 D
@@ -11810,6 +11835,55 @@ en gros par l'article L34.
 	  - Code général des impôts annexe 1, CGIAN1. - art. 79 (V)
 
 
+###### Article R33-1
+
+En application de l'article 355 du code général des impôts, les agents du service des douanes et droits indirects sont
+autorisés à faire toutes les vérifications nécessaires, au moyen du densimètre, du thermomètre et de l'alambic d'essai, pour
+suivre la fermentation dans les cuves et foudres, reconnaître la densité et le titre alcoométrique volumique des moûts
+pendant toute la durée de la fabrication et constater les différences anormales, telles que :
+
+affaiblissement simultané de la richesse alcoolique et de la densité originelle du moût, élévation de la densité originelle
+et diminution de la richesse alcoolique, abaissement de la richesse alcoolique et élévation de la densité du moût privé
+d'alcool, ces différences étant de nature à dénoter des manoeuvres frauduleuses, telles que, notamment, substitution,
+décharges partielles, allongement.
+
+Ces différences sont constatées par procès-verbal.
+
+Les agents sont également autorisés à opérer, sur les matières premières, les produits en cours de fabrication et les
+boissons, les prélèvements d'échantillons qu'ils jugent nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 355
+
+	**Anciens textes**:
+
+	  - CGIAN3 130
+
+	**Modifié par**:
+
+	  - Décret n°93-10 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Codifié par**:
+
+	  - Décret n°2004-1070 2004-10-08
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 355 (Ab)
+
+	**Liens**:
+
+	  - HISTO: Edition du 18 août 1993
+	  - HISTO: Edition du 31 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
+
+
 ##### Contributions indirectes.
 
 ###### Article R*26-2
@@ -11955,9 +12029,10 @@ préciser dans sa demande en s'engageant à payer les frais qui résulteront de 
 
 ###### Article R27-1
 
-Lors des visites et vérifications effectuées par les agents des impôts dans les conditions fixées à l'article L. 27, les
-fabricants d'isoglucose sont tenus d'ouvrir, à toute demande, leurs fabriques, ateliers, magasins et tous autres bâtiments,
-entrepôts et locaux professionnels enclavés dans la même enceinte que la fabrique ou dépendant de cette dernière.
+Lors des visites et vérifications effectuées par les agents du service des douanes et droits indirects dans les conditions
+fixées à l'article L. 27, les fabricants d'isoglucose sont tenus d'ouvrir, à toute demande, leurs fabriques, ateliers,
+magasins et tous autres bâtiments, entrepôts et locaux professionnels enclavés dans la même enceinte que la fabrique ou
+dépendant de cette dernière.
 
 Ils sont également tenus de fournir la main-d'oeuvre et les matériels nécessaires pour le pesage et le mesurage de
 l'isoglucose lors des exercices, des recensements, des inventaires, des prélèvements d'échantillons et autres contrôles de la
@@ -11969,14 +12044,9 @@ production.
 
 	  - CGI L27
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°82-882 1982-10-15
-
-	**Créé par**:
-
-	  - Décret n°82-323 du 5 avril 1982 - art. 2 (V) JORF 10 AVRIL 1982
-	  - Décret n°82-323 du 5 avril 1982 - art. 4 (V) JORF 10 AVRIL 1982
+	  - Décret n°93-10 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
 
 	**Cité par**:
 
@@ -11986,57 +12056,19 @@ production.
 
 ###### Article R27-2
 
-Chez les fabricants d'isoglucose, les agents des impôts peuvent effectuer tous inventaires ou prélèvements d'échantillons qui
-leur paraissent nécessaires.
+Chez les fabricants d'isoglucose, les agents du service des douanes et droits indirects peuvent effectuer tous inventaires ou
+prélèvements d'échantillons qui leur paraissent nécessaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°82-323 du 5 avril 1982 - art. 6 (V) JORF 10 AVRIL 1982
+	  - Décret n°93-10 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 219 U (P)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 564 quater (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
-
-
-###### Article R33-1
-
-En application de l'article 355 du code général des impôts, les agents de l'administration des impôts sont autorisés à faire
-toutes les vérifications nécessaires, au moyen du densimètre, du thermomètre et de l'alambic d'essai, pour suivre la
-fermentation dans les cuves et foudres, reconnaître la densité et le titre alcoométrique volumique des moûts pendant toute la
-durée de la fabrication et constater les différences anormales, telles que : affaiblissement simultané de la richesse
-alcoolique et de la densité originelle du moût, élévation de la densité originelle et diminution de la richesse alcoolique,
-abaissement de la richesse alcoolique et élévation de la densité du moût privé d'alcool, ces différences étant de nature à
-dénoter des manoeuvres frauduleuses, telles que, notamment, substitution, décharges partielles, allongement.
-
-Ces différences sont constatées par procès-verbal.
-
-Les agents sont également autorisés à opérer, sur les matières premières, les produits en cours de fabrication et les
-boissons, les prélèvements d'échantillons qu'ils jugent nécessaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 355
-
-	**Anciens textes**:
-
-	  - CGIAN3 130
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 355 (Ab)
 
 
 ##### 2 : Droits de timbre
@@ -15186,12 +15218,12 @@ d) Au ministre, après avis du comité précité, dans les autres cas.
 En matière de contributions indirectes la décision sur les demandes tendant à obtenir une transaction, remise ou modération
 appartient :
 
-a) Au directeur des services fiscaux [*autorité compétente*] lorsque les droits ou la valeur qui servent de base au calcul
-des pénalités ou, en l'absence d'une telle base, le montant des amendes n'excède pas 750.000 F [*limite*] et qu'en outre le
-montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ;
+a) Au directeur régional des douanes et droits indirects lorsque les droits ou la valeur qui servent de base au calcul des
+pénalités ou, en l'absence d'une telle base, le montant des amendes n'excède pas 750.000 F et qu'en outre le montant des
+droits effectivement fraudés ne dépasse pas le quart de ce chiffre ;
 
-b) Au directeur général des impôts, après avis du comité du contentieux fiscal, douanier et des changes, quel que soit le
-montant des amendes, lorsque le montant des droits effectivement fraudés ne dépasse pas 350.000 F ;
+b) Au directeur général des douanes  et droits indirects, après avis du comité du contentieux fiscal, douanier et des
+changes, quel que soit le montant des amendes, lorsque le montant des droits effectivement fraudés ne dépasse pas 350.000 F ;
 
 c) Au ministre, après avis du comité précité, dans les autres cas.
 
@@ -15202,20 +15234,17 @@ douanier et des changes n'est pas saisi.
 
 	**Cite**:
 
-	  - CGI L249
+	  - CGI Livre des procédures fiscales L249
 
 	**Anciens textes**:
 
 	  - CGIAN3 419 A
 	  - Décret n°80-591 du 24 juillet 1980 - art. 2 (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°82-913 du 22 octobre 1982 - art. 2 (V)
-
 	**Modifié par**:
 
-	  - Décret n°82-913 du 22 octobre 1982 - art. 2 (V) JORF 27 OCTOBRE 1983
+	  - Décret n°93-10 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cité par**:
 
@@ -16342,13 +16371,16 @@ propriété est discutée.
 
 ##### B : Contrôle sur les lieux d'exercice de l'activité
 
-##### Contributions indirectes.
+##### 1 : Contributions indirectes
 
 ###### Article A26-1
 
-Chez les organisateurs et entrepreneurs de spectacles, l'intervention des agents de l'administration des impôts peut avoir
-lieu, même de nuit, aux heures d'ouverture au public, les agents ayant spécialement libre accès dans la salle ou l'enceinte
-pour toutes les vérifications utiles.
+Chez les organisateurs et entrepreneurs de spectacles, l'intervention des agents du service des douanes et droits indirects
+peut avoir lieu, même de nuit, aux heures d'ouverture au public, les agents ayant spécialement libre accès dans la salle ou
+l'enceinte pour toutes les vérifications utiles. 
+
+Les agents des impôts peuvent également intervenir, dans les conditions fixées au premier alinéa, pour la mise en oeuvre des
+dispositions de l'article 290 quater du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -16356,11 +16388,19 @@ pour toutes les vérifications utiles.
 
 	  - CGIAN4 137 (AL. 1, AL. 2 P.)
 
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 290 quater (V)
+
 
 ###### Article A26-2
 
-Lors des opérations de surveillance, les organisateurs et entrepreneurs de spectacles doivent réserver aux agents de
-l'administration des impôts une place au contrôle et un bureau doit être mis à leur disposition pour l'arrêté des comptes.
+Lors des opérations de surveillance, les organisateurs et entrepreneurs de spectacles doivent réserver aux agents du service
+des douanes et droits indirects une place au contrôle et un bureau doit être mis à leur disposition pour l'arrêté des
+comptes. 
+
+Les organisateurs et entrepreneurs de spectacles doivent également réserver aux agents de l'administration des impôts une
+place au contrôle et un bureau pour la mise en oeuvre des dispositions de l'article 290 quater du code général des impôts ; 
 
 Les agents établissent, d'après les coupons de contrôle, et d'après les souches de carnets, un relevé récapitulatif des
 entrées. Ils procèdent à tous rapprochements utiles avec les billets, invitations, au vu desquels les places gratuites ou à
@@ -16369,16 +16409,24 @@ lequel sont marquées les places occupées.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté 1993-01-04 art. 2 JORF 5 janvier 1993
+
 	**Anciens textes**:
 
 	  - CGIAN4 137 (AL. 2 P., AL. 3)
 
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 290 quater (V)
+
 
 ###### Article A26-3
 
-Dans les cercles où sont pratiqués les jeux de hasard, l'intervention des agents des impôts spécialement désignés à cet effet
-par l'administration peut avoir lieu à toute heure du jour et de la nuit, et dans les autres cercles ou maisons de jeux
-pendant tout le temps où ils sont ouverts à leurs membres ou à leur clientèle [*horaires de contrôle*].
+Dans les cercles où sont pratiqués les jeux de hasard, l'intervention des agents du service des douanes et des droits
+indirects spécialement désignés à cet effet par l'administration peut avoir lieu à toute heure du jour et de la nuit, et dans
+les autres cercles ou maisons de jeux pendant tout le temps où ils sont ouverts à leurs membres ou à leur clientèle.
 
 Les agents qualifiés du ministère de l'intérieur jouissent des mêmes droits.
 
@@ -16386,11 +16434,7 @@ Les agents qualifiés du ministère de l'intérieur jouissent des mêmes droits.
 
 	**Modifié par**:
 
-	  - Arrêté 1981-09-15 art. 1, art. 2 JORF 20 septembre 1981
-
-	**Codifié par**:
-
-	  - Arrêté 1984-10-01
+	  - Arrêté 1993-01-04 art. 4 JORF 5 janvier 1993
 
 	**Anciens textes**:
 
@@ -16403,25 +16447,25 @@ Les agents qualifiés du ministère de l'intérieur jouissent des mêmes droits.
 
 ###### Article A26-4
 
-Les agents de l'administration des impôts peuvent pendant leur intervention dans les cercles assister aux jeux, au comptage
-des cagnottes, prendre connaissance sur place de toutes pièces et de tous documents relatifs au fonctionnement du cercle ou
-de la maison de jeux et procéder au contrôle des pourboires encaissés dans l'établissement. Les cercles et maisons de jeux
-sont tenus de présenter à toute demande les carnets d'enregistrement des cagnottes dont ils sont détenteurs.
+Les agents du service des douanes et droits indirects peuvent pendant leur intervention dans les cercles assister aux jeux,
+au comptage des cagnottes, prendre connaissance sur place de toutes pièces et de tous documents relatifs au fonctionnement du
+cercle ou de la maison de jeux et procéder au contrôle des pourboires encaissés dans l'établissement. Les cercles et maisons
+de jeux sont tenus de présenter à toute demande les carnets d'enregistrement des cagnottes dont ils sont détenteurs.
 
-Les agents de l'administration des impôts peuvent également, pour une ou plusieurs tables de jeux, demander le remplacement
-du croupier et faire procéder simultanément à un relevé intermédiaire du montant de la cagnotte et à un contrôle du produit
-de la caisse des pourboires.
+Les agents de service des douanes et droits indirects peuvent également, pour une ou plusieurs tables de jeux, demander le
+remplacement du croupier et faire procéder simultanément à un relevé intermédiaire du montant de la cagnotte et à un contrôle
+du produit de la caisse des pourboires.
 
 Les agents qualifiés du ministre de l'intérieur jouissent des mêmes droits.
 
-Les contrôles doivent être effectués de façon à n'occasionner qu'un minimun de gêne pour les joueurs [*condition d'exercice
-du contrôle*].
+Les contrôles doivent être effectués de façon à n'occasionner qu'un minimum de gêne pour les joueurs.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1993-01-04 art. 3 JORF 5 janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Anciens textes**:
 
@@ -16436,17 +16480,20 @@ du contrôle*].
 
 ###### Article A27-1
 
-Dans le département de la Réunion, l'intervention des agents de l'administration des impôts dans les fabriques de sucre ne
-peut avoir lieu que dans les intervalles de temps ci-après [*périodes*] :
+Dans le département de la Réunion, l'intervention des agents du service des douanes et droits indirects dans les fabriques de
+sucre ne peut avoir lieu que dans les intervalles de temps ci-après :
 
-- pendant les mois de janvier, février, novembre et décembre, depuis 5 heures du matin jusqu'à 8 heures du soir
-[*horaires*] ;
+- pendant les mois de janvier, février, novembre et décembre, depuis 5 heures du matin jusqu'à 8 heures du soir ;
 
 - pendant les mois de mars, avril, septembre et octobre depuis 6 heures du matin jusqu'à 7 heures du soir ;
 
 - pendant les mois de mai, juin, juillet et août, depuis 7 heures du matin jusqu'à 6 heures du soir.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté 1993-01-04 art. 3 JORF 5 janvier 1993
 
 	**Anciens textes**:
 
@@ -16553,22 +16600,23 @@ Les dates sont exprimées au format AAMMJJ sans séparateur.
 
 #### Chapitre II : Le droit de communication
 
-##### Section I : Définition et étendue du droit de communication.
+##### Section I : Conditions d'exercice du droit de communication
 
 ###### Article A85-1
 
 Les directeurs, entrepreneurs, propriétaires d'établissements mentionnés à l'article 1563, deuxième alinéa, du code général
 des impôts, dans lesquels il est d'usage de consommer mais pour lesquels soit il n'est pas exigé de prix d'entrée, soit le
 prix d'entrée est inférieur au montant de la première consommation, sont tenus de présenter leurs registres de comptabilité
-ou leurs livres à la première demande des agents des impôts chargés de percevoir l'impôt sur les spectacles. Ils doivent
-justifier toutes les inscriptions portées sur ces documents ainsi que, d'une manière générale, toutes les opérations
-effectuées.
+ou leurs livres à la première demande des agents du service des douanes et droits indirects chargés de percevoir l'impôt sur
+les spectacles. Ils doivent justifier toutes les inscriptions portées sur ces documents ainsi que, d'une manière générale,
+toutes les opérations effectuées.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Arrêté 1984-10-01
+	  - Arrêté 1993-01-04 art. 4 JORF 5 janvier 1993
+	  - Modifications directes incorporées dans l'édition du 18 août 1993
 
 	**Cite**:
 
