@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1986-12-09
+Version Consolidée au 1986-12-26
 
 # Partie législative
 
@@ -3275,6 +3275,50 @@ au I détenue par la direction des services fiscaux dans le ressort de laquelle 
 
 ##### Section II : Dérogations à la règle du secret professionnel
 
+###### Article L113
+
+Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
+collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
+
+Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
+D, L. 136, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans les termes
+de l'article 378 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 135 B
+	  - CGI 135 D
+	  - CGI L123
+	  - CGI L124
+	  - CGI L127
+	  - CGI L130
+	  - CGI L135
+	  - CGI L136
+	  - CGI L152 A
+	  - CGI L154
+	  - CGI L156
+	  - CGI L158
+	  - CGI L161
+	  - CGI L166
+	  - Code pénal 378
+
+	**Modifié par**:
+
+	  - Loi n°86-1305 1986-12-23 art. 1 JORF 26 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L651-5-1 (V)
+	  - Livre des procédures fiscales - art. R*113-1 (V)
+	  - Livre des procédures fiscales - art. R135 D-1 (V)
+
+
 ##### I : Dérogations en matière d'assistance fiscale internationale
 
 ###### Article L114
@@ -4002,6 +4046,43 @@ soumises au secret professionnel, dans les termes de l'article 378 du code péna
 	**Cite**:
 
 	  - Code pénal 378
+
+
+###### Article L135 D
+
+Les agents de l'administration des impôts peuvent communiquer aux agents de l'Institut national de la statistique et des
+études économiques et aux agents des services statistiques ministériels, dans les limites et conditions prévues par la loi n°
+86-1305 du 23 décembre 1986, les renseignements utiles à l'établissement de statistiques. "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1305 1986-12-23
+
+	**Créé par**:
+
+	  - Loi n°86-1305 1986-12-23 art. 1 JORF 26 décembre 1986
+
+	**Codifié par**:
+
+	  - Décret n°87-941 1987-11-23
+
+	**Cité par**:
+
+	  - Arrêté du 5 janvier 1990 - art. 6 (V)
+	  - Arrêté du 6 janvier 1997 - art. 6 (V)
+	  - Arrêté du 15 novembre 2000 - art. 5 (V)
+	  - Décret n°2009-318 du 20 mars 2009 - art. 14 (V)
+	  - Décret n°2009-318 du 20 mars 2009 - art. 17 (V)
+	  - Arrêté du 21 septembre 2009 (V)
+	  - Arrêté du 26 février 2016 - art. 4 (V)
+	  - Arrêté du 3 octobre 2016 - art. 4 (V)
+	  - Code de commerce - art. L751-9 (VD)
+	  - Code de la recherche - art. L131-3 (Ab)
+	  - Code de la recherche - art. L511-3 (V)
+	  - Livre des procédures fiscales - art. L113 (VT)
+	  - Livre des procédures fiscales - art. R135 D-1 (V)
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -9538,51 +9619,6 @@ Le secret s'étend à toutes les informations recueillies à l'occasion de ces o
 	**Cite**:
 
 	  - Code pénal 378
-
-
-#### DEROGATIONS A LA REGLE DU SECRET PROFESSIONNEL.
-
-###### Article L113
-
-Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
-collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
-
-Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 136,
-L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au secret professionnel dans les termes de l'article
-378 du code pénal.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 135 B
-	  - CGI L123
-	  - CGI L124
-	  - CGI L127
-	  - CGI L130
-	  - CGI L135
-	  - CGI L136
-	  - CGI L152 A
-	  - CGI L154
-	  - CGI L156
-	  - CGI L158
-	  - CGI L161
-	  - CGI L166
-	  - Code pénal 378
-
-	**Modifié par**:
-
-	  - Loi n°85-729 du 18 juillet 1985 - art. 14 () JORF 19 juillet 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1087 1986-10-07
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. L651-5-1 (V)
-	  - Livre des procédures fiscales - art. R*113-1 (V)
-	  - Livre des procédures fiscales - art. R135 D-1 (V)
 
 
 ### LES DELAIS DE PRESCRIPTION
