@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1984-07-24
+Version Consolidée au 1984-08-03
 
 # Partie législative
 
@@ -1240,6 +1240,33 @@ Les agents ainsi désignés sont tenus au secret professionnel dans les termes d
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L198 A (V)
+
+
+###### Article L45 B
+
+La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt défini à
+l'article 244 quater B du code général des impôts peut, sans préjudice des pouvoirs de contrôle de l'administration des
+impôts qui demeure seule compétente pour l'application des procédures de redressement, être vérifiée par les agents du
+ministère chargé de la recherche et de la technologie.
+
+Un décret fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 244 quater B
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater B (M)
+	  - Code de la recherche - art. L131-2 (Ab)
+	  - Code de la recherche - art. L511-2 (V)
+	  - Livre des procédures fiscales - art. R45 B-1 (V)
 
 
 ###### Article L45 C
@@ -8480,42 +8507,6 @@ la déclaration.
 	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988 en vigueur le 1er janvier 1989
 
 
-### LE DROIT DE CONTROLE DE L'IMPOT
-
-#### MODALITES D'EXERCICE DU CONTROLE DE L'IMPOT.
-
-###### Article L45 B
-
-La réalité de l'affectation à la recherche des dépenses [*effectuées par les entreprises industrielles et commerciales*]
-prises en compte pour la détermination du crédit d'impôt défini à l'article 244 quater B du code général des impôts peut,
-sans préjudice des pouvoirs de contrôle de l'administration des impôts qui demeure seule compétente pour l'application des
-procédures de redressement, être vérifiée par les agents du ministère de la recherche et de l'industrie.
-
-Un décret fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quater B
-
-	**Créé par**:
-
-	  - Loi n°82-1126 1982-12-29 ART. 67 V, VI JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-	  - Loi n°82-1126 du 29 décembre 1982 - art. 67 (P) JORF 30 DECEMBRE 1982 date d'entrée en vigueur 1 JANVIER 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-900 1983-10-06
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater B (M)
-	  - Code de la recherche - art. L131-2 (Ab)
-	  - Code de la recherche - art. L511-2 (V)
-	  - Livre des procédures fiscales - art. R45 B-1 (V)
-
-
 ### LE DROIT DE COMMUNICATION
 
 #### DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*.
@@ -10470,6 +10461,45 @@ de transports, ainsi que chez les expéditeurs et destinataires lorsqu'ils sont 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 313 O (P)
+
+
+##### Section III : Modalités d'exercice du droit de contrôle
+
+###### Article R45 B-1
+
+La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt mentionné à
+l'article L. 45 B peut être vérifiée par des agents dûment mandatés par le directeur du développement scientifique et
+technologique et de l'innovation du ministère chargé de la recherche et de la technologie.
+
+A cet effet, ils peuvent se rendre dans les entreprises après envoi d'un avis de visite pour, notamment :
+
+a. Prendre connaissance de la déclaration spéciale si elle ne leur a pas été communiquée précédemment ;
+
+b. Consulter les documents comptables prévus au titre II du livre Ier du code du commerce, ainsi que tous les documents
+annexes ou justificatifs, en vue de s'assurer de la réalité des dépenses affectées à la recherche ;
+
+c. Consulter tous les documents techniques, effectuer toutes constatations matérielles, procéder à des vérifications
+techniques, en vue de s'assurer de la réalité de l'activité de recherche à laquelle les dépenses ont été affectées.
+
+Les résultats de ce contrôle sont notifiés à l'entreprise et sont communiqués à l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI L45 B
+
+	**Codifié par**:
+
+	  - Décret n°85-1008 1985-09-24
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies N (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 15 juillet 1985
 
 
 ##### Section IV : Procédures de rectification
@@ -14302,45 +14332,6 @@ désignés à l'article R. 213-3.
 	**Abrogé par**:
 
 	  - Loi n°87-1060 du 30 décembre 1987 - art. 97 () JORF 31 décembre 1987
-
-
-#### MODALITES D'EXERCICE DU DROIT DE CONTROLE.
-
-###### Article R45 B-1
-
-La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt mentionné à
-l'article L. 45 B peut être vérifiée par des agents dûment mandatés par le directeur du développement scientifique et
-technologique et de l'innovation du ministère de l'industrie et de la recherche.
-
-A cet effet, ils peuvent se rendre dans les entreprises après envoi d'un avis de visite pour, notamment :
-
-a. Prendre connaissance de la déclaration spéciale si elle ne leur a pas été communiquée précédemment ;
-
-b. Consulter les documents comptables prévus au titre II du livre Ier du code du commerce, ainsi que tous les documents
-annexes ou justificatifs, en vue de s'assurer de la réalité des dépenses affectées à la recherche ;
-
-c. Consulter tous les documents techniques, effectuer toutes constatations matérielles, procéder à des vérifications
-techniques, en vue de s'assurer de la réalité de l'activité de recherche à laquelle les dépenses ont été affectées.
-
-Les résultats de ce contrôle sont notifiés à l'entreprise et sont communiqués à l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L45 B
-
-	**Créé par**:
-
-	  - Décret n°83-475 du 10 juin 1983 - art. 9 (V) JORF 12 JUIN 1983
-
-	**Codifié par**:
-
-	  - Décret n°83-900 1983-10-06
-
-	**Cité par**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies N (V)
 
 
 #### PROCEDURES DE REDRESSEMENT
