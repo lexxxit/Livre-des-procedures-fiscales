@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 1998-04-22
+Version Consolidée au 1999-03-31
 
 # Partie législative
 
@@ -173,235 +173,6 @@ est notifiée à l'intéressé, au maire et à l'administration.
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 64 (M)
 	  - Livre des procédures fiscales - art. R*4-1 (V)
-
-
-#### Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales
-
-###### Article L5
-
-L'administration des impôts adresse à l'exploitant placé sous le régime du forfait de bénéfice industriel et commercial et de
-chiffre d'affaires, une notification mentionnant pour chacune des années de la période biennale, d'une part le bénéfice
-imposable et d'autre part les éléments qui concourent à la détermination des taxes sur le chiffre d'affaires.
-
-L'intéressé dispose d'un délai de trente jours à partir de la date de réception de cette notification, soit pour faire
-parvenir son acceptation, soit pour formuler ses observations en indiquant les chiffres qu'il serait disposé à accepter.
-
-En cas d'acceptation globale ou d'absence de réponse dans le délai fixé, les forfaits de bénéfice et de chiffre d'affaires
-notifiés servent de base à l'imposition. Si l'intéressé n'accepte explicitement ou tacitement que l'un des deux forfaits,
-celui-ci sert également de base à l'imposition correspondante.
-
-Dans le cas où l'administration accepte les contre-propositions concernant les deux forfaits ou l'un des deux seulement, elle
-informe expressément le contribuable de son accord.
-
-Si l'intéressé n'accepte pas le forfait qui lui a été notifié et si l'administration ne retient pas les contre-propositions
-qu'il a faites, le forfait sur lequel porte le désaccord est fixé par la commission départementale des impôts directs et des
-taxes sur le chiffre d'affaires. Le chiffre arrêté par cette commission selon la procédure suivie à l'article L. 60 sert de
-base à l'imposition.
-
-Dans tous les cas, l'intéressé conserve la possibilité, après la fixation du forfait, de demander la réduction de
-l'imposition au moyen d'une réclamation contentieuse, dans les conditions fixées aux articles L. 190 à L. 198.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 265 2, 265 6 (1re ET 2ème PHRASE, 1re ET 2ème LIGNE)
-	  - CGI 51 (AL. 2, AL. 3, AL. 4, 1re ET 2ème PHRASE, 1er MEMBRE)
-	  - Décret n°1934-07-20 ANNEXE ART. 14 (LOI 1934-07-06 ART. 13)
-	  - Décret n°48-1986 1948-12-09 ART. 9 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Décret n°55-465 1955-04-30 ART. 16 I (LOI 55-349 1955-05-02)
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°1941-01-13 ANNEXE I ART. 14
-	  - Loi n°48-809 1948-05-13 ART. 3
-	  - Loi n°63-1316 1963-12-27 ART. 27
-	  - Loi n°66-10 1966-01-06 ART. 20 10, ART. 53 6
-	  - Loi n°78-1240 1978-12-30 ART. 2
-
-	**Cite**:
-
-	  - CGI L190 A CGI L198
-	  - CGI L60
-	  - CGI L9
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-	  - Livre des procédures fiscales - art. R5-1 (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 mars 1999
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
-
-	**Abrogé par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-
-###### Article L6
-
-A compter d'une date qui est fixée par décret, les forfaits de chiffre d'affaires et de bénéfice sont conclus pour les mêmes
-périodes.
-
-Cette disposition peut n'être appliquée provisoirement qu'à certaines parties du territoire national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 302 quater
-	  - Loi n°66-10 1966-01-06 art. 20 10
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
-	  - HISTO: Edition du 1er juillet 1981
-	  - HISTO: Edition du 31 mars 1999
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 111 duodecies (P)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 111 terdecies (P)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
-
-
-#### Chapitre III : Dispositions relatives aux professions non commerciales
-
-###### Article L7
-
-Lorsqu'il est fait application pour la détermination d'un bénéfice non commercial du régime de l'évaluation administrative,
-l'administration des impôts adresse chaque année au titulaire du bénéfice une notification mentionnant le bénéfice imposable.
-L'intéressé dispose du délai de trente jours prévu à l'article L. 11 à partir de la date de réception de cette notification,
-soit pour faire parvenir son acceptation, soit pour formuler ses observations en indiquant le chiffre qu'il serait disposé à
-accepter.
-
-En cas d'acceptation ou d'absence de réponse dans le délai fixé, le montant du bénéfice évalué par l'administration sert de
-base à l'imposition.
-
-En cas de désaccord, le bénéfice imposable est fixé par la commission départementale des impôts directs et des taxes sur le
-chiffre d'affaires selon la procédure suivie à l'article L. 60.
-
-Dans tous les cas, l'intéressé conserve la possibilité, après la fixation de l'imposition, d'en demander la réduction au
-moyen d'une réclamation contentieuse, dans les conditions fixées par les articles L. 190 à L. 198.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 102 (AL. 2, AL. 3, AL. 4, LES 3 PREMIERES LIGNES)
-	  - Décret n°48-1986 1948-12-09 ART. 29 (LOI 48-1268 1948-08-17 ART. 5, ART. 6)
-	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
-	  - Décret n°71-290 1971-04-15 ART. 5
-	  - Loi n°48-809 1948-05-13 ART. 9
-	  - Loi n°78-1240 1978-12-30 ART. 2
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L11, L60, L190 à L198
-
-	**Abrogé par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 mars 1999
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 103 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-
-
-#### Chapitre IV : Dispositions communes aux procédures forfaitaires et d'évaluation administrative de l'assiette de l'impôt
-
-##### 1° : Caducité d'un forfait ou d'une évaluation administrative.
-
-###### Article L8
-
-Le forfait de bénéfices industriels et commerciaux et de taxes sur le chiffre d'affaires ou l'évaluation administrative de
-bénéfices non commerciaux devient caduc lorsque le montant en a été fixé au vu de renseignements inexacts ou lorsqu'une
-inexactitude est constatée dans les documents dont la production ou la tenue est exigée par la loi. Il est alors procédé dans
-les conditions fixées aux articles L. 5 et L. 7 à l'établissement d'un nouveau forfait ou d'une nouvelle évaluation si le
-contribuable remplit encore les conditions prévues pour bénéficier du régime correspondant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 102 bis
-	  - CGI 302 ter 10
-	  - Loi n°63-1316 1963-12-27 ART. 31 2
-	  - Loi n°70-1199 1970-12-21 ART. 8 II
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L5, L7
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 1999
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
-	  - HISTO: Edition du 1er juillet 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Abrogé par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 103 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 158 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
-
-
-##### 2° : Procédure de fixation des bases d'imposition.
-
-###### Article L9
-
-Les procédures de fixation forfaitaire ou d'évaluation administrative des bases d'imposition des revenus provenant d'une
-activité dont les produits relèvent de la catégorie des bénéfices agricoles, des bénéfices industriels et commerciaux ou des
-des bénéfices non commerciaux sont suivies entre l'administration des impôts et celui des époux titulaire des revenus. ces
-procédures produisent directement effet pour la determination du revenu global.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 155 B (AL. 1, 2ème PHRASE P. ET 3ème PHRASE)
-	  - Loi n°78-1240 1978-12-29 ART. 2 (AL. 1, 2ème PHRASE P., ET 3ème PHRASE)
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
-	  - HISTO: Edition du 31 mars 1999
-	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 6 IV Finances pour 1999
-
-	**Abrogé par**:
-
-	  - Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L54 A (V)
 
 
 ### Titre II : Le contrôle de l'impôt
@@ -1141,25 +912,30 @@ police municipale de la commune de résidence.
 ###### Article L23 A
 
 En vue du contrôle de l'impôt de solidarité sur la fortune, l'administration peut demander au contribuable des
-éclaircissements et des justifications dans les conditions prévues à l'article L. 16.
+éclaircissements. Elle peut en outre lui demander des justifications sur la composition de l'actif et du passif de son
+patrimoine.
+
+Ces demandes, qui sont indépendantes d'une procédure d'examen de situation fiscale personnelle, fixent au contribuable un
+délai de réponse qui ne peut être inférieur à deux mois.
+
+En l'absence de réponse ou si les justifications prévues à l'article 885 Z du code général des impôts ou demandées en
+application du premier alinéa sont estimées insuffisantes, l'administration peut rectifier les déclarations d'impôt de
+solidarité sur la fortune en se conformant à la procédure de redressement contradictoire prévue à l'article L. 55.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI Livre des procédures fiscales L16
-
-	**Codifié par**:
-
-	  - Décret n°89-802 1989-10-27
+	  - CGI 885 Z
+	  - Livre des procédures fiscales - art. L55 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 14 juillet 1989
+	  - HISTO: Edition du 31 mars 1999
 
 	**Modifié par**:
 
-	  - Loi n°88-1149 du 23 décembre 1988 - art. 26 (P) JORF 28 décembre 1988
+	  - Loi - art. 18 () JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -3062,22 +2838,21 @@ de la demande.
 
 Dans les cas limitativement énumérés à la présente section, les revenus ou bénéfices imposables des contribuables et les
 éléments servant au calcul des taxes sur le chiffre d'affaires, des droits d'enregistrement et taxes assimilées ainsi que des
-taxes assises sur les salaires sont taxés ou évalués d'office. "
+taxes assises sur les salaires ou les rémunérations sont taxés ou évalués d'office.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 10 août 1987
-
 	**Modifié par**:
 
-	  - Loi n°85-1403 du 30 décembre 1985 - art. 67 () JORF 31 décembre 1985
-	  - Loi n°86-1317 1986-12-30 art. 81-I et II Finances pour 1987 JORF 31 décembre 1986
+	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, IV, V JORF 3 juillet 1998
 
 	**Codifié par**:
 
-	  - Décret n°87-941 1987-11-23
+	  - Décret n°99-383 1999-05-18
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
 
 
 ##### I : Taxation d'office
@@ -3099,29 +2874,26 @@ déclaration, sous réserve de la procédure de régularisation prévue à l'art
 tenues de souscrire en leur qualité de redevables des taxes ;
 
 Les mêmes dispositions s'appliquent en cas d'absence de dépôt dans le délai légal des déclarations abrégées prévues à
-l'article 242 quater de l'annexe II au code général des impôts ((ou de la déclaration prévue à l'article 302 sexies du même
-code)) (M).
+l'article 242 quater de l'annexe II au code général des impôts.
 
 4° Aux droits d'enregistrement et aux taxes assimilées, les personnes qui n'ont pas déposé une déclaration ou qui n'ont pas
 présenté un acte à la formalité de l'enregistrement dans le délai légal, sous réserve de la procédure de régularisation
 prévue à l'article L. 67 ;
 
-5° Aux taxes assises sur les salaires, les personnes assujetties à ces taxes qui n'ont pas déposé dans le délai légal les
-déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation prévue l'article L. 68.
+5° Aux ((taxes assises sur les salaires ou les rémunérations)) (M) (1) les personnes assujetties à ces taxes qui n'ont pas
+déposé dans le délai légal les déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure de régularisation
+prévue l'article L. 68.
 
-(M) Modification de la loi 96-1181.
+(M) Modification.
+
+(1) Ces dispositions s'appliquent aux rémunérations versées à compter du 1er janvier 1998.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 150 S, 302 sexies
-	  - CGI Livre des procédures fiscales L67, L68
 	  - CGIAN2 242 quater
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 	**Cité par**:
 
@@ -3135,7 +2907,17 @@ déclarations qu'elles sont tenues de souscrire, sous réserve de la procédure 
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 116 () JORF 31 décembre 1996
+	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 1 III, IV, V JORF 3 juillet 1998
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV Finances pour 1999
+	  - HISTO: Edition du 31 mars 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-383 1999-05-18
 
 
 ###### Article L67
@@ -3331,40 +3113,71 @@ l'article 885 X du code général des impôts en ce qui concerne l'impôt de sol
 
 Peuvent être évalués d'office :
 
-((1° Le bénéfice imposable des contribuables qui perçoivent des revenus provenant d'entreprises industrielles, commerciales
-ou artisanales imposables selon le régime du forfait ou un régime de bénéfice réel, ou des revenus d'exploitations agricoles
-imposables selon un régime de bénéfice réel, lorsque la déclaration annuelle prévue à l'article 53 A ou à l'article 302
-sexies du code général des impôts n'a pas été déposée dans le délai légal ;)) (M)
+1° Le bénéfice imposable des contribuables qui perçoivent des revenus provenant d'entreprises industrielles, commerciales ou
+artisanales, ou des revenus d'exploitations agricoles imposables selon un régime de bénéfice réel, lorsque la déclaration
+annuelle prévue à l'article 53 A ((du code général des impôts)) (M) n'a pas été déposée dans le délai légal ;
 
-2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés, quel que soit
-leur régime d'imposition, lorsque la déclaration annuelle prévue à l'article 97 ou à l'article 101 du code général des impôts
-n'a pas été déposée dans le délai légal ;
+((1° bis Les résultats imposables selon le régime d'imposition défini à l'article 50-0 du code général des impôts dès lors :
+
+((a. Qu'un des éléments déclaratifs visé au 3 de l'article précité n'a pas été indiqué ;
+
+((b. Ou que la différence entre le montant du chiffre d'affaires déclaré et celui du chiffre d'affaires réel est supérieure à
+10 % du premier chiffre ;
+
+((c. Ou que la différence entre le montant des achats figurant sur le registre prévu au même texte et le montant des achats
+réels est supérieure de 10 % au premier chiffre ;
+
+((d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
+cadre de l'article L. 324-12 du même code)) (M) ;
+
+((2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés lorsque la
+déclaration annuelle prévue à l'article 97 du code général des impôts n'a pas été déposée dans le délai légal)) (M) ;
+
+((2° bis Les résultats imposables selon le régime d'imposition défini à l'article 102 ter du code général des impôts dès
+lors :
+
+((a.  Qu'un des éléments déclaratifs visés au 2 de l'article précité n'a pas été indiqué ;
+
+((b. Ou que la différence entre le montant des recettes déclarées et celui du montant des recettes réelles est supérieure à
+10 % du premier montant ;
+
+((c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
+cadre de l'article L. 324-12 du même code)) (M) ;
 
 3° Les revenus fonciers des contribuables qui se sont abstenus de répondre aux demandes de justifications mentionnées au
 deuxième alinéa de l'article L. 16.
 
 Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation d'office prévus aux 1° et 2°.
 
-(M) Modification de la loi 96-1181.
+(M) Modification.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 302 sexies, 101
-	  - CGI Livre des procédures fiscales 53 A, 97, L16, L68
+	  - CGI 97, 50-0, 53 A, 102 ter
+	  - Livre des procédures fiscales - art. L16 (MMN)
+	  - Livre des procédures fiscales - art. L68 (M)
+	  - Code du travail - art. L324-12 (M)
+	  - Code du travail - art. L324-9 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV Finances pour 1999
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 116 () JORF 31 décembre 1996
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
+	  - Décret n°99-383 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-383 1999-05-18
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ###### Article L74
@@ -3482,6 +3295,10 @@ redressements. Dans ce dernier cas, la prescription est réputée interrompue, a
 des bases de l'impôt sur le revenu ou de l'impôt sur les sociétés notifiées avant déduction du supplément de taxes sur le
 chiffre d'affaires et taxes assimilées.
 
+Toutefois, lorsque la taxe sur la valeur ajoutée rappelée est afférente à une opération au titre de laquelle la taxe due peut
+être totalement ou partiellement déduite par le redevable lui-même, les dispositions prévues au premier alinéa ne
+s'appliquent pas au montant de la taxe déductible (1).
+
 Les entreprises soumises à l'impôt sur les sociétés peuvent, dans la mesure où le bénéfice correspondant aux redressements
 effectués est considéré comme distribué, par application des articles 109 et suivants du code général des impôts, à des
 associés ou actionnaires dont le domicile ou le siège est situé en France, demander que l'impôt sur le revenu supplémentaire
@@ -3494,7 +3311,7 @@ précité, est, à la demande des entreprises, établie sur le montant du redres
 du montant de ce dernier impôt. En outre, le montant de cette retenue à la source constitue un crédit d'impôt déductible de
 l'impôt sur le revenu dû par les bénéficiaires.
 
-Les demandes que les contribuables peuvent présenter au titre des deuxième et troisième alinéas doivent être faites au plus
+Les demandes que les contribuables peuvent présenter au titre des troisième et quatrième alinéas doivent être faites au plus
 tard dans le délai de trente jours consécutif à la réception de la réponse aux observations prévue à l'article L. 57 ou, à
 défaut, d'un document spécifique les invitant à formuler lesdites demandes.
 
@@ -3503,23 +3320,30 @@ dans la caisse sociale les sommes nécessaires au paiement des taxes sur le chif
 l'impôt sur les sociétés et de la retenue à la source sur les revenus de capitaux mobiliers se rapportant aux sommes qui leur
 ont été distribuées.
 
+**Nota:**
+
+(1) Cette disposition s'applique aux rappels de taxe sur la valeur ajoutée notifiés à compter du 1er janvier 1998.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 119 bis 2
-	  - CGI 119 et s.
-	  - CGI L189
-	  - CGI L57
-	  - CGI L76
+	  - CGI 109, 119 bis
+	  - Livre des procédures fiscales - art. L189 (M)
+	  - Livre des procédures fiscales - art. L76 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 31 mars 1999
 
 	**Modifié par**:
 
-	  - Loi n°89-936 du 29 décembre 1989 - art. 101 () JORF 30 décembre 1989
+	  - Loi n°98-546 1998-07-02 [*DDOEF*] art. 12 I, III JORF 3 juillet 1998
+	  - Décret n°99-383 du 18 mai 1999 - art. 1 () JORF 20 mai 1999
+
+	**Codifié par**:
+
+	  - Décret n°99-383 1999-05-18
 
 	**Cité par**:
 
@@ -3592,9 +3416,10 @@ si la vérification des bases de ces taxes est achevée avant celle des bases de
 ###### Article L80
 
 L'administration peut effectuer toutes les compensations entre l'impôt sur le revenu, l'impôt sur les sociétés, le précompte
-prévu à l'article 223 sexies du code général des impôts, la taxe d'apprentissage, la taxe sur les salaires, la cotisation
-perçue au titre de la participation des employeurs à l'effort de construction, le prélèvement spécial sur les bénéfices
-réalisés à l'occasion de la création de la force de dissuasion, établis au titre d'une même année.
+prévu à l'article 223 sexies du code général des impôts, ((la contribution annuelle représentative du droit de bail, la
+contribution additionnelle à la contribution annuelle représentative du droit de bail,)) (M) la taxe d'apprentissage, la taxe
+sur les salaires, la cotisation perçue au titre de la participation des employeurs à l'effort de construction, le prélèvement
+spécial sur les bénéfices réalisés à l'occasion de la création de la force de dissuasion, établis au titre d'une même année.
 
 Des compensations peuvent être pratiquées dans les mêmes conditions en ce qui concerne les droits d'enregistrement, la taxe
 de publicité foncière exigible sur les actes qui donnent lieu à la formalité fusionnée en application de l'article 647 du
@@ -3604,29 +3429,17 @@ Les compensations de droits sont opérées dans les mêmes conditions au profit 
 redressement lorsqu'il démontre qu'une taxation excessive a été établie à son détriment ou lorsque le redressement fait
 apparaître une double imposition.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1649 quinquies C
-	  - Loi n°59-1454 1959-12-26 ART. 86 (AL. 3)
-	  - Loi n°59-1472 1959-12-28 ART. 1, ART. 3
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 1, v. init.
-	  - Loi n°63-1316 1963-12-27 ART. 20 2, ART. 21
-	  - Loi n°65-566 1965-07-12 ART. 3 1
-	  - Loi n°69-1168 1969-12-26 ART. 5, ART. 12 II
-	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
-	  - Loi n°71-578 1971-07-16 ART. 4 1 (AL. 1), ART. 8
-	  - Loi n°71-578 du 16 juillet 1971 - art. 8 (V)
-	  - Loi n°48-809 1948-05-13 ART. 23 2
 
 	**Cite**:
 
 	  - CGI 647, 223 sexies
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Loi - art. 12 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -3640,7 +3453,7 @@ apparaître une double imposition.
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 1999
 	  - TXT_ASSOCIE: Note 1998-12-07 3G-1-98
 
 
@@ -3695,8 +3508,7 @@ fiscal ;
 
 2° Lorsque l'administration n'a pas répondu dans un délai de trois mois à un redevable de bonne foi qui :
 
-a. a demandé le bénéfice des dispositions du deuxième alinéa de l'article 39 AB, du dernier alinéa de l'article 39 quinquies
-D ou du deuxième alinéa de l'article 39 quinquies DA du code général des impôts ;
+a. a demandé le bénéfice des dispositions du dernier alinéa de l'article 39 quinquies D du code général des impôts ;
 
 b. a notifié à l'administration sa volonté de bénéficier des dispositions du premier alinéa de l'article 39 AB, des articles
 39 AC, 39 quinquies A, des premier et deuxième alinéas de l'article 39 quinquies D, du premier alinéa de l'article 39
@@ -3707,18 +3519,13 @@ La demande ou la notification doit être préalable à l'opération en cause et 
 précise et complète de la situation de fait.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 2°, notamment le contenu, le lieu de dépôt des
-demandes ainsi que les modalités selon lesquelles l'administration accuse réception de ces demandes et notifications (1).
+demandes ainsi que les modalités selon lesquelles l'administration accuse réception de ces demandes et notifications ;
 
-((3° Lorsque l'administration n'a pas répondu dans un délai de six mois à un redevable de bonne foi qui a demandé, dans les
+3° Lorsque l'administration n'a pas répondu dans un délai de six mois à un redevable de bonne foi qui a demandé, dans les
 mêmes conditions que celles prévues à l'avant-dernier alinéa du 2°, si son projet de dépenses de recherche est éligible au
 bénéfice des dispositions de l'article 244 quater B du code général des impôts.
 
-((Un décret en Conseil d'Etat précise les conditions d'application du présent 3°)) (M).
-
-(1) Les dispositions du 2° sont applicables aux demandes et notifications adressées à compter du 1er juillet 1996.
-
-(M) Modification de la loi 96-1181. Ces dispositions sont applicables aux demandes adressées à compter du 1er mars 1997.
-[*Cf. Instruction 1997-05-30 13L-2-97*].
+Un décret en Conseil d'Etat précise les conditions d'application du présent 3°.
 
 **Liens relatifs à cet article**
 
@@ -3760,18 +3567,16 @@ bénéfice des dispositions de l'article 244 quater B du code général des imp�
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 105 (V) JORF 31 décembre 1996
+	  - Loi - art. 97 () JORF 31 décembre 1998
 
 	**Cite**:
 
-	  - CGI 39 AB, 39 quinquies D, 39 quinquies DA, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies
+	  - CGI 39 quinquies D, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 244 quater B
 	  - Livre des procédures fiscales - art. L80 A (V)
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1997-05-30 13L-2-97
-	  - TXT_ASSOCIE: Jurisprudence 1998-02-02 13L-3-98
+	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article L80 C
@@ -3999,6 +3804,40 @@ Communauté européenne.
 	  - Livre des procédures fiscales - art. L80 F (V)
 
 
+###### Article L80 J
+
+Pour prévenir les manquements aux règles de facturation visées à l'article L. 80 I, les agents des douanes peuvent, dans le
+cadre des dispositions des articles 60 et 61 du code des douanes, procéder au contrôle des moyens de transport à usage
+professionnel et de leur chargement et se faire présenter les documents professionnels de toute nature en la possession du
+conducteur.
+
+Ils peuvent prendre copie de ces documents et les communiquer aux services compétents de la direction générale des impôts.
+
+Ils peuvent se faire assister lors de ces contrôles par des agents de la direction générale des impôts.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_ASSOCIE: Instruction 1999-07-29 13K-9-99
+
+	**Modifié par**:
+
+	  - Loi - art. 103 () JORF 31 décembre 1998
+	  - Loi n°98-1266 1998-12-30 art. 103, 104 Finances pour 1999 JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Arrêté du 1 juillet 2003 - art. 7 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 I (M)
+	  - Code des douanes - art. 60 (V)
+	  - Code des douanes - art. 61 (V)
+
+
 #### Chapitre I bis : Droit d'enquête
 
 ###### Article L80 H
@@ -4050,38 +3889,6 @@ l'article 1725 A du code général des impôts.
 
 	  - Livre des procédures fiscales - art. L16-0 BA (V)
 	  - Livre des procédures fiscales - art. L80 L (V)
-
-
-###### Article L80 J
-
-Pour prévenir les manquements aux règles de facturation visées à l'article L. 80 I, les agents des douanes peuvent, dans le
-cadre des dispositions des articles 60 et 61 du code des douanes, procéder au contrôle des moyens de transport à usage
-professionnel et de leur chargement et se faire présenter les documents professionnels de toute nature en la possession du
-conducteur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 106 () JORF 19 juillet 1992, art. 121 : en vigueur le 1er janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
-	**Cité par**:
-
-	  - Arrêté du 1 juillet 2003 - art. 7 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L80 I (M)
-	  - Code des douanes - art. 60 (V)
-	  - Code des douanes - art. 61 (V)
 
 
 #### Chapitre I ter : Le droit de contrôle des entrepôts
@@ -4185,6 +3992,31 @@ général des impôts.
 
 
 #### Chapitre II : Le droit de communication
+
+###### Article L81 A
+
+Lorsqu'elles concernent des personnes physiques, les informations nominatives communiquées, sur tout type de support, à la
+direction générale des impôts, à la direction générale de la comptabilité publique ou à la direction générale des douanes et
+droits indirects par les personnes ou organismes visés au présent chapitre qui sont autorisés à utiliser le numéro
+d'inscription au répertoire national d'identification des personnes physiques mentionnent ce numéro.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 107 VI Finances pour 1999
+
+	**Créé par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L288 (V)
+	  - Livre des procédures fiscales - art. R*288-1 (V)
+	  - Livre des procédures fiscales - art. R*81 A-1 (V)
+
 
 ##### Section I : Définition et étendue du droit de communication
 
@@ -4365,6 +4197,28 @@ pouvoir opposer le secret professionnel.
 	**Liens**:
 
 	  - HISTO: Edition du 15 juin 1990
+
+
+###### Article L83 A
+
+Les agents de la direction générale des impôts et de la direction générale des douanes et droits indirects peuvent se
+communiquer spontanément tous les renseignements et documents recueillis dans le cadre de leurs missions respectives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi - art. 105 () JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Arrêté du 25 février 2010 - art. 6 (V)
+	  - Code de la sécurité sociale. - art. L114-20 (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_ASSOCIE: Instruction 1999-07-29 13K-9-99
 
 
 ###### Article L84
@@ -4852,7 +4706,7 @@ demande.
 
 ###### Article L96 A
 
-Tout organisme soumis à la loi n° 84-46 du 24 janvier 1984 ((modifiée)) (M) ou cité à l'article 8 de ladite loi doit
+Tout organisme soumis à la loi n° 84-46 du 24 janvier 1984 modifiée ou cité à l'article 8 modifié de ladite loi doit
 communiquer à l'administration, sur sa demande, la date et le montant des sommes transférées à l'étranger par les personnes
 visées au deuxième alinéa de l'article 1649 A du code général des impôts, l'identification de l'auteur du transfert et du
 bénéficiaire ainsi que les références des comptes concernés en France et à l'étranger.
@@ -4862,27 +4716,7 @@ résidents.
 
 Les dispositions de l'article L. 102 B sont applicables.
 
-(M) Modification.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-46 1984-01-24 art. 8
-	  - CGI 1649 A
-	  - Livre des procédures fiscales - art. L102 B (M)
-
-	**Modifié par**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 20 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 72 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 95 () JORF 4 juillet 1996
-	  - Loi n°96-597 du 2 juillet 1996 - art. 99 () JORF 4 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
@@ -4890,9 +4724,23 @@ Les dispositions de l'article L. 102 B sont applicables.
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1740 bis (M)
 	  - Code général des impôts, CGI. - art. 1735 (V)
 
+	**Cite**:
+
+	  - CGI 1649 A
+	  - Loi n°84-46 1984-01-24 art. 8
+	  - Livre des procédures fiscales - art. L102 B (M)
+
+	**Codifié par**:
+
+	  - Décret n°99-383 1999-03-31
+
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 1999
+
+	**Modifié par**:
+
+	  - Loi n°98-261 du 6 avril 1998 - art. 7 () JORF 7 avril 1998
 
 
 ##### 19° : Déplacements intracommunautaires de biens. Assujettis et façonniers astreints à la tenue d'un registre des biens. Obligations du titulaire de l'entrepôt fiscal
@@ -5066,29 +4914,24 @@ l'allocation a été versée ou supprimée entre le 1er février et le 30 septem
 
 ###### Article L99
 
-Les organismes ou caisses de sécurité sociale ainsi que les caisses de mutualité sociale agricole, doivent communiquer à
-l'administration des impôts les infractions qu'ils relèvent en ce qui concerne l'application des lois et règlements relatifs
-aux impôts et taxes en vigueur.
+Les organismes ou caisses de sécurité sociale ainsi que les caisses de mutualité sociale agricole communiquent à
+l'administration des impôts les faits susceptibles de constituer des infractions qu'ils relèvent en ce qui concerne
+l'application des lois et règlements relatifs, d'une part, aux impôts et taxes en vigueur et, d'autre part, aux cotisations
+et contributions sociales.
+
+L'administration des impôts communique aux organismes et caisses de sécurité sociale ainsi qu'aux caisses de mutualité
+sociale agricole les faits susceptibles de constituer des infractions qu'elle relève en ce qui concerne l'application des
+lois et règlements relatifs aux cotisations et contributions sociales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 2001 bis
-	  - Loi n°52-401 du 14 avril 1952 - art. 15 ()
-	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V)
-
 	**Liens**:
 
-	  - HISTO: Edition du 18 août 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
+	  - HISTO: Edition du 31 mars 1999
 
 	**Modifié par**:
 
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 1 () JORF 18 septembre 1993
+	  - Loi - art. 106 () JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -5734,27 +5577,24 @@ Des dérogations à la règle du secret professionnel sont établies au profit d
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 136, L. 139 A, L. 152 A, L. 154, L. 156, L. 158, L. 161 et L. 166 sont eux-
-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
-
-Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
+D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 136, L. 139 A, L. 152 A, L. 158, L. 161 et L. 166 sont eux-mêmes soumis au
+secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°93-980 du 4 août 1993 - art. 14 (Ab) JORF 6 août 1993
-
 	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 96-267 1996-03-28 art. 14, art. 15, ordonnance relative à l'entrée en vigueur du nouveau code pénal dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte ainsi qu'à l'extension et à la modification de certaines d
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
-	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_ASSOCIE: Ordonnance n°96-267 du 28 mars 1996 - art. 14 (M)
+	  - TXT_ASSOCIE: Ordonnance n°96-267 du 28 mars 1996 - art. 15 (M)
+
+	**Modifié par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
 
 	**Codifié par**:
 
-	  - Décret n°98-401 1998-05-22
+	  - Décret n°99-383 1999-05-18
 
 	**Cité par**:
 
@@ -5778,8 +5618,6 @@ Cf. Ordonnance 96-267 1996-03-28 art. 14, art. 15 JO du 31 mars.
 	  - Livre des procédures fiscales - art. L136 (V)
 	  - Livre des procédures fiscales - art. L139 A (M)
 	  - Livre des procédures fiscales - art. L152 A (M)
-	  - Livre des procédures fiscales - art. L154 (M)
-	  - Livre des procédures fiscales - art. L156 (M)
 	  - Livre des procédures fiscales - art. L158 (M)
 	  - Livre des procédures fiscales - art. L161 (Ab)
 	  - Code pénal - art. 226-13 (M)
@@ -6182,6 +6020,32 @@ la participation financière de l'Etat.
 	  - Livre des procédures fiscales - art. L113 (VT)
 
 
+###### Article L124 A
+
+Conformément à l'article L. 642-8 du code de la construction et de l'habitation, les services fiscaux fournissent au
+représentant de l'Etat dans le département les informations nominatives dont ils disposent sur la vacance des locaux
+susceptibles d'être réquisitionnés en vertu de l'article L. 642-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 8 mars 1996 - art. 5 (V)
+
+	**Créé par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 52 () JORF 31 juillet 1998
+
+	**Codifié par**:
+
+	  - Décret n°99-383 1999-05-18
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L642-1 (V)
+	  - Code de la construction et de l'habitation. - art. L642-8 (V)
+
+
 ###### Article L125
 
 Conformément à l'article L. 651-7 du code de la construction et de l'habitation, l'administration des impôts et les services
@@ -6475,16 +6339,22 @@ peuvent recevoir de l'administration des impôts ou de l'administration des doua
 communication de tous les renseignements et documents nécessaires à l'accomplissement de leur mission de lutte contre le
 travail dissimulé.
 
+Les agents de la direction générale des impôts et de la direction générale des douanes et droits indirects transmettent aux
+organismes chargés d'un régime de protection sociale ou aux caisses assurant le service des congés payés mentionnées au livre
+VII du code du travail, sur leur demande écrite, tous renseignements et tous documents leur permettant de recouvrer des
+sommes impayées ou d'obtenir le remboursement de sommes indûment versées, révélées dans le cadre de l'accomplissement de la
+mission de lutte contre le travail dissimulé.
+
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°72-648 1972-07-11 art. 5, art. 6
+	  - CGI 2020 1 8° (Sauf 1re ligne)
 
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
-
-	**Anciens textes**:
-
-	  - CGI 2020 1 8° (Sauf 1re ligne)
-	  - Loi n°72-648 1972-07-11 art. 5, art. 6
 
 	**Modifié par**:
 
@@ -6493,7 +6363,7 @@ travail dissimulé.
 
 	**Codifié par**:
 
-	  - Décret n°98-401 1998-05-22
+	  - Décret n°99-383 1999-05-18
 
 	**Cite**:
 
@@ -6501,7 +6371,7 @@ travail dissimulé.
 
 	**Liens**:
 
-	  - HISTO: Edition du 22 avril 1998
+	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article L134 A
@@ -7342,27 +7212,53 @@ d'indemnisation.
 
 ###### Article L146 A
 
-Le bureau d'aide juridictionnelle, institué par l'article 13 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide
+Le bureau d'aide juridictionnelle, institué par l'article 13 modifié de la loi n° 91-647 du 10 juillet 1991 relative à l'aide
 juridique, peut recueillir auprès des services de l'Etat tous renseignements sur la situation financière du demandeur lui
 permettant de vérifier que l'intéressé satisfait aux conditions exigées pour bénéficier de l'aide juridictionnelle.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
-
 	**Cite**:
 
-	  - Loi n°91-647 1991-07-10 art. 13
+	  - Loi n°91-647 du 10 juillet 1991 - art. 13 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-647 du 10 juillet 1991 - art. 21 (V) JORF 13 juillet 1991 en vigueur le 1er janvier 1992
+	  - Loi n°98-657 du 29 juillet 1998 - art. 82 () JORF 31 juillet 1998
 
 	**Codifié par**:
 
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°99-383 1999-05-18
+
+
+###### Article L146 B
+
+Ainsi qu'il est dit au troisième alinéa de l'article 706-11 du code de procédure pénale et pour l'application de cet article
+et de l'article 706-9 du même code, le fonds de garantie des victimes des actes de terrorisme et d'autres infractions peut
+demander au procureur de la République de requérir de toute personne ou administration la communication de renseignements sur
+la situation professionnelle, financière, fiscale ou sociale des personnes ayant à répondre du dommage. Le secret
+professionnel ne peut être opposé au procureur de la République. Les renseignements ainsi recueillis ne peuvent être utilisés
+à d'autres fins que celles prévues au présent article ; leur divulgation est interdite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°99-383 1999-05-18
+
+	**Créé par**:
+
+	  - Décret n°99-383 du 18 mai 1999 - art. 1 ()
+
+	**Liens**:
+
+	  - DISJOINT: Décret n°2009-388 du 7 avril 2009 - art. 1
+	  - PILOTE_SUIVEUR: Code de procédure pénale - art. 706-11
+	  - HISTO: Edition du 31 mars 1999
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 706-9
 
 
 ###### Article L147
@@ -7573,30 +7469,28 @@ ou dépositaire de sommes liquides ou exigibles.
 
 ###### Article L152
 
-((Les agents des administrations fiscales)) (M) peuvent communiquer aux organismes de sécurité sociale les renseignements
-nécessaires à l'assiette des cotisations et au calcul des prestations ainsi qu'à l'assiette et au calcul de la contribution
-sociale généralisée.
+Les agents des administrations fiscales communiquent aux organismes et services chargés de la gestion d'un régime obligatoire
+de sécurité sociale et aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale
+les informations nominatives nécessaires :
 
-Ils peuvent également signaler aux directeurs régionaux de la sécurité sociale, aux directeurs régionaux des affaires
-sanitaires et sociales et aux directeurs régionaux et chefs des services départementaux du travail et de la protection
-sociale agricoles, les infractions qu'ils constatent en ce qui concerne l'application des lois et règlements relatifs au
-régime général ou au régime agricole de sécurité sociale.
+1° A l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ;
 
-(M) Modification.
+2° Au calcul des prestations ;
+
+3° A l'appréciation des conditions d'assujettissement aux cotisations et contributions ;
+
+4° A la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement.
+
+Le numéro d'inscription au répertoire national d'identification des personnes physiques est utilisé pour les demandes,
+échanges et traitements nécessaires à la communication des informations mentionnées au premier alinéa, lorsqu'elles
+concernent des personnes physiques.
+
+Les agents des administrations fiscales peuvent également signaler aux directeurs régionaux de la sécurité sociale, aux
+directeurs régionaux des affaires sanitaires et sociales et aux directeurs régionaux et chefs des services départementaux du
+travail et de la protection sociale agricoles, les infractions qu'ils constatent en ce qui concerne l'application des lois et
+règlements relatifs au régime général ou au régime agricole de sécurité sociale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2020 1 3°
-	  - Loi n°52-401 du 14 avril 1952 - art. 15 ()
-	  - Décret n°77-429 du 22 avril 1977 - art. 18 (Ab)
-	  - Décret n°77-429 du 22 avril 1977 - art. 2 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°52-401 du 14 avril 1952 - art. 15 () JORF 15 avril 1952
-	  - Loi n°60-1356 1960-12-17 art. 10 JORF 18 décembre 1960
 
 	**Cité par**:
 
@@ -7623,13 +7517,14 @@ régime général ou au régime agricole de sécurité sociale.
 	  - Livre des procédures fiscales - art. R*152-1 (V)
 	  - Livre des procédures fiscales - art. R*288-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°97-662 1997-05-28
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
 
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 107 VI Finances pour 1999
+	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article L152 A
@@ -7680,122 +7575,6 @@ des successions.
 	  - Décret n°95-1282 1995-12-11
 
 
-###### Article L154
-
-Les autorités administratives et organismes appelés à intervenir dans les procédures relatives à l'attribution, à la révision
-et au maintien de l'allocation spéciale vieillesse instituée par l'article L. 814-1 du code de la sécurité sociale peuvent
-recevoir des agents de l'administration des impôts communication des renseignements qu'elle détient sur les ressources et
-revenus dont dispose la personne qui présente une demande d'allocation ou qui perçoit cette allocation et sur les biens que
-celle-ci possède ou dont elle a transmis la propriété à d'autres personnes par voie de donation ou donation-partage.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
-
-	**Abrogé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
-
-	**Cité par**:
-
-	  - Décret n°2016-1806 du 21 décembre 2016 (V)
-	  - Livre des procédures fiscales - art. L113 (M)
-	  - Livre des procédures fiscales - art. R*154-1 (V)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale 814-1
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
-	  - HISTO: Edition du 31 mars 1999
-
-
-###### Article L155
-
-Les caisses de mutualité sociale agricole peuvent recevoir de l'administration des impôts communication des renseignements
-nécessaires à l'assiette des cotisations des prestations sociales agricoles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2017
-	  - Loi n°49-946 1949-07-16 ART. 11 (AL. 1)
-	  - Décret n°60-452 du 12 mai 1960 - art. 54 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - HISTO: Edition du 31 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
-
-
-###### Article L156
-
-Les caisses des organisations autonomes d'allocation de vieillesse désignées à l'article L. 621-3 du code de la sécurité
-sociale et aux articles 1108 et 1136 du code rural peuvent recevoir de l'administration des impôts communication des
-renseignements détenus par celle-ci et nécessaires à l'accomplissement de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 14 juin 1982 - art. 4 (V)
-	  - Livre des procédures fiscales - art. L113 (M)
-
-	**Cite**:
-
-	  - Code rural 1108, 1136
-	  - Code de la sécurité sociale. - art. L621-3 (M)
-
-	**Modifié par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
-
-	**Liens**:
-
-	  - HISTO: Edition 31 juillet 1986
-	  - HISTO: Edition du 31 mars 1999
-
-	**Abrogé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
-
-
-###### Article L157
-
-Les organismes mentionnés par la loi n° 66-509 du 12 juillet 1966 relative à l'assurance maladie et à l'assurance maternité
-des travailleurs non salariés des professions non agricoles peuvent recevoir de l'administration des impôts communication des
-renseignements détenus par celle-ci et nécessaires à l'accomplissement de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 2020 1 4° bis
-	  - Loi n°66-509 du 12 juillet 1966 - art. 31 (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - HISTO: Edition du 31 mars 1999
-
-	**Cite**:
-
-	  - Loi n°66-509 1966-07-12
-
-	**Abrogé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
-
-
 ###### Article L158
 
 Les commissions prévues au chapitre 1er du titre III du code de la famille et de l'aide sociale et les autorités
@@ -7826,68 +7605,6 @@ suppression éventuelle de cet avantage.
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
-
-
-###### Article L159
-
-Les agents de l'administration des impôts sont tenus de communiquer aux organismes visés à l'article 19 de la loi n° 88-1088
-du 1er décembre 1988 ((modifiée)) (M) relative au revenu minimum d'insertion les informations nécessaires à l'exercice de
-leur mission.
-
-(M) Modification.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
-	  - HISTO: Edition du 31 mars 1999
-
-	**Cite**:
-
-	  - Loi n°88-1088 1988-12-01 art. 19
-
-	**Modifié par**:
-
-	  - Loi n°92-722 du 29 juillet 1992 - art. 33 (V) JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-	  - Loi n°92-722 du 29 juillet 1992 - art. 5 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
-
-	**Abrogé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
-
-
-###### Article L160
-
-L'administration des impôts est tenue de communiquer aux agents assermentés des organismes et services qui procèdent au
-paiement des allocations de logement prévues par l'article L. 511-1 du code de la sécurité sociale et par la loi n° 71-582 du
-16 juillet 1971 relative à l'allocation de logement, tous les renseignements et pièces nécessaires au contrôle du montant des
-loyers et des ressources des demandeurs ou des bénéficiaires.
-
-L'administration est tenue de communiquer ces mêmes renseignements pour le contrôle des déclarations des demandeurs ou des
-bénéficiaires de l'aide personnalisée au logement prévue par les articles L. 351-1 à L. 351-14 du code de la construction et
-de l'habitation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la construction L351-1 à L351-14
-	  - Loi n°71-582 1971-07-16
-	  - Code de la sécurité sociale. - art. L511-1 (M)
-
-	**Modifié par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
-
-	**Abrogé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
-	  - HISTO: Edition du 31 mars 1999
 
 
 ###### Article L161
@@ -7926,27 +7643,6 @@ mars 1973 (JO du 27) modifié par le décret n° 84-1116 du 7 décembre 1984 (JO
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (M)
-
-
-###### Article L162
-
-L'organisme débiteur de l'allocation de veuvage reçoit, sur sa demande, communication des informations détenues par
-l'administration concernant les ressources dont disposent les bénéficiaires de cette allocation.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - HISTO: Edition du 31 mars 1999
-
-	**Anciens textes**:
-
-	  - Loi n°80-546 1980-07-17 ART. 1
-
-	**Abrogé par**:
-
-	  - Loi - art. 107 (V) JORF 31 décembre 1998
 
 
 ###### Article L162 A
@@ -8238,7 +7934,7 @@ nette à long terme définis au quatrième alinéa de l'article 223 S du code g�
 
 ###### Article L169 A
 
-Le délai de reprise prévu ((au premier alinéa de l'article L. 169)) (M) s'applique également :
+Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique également :
 
 1° A la retenue à la source sur les revenus de capitaux mobiliers prévue à l'article 119 bis du code général des impôts ;
 
@@ -8256,27 +7952,28 @@ Le délai de reprise prévu ((au premier alinéa de l'article L. 169)) (M) s'app
 
 Ainsi qu'à tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
-(M) Modification de la loi 96-1181.
+8° au supplément d'imposition visé au II de l'article 1647 E.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 119 bis, 235 ter
-	  - CGI Livre des procédures fiscales L169, 125 A, 223 sexies, 239 bis B
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
+	  - CGI 119 bis, 235 ter, 125 A, 223 sexies, 239 bis B, 1647 E
+	  - Livre des procédures fiscales - art. L169 (M)
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
+	  - Loi n°98-1266 1998-12-30 art. 44 B 1° Finances pour 1999 JORF 31 décembre 1998
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 162 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 239 bis B (M)
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_ASSOCIE: Instruction 1999-11-22 6E-9-99
 
 
 ###### Article L169 B
@@ -8541,26 +8238,30 @@ Pour les impôts directs perçus au profit des collectivités locales et les tax
 divers organismes, à l'exception de la taxe professionnelle et de ses taxes additionnelles, le droit de reprise de
 l'administration des impôts s'exerce jusqu'à la fin de l'année suivant celle au titre de laquelle l'imposition est due.
 
-Toutefois, ((lorsque le revenu imposable à raison duquel)) (M) le contribuable a bénéficié d'un dégrèvement ou d'une
-exonération en application des articles 1391, 1414, 1414 A, 1414 B et 1414 C du code général des impôts fait ultérieurement
-l'objet d'un rehaussement, l'imposition correspondant au montant du dégrèvement ou de l'exonération accordés à tort est
-établie et mise en recouvrement dans le même délai que l'impôt sur le revenu correspondant au rehaussement.
+Toutefois, lorsque le revenu imposable à raison duquel le contribuable a bénéficié d'un dégrèvement ou d'une exonération en
+application des articles 1391, 1414, ((1414 bis,)) (M) (1) 1414 A, 1414 B et 1414 C du code général des impôts fait
+ultérieurement l'objet d'un rehaussement, l'imposition correspondant au montant du dégrèvement ou de l'exonération accordés à
+tort est établie et mise en recouvrement dans le même délai que l'impôt sur le revenu correspondant au rehaussement.
 
 (M) Modification.
+
+(1) Cette modification s'applique à compter du 1er janvier 1999.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1391, 1414, 1414 A, 1414 B, 1414 C
+	  - CGI 1391, 1414, 1414 bis, 1414 A, 1414 B, 1414 C
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 37 II Finances rectificative pour 1998
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 8 () JORF 31 décembre 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-662 1997-05-28
+	  - Loi - art. 37 (V) JORF 31 décembre 1998
+	  - Loi n°98-1267 1998-12-30 art. 37 I, II Finances rectificative pour 1998 JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -8570,44 +8271,28 @@ l'objet d'un rehaussement, l'imposition correspondant au montant du dégrèvemen
 	  - Code général des impôts, CGI. - art. 1395 F (VT)
 	  - Livre des procédures fiscales - art. L45 G (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
-
 
 ###### Article L174
 
 Les omissions ou les erreurs concernant la taxe professionnelle peuvent être réparées par l'administration jusqu'à
 l'expiration de la troisième année suivant celle au titre de laquelle l'imposition est due.
 
-((Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
+Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 sixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé dans le délai
 légal les déclarations qu'il était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des
-entreprises ou au greffe du tribunal de commerce)) (M).
-
-Par exception aux dispositions du premier alinéa, lorsque le chiffre d'affaires ou la valeur ajoutée à raison desquels la
-situation du contribuable a été appréciée au regard des dispositions du I de l'article 1647 E du code général des impôts sont
-affectés ultérieurement par des rehaussements effectués en matière d'impôt sur le revenu ou d'impôt sur les bénéfices, les
-cotisations de taxe professionnelle correspondantes peuvent être établies et mises en recouvrement dans le même délai que
-l'impôt sur le revenu ou l'impôt sur les bénéfices correspondant aux rehaussements.
-
-(M) Modification de la loi 96-1181. Ces dispositions s'appliquent aux délais venant à expiration postérieurement au 31
-décembre 1996.
+entreprises ou au greffe du tribunal de commerce.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1647 E
-
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - HISTO: Edition du 31 mars 1999
 	  - TXT_ASSOCIE: Instruction 1997-10-30 13L-4-97
+	  - TXT_ASSOCIE: Instruction 1999-11-22 6E-9-99
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
+	  - Loi n°98-1266 1998-12-30 art. 44 B 2° Finances pour 1999 JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -9216,36 +8901,25 @@ postérieure au 1er janvier de la quatrième année précédant celle où la dé
 
 ###### Article L191
 
-Lorsque l'imposition a été établie selon la procédure forfaitaire ou d'évaluation administrative, la charge de la preuve
-incombe au contribuable qui demande la réduction de l'imposition.
+Lorsque l'imposition a été établie selon la procédure forfaitaire la charge de la preuve incombe au contribuable qui demande
+la réduction de l'imposition.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - CGI 102 (AL. 4 P.)
-	  - CGI 265 6 (2ème PHRASE P.)
-	  - CGI 51 (AL. 4 2ème PHRASE P.)
-	  - Décret n°1934-07-20 ANNEXE ART. 14 (LOI 1934-07-06 ART. 13)
-	  - Loi n°59-1472 1959-12-28 ART. 83, ART. 87
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 83, v. init.
-	  - Loi n°63-1316 1963-12-27 ART. 30 2
-	  - Loi n°1941-01-13 ANNEXE I ART. 14
-	  - Loi n°48-809 1948-05-13 ART. 3, ART. 9
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 7 IV Finances pour 1999
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Loi - art. 7 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 103 (M)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 51 (Ab)
 	  - Livre des procédures fiscales - art. R*191-1 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 ###### Article L192
@@ -9690,40 +9364,29 @@ constatées dans l'assiette ou le calcul de l'imposition au cours de l'instructi
 La compensation peut aussi être effectuée ou demandée entre les impôts suivants lorsque la réclamation porte sur l'un d'eux :
 
 1° A condition qu'ils soient établis au titre d'une même année, entre l'impôt sur le revenu, l'impôt sur les sociétés, le
-précompte prévu à l'article 223 sexies du code général des impôts, la taxe sur les salaires, la taxe d'apprentissage, la
-cotisation perçue au titre de la participation des employeurs à l'effort de construction ou le prélèvement spécial sur les
-bénéfices réalisés à l'occasion de la création de la force de dissuasion ;
+précompte prévu à l'article 223 sexies du code général des impôts, ((la contribution annuelle représentative du droit de
+bail, la contribution additionnelle à la contribution annuelle représentative du droit de bail)) (M), la taxe sur les
+salaires, la taxe d'apprentissage, la cotisation perçue au titre de la participation des employeurs à l'effort de
+construction ou le prélèvement spécial sur les bénéfices réalisés à l'occasion de la création de la force de dissuasion ;
 
 2° Entre les droits d'enregistrement, la taxe de publicité foncière exigible sur les actes qui donnent lieu à la formalité
 fusionnée en application de l'article 647 du même code et les droits de timbre, perçus au profit de l'Etat.
 
+(M) Modification.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1955 2, 3
-	  - Loi n°48-809 1948-05-13 art. 23 2 (1° du L204)
-	  - Loi n°59-1454 1959-12-26 art. 86 (al. 3)
-	  - Loi n°59-1472 1959-12-28 art. 1, art. 3
-	  - Loi n°59-1472 du 28 décembre 1959 - art. 1, v. init.
-	  - Loi n°63-1316 1963-12-27 art. 20 2 (2° du L204)
-	  - Loi n°65-566 1965-07-12 art. 3
-	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
-	  - Loi n°71-578 1971-07-16 art. 4 1 (al. 1), art. 8
-	  - Loi n°71-578 du 16 juillet 1971 - art. 8 (V)
 
 	**Cite**:
 
-	  - CGI 223 sexies
-	  - CGI 647
+	  - CGI 223 sexies, 647
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 1999
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Loi - art. 12 (V) JORF 31 décembre 1998
 
 	**Cité par**:
 
@@ -11061,7 +10724,9 @@ directe.
 L'administration peut accorder sur la demande du contribuable ;
 
 1° Des remises totales ou partielles d'impôts directs régulièrement établis lorsque le contribuable est dans l'impossibilité
-de payer par suite de gêne ou d'indigence ;
+de payer par suite de gêne ou d'indigence ; ces remises totales ou partielles sont également prises au vu des recommandations
+de la commission visée à l'article L. 331-1 du code de la consommation ou des mesures prises par le juge visées à l'article
+L. 332-3 du même code.
 
 2° Des remises totales ou partielles d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas échéant,
 les impositions auxquelles elles s'ajoutent sont définitives ;
@@ -11077,17 +10742,6 @@ foncière, de droits de timbre, de taxes sur le chiffre d'affaires, de contribut
 droits, taxes et contributions.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1930 2 (AL. 1), 3
-	  - Loi n°63-1316 1963-12-27 ART. 3 1, ART. 11 1, 2
-	  - Loi n°69-1168 du 26 décembre 1969 - art. 5, v. init.
-	  - Décret n°1938-06-25 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
 
 	**Cité par**:
 
@@ -11119,9 +10773,19 @@ droits, taxes et contributions.
 	  - Livre des procédures fiscales - art. R247-11 (V)
 	  - Livre des procédures fiscales - art. R247-8 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°98-657 du 29 juillet 1998 - art. 94 () JORF 31 juillet 1998
+
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 31 mars 1999
+	  - TXT_ASSOCIE: Instruction 2000-02-02 13S-2-00
+
+	**Cite**:
+
+	  - Code de la consommation - art. L331-1 (M)
+	  - Code de la consommation - art. L332-3 (M)
 
 
 ###### Article L248
@@ -11491,27 +11155,21 @@ donner lieu à des frais.
 
 ###### Article L255 A
 
-Les taxes, versements et participations prévus aux articles 1585 A, 1599-0 B, 1599 B, 1599 octies, 1635 quater et 1723 octies
-du code général des impôts sont recouvrés en vertu d'un titre délivré par l'autorité compétente pour procéder à leur
-liquidation.
+Les taxes, versements et participations prévus aux articles 1585 A et 1599 octies du code général des impôts et les taxes
+mentionnées au 1° de l'article L. 332-6-1 du code de l'urbanisme sont assis, liquidés et recouvrés en vertu d'un titre de
+recette individuel ou collectif délivré par le directeur départemental de l'équipement ou, dans des conditions fixées par
+décret en Conseil d'Etat, par le maire compétent pour délivrer les permis de construire au nom de la commune en application
+du premier alinéa de l'article L. 421-2-1 du code de l'urbanisme.
+
+L'autorité précitée peut déléguer sa signature aux agents placés sous son autorité.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1585 A, 1599-0 B, 1599 B, 1599 octies, 1635 quater, 1723 octies
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Créé par**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 14 () JORF 10 février 1994
-
-	**Codifié par**:
-
-	  - Décret n°95-1282 1995-12-11
+	  - CGI 1585 A, 1599 octies
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de l'urbanisme - art. L421-2-1 (M)
 
 	**Cité par**:
 
@@ -11519,6 +11177,16 @@ liquidation.
 	  - Loi - art. 50 (V)
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 51 (V)
 	  - Code du patrimoine. - art. L524-8 (MMN)
+
+	**Modifié par**:
+
+	  - Loi - art. 50 (V) JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 50 II Finances rectificative pour 1998
+	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 51 (V)
+	  - HISTO: Edition du 31 mars 1999
 
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
@@ -12889,6 +12557,106 @@ d'envoi, le cachet de la poste fait foi de la date de cet envoi.
 	  - HISTO: Edition du 2 septembre 1994
 
 
+###### Article L287
+
+La direction générale des impôts, la direction générale de la comptabilité publique et la direction générale des douanes et
+droits indirects collectent, conservent et échangent entre elles les numéros d'inscription au répertoire national
+d'identification des personnes physiques pour les utiliser exclusivement dans les traitements des données relatives à
+l'assiette, au contrôle et au recouvrement de tous impôts, droits, taxes, redevances ou amendes.
+
+L'obligation du secret professionnel prévue à l'article L. 103 s'étend à toutes les informations recueillies à l'occasion des
+opérations de collecte, de conservation et d'échange mentionnées au premier alinéa. Ces opérations doivent être réalisées aux
+seules fins de l'accomplissement des missions mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 31 mars 1999
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 107 VI Finances pour 1999
+
+	**Créé par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1753 bis B (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L103 (M)
+
+
+###### Article L288
+
+Lorsque la mise en oeuvre du droit de communication prévu aux articles L. 81 A et L. 152 s'avère susceptible de porter une
+atteinte grave et immédiate aux droits et libertés visés à l'article 1er de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés, la Commission nationale de l'informatique et des libertés instituée par
+l'article 6 de la même loi enjoint l'autorité administrative de prendre sans délai les mesures de sécurité pouvant aller
+jusqu'à la destruction des supports d'information qui ont été constitués à partir d'un numéro d'inscription au répertoire
+national d'identification des personnes physiques.
+
+Sans préjudice des dispositions de l'article 40 du code de procédure pénale, si cette injonction n'est pas suivie d'effet, la
+Commission nationale de l'informatique et des libertés saisit le président du tribunal de grande instance de Paris, qui peut
+ordonner le cas échéant sous astreintes les mesures proposées par la Commission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06 art. 1, art. 6
+	  - Loi n°78-17 du 6 janvier 1978 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. 40 (M)
+	  - Livre des procédures fiscales - art. L152 (M)
+	  - Livre des procédures fiscales - art. L81 A (V)
+
+	**Créé par**:
+
+	  - Loi - art. 107 (V) JORF 31 décembre 1998
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-1266 1998-12-30 art. 107 VI Finances pour 1999
+	  - HISTO: Edition du 31 mars 1999
+
+	**Cité par**:
+
+	  - Décret n°99-1047 du 14 décembre 1999 - art. 4 (V)
+	  - Décret n°2000-8 du 4 janvier 2000 - art. 1 (V)
+	  - Décret n°2000-8 du 4 janvier 2000 - art. 2 (V)
+	  - Décret n°2000-8 du 4 janvier 2000 - art. 3 (V)
+	  - Arrêté du 17 janvier 2008 (V)
+	  - Arrêté du 28 mars 2008 (V)
+	  - Arrêté du 25 septembre 2008 (V)
+	  - Arrêté du 14 janvier 2009 (V)
+	  - Arrêté du 4 août 2009 (Ab)
+	  - Arrêté du 4 août 2009 (V)
+	  - Arrêté du 25 janvier 2010 (V)
+	  - Arrêté du 31 mai 2010 (V)
+	  - Arrêté du 28 septembre 2010 (V)
+	  - Arrêté du 17 février 2011 (V)
+	  - Arrêté du 7 juillet 2011 (Ab)
+	  - Arrêté du 9 août 2011 (V)
+	  - Arrêté du 17 janvier 2012 (Ab)
+	  - Arrêté du 30 avril 2012 (V)
+	  - Arrêté du 6 août 2013 (V)
+	  - Arrêté du 1er juillet 2013 (V)
+	  - Arrêté du 26 mai 2014 (V)
+	  - Arrêté du 2 décembre 2015 (V)
+	  - Arrêté du 13 avril 2016 (V)
+	  - Arrêté du 22 avril 2016 (V)
+	  - Arrêté du 31 mars 2016 (V)
+	  - Arrêté du 19 mai 2016 (V)
+	  - Arrêté du 18 octobre 2016 (V)
+	  - Arrêté du 10 novembre 2016 (V)
+	  - Arrêté du 21 décembre 2016 (V)
+	  - Arrêté du 20 février 2017 (V)
+	  - Arrêté du 28 avril 2017 (V)
+	  - Livre des procédures fiscales - art. R*288-1 (V)
+	  - Livre des procédures fiscales - art. R*288-3 (V)
+
+
 # Partie réglementaire - Décrets en Conseil d'Etat
 
 ## Deuxième partie : Partie réglementaire, décrets
@@ -13023,45 +12791,6 @@ Les exploitants intéressés peuvent faire appel du classement jusqu'à l'expira
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L4 (V)
-
-
-#### Chapitre II : Dispositions relatives aux entreprises industrielles, commerciales et artisanales.
-
-###### Article R5-1
-
-En matière de taxes sur le chiffre d'affaires, la notification du forfait prévue par l'article L. 5 mentionne seulement le
-montant annuel de l'impôt pour l'année ou les années considérées, lorsque le montant de l'impôt relatif soit à la première
-année, soit à chacune des deux années de la période biennale, demeure égal à celui qui avait été retenu pour la dernière
-année d'application du précédent forfait.
-
-Pour les entreprises bénéficiant de la franchise prévue au 1 de l'article 282 du code général des impôts, cette notification
-mentionne seulement qu'elles sont dispensées du paiement de la taxe.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 282
-	  - Livre des procédures fiscales - art. L5 (M)
-
-	**Anciens textes**:
-
-	  - CGIAN3 111 octies (AL. 2)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-	  - Décret n°99-383 1999-05-18
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - HISTO: Edition du 31 mars 1999
-	  - PEREMPTION: Loi - art. 7 (V) JORF 31 décembre 1998
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 111 octies (P)
 
 
 ### Titre II : Le contrôle de l'impôt
