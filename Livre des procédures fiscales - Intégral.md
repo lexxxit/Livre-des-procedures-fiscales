@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-03-01
+Version Consolidée au 2005-04-09
 
 # Partie législative
 
@@ -5891,29 +5891,6 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 	**Abrogé par**:
 
 	  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
-
-
-###### Article L114 C
-
-Pour l'application de la législation en matière d'impôts directs, de droits d'accises sur l'alcool, les boissons alcooliques
-et les tabacs manufacturés et de taxes assises sur les primes d'assurance, l'administration, sur demande d'un Etat membre de
-la Communauté européenne, procède ou fait procéder à la notification de tout acte ou décision émanant de cet Etat selon les
-règles en vigueur en France pour la notification d'actes ou de décisions. Elle peut également demander à un Etat membre de la
-Communauté européenne de procéder ou de faire procéder à la notification d'actes ou de décisions afférents aux mêmes impôts.
-
-**Liens relatifs à cet article**
-
-	**Transféré par**:
-
-	  - Décret n°2005-331 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-	**Nouveaux textes**:
-
-	  - Livre des procédures fiscales L289
-
-	**Créé par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
 
 
 ##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics
