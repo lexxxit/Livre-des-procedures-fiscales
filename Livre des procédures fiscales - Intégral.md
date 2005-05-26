@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-04-09
+Version Consolidée au 2005-05-27
 
 # Partie législative
 
@@ -1904,6 +1904,41 @@ impôts et prévues aux mêmes articles.
 	  - Loi organique n°2011-416 du 19 avril 2011 - art. Annexe 3 (Saint-Barthélemy) (V)
 	  - Livre des procédures fiscales - art. R*45 F-2 (V)
 	  - Livre des procédures fiscales - art. R45 F-1 (V)
+
+
+###### Article L45 G
+
+Les agents assermentés de l'administration chargée des forêts sont habilités à contrôler les déclarations souscrites en
+application du 1° bis et du 1° ter de l'article 1395 du code général des impôts relatives à la réussite de l'opération de
+régénération naturelle ou à l'état de futaie irrégulière en équilibre de régénération de terrains boisés. Dans le cadre de ce
+contrôle, ils sont autorisés à accéder aux parcelles faisant l'objet des exonérations de taxe foncière sur les propriétés non
+bâties prévues par les dispositions précitées.
+
+Lorsqu'il apparaît à l'issue de ce contrôle que les conditions pour bénéficier de ces exonérations ne sont pas respectées,
+les impositions supplémentaires correspondantes sont établies au profit de l'Etat dans les conditions prévues aux articles
+1416 du code général des impôts et L. 173 du présent livre.
+
+Un décret fixe les conditions d'application du présent article.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-554 du 26 mai 2005 art. 3 III : Ces dispositions s'appliquent aux terrains pour lesquels la réussite
+de l'opération de régénération naturelle ou l'état de futaie irrégulière en équilibre de régénération sont déclarés à compter
+de la date de publication de la présente ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1395, 1416
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-554 du 26 mai 2005 - art. 3 (V) JORF 27 mai 2005
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R45 G-1 (V)
 
 
 ###### Article L45-0 A
