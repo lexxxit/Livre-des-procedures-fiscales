@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-05-27
+Version Consolidée au 2005-07-01
 
 # Partie législative
 
@@ -6697,7 +6697,7 @@ nécessaires à la liquidation du prélèvement sur le bénéfice net des chanti
 
 ###### Article L135 A
 
-Cet article reproduit les trois premiers alinéas de l'article L. 991-3 du code du travail :
+Cet article reproduit les quatre premiers alinéas de l'article L. 991-3 du code du travail :
 
 "Sans préjudice des attributions propres des corps d'inspection compétents à l'égard des établissements concernés, le
 contrôle mentionné aux articles L. 991-1 et L. 991-2 est exercé par les inspecteurs et les contrôleurs de la formation
@@ -6706,19 +6706,18 @@ professionnelle commissionnés à cet effet.
 Ces agents sont assermentés dans des conditions prévues par décret en Conseil d'Etat. Ils sont tenus au secret professionnel
 dans les termes des articles 226-13 et 226-14 du code pénal.
 
+Dans l'exercice de leurs missions, les agents mentionnés au premier alinéa peuvent se faire assister par des fonctionnaires
+élèves ou stagiaires.
+
 L'administration fiscale, les organismes collecteurs mentionnés aux articles L. 951-1, L. 952-1, L. 953-1, L. 953-3, L.
 953-4, L. 961-9 et L. 961-10, le fonds national mentionné à l'article L. 961-13 et les administrations qui financent des
 actions de formation sont tenues de leur communiquer les renseignements nécessaires à l'accomplissement de leur mission."
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2005-331 2005-04-06
-
 	**Modifié par**:
 
-	  - Décret n°2005-331 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+	  - Ordonnance n°2005-731 du 30 juin 2005 - art. 3 () JORF 1er juillet 2005
 
 	**Cite**:
 
@@ -6734,10 +6733,6 @@ actions de formation sont tenues de leur communiquer les renseignements nécessa
 	  - Code du travail - art. L961-9 (M)
 	  - Code du travail - art. L991-1 (M)
 	  - Code du travail - art. L991-2 (T)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article L135 B
