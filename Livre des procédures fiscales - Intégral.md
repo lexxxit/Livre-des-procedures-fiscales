@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-07-01
+Version Consolidée au 2005-07-14
 
 # Partie législative
 
@@ -7083,6 +7083,30 @@ informations relatives à la situation des condamnés ayant à répondre financi
 	**Créé par**:
 
 	  - Loi n°2004-204 du 9 mars 2004 - art. 172 () JORF 10 mars 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L135 N
+
+Les agents de la Commission de régulation de l'énergie, habilités et assermentés en application de l'article 43 de la loi n°
+2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, peuvent
+recevoir de l'administration fiscale les renseignements nécessaires à l'établissement du plafonnement de la contribution au
+service public de l'électricité institué par l'article 67 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les
+orientations de la politique énergétique.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Cite**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 43 (M)
+	  - Loi n°2005-781 2005-07-13 art. 67
+
+	**Créé par**:
+
+	  - Loi n°2005-781 2005-07-13 art. 67 II JORF 14 juillet 2005
 
 
 ##### III : Dérogations au profit de diverses commissions
