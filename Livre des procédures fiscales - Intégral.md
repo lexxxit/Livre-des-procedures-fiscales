@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-07-14
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -7482,30 +7482,19 @@ L. 13-13 à L. 13-17 du code de l'expropriation pour cause d'utilité publique.
 
 ###### Article L145 A
 
-Conformément aux dispositions du deuxième alinéa de l'article L611-2 et de l'article L611-5 du code de commerce, le président
-du tribunal de commerce ou du tribunal de grande instance peut recevoir de l'administration communication des renseignements
-de nature à lui donner une exacte information sur la situation économique et financière du débiteur.
+Conformément aux dispositions du deuxième alinéa du I de l'article L. 611-2 du code de commerce, le président du tribunal de
+commerce ou du tribunal de grande instance peut recevoir de l'administration communication des renseignements de nature à lui
+donner une exacte information sur la situation économique et financière du débiteur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 art. 1, art. 3, art. 4 JORF 21 septembre 2000
-	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
-	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2002-922 2002-06-06
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 171 () JORF 27 juillet 2005
 
 	**Cite**:
 
 	  - Code de commerce. - art. L611-2 (M)
-	  - Code de commerce. - art. L611-5 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
 
 	**Cité par**:
 
@@ -12166,15 +12155,17 @@ d'impôt sur le revenu, des acomptes d'impôt sur les sociétés, des acomptes d
 
 ##### 4° : Responsabilité des dirigeants et gérants de sociétés
 
-###### Article L266
+###### Article L267
 
-Lorsque le recouvrement des impositions de toute nature et des pénalités fiscales dues par une société à responsabilité
-limitée a été rendu impossible par des manoeuvres frauduleuses ou l'inobservation répétée des diverses obligations fiscales,
-le ou les gérants majoritaires, au sens des articles 62 et 211 du code général des impôts, peuvent être rendus solidairement
-responsables avec cette société du paiement de ces impositions et pénalités.
-
-A cette fin, le comptable du Trésor ou le comptable de la direction générale des impôts assigne le ou les gérants devant le
-président du tribunal de grande instance du lieu du siège social.
+Lorsqu'un dirigeant d'une société, d'une personne morale ou de tout autre groupement, est responsable des manoeuvres
+frauduleuses ou de l'inobservation grave et répétée des obligations fiscales qui ont rendu impossible le recouvrement des
+impositions et des pénalités dues par la société, la personne morale ou le groupement, ce dirigeant peut, s'il n'est pas déjà
+tenu au paiement des dettes sociales en application d'une autre disposition, être déclaré solidairement responsable du
+paiement de ces impositions et pénalités par le président du tribunal de grande instance. A cette fin, le comptable de la
+direction générale de la comptabilité publique ou le comptable de la direction générale des impôts assigne le dirigeant
+devant le président du tribunal de grande instance du lieu du siège social. Cette disposition est applicable à toute personne
+exerçant en droit ou en fait, directement ou indirectement, la direction effective de la société, de la personne morale ou du
+groupement.
 
 Les voies de recours qui peuvent être exercées contre la décision du président du tribunal de grande instance ne font pas
 obstacle à ce que le comptable prenne à leur encontre des mesures conservatoires en vue de préserver le recouvrement de la
@@ -12182,47 +12173,17 @@ créance du Trésor.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 62, 211
-
-	**Modifié par**:
-
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
-
-	**Abrogé par**:
-
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 15 () JORF 27 juillet 2005
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L267 (V)
-	  - Livre des procédures fiscales - art. R*266-1 (T)
-
-
-###### Article L267
-
-Lorsqu'un dirigeant d'une société, d'une personne morale ou de tout autre groupement, est responsable des manoeuvres
-frauduleuses ou de l'inobservation grave et répétée des obligations fiscales qui ont rendu impossible le recouvrement des
-impositions et des pénalités dues par la société, la personne morale ou le groupement, ce dirigeant peut, s'il n'est pas déjà
-tenu au paiement des dettes sociales en application d'une autre disposition, être déclaré solidairement responsable du
-paiement de ces impositions et pénalités par le président du tribunal de grande instance, dans les mêmes conditions que
-celles prévues à l'article L. 266. Cette disposition est applicable à toute personne exerçant en droit ou en fait,
-directement ou indirectement, la direction effective de la société, de la personne morale ou du groupement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Anciens textes**:
 
 	  - Loi n°80-30 du 18 janvier 1980 - art. 74, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 15 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -18366,46 +18327,45 @@ comporte l'indication qu'elle a été prise après avis du comité.
 
 En application de l'article L. 621-60 du code de commerce, des remises, modérations ou transactions portant sur les créances
 fiscales peuvent être accordées, dans les limites et conditions fixées par l'article L. 247, aux entreprises soumises à la
-procédure de redressement ou de liquidation judiciaires.
+procédure de redressement ou de liquidation judiciaires. 
 
-Dans le régime général du redressement judiciaire, l'administration statue sur les demandes écrites des représentants des
-créanciers dans le délai de six semaines suivant la date de leur présentation. Ce délai est porté à huit semaines lorsque
+Dans le régime général du redressement judiciaire, l'administration statue sur les demandes écrites des mandataires
+judiciaires dans le délai de six semaines suivant la date de leur présentation. Ce délai est porté à huit semaines lorsque
 l'administration doit consulter le comité du contentieux fiscal, douanier ou des changes. Dans la procédure simplifiée, elle
-statue dans un délai de quatre semaines qui est porté à six semaines en cas de consultation du comité.
+statue dans un délai de quatre semaines qui est porté à six semaines en cas de consultation du comité. 
 
 Les délais de trente jours et de quinze jours prévus aux articles R 247-12 et R 247-13 du livre des procédures fiscales ne
-sont pas applicables.
+sont pas applicables. 
 
 Le défaut de réponse de l'administration dans les délais impartis vaut rejet des demandes.
 
 **Nota:**
 
-NOTA : Loi 2005-845 2005-07-26 art. 165 II :
+Loi 2005-845 2005-07-26 art. 165 II : 
 
 Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
 redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
 et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
 plans de sauvegarde ou de redressement judiciaire.
 
+_Modification effectuée en conséquence de l'article 9 du décret n° 2007-153 du 5 février 2007._
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 art. 4 I 33° JORF 21 septembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 2001-05-21
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-60 (M)
-	  - Livre des procédures fiscales - art. L247 (M)
-	  - Livre des procédures fiscales L247, R247-12, R247-13
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - PERIME: Décret n°2008-295 du 1er avril 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. L621-60
+	  - Livre des procédures fiscales - art. L247
+	  - Livre des procédures fiscales - art. R*247-12
+	  - Livre des procédures fiscales - art. R*247-13
 
 
 ###### Article R*247-18
