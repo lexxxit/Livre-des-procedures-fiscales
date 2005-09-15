@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-09-10
+Version Consolidée au 2005-09-16
 
 # Partie législative
 
@@ -13407,6 +13407,34 @@ nationale d'enquêtes fiscales ou son adjoint.
 	  - HISTO: Edition du 1er janvier 2003
 
 
+##### I ter : Dispositions particulières à la contribution à l'audiovisuel public
+
+###### Article R*16 C-1
+
+Les agents du Trésor public assurant le contrôle de la taxe prévue au I de l'article 1605 du code général des impôts sont
+commissionnés et assermentés par le préfet de région dont relève leur résidence administrative. Ils sont tenus de présenter
+aux personnes qu'ils contrôlent une commission justifiant de leur identité, des pouvoirs qui leur sont conférés et comportant
+une photographie d'identité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1605
+
+	**Créé par**:
+
+	  - Décret n°2005-1167 du 13 septembre 2005 - art. 2 () JORF 16 septembre 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2012-430 du 29 mars 2012 - art. 42
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt de solidarité sur la fortune et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
 
 ##### A : Droits d'enregistrement et taxe de publicité foncière
@@ -15150,6 +15178,25 @@ du retrait.
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater I (V)
 
 
+##### 22° : Etablissements diffuseurs ou distributeurs de services payants de programme de télévision
+
+###### Article R*96 E-1
+
+Le droit de communication prévu à l'article L. 96-E s'effectue dans les conditions prévues à l'article R. * 81-1. Il s'exerce
+par correspondance ou sur place.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1167 du 13 septembre 2005 - art. 2 () JORF 16 septembre 2005
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L96 E (V)
+	  - Livre des procédures fiscales - art. R*81-1 (V)
+
+
 ##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part
 
 ###### Article R*97-1
@@ -16672,6 +16719,22 @@ au cours de la procédure devant le tribunal administratif.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2005
+
+
+###### Article R*198-11
+
+Les services du Trésor public instruisent les réclamations portant sur la redevance audiovisuelle consécutives à un contrôle
+effectué par les agents de ces services et ils statuent sur ces réclamations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1167 du 13 septembre 2005 - art. 2 () JORF 16 septembre 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section II : Procédure devant les tribunaux
