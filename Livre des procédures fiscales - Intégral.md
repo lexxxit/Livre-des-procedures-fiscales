@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-10-18
+Version Consolidée au 2005-12-08
 
 # Partie législative
 
@@ -990,35 +990,21 @@ Ils peuvent requérir l'assistance des autorités de police municipale de la com
 
 ###### Article L23
 
-Indépendamment de la présentation prévue par le II de l'article 867 du code général des Impôts, les notaires, huissiers de
-justice, greffiers, les autorités administratives pour les actes qu'elles rédigent, doivent communiquer leurs répertoires aux
-agents de l'administration des impôts qui se présentent chez eux pour les vérifier.
+Les notaires, huissiers de justice, greffiers, les autorités administratives pour les actes qu'elles rédigent, doivent
+communiquer leurs répertoires aux agents de l'administration des impôts qui se présentent chez eux pour les vérifier.
 
 Le refus de communication est constaté par un procès-verbal établi en présence du maire, d'un adjoint ou d'un agent de la
 police municipale de la commune de résidence.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 867 II
-
-	**Anciens textes**:
-
-	  - CGI 867 II (AL. 2, AL. 3)
-	  - Loi n°22 Frimaire An 7 art. 52
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 9 () JORF 8 décembre 2005
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 867 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### B : Impôt de solidarité sur la fortune
@@ -3436,6 +3422,27 @@ l'article L. 190.
 	  - Livre des procédures fiscales - art. L190 (V)
 
 
+##### Section V bis : Information du contribuable sur les renseignements ou documents obtenus auprès de tiers
+
+###### Article L76 B
+
+L'administration est tenue d'informer le contribuable de la teneur et de l'origine des renseignements et documents obtenus de
+tiers sur lesquels elle s'est fondée pour établir l'imposition faisant l'objet de la proposition prévue au premier alinéa de
+l'article L. 57 ou de la notification prévue à l'article L. 76. Elle communique, avant la mise en recouvrement, une copie des
+documents susmentionnés au contribuable qui en fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 27 () JORF 8 décembre 2005
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L57 (V)
+	  - Livre des procédures fiscales - art. L76 (V)
+
+
 ##### Section VI : Conséquences et limites des procédures de rectification
 
 ###### Article L77
@@ -5100,6 +5107,41 @@ d'imposition ainsi que celle des personnes ayant cessé de percevoir ce revenu m
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1414 (M)
+
+
+###### Article L98 B
+
+L'organisme du régime général de sécurité sociale chargé du recouvrement des cotisations et contributions sociales dues par
+les particuliers employeurs qui utilisent les dispositifs prévus à l'article L. 129-2 du code du travail dans sa rédaction
+antérieure à la publication de la loi n° 2005-841 du 26 juillet 2005, au 1° de l'article L. 129-5, à l'article L. 812-1 du
+même code ainsi qu'à l'article L. 531-5 du code de la sécurité sociale, communique à l'administration des impôts, avant le
+1er mars de chaque année, les informations relatives aux personnes déclarées par ces employeurs au cours de l'année
+précédente.
+
+La communication prévue au premier alinéa peut être faite par voie électronique.
+
+Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés fixe le contenu et
+les modalités de cette communication, et notamment les conditions d'utilisation du numéro d'inscription au répertoire
+national d'identification des personnes physiques pour les échanges et traitements nécessaires à la communication des
+informations ainsi transmises à l'administration des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 28 février 2008 - art. 1 (V)
+	  - Arrêté du 19 février 2010 - art. 2 (V)
+	  - Livre des procédures fiscales - art. R*98 B-1 (V)
+	  - Livre des procédures fiscales - art. R*98 B-2 (V)
+	  - Livre des procédures fiscales - art. R*98 B-3 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 6 () JORF 8 décembre 2005
 
 
 ###### Article L99
