@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-12-20
+Version Consolidée au 2005-12-24
 
 # Partie législative
 
@@ -14647,6 +14647,28 @@ l'article R. * 80 C-3 ont été mises en oeuvre, à compter de la réception des
 
 	  - Livre des procédures fiscales - art. L80 C (V)
 	  - Livre des procédures fiscales - art. R*80 C-3 (V)
+
+
+##### Section VII : Sanctions fiscales
+
+###### Article R80 E-1
+
+La décision d'appliquer les majorations mentionnées à l'article L. 80 E est prise par un agent ayant au moins le grade
+d'inspecteur départemental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2005-1627 du 22 décembre 2005 - art. 1 () JORF 24 décembre 2005
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 E (M)
 
 
 #### Chapitre I bis : Le droit d'enquête
