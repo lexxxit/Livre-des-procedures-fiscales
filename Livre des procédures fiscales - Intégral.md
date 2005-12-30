@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2005-12-24
+Version Consolidée au 2005-12-31
 
 # Partie législative
 
@@ -778,6 +778,24 @@ alinéas de l'article L. 47.
 	  - Décret n°2003-934 2003-09-30
 
 
+###### Article L16 BA
+
+L'administration peut demander au preneur, dans les conditions définies à l'article L. 16 A, des justifications relatives aux
+travaux à raison desquels il a bénéficié du taux réduit de la taxe sur la valeur ajoutée prévu à l'article 279-0 bis du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 88 () JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 279-0 bis (VD)
+	  - Livre des procédures fiscales - art. L16 A (V)
+
+
 ##### I ter : Dispositions particulières à la contribution à l'audiovisuel public
 
 ###### Article L16 C
@@ -811,6 +829,44 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	**Abrogé par**:
 
 	  - Loi n°2011-1978 du 28 décembre 2011 - art. 54
+
+
+##### I quater : Dispositions particulières au contrôle en matière de taxe sur la valeur ajoutée des redevables placés sous le régime simplifié d'imposition
+
+###### Article L16 D
+
+Les opérations réalisées ou facturées par les redevables de la taxe sur la valeur ajoutée soumis au régime simplifié de
+liquidation des taxes sur le chiffre d'affaires prévu à l'article 302 septies A du code général des impôts peuvent faire
+l'objet d'un contrôle à compter du début du deuxième mois suivant leur réalisation ou leur facturation, dans les conditions
+prévues aux articles L. 47 à L. 52 A, à l'exception des articles L. 47 C et L. 50. 
+
+Lorsque le redevable a délivré ou reçu pendant la période contrôlée au moins une facture répondant aux critères mentionnés au
+4 de l'article 283 du code général des impôts, il relève du régime réel normal d'imposition pour l'exercice au cours duquel
+la facturation a été établie.
+
+**Nota:**
+
+Loi n° 2005-1720 du 30 décembre 2005, art. 90 III : Ces dispositions sont applicables aux exercices ouverts à compter du 1er
+janvier 2006.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 90 (V) JORF 31 décembre 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-1723 du 23 décembre 2006 - art. 1 (Ab)
+	  - Livre des procédures fiscales - art. L16-0 BA (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 283 (V)
+	  - Code général des impôts, CGI. - art. 302 septies A (V)
+	  - Livre des procédures fiscales - art. L47 (V)
+	  - Livre des procédures fiscales - art. L47 C (V)
+	  - Livre des procédures fiscales - art. L50 (V)
 
 
 ##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicité foncière, à l'impôt de solidarité sur la fortune et à la taxe sur la valeur vénale des immeubles possédés en France par des personnes morales
@@ -2825,14 +2881,14 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 Au cours d'une vérification de comptabilité et pour les impôts sur lesquels porte cette vérification, le contribuable peut
 régulariser les erreurs, inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans les délais,
-moyennant le paiement d'un intérêt de retard égal à 50 % de l'intérêt de retard prévu à l'article 1727 du code général des
-impôts.
+moyennant le paiement d'un intérêt de retard égal à 70 % de l'intérêt de retard prévu à l'article 1727 du code général des
+impôts. 
 
-Cette procédure de régularisation spontanée ne peut être appliquée que si :
+Cette procédure de régularisation spontanée ne peut être appliquée que si : 
 
-1° Le contribuable en fait la demande avant toute proposition de rectification ;
+1° Le contribuable en fait la demande avant toute proposition de rectification ; 
 
-2° La régularisation ne concerne pas une infraction exclusive de bonne foi ;
+2° La régularisation ne concerne pas une infraction exclusive de bonne foi ; 
 
 3° Le contribuable dépose une déclaration complémentaire dans les trente jours de sa demande et acquitte l'intégralité des
 suppléments de droits simples et des intérêts de retard au moment du dépôt de la déclaration, ou à la date limite de paiement
@@ -2840,21 +2896,19 @@ portée sur l'avis d'imposition en cas de mise en recouvrement par voie de rôle
 
 **Nota:**
 
-NOTA : Ces dispositions sont applicables aux contrôles engagés à compter du 1er janvier 2005.
+Loi 2005-1719 2005-12-30 art. 29 V Finances pour 2006 : 
+
+dispositions d'application.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1727
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 25 (V) JORF 31 décembre 2004
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1727 (V)
 
 	**Cité par**:
 
@@ -4334,15 +4388,10 @@ départements et les communes, ainsi que les établissements ou organismes de to
 administrative, doivent communiquer à l'administration, sur sa demande, les documents de service qu'ils détiennent sans
 pouvoir opposer le secret professionnel, y compris les données conservées et traitées par les opérateurs de communications
 électroniques dans le cadre de l'article L. 34-1 du code des postes et des communications électroniques et les prestataires
-mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
+mentionnés aux articles aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
+l'économie numérique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 43-8 (Ab)
-	  - Code des postes et des communications électronique - art. L34-1 (M)
 
 	**Cité par**:
 
@@ -4359,18 +4408,14 @@ mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du 30 septembre 1986
 	  - Livre des procédures fiscales - art. L84 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
+	**Cite**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 6 (VT)
+	  - Code des postes et des communications électroni... - art. L34-1 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 1 (V) JORF 10 juillet 2004
-	  - Loi n°2004-669 du 9 juillet 2004 - art. 10 () JORF 10 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-331 2005-04-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005
 
 
 ###### Article L83 A
@@ -4393,6 +4438,23 @@ communiquer spontanément tous les renseignements et documents recueillis dans l
 
 	  - HISTO: Edition du 31 mars 1999
 	  - TXT_ASSOCIE: Instruction 1999-07-29 13K-9-99
+
+
+###### Article L83 B
+
+Les agents de la direction générale de la consommation, de la concurrence et de la répression des fraudes et de la direction
+générale des douanes et droits indirects peuvent se communiquer spontanément tous les renseignements et documents recueillis
+dans le cadre de leurs missions respectives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L114-20 (M)
 
 
 ###### Article L84
@@ -4805,6 +4867,25 @@ _Modifications effectuées en conséquence de l'article 11 I de la loi n° 2007-
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R*94-1 (P)
+
+
+##### 15° bis : Sociétés civiles
+
+###### Article L94 A
+
+Les sociétés civiles définies à l'article 1845 du code civil sont tenues de présenter à l'administration, sur sa demande, les
+documents sociaux et, le cas échéant, les documents comptables et autres pièces de recettes et de dépenses qu'elles
+détiennent et relatives à l'activité qu'elles exercent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 98 (V) JORF 31 décembre 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1845 (V)
 
 
 ##### 16° : Caisses de mutualité sociale agricole
@@ -6784,15 +6865,23 @@ règle du secret.
 Ces dispositions ne font pas échec au secret de la défense nationale.
 
 L'administration fiscale est tenue de transmettre, chaque année, aux collectivités locales et à leurs groupements dotés d'une
-fiscalité propre les rôles généraux des impôts directs locaux comportant les impositions émises à leur profit.
+fiscalité propre :
+
+a) Les rôles généraux des impôts directs locaux comportant les impositions émises à leur profit et, à leur demande, les
+montants des rôles supplémentaires lorsqu'ils sont d'un montant supérieur à un seuil fixé par arrêté du ministre chargé du
+budget ;
+
+b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements dont les contribuables de la collectivité ont
+bénéficié, à l'exception de ceux accordés en application de l'article L. 190.
 
 Elle est également tenue de leur transmettre, à leur demande, la liste des logements vacants recensés l'année précédente pour
 l'établissement de la taxe d'habitation. Cette liste indique, pour chaque logement, son adresse, sa nature, sa valeur
 locative, la première année de vacance du local, le nom et l'adresse de son propriétaire et, le cas échéant, l'année à partir
 de laquelle le local a été soumis à la taxe sur les locaux vacants et le taux d'imposition à cette taxe.
 
-Les communes et l'administration peuvent se communiquer mutuellement les informations nécessaires au recensement des bases
-des impositions directes locales.
+Les collectivités locales, les établissements publics de coopération intercommunale dotés d'une fiscalité propre et
+l'administration fiscale peuvent se communiquer mutuellement les informations nécessaires au recensement des bases des
+impositions directes locales.
 
 Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par
 le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
@@ -6804,7 +6893,7 @@ des modalités définies par un décret en Conseil d'Etat.
 	**Cite**:
 
 	  - Loi n°78-17 1978-01-06
-	  - Code pénal 378
+	  - Livre des procédures fiscales - art. L190 (M)
 
 	**Cité par**:
 
@@ -6823,11 +6912,12 @@ des modalités définies par un décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 118 () JORF 19 janvier 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 106 (V) JORF 31 décembre 2005
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 107 () JORF 31 décembre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article L135 D
@@ -9398,9 +9488,23 @@ Sont instruites et jugées selon les règles du présent chapitre toutes actions
 imposition ou à l'exercice de droits à déduction, fondées sur la non-conformité de la règle de droit dont il a été fait
 application à une règle de droit supérieure.
 
-Lorsque cette non-conformité a été révélée par une décision juridictionnelle, l'action en restitution des sommes versées ou
-en paiement des droits à déduction non exercés ou l'action en réparation du préjudice subi ne peut porter que sur la période
-postérieure au 1er janvier de la quatrième année précédant celle où la décision révélant la non-conformité est intervenue.
+Lorsque cette non-conformité a été révélée par une décision juridictionnelle ou un avis rendu au contentieux, l'action en
+restitution des sommes versées ou en paiement des droits à déduction non exercés ou l'action en réparation du préjudice subi
+ne peut porter que sur la période postérieure au 1er janvier de la troisième année précédant celle où la décision ou l'avis
+révélant la non-conformité est intervenu.
+
+Pour l'application de l'alinéa précédent, sont considérés comme des décisions juridictionnelles ou des avis rendus au
+contentieux les décisions du Conseil d'Etat ainsi que les avis rendus en application de l'article L. 113-1 du code de justice
+administrative, les arrêts de la Cour de cassation ainsi que les avis rendus en application de l'article L. 151-1 du code de
+l'organisation judiciaire, les arrêts du Tribunal des conflits et les arrêts de la Cour de justice des Communautés
+européennes se prononçant sur un recours en annulation, sur une action en manquement ou sur une question préjudicielle.
+
+**Nota:**
+
+NOTA : Loi 2005-1719 2005-12-30 art. 117 II Finances pour 2006 :
+
+Les dispositions du 1° du I s'appliquent aux réclamations invoquant la non-conformité d'une règle de droit à une norme
+supérieure révélée par une décision juridictionnelle ou un avis rendu au contentieux intervenu à compter du 1er janvier 2006.
 
 **Liens relatifs à cet article**
 
@@ -9423,16 +9527,14 @@ postérieure au 1er janvier de la quatrième année précédant celle où la dé
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-281 du 25 mars 2004 - art. 28 () JORF 27 mars 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 117 (V) JORF 31 décembre 2005
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L57 (M)
 	  - Livre des procédures fiscales - art. L76 (M)
+	  - Code de justice administrative. - art. L113-1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L151-1 (M)
 
 
 ##### Charge et administration de la preuve
@@ -9994,29 +10096,25 @@ intérêts ou à des indemnités quelconques, à l'exception des intérêts mora
 Quand l'Etat est condamné à un dégrèvement d'impôt par un tribunal ou quand un dégrèvement est prononcé par l'administration
 à la suite d'une réclamation tendant à la réparation d'une erreur commise dans l'assiette ou le calcul des impositions, les
 sommes déjà perçues sont remboursées au contribuable et donnent lieu au paiement d'intérêts moratoires dont le taux est celui
-de l'intérêt légal (1). Les intérêts courent du jour du paiement. Ils ne sont pas capitalisés.
+de l'intérêt de retard prévu à l'article 1727 du code général des impôts. Les intérêts courent du jour du paiement. Ils ne
+sont pas capitalisés. 
 
 Lorsque les sommes consignées à titre de garanties en application des articles L. 277 et L. 279 doivent être restituées, en
 totalité ou en partie, la somme à rembourser est augmentée des intérêts prévus au premier alinéa. Si le contribuable a
 constitué des garanties autres qu'un versement en espèces, les frais qu'il a exposés lui sont remboursés dans les limites et
 conditions fixées par décret.
 
-**Nota:**
-
-(1) Fixé à 4,26 % pour l'année 2002.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°77-574 1977-06-07 art. 5 JORF 8 juin 1977
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Code général des impôts, CGI. - art. 1727 (V)
+	  - Livre des procédures fiscales - art. L277 (V)
+	  - Livre des procédures fiscales - art. L279 (V)
 
 	**Cité par**:
 
@@ -10026,15 +10124,6 @@ conditions fixées par décret.
 	  - Livre des procédures fiscales - art. L208 B (V)
 	  - Livre des procédures fiscales - art. R*208-1 (V)
 	  - Livre des procédures fiscales - art. R*208-3 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L277 (MMN)
-	  - Livre des procédures fiscales - art. L279 (M)
 
 
 ###### Article L208 A
@@ -10072,19 +10161,30 @@ Lorsque le tribunal administratif rejette totalement ou partiellement la demande
 l'annulation ou la réduction d'une imposition établie en matière d'impôts directs à la suite d'une rectification ou d'une
 taxation d'office, les cotisations ou fractions de cotisations maintenues à la charge du contribuable et pour lesquelles
 celui-ci avait présenté une réclamation assortie d'une demande de sursis de paiement donnent lieu au paiement d'intérêts
-moratoires au taux de l'intérêt légal. Ces intérêts moratoires ne sont pas dus sur les cotisations ou fractions de
-cotisations d'impôts soumises à l'intérêt de retard visé à l'article 1731 du code général des impôts.
+moratoires au taux de l'intérêt de retard prévu à l'article 1727 du code général des impôts. Ces intérêts moratoires ne sont
+pas dus sur les cotisations ou fractions de cotisations d'impôts soumises à l'intérêt de retard mentionné à l'article 1727 du
+code général des impôts. 
 
-Ces dispositions sont également applicables en cas de désistement du contribuable auprès de la juridiction saisie.
+Ces dispositions sont également applicables en cas de désistement du contribuable auprès de la juridiction saisie. 
 
 Sur demande justifiée du contribuable, le montant des intérêts moratoires est réduit du montant des frais éventuellement
-engagés pour la constitution des garanties propres à assurer le recouvrement des impôts contestés.
+engagés pour la constitution des garanties propres à assurer le recouvrement des impôts contestés. 
 
 Les intérêts courent du premier jour du treizième mois suivant celui de la date limite de paiement jusqu'au jour du paiement
 effectif des cotisations. Ils sont recouvrés dans les mêmes conditions et sous les mêmes garanties, sûretés et privilèges que
 les impositions auxquelles ils s'appliquent.
 
+**Nota:**
+
+Dans sa décision n° 2014-400 QPC du 6 juin 2014 (NOR : CSCX1413218S), le Conseil constitutionnel a déclaré le troisième
+alinéa de l'article L. 209 du livre des procédures fiscales contraire à la Constitution. La déclaration
+d'inconstitutionnalité prévue par l'article 1er prend effet dans les conditions fixées aux considérants 10 et 11.
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
 
 	**Cité par**:
 
@@ -10095,15 +10195,7 @@ les impositions auxquelles ils s'appliquent.
 
 	**Cite**:
 
-	  - CGI 1731
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
+	  - Code général des impôts, CGI. - art. 1727 (V)
 
 
 ##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.
@@ -11726,6 +11818,9 @@ L'autorité précitée peut déléguer sa signature aux agents placés sous son 
 Un avis de mise en recouvrement est adressé par le comptable public à tout redevable des sommes, droits, taxes et redevances
 de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la date d'exigibilité.
 
+Un avis de mise en recouvrement est également adressé par le comptable public pour la restitution des sommes, droits, taxes
+et redevances de toute nature mentionnés au premier alinéa et indûment versés par l'Etat.
+
 L'avis de mise en recouvrement est individuel. Il est signé et rendu exécutoire par l'autorité administrative désignée par
 décret. Les pouvoirs de l'autorité administrative susmentionnée sont également exercés par le comptable public.
 
@@ -11746,11 +11841,11 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1235 du 22 décembre 2003 - art. 6 () JORF 24 décembre 2003
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 101 () JORF 31 décembre 2005
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article L257
@@ -11797,25 +11892,22 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L257 A
 
 Les avis de mises en recouvrement peuvent être signés et rendus exécutoires et les mises en demeure peuvent être signées,
-sous l'autorité et la responsabilité du comptable, par les agents de la recette ayant au moins le grade de contrôleur.
+sous l'autorité et la responsabilité du comptable, par les agents du service des impôts ayant au moins le grade de
+contrôleur.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2006
 
 	**Cité par**:
 
 	  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V)
 
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
 	**Modifié par**:
 
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 1 () JORF 18 septembre 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ##### Section II : Exercice des poursuites
