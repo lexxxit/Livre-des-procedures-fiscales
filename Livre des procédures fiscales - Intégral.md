@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-08-22
+Version Consolidée au 2006-08-25
 
 # Partie législative
 
@@ -20956,6 +20956,37 @@ applicables.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2000
+
+
+#### Chapitre III : Dispositions communautaires
+
+###### Article R289-1
+
+Pour l'application des dispositions de l'article L. 289, la demande de notification mentionne l'objet de l'acte ou de la
+décision à notifier et indique le nom, l'adresse et tout autre renseignement susceptible de faciliter l'identification du
+destinataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1042 du 24 août 2006 - art. 1 () JORF 25 août 2006 rectificatif Journal officiel du 25 août 2006
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L289 (V)
+
+
+###### Article R289-2
+
+L'administration destinataire d'une demande de notification informe sans tarder l'Etat membre requérant de la suite donnée à
+sa demande, et en particulier, de la date à laquelle la décision ou l'acte a été notifié au destinataire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1042 du 24 août 2006 - art. 1 () JORF 25 août 2006
 
 
 # Partie réglementaire - Arrêtés
