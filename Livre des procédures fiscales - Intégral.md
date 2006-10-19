@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-08-31
+Version Consolidée au 2006-10-20
 
 # Partie législative
 
@@ -14677,18 +14677,18 @@ sociale dont dépend l'entreprise des suites données à sa demande d'appréciat
 
 ###### Article R*80 B-8
 
-Le délai de quatre mois prévu au 4° de l'article L. 80 B court à compter de la réception de la demande d'appréciation ou, si
-les dispositions de l'article R.* 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+Le délai de quatre mois prévu aux 4° et 5° de l'article L. 80 B court à compter de la réception de la demande d'appréciation
+ou, si les dispositions de l'article R.* 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-1067 du 6 octobre 2004 - art. 1 () JORF 9 octobre 2004
+	  - Décret n°2006-1276 du 18 octobre 2006 - art. 1 () JORF 20 octobre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Cite**:
 
@@ -14728,6 +14728,30 @@ dispositions du b ont été mises en oeuvre, à compter de la réception des com
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L80 B (M)
+
+
+###### Article R*80 B-10
+
+Les dispositions des articles R.* 80 B-1 à R.* 80 B-3 sont applicables aux demandes d'appréciation mentionnées au 5° de
+l'article L. 80 B.
+
+Le directeur des services fiscaux informe l'organisme chargé du recouvrement des cotisations patronales de sécurité sociale
+dont dépend l'entreprise des suites données à sa demande d'appréciation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2006-1276 du 18 octobre 2006 - art. 2 () JORF 20 octobre 2006
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (M)
+	  - Livre des procédures fiscales R80 B-1 à R80 B-3, L80 B
 
 
 ###### Article R*80 C-1
