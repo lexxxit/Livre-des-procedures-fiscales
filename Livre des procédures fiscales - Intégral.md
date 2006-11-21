@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-10-20
+Version Consolidée au 2006-11-22
 
 # Partie législative
 
@@ -15222,24 +15222,23 @@ est soumis aux obligations définies à l'article R. 87-1.
 A chaque inventaire semestriel, la société de gestion d'un fonds commun de placement à risques ou le dépositaire des actifs
 de ce fonds agissant pour le compte de la société de gestion s'assure que les sociétés dont les titres sont retenus pour le
 calcul de la proportion de 50 % mentionnée au II de l'article 163 quinquies B du code général des impôts remplissent, à la
-date de clôture de leur dernier exercice précédant l'inventaire, les conditions posées aux premier et troisième alinéas du I
-de l'article 1er modifié de la loi n° 85-695 du 11 juillet 1985.
+date de clôture de leur dernier exercice précédant l'inventaire, les conditions posées au II de l'article 163 quinquies B
+précité.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 163 quinquies B
-	  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
 	  - Livre des procédures fiscales - art. R87-1 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2001-171 du 19 février 2001 - art. 2 () JORF 24 février 2001
+	  - Décret n°2006-1414 du 20 novembre 2006 - art. 1 () JORF 22 novembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article R87-3
