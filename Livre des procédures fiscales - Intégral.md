@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-12-22
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -3731,7 +3731,7 @@ a. Disposition devenue sans objet ;
 
 b. a notifié à l'administration sa volonté de bénéficier des dispositions des articles 39 AB, 39 AC, 39 quinquies A, 39
 quinquies D, 39 quinquies DA ou des articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies ou
-44 octies (1) du code général des impôts.
+44 octies A du code général des impôts.
 
 La notification doit être préalable à l'opération en cause et effectuée à partir d'une présentation écrite précise et
 complète de la situation de fait.
@@ -3760,18 +3760,11 @@ partir d'une présentation écrite précise et complète de la situation de fait
 établissement stable ou d'une base fixe au sens de la convention fiscale liant la France à l'État dans lequel ce contribuable
 est résident.
 
-Un décret en Conseil d'État précise les modalités d'application du présent 6° (1) ;
+Un décret en Conseil d'État précise les modalités d'application du présent 6° ;
 
 7° Lorsque l'administration a conclu un accord préalable portant sur la méthode de détermination des prix mentionnés au 2° de
 l'article L. 13 B, soit avec l'autorité compétente désignée par une convention fiscale bilatérale destinée à éliminer les
-doubles impositions, soit avec le contribuable. (2)
-
-**Nota:**
-
-Nota (1) : Loi 2004-1485 2004-12-30 art. 19 II et art. 23 II : Ces dispositions sont applicables aux demandes adressées à
-compter du 1er janvier 2005.
-
-Nota (2) : Loi 2004-1485 2004-12-30 art. 20 II : Ces dispositions s'appliquent à compter du 1er janvier 2005.
+doubles impositions, soit avec le contribuable.
 
 **Liens relatifs à cet article**
 
@@ -3784,12 +3777,12 @@ Nota (2) : Loi 2004-1485 2004-12-30 art. 20 II : Ces dispositions s'appliquent �
 	  - Arrêté du 25 juillet 1996 - art. ANNEXE II (V)
 	  - Arrêté du 25 juillet 1996 - art. ANNEXE III (V)
 	  - Arrêté du 16 mai 1997 - art. 1 (Ab)
-	  - Loi n°2003-1311 du 30 décembre 2003 - art. 131 (V)
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 24 (V)
 	  - Arrêté du 11 juin 2008 - art. (V)
 	  - Arrêté du 11 juin 2008 - art. 1 (V)
-	  - Décret n°2004-581 du 21 juin 2004 - art. 3 (V)
 	  - Arrêté du 28 novembre 2014 - art. 1 (V)
+	  - Loi n°2003-1311 du 30 décembre 2003 - art. 131 (V)
+	  - Décret n°2004-581 du 21 juin 2004 - art. 3 (V)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 24 (V)
 	  - Livre des procédures fiscales - art. L80 C (V)
 	  - Livre des procédures fiscales - art. L80 CB (V)
 	  - Livre des procédures fiscales - art. R* 80 B-11 (V)
@@ -3811,21 +3804,18 @@ Nota (2) : Loi 2004-1485 2004-12-30 art. 20 II : Ces dispositions s'appliquent �
 	  - Livre des procédures fiscales - art. R*80 CB-5 (V)
 	  - Livre des procédures fiscales - art. R*80 CB-6 (V)
 
-	**Modifié par**:
-
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 20 (V) JORF 31 décembre 2004
-	  - Loi n°2004-1484 2004-12-30 art. 24 IV Finances pour 2005 JORF 31 décembre 2004
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 19 (V) JORF 31 décembre 2004
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 23 (V) JORF 31 décembre 2004
-
 	**Cite**:
 
-	  - CGI 39 AB, 39 AC, 39 quinquies A, 39 quinquies D, 39 quinquies DA, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 44 octies, 244 quater B, 44 sexies-0 A, 44 undecies
+	  - CGI 39 AB, 39 AC, 39 quinquies A, 39 quinquies D, 39 quinquies DA, 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 44 octies A, 244 quater B, 44 sexies-0 A, 44 undecies
 	  - CGI Livre des procédures fiscales L80 A
+
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 128 (V) JORF 31 décembre 2006
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article L80 C
@@ -5991,46 +5981,30 @@ Des dérogations à la règle du secret professionnel sont établies au profit d
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section.
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 135 J, L. 136, L. 139 A, L. 152 A, L. 158, L. 161 et L. 166 sont eux-mêmes
-soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
+D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, L. 152 A, L. 158, L. 161 et L. 166 sont eux-
+mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L123, L124, L127, L130, L135, L135 B, L135 D, L135 E, L135 F, L135 H, L135 I, L135 J, L135 O, L136, L139 A, L152 A, L158, L161
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Loi - art. 129 () JORF 31 décembre 1999
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 101 () JORF 31 décembre 2006
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L651-5-1 (V)
 	  - Livre des procédures fiscales - art. R*113-1 (V)
 	  - Livre des procédures fiscales - art. R135 D-1 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L123 (V)
-	  - Livre des procédures fiscales - art. L124 (M)
-	  - Livre des procédures fiscales - art. L127 (V)
-	  - Livre des procédures fiscales - art. L130 (M)
-	  - Livre des procédures fiscales - art. L135 (V)
-	  - Livre des procédures fiscales - art. L135 B (M)
-	  - Livre des procédures fiscales - art. L135 D (M)
-	  - Livre des procédures fiscales - art. L135 E (V)
-	  - Livre des procédures fiscales - art. L135 F (M)
-	  - Livre des procédures fiscales - art. L135 H (V)
-	  - Livre des procédures fiscales - art. L135 I (M)
-	  - Livre des procédures fiscales - art. L135 J (M)
-	  - Livre des procédures fiscales - art. L136 (V)
-	  - Livre des procédures fiscales - art. L139 A (M)
-	  - Livre des procédures fiscales - art. L152 A (M)
-	  - Livre des procédures fiscales - art. L158 (M)
-	  - Livre des procédures fiscales - art. L161 (Ab)
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
 
 
 ##### I : Dérogations en matière d'assistance fiscale internationale
@@ -7258,6 +7232,30 @@ orientations de la politique énergétique.
 	  - Loi n°2005-781 2005-07-13 art. 67 II JORF 14 juillet 2005
 
 
+###### Article L135 O
+
+Les maires peuvent se faire communiquer par l'administration en charge des contributions indirectes les éléments
+d'information que celle-ci détient en matière d'impôt sur les spectacles et de surtaxe sur les eaux minérales.
+
+Le président de la collectivité territoriale de Corse et les présidents des conseils généraux en Corse peuvent se faire
+communiquer par l'administration en charge des contributions indirectes les éléments d'information que celle-ci détient en
+matière de droit de consommation sur les tabacs manufacturés.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Créé par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 101 () JORF 31 décembre 2006
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+
 ##### III : Dérogations au profit de diverses commissions
 
 ###### Article L136
@@ -8441,11 +8439,11 @@ la fin de la troisième année qui suit celle au titre de laquelle l'imposition 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 sixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé dans le délai
 légal les déclarations qu'il était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des
-entreprises ou au greffe du tribunal de commerce (1).
+entreprises ou au greffe du tribunal de commerce.
 
 Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules catégories de revenus que le contribuable n'a
 pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique pas lorsque des
-revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés (1).
+revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés.
 
 Si le déficit d'ensemble ou la moins-value nette à long terme d'ensemble subis par un groupe mentionné à l'article 223 A du
 code général des impôts sont imputés dans les conditions prévues aux articles 223 C et 223 D dudit code sur le résultat
@@ -8455,19 +8453,13 @@ de ce groupe et qui ont concouru à la détermination de ce déficit ou de cette
 hauteur du montant du déficit ou de la moins-value ainsi imputés, nonobstant les dispositions prévues au premier alinéa.
 
 Si le groupe a cessé d'exister, les règles définies au quatrième alinéa demeurent applicables au déficit ou à la moins-value
-nette à long terme définis au quatrième alinéa de l'article 223 S du code général des impôts.
+nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
 
-(1) Ces dispositions s'appliquent aux délais venant à expiration postérieurement au 31 décembre 1996.
+**Nota:**
+
+NOTA : Loi 2006-1771 2006-12-30 art. 88 XII : dispositions applicables aux exercices ouverts à compter du 1er janvier 2008.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 115 (V) JORF 31 décembre 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-662 1997-05-28
 
 	**Cité par**:
 
@@ -8500,10 +8492,13 @@ nette à long terme définis au quatrième alinéa de l'article 223 S du code g�
 	  - CGI 223 A, 223, 223 S
 	  - Livre des procédures fiscales - art. L168 A (M)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 88 (V) JORF 31 décembre 2006
+
 	**Liens**:
 
-	  - HISTO: Edition du 11 avril 1997
-	  - TXT_ASSOCIE: Instruction 1997-10-30 13L-4-97
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article L169 A
