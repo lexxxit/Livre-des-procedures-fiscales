@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -1227,6 +1227,9 @@ qualitatifs et quantitatifs prévus par ces législations.
 Les agents ont également libre accès aux lieux de dépôt des entreprises de transport ainsi qu'aux ateliers publics et aux
 locaux des associations coopératives où sont effectuées des distillations.
 
+Ils ont un accès immédiat aux données conservées dans des systèmes dématérialisés de billetterie, ainsi qu'à la restitution
+des informations en clair.
+
 Lorsque les agents de catégorie A et B constatent une infraction, ils ont le droit, après en avoir informé le contrevenant,
 de saisir les objets, produits, marchandises ou appareils passibles de confiscation. Il est fait mention de la saisie au
 procès-verbal prévu à l'article L. 212 A.
@@ -1235,6 +1238,10 @@ Les agents de catégorie C peuvent également exercer ce droit, lorsqu'ils agiss
 ayant au moins le grade d'inspecteur.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI Livre des procédures fiscales L212 A
 
 	**Cité par**:
 
@@ -1249,15 +1256,11 @@ ayant au moins le grade d'inspecteur.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 94 () JORF 31 décembre 2004
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 104 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L212 A (V)
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article L27
@@ -1807,42 +1810,6 @@ chacune sur le territoire de l'Etat dont elle relève, en vue d'échanger les re
 	  - Livre des procédures fiscales - art. L81 (V)
 
 
-###### Article L45 A
-
-Lorsqu'une vérification de comptabilité ou une procédure de rectification requiert des connaissances techniques
-particulières, l'administration peut faire appel aux conseils techniques d'agents de l'Etat ou des établissements publics
-figurant sur une liste arrêtée par le ministre chargé du budget.
-
-Sauf pour l'appréciation du caractère brevetable d'une invention mentionnée au 1 de l'article 39 terdecies du code général
-des impôts, le présent article n'est applicable qu'aux entreprises ainsi que, le cas échéant, à leurs mères et filiales, dont
-le chiffre d'affaires total dépasse 3 millions d'euros.
-
-Les agents ainsi désignés sont tenus au secret professionnel dans les termes de l'article L. 103.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 39 terdecies
-	  - Livre des procédures fiscales - art. L103 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 99 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L198 A (V)
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
-
-
 ###### Article L45 B
 
 La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt défini à
@@ -1888,37 +1855,6 @@ régularisation des déductions opérées indûment sur les taxes payées à l'u
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 298 (V)
-
-
-###### Article L45 D
-
-La réalité et le bien-fondé des dépenses de formation exposées par les employeurs au titre du crédit d'impôt formation prévu
-par l'article 244 quater C du code général des impôts peuvent être contrôlés par les agents commissionnés par l'autorité
-administrative de l'Etat chargée de la formation professionnelle, sans préjudice des pouvoirs de contrôle de l'administration
-des impôts qui demeure seule compétente pour l'application des procédures de rectification.
-
-Un décret fixe les conditions d'application de cet article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 244 quater C
-
-	**Cité par**:
-
-	  - Décret n°89-353 du 5 juin 1989 - art. 1 (V)
-	  - Livre des procédures fiscales - art. R45 D-1 (P)
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-485 du 30 mars 2007 - art. 1 () JORF 31 mars 2007 conséquence de la péremption de l'article 244 quater C
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 août 2004
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
 ###### Article L45 F
@@ -5141,17 +5077,16 @@ Doivent adresser chaque année à l'administration des impôts un relevé récap
 femme, auxiliaire médical et laboratoire d'analyses médicales des feuilles de maladie et notes de frais remises par les
 assurés :
 
-1° Les caisses de sécurité sociale chargées de la gestion des risques maladie et maternité ;
+1° les caisses de sécurité sociale chargées de la gestion des risques maladie et maternité ;
 
-2° Les organismes chargés de la gestion des risques maladie et maternité des régimes spéciaux de sécurité sociale ;
+2° les organismes chargés de la gestion des risques maladie et maternité des régimes spéciaux de sécurité sociale ;
 
-3° Les sociétés ou unions de sociétés de secours mutuel fonctionnant comme organismes d'assurances sociales agricoles pour
+3° les sociétés ou unions de sociétés de secours mutuel fonctionnant comme organismes d'assurances sociales agricoles pour
 les assurances maladie et maternité ;
 
-4° Les caisses mutuelles régionales d'assurance maladie et maternité des travailleurs non salariés des professions non
-agricoles ;
+4° les caisses de base du régime social des indépendants mentionnées à l'article L. 611-3 du code de la sécurité sociale ;
 
-5° Les sociétés et organismes qui assurent le service des prestations prévues par les articles L752-1 à L752-21 du code rural
+5° les sociétés et organismes qui assurent le service des prestations prévues par les articles L752-1 à L752-21 du code rural
 relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture.
 
 Ce relevé mentionne, notamment, le montant des honoraires versés par les assurés aux praticiens.
@@ -5174,19 +5109,19 @@ montant total des honoraires qui leur sont effectivement versés par les assuré
 	**Cite**:
 
 	  - Code rural L752-1 à L752-21
+	  - Code de la sécurité sociale. - art. L611-3 (M)
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 mars 2001
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Rapport - art. 1 (V) JORF 22 juin 2000
-	  - Rapport - art. 6 (V) JORF 22 juin 2000
+	  - Ordonnance n°2005-1528 du 8 décembre 2005 - art. 2 () JORF 9 décembre 2005
 
 	**Codifié par**:
 
-	  - Décret n°2001-436 2001-05-21
+	  - Décret n°2007-485 2007-03-30
 
 	**Cité par**:
 
@@ -5660,6 +5595,28 @@ respect de la vie privée s'impose au vérificateur à l'égard de toutes person
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (V)
+
+
+###### Article L103 A
+
+L'administration des impôts peut solliciter toute personne dont l'expertise est susceptible de l'éclairer pour l'exercice de
+ses missions d'étude, de contrôle, d'établissement de l'impôt ou d'instruction des réclamations, lorsque ces missions
+requièrent des connaissances ou des compétences particulières. 
+
+L'administration peut communiquer à cette personne, sans méconnaître la règle du secret professionnel, les renseignements
+destinés à lui permettre de remplir sa mission. 
+
+Les personnes consultées sont tenues au secret professionnel dans les conditions prévues par l'article L. 103.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 99 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L103 (V)
 
 
 ##### 1° : Délivrance de documents aux contribuables
@@ -7066,34 +7023,26 @@ Conformément au troisième alinéa de l'article L. 131-85 du code monétaire et
 l'administration des impôts les informations détenues par celle-ci en application de l'article 1649 A du code général des
 impôts, qui permettent d'identifier l'ensemble des comptes ouverts par les personnes physiques ou morales mentionnées à
 l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6 du même code et sur lesquels peuvent être tirés des chèques.
-Elle lui fournit, aux seules fins poursuivies par la section 1 du chapitre Ier du titre III du livre Ier du code monétaire et
-financier, les renseignements permettant d'identifier les titulaires de ces comptes.
+Elle lui fournit, aux seules fins poursuivies par le chapitre Ier du titre III du livre Ier du code monétaire et financier,
+les renseignements permettant d'identifier les titulaires de ces comptes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1649 A
-	  - Code monétaire et financier - art. L131-72 (M)
-	  - Code monétaire et financier - art. L131-85 (M)
-	  - Code monétaire et financier - art. L163-6 (M)
-
 	**Modifié par**:
 
-	  - Ordonnance 2000-1223 2000-12-14 art. 3 JORF 16 décembre 2000
+	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
 
 	**Codifié par**:
 
-	  - Décret n°2002-922 2002-06-06
+	  - Décret n°2007-485 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (VT)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code monétaire et financier - art. L131-85 (M)
-	  - HISTO: Edition du 31 mars 2002
 
 
 ###### Article L135 J
@@ -7254,6 +7203,64 @@ matière de droit de consommation sur les tabacs manufacturés.
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+
+###### Article L135 P
+
+Conformément au deuxième alinéa de l'article L. 216-4 du code de l'environnement, le secret professionnel ne peut être opposé
+aux agents mentionnés à l'article L. 216-3 du même code qui sont chargés de procéder à la recherche et à la constatation des
+infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L. 211-7, L. 211-12, du II de l'article L. 212-5-1 et
+des articles L. 214-1 à L. 214-9, L. 214-11 à L. 214-13, L. 214-17, L. 214-18, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12
+du code précité, ainsi que des textes et des décisions pris pour leur application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2007-485 2007-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-485 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+
+	**Cite**:
+
+	  - Livre des procédures fiscales L212-5-1
+	  - Code de l'environnement - art. L214-17 (V)
+	  - Code de l'environnement - art. L214-18 (V)
+	  - Code de l'environnement - art. L216-3 (M)
+	  - Code de l'environnement - art. L216-4 (M)
+	  - Code de l'environnement L216-4, L216-3, L214-1 à L214-9, L214-11 à L214-13, L214-17, L214-18, L216-6 à L216-8, L216-10 à L216-12
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article L135 Q
+
+Conformément au premier alinéa et au 6° de l'article L. 1617-5 du code général des collectivités territoriales, le secret
+professionnel ne peut être opposé aux comptables directs du Trésor chargés du recouvrement d'une créance assise et liquidée
+par une collectivité territoriale, ses établissements publics ou des établissements publics de santé en ce qui concerne les
+informations et renseignements nécessaires à l'exercice de cette mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2007-485 2007-03-30
+
+	**Créé par**:
+
+	  - Décret n°2007-485 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1617-5 (V)
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -7959,30 +7966,40 @@ de la publicité foncière peut recevoir de l'administration des impôts communi
 
 ###### Article L151
 
-L'administration des impôts est tenue de communiquer à l'huissier de justice chargé par le créancier de former la demande de
-paiement direct d'une pension alimentaire, tous les renseignements dont elle dispose ou peut disposer permettant de
-déterminer l'adresse du débiteur de la pension, l'identité et l'adresse de son employeur ou de toute autre personne débitrice
-ou dépositaire de sommes liquides ou exigibles.
+L'administration est tenue de communiquer à l'huissier de justice chargé par le créancier de former la demande de paiement
+direct d'une pension alimentaire, tous les renseignements dont elle dispose ou peut disposer permettant de déterminer
+l'adresse du débiteur de la pension, l'identité et l'adresse de son employeur ou de toute autre personne débitrice ou
+dépositaire de sommes liquides ou exigibles.
+
+**Nota:**
+
+Décret n° 2012-654 du 4 mai 2012 article 1 : L'article L. 151 devient sans objet, en conséquence de l'article 5-II de la loi
+n° 2010-1609 du 22 décembre 2010.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 14 juin 1982 - art. 4 (V)
-	  - Livre des procédures fiscales - art. L132 A (V)
 
 	**Anciens textes**:
 
 	  - CGI 2020 ter (AL. 1)
 	  - Loi n°75-617 1975-07-11 ART. 16 I
 
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 16 JORF 12 juillet 1975
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Livre des procédures fiscales - art. L132 A (V)
+
 	**Codifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Décret n°2007-485 2007-03-30
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - PERIME: Décret n°2012-654 du 4 mai 2012 - art. 1
+	  - HISTO: Edition du 1er janvier 2007
 
 
 ###### Article L151 A
@@ -8933,32 +8950,6 @@ l'octroi du taux prévu aux 2, 3, 3 bis, 3 ter, 4 ou 5 du I de l'article 278 sex
 	  - HISTO: Edition du 31 août 2004
 
 
-###### Article L176 A
-
-Pour la vérification de l'existence, du montant et des modalités de soustraction de la déduction de référence définie au 1 de
-l'article 271 A du code général des impôts et le rappel des taxes en résultant, le droit de reprise de l'administration
-s'exerce pendant six ans à compter du 1er juillet 1993.
-
-Les dispositions de la première phrase de l'article L. 51 ne sont pas opposables au contrôle de la déduction de référence.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 271 A
-	  - Livre des procédures fiscales - art. L51 (M)
-
-	**Créé par**:
-
-	  - Loi n°93-859 1993-06-22 art. 2 III, IV Finances rectificative pour 1993 JORF 23 juin 1993 en vigueur le 1er juillet 1993
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-485 du 30 mars 2007 - art. 1 () JORF 31 mars 2007
-	  - HISTO: Edition du 18 août 1993
-	  - HISTO: Edition du 1er janvier 2007
-
-
 ###### Article L177
 
 En ce qui concerne la taxe sur la valeur ajoutée déductible dans les conditions fixées par l'article 271 du code général des
@@ -9691,38 +9682,6 @@ et du droit de timbre, la preuve de la mauvaise foi et des manoeuvres frauduleus
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
-
-
-##### Section I : Procédure préalable auprès de l'administration
-
-##### III : Instruction des réclamations.
-
-###### Article L198 A
-
-Lorsque l'instruction d'une réclamation formulée par le contribuable requiert des connaissances techniques particulières, les
-dispositions de l'article L. 45 A sont applicables dans les mêmes conditions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
-	**Modifié par**:
-
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 1 () JORF 18 SEPTEMBRE 1993
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 2001-02-15 13L-3-01
-
-	**Abrogé par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 99 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L45 A (M)
 
 
 ##### Section II : Procédure devant les tribunaux
@@ -10773,8 +10732,8 @@ autres cas, devant le tribunal correctionnel soit du domicile de l'auteur du dé
 
 ###### Article L232
 
-Lorsqu'une information est ouverte par l'autorité judiciaire sur la plainte de l'administration des impôts en matière de
-droits, taxes, redevances et impositions de toute nature mentionnés au code général des impôts, cette administration peut se
+Lorsqu'une information est ouverte par l'autorité judiciaire sur la plainte de l'administration fiscale en matière de droits,
+taxes, redevances et impositions de toute nature mentionnés au code général des impôts, cette administration peut se
 constituer partie civile.
 
 **Liens relatifs à cet article**
@@ -10786,13 +10745,17 @@ constituer partie civile.
 	  - Décret n°48-1986 1948-12-09 ART. 115 (LOI 48-1268 1948-08-17 ART. 5)
 	  - Loi n°64-1278 1964-12-23 ART. 36
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
 	**Codifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Décret n°2007-485 2007-03-30
+
+	**Liens**:
+
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Loi n°64-1278 1964-12-23 art. 34 Finances rectificative pour 1964 JORF 24 décembre 1964
 
 
 ###### Article L233
@@ -14068,44 +14031,6 @@ Les résultats de ce contrôle sont notifiés à l'entreprise et sont communiqu�
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2001
-
-
-###### Article R45 D-1
-
-Les contrôles de la réalité et du bien-fondé des dépenses de formation exposées au titre du crédit d'impôt-formation
-mentionné à l'article L. 45 D effectuées par les agents commissionnés par l'autorité administrative de l'Etat chargée de la
-formation professionnelle peuvent être opérés soit sur pièces, soit sur place conformément à la procédure prévue aux articles
-R. 991-1 à R. 991-8 du code du travail.
-
-A l'occasion des contrôles sur place, les employeurs sont tenus de présenter les documents comptables prévus par les articles
-L123-12 à L123-28 du code de commerce ainsi que tous documents et pièces de nature à justifier de la réalité et du bien-fondé
-des dépenses exposées au titre du crédit d'impôt-formation.
-
-Les conclusions des contrôles sont communiquées à l'employeur et à l'administration des impôts qui les notifie dans les
-conditions prévues au présent livre.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18 art. 4 I 1° JORF 21 septembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 2001-05-21
-	  - Décret n°2007-485 2007-03-30
-
-	**Liens**:
-
-	  - PEREMPTION: Décret n°2007-485 du 30 mars 2007 - art. 1 () JORF 31 mars 2007 conséquence de la péremption de l'article 244 quater C
-	  - HISTO: Edition du 1er janvier 2007
-	  - HISTO: Edition du 31 mars 2001
-
-	**Cite**:
-
-	  - Code de commerce L123-12 à L123-28
-	  - Livre des procédures fiscales - art. L45 D (M)
-	  - Code du travail R991-1 à R991-8
 
 
 ###### Article R45 G-1
@@ -21078,10 +21003,9 @@ destinés à la représentation de leurs actionnaires aux assemblées générale
 bulletins de souscription d'actions et que les pouvoirs de représentation aux assemblées générales des membres des sociétés
 par actions ;
 
-3° (Alinéa devenu sans objet).
+3° (Alinéa devenu sans objet) ;
 
-4° Au siège des sociétés de course de chevaux ou de lévriers autorisées à payer sur états le droit de timbre des quittances
-afférent aux tickets de pari mutuel, ainsi que sur les hippodromes ou cynodromes ;
+4° (Alinéa devenu sans objet) ;
 
 5° Au siège de l'établissement principal ainsi que dans les établissements annexes, agences ou succursales des commerçants,
 industriels et entrepreneurs de spectacles autorisés à payer sur états le droit de timbre des quittances ;
@@ -21092,16 +21016,11 @@ industriels et entrepreneurs de spectacles autorisés à payer sur états le dro
 
 	**Codifié par**:
 
-	  - Arrêté 2000-06-02
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
+	  - Arrêté 2007-03-30
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 38 () JORF 31 décembre 1996
-	  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 139 (V) JORF 31 décembre 2006
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
