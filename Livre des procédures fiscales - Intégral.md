@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-21
 
 # Partie législative
 
@@ -305,31 +305,31 @@ d'un agent de l'administration des impôts est fixé à trente jours à compter 
 
 Dans les conditions prévues au présent livre, l'administration des impôts peut procéder à l'examen contradictoire de la
 situation fiscale des personnes physiques au regard de l'impôt sur le revenu, qu'elles aient ou non leur domicile fiscal en
-France, lorsqu'elles y ont des obligations au titre de cet impôt.
+France, lorsqu'elles y ont des obligations au titre de cet impôt. 
 
 A l'occasion de cet examen, l'administration peut contrôler la cohérence entre, d'une part les revenus déclarés et, d'autre
-part, la situation patrimoniale, la situation de trésorerie et les éléments du train de vie des membres du foyer fiscal.
+part, la situation patrimoniale, la situation de trésorerie et les éléments du train de vie des membres du foyer fiscal. 
 
 Sous peine de nullité de l'imposition, un examen contradictoire de la situation fiscale personnelle ne peut s'étendre sur une
-période supérieure à un an à compter de la réception de l'avis de vérification.
+période supérieure à un an à compter de la réception de l'avis de vérification. 
+
+Lorsqu'un contrat de fiducie ou les actes le modifiant n'ont pas été enregistrés dans les conditions prévues à l'article 2019
+du code civil, ou révélés à l'administration fiscale avant l'engagement de l'examen contradictoire de la situation fiscale
+personnelle d'un contribuable qui y est partie ou en tient des droits, la période prévue au troisième alinéa est prorogée du
+délai écoulé entre la date de réception de l'avis de vérification et l'enregistrement ou la révélation de l'information. 
 
 Cette période est prorogée du délai accordé, le cas échéant, au contribuable et, à la demande de celui-ci, pour répondre aux
-demandes d'éclaircissements ou de justifications pour la partie qui excède les deux mois prévus à l'article L. 16 A.
+demandes d'éclaircissements ou de justifications pour la partie qui excède les deux mois prévus à l'article L. 16 A. 
 
 Elle est également prorogée des trente jours prévus à l'article L. 16 A et des délais nécessaires à l'administration pour
 obtenir les relevés de compte lorsque le contribuable n'a pas usé de sa faculté de les produire dans un délai de soixante
 jours à compter de la demande de l'administration ou pour recevoir les renseignements demandés aux autorités étrangères,
-lorsque le contribuable a pu disposer de revenus à l'étranger ou en provenance directe de l'étranger.
+lorsque le contribuable a pu disposer de revenus à l'étranger ou en provenance directe de l'étranger. 
 
 La période mentionnée au troisième alinéa est portée à deux ans en cas de découverte, en cours de contrôle, d'une activité
 occulte. Il en est de même lorsque, dans le délai initial d'un an, les articles L. 82 C ou L. 101 ont été mis en oeuvre.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°96-1182 1996-12-30 art. 31 I, II, III Finances rectificative pour 1996 JORF 31 décembre 1996
-	  - Loi n°96-1182 du 30 décembre 1996 - art. 31 (V) JORF 31 décembre 1996
 
 	**Cité par**:
 
@@ -345,15 +345,16 @@ occulte. Il en est de même lorsque, dans le délai initial d'un an, les article
 	  - Livre des procédures fiscales - art. L13 F (V)
 	  - Livre des procédures fiscales - art. L52 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L101 (M)
-	  - Livre des procédures fiscales - art. L16 A (M)
-	  - Livre des procédures fiscales - art. L82 C (M)
+	  - Livre des procédures fiscales - art. L101 (V)
+	  - Livre des procédures fiscales - art. L16 A (V)
+	  - Livre des procédures fiscales - art. L82 C (V)
+	  - Code civil - art. 2019 (V)
 
 
 ##### 2° : Dispositions relatives aux vérifications des comptabilités
@@ -368,11 +369,10 @@ données et traitements informatiques qui concourent directement ou indirectemen
 fiscaux et à l'élaboration des déclarations rendues obligatoires par le code général des impôts ainsi que sur la
 documentation relative aux analyses, à la programmation et à l'exécution des traitements.
 
+Les fiducies, en la personne de leur fiduciaire, sont soumises à vérification de comptabilité dans les conditions prévues au
+présent article.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°89-936 du 29 décembre 1989 - art. 103 () JORF 30 décembre 1989
 
 	**Cité par**:
 
@@ -390,7 +390,11 @@ documentation relative aux analyses, à la programmation et à l'exécution des 
 
 	**Liens**:
 
-	  - HISTO: Edition du 15 juin 1990
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
 
 
 ###### Article L13 A
@@ -2358,30 +2362,20 @@ En ce qui concerne les sociétés dont les associés sont personnellement soumis
 correspondant à leurs droits dans la société, la procédure de vérification des déclarations déposées par la société est
 suivie entre l'administration des impôts et la société elle-même.
 
+En ce qui concerne les fiducies, la procédure de vérification des déclarations déposées par le fiduciaire pour le compte de
+ces dernières est suivie entre l'administration des impôts et le fiduciaire.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 103 (P.)
-	  - CGI 239 quater A (al. 2 P.)
-	  - CGI 60 (al. 2)
-	  - Décret n°50-478 1950-04-06 art. 60, art. 103
-	  - Décret n°71-290 1971-04-15 art. 5
-	  - Loi n°72-1147 1972-12-23 art. 2 I
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
+	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 374 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 60 (M)
 	  - Code général des impôts, CGI. - art. 103 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 ###### Article L54
@@ -2995,6 +2989,27 @@ de la demande.
 	  - Loi n°87-502 1987-07-08 art. 18 JORF 9 juillet 1987
 
 
+##### V : Procédure de rectification spécifique à la fiducie
+
+###### Article L64 C
+
+Sans préjudice de la sanction de nullité prévue à l'article 2013 du code civil, les contrats de fiducie consentis dans une
+intention libérale au sens de l'article 792 bis du code général des impôts et qui conduisent à une minoration des droits au
+titre de tous impôts et taxes dus par l'une quelconque des personnes parties au contrat ou en tenant des droits ne peuvent
+être opposés à l'administration qui est en droit de restituer son véritable caractère à l'opération litigieuse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 792 bis (V)
+	  - Code civil - art. 2013 (V)
+
+
 ##### Section V : Procédures d'imposition d'office
 
 ###### Article L65
@@ -3112,21 +3127,22 @@ régularisé sa situation dans les trente jours de la notification d'une mise en
 Toutefois, il n'y a pas lieu de procéder à cette mise en demeure si le contribuable change fréquemment son lieu de résidence
 ou de principal établissement, ou a transféré son activité à l'étranger sans déposer la déclaration de ses résultats ou de
 ses revenus non commerciaux, ou ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du
-tribunal de commerce, ou si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers.
+tribunal de commerce, ou si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers ou, pour les fiducies,
+si les actes prévus à l'article 635 du code général des impôts n'ont pas été enregistrés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI L66 2°, 5°
+	  - CGI 635
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - HISTO: Edition du 1er janvier 2007
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 23 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
 
 	**Cité par**:
 
@@ -3276,6 +3292,9 @@ réels est supérieure de 10 % au premier chiffre ;
 d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
 cadre de l'article L. 324-12 du même code ;
 
+1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue à l'article 223 VI du code général des
+impôts n'a pas été déposée dans le délai légal par le fiduciaire ;
+
 2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés lorsque la
 déclaration annuelle prévue à l'article 97 du code général des impôts n'a pas été déposée dans le délai légal ;
 
@@ -3302,25 +3321,17 @@ Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 97, 50-0, 53 A, 102 ter
-	  - Livre des procédures fiscales - art. L16 (MMN)
-	  - Livre des procédures fiscales - art. L68 (M)
-	  - Code du travail - art. L324-12 (M)
-	  - Code du travail - art. L324-9 (M)
-
-	**Modifié par**:
-
-	  - Loi - art. 10 (V) JORF 31 décembre 2003
-
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
 
 	**Liens**:
 
-	  - HISTO: Edition du 1er janvier 2004
+	  - HISTO: Edition du 1er janvier 2007
+
+	**Modifié par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
 
 
 ###### Article L74
@@ -5067,6 +5078,25 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1770 nonies (T)
 	  - Code général des impôts, CGI. - art. 1840 W quater (V)
 	  - Livre des procédures fiscales - art. R*96 E-1 (V)
+
+
+##### 23° : Fiducie
+
+###### Article L96 F
+
+Le fiduciaire, le constituant, le bénéficiaire ou toute personne physique ou morale exerçant par quelque moyen un pouvoir de
+décision direct ou indirect sur la fiducie doivent communiquer sur sa demande à l'administration des impôts tout document
+relatif au contrat de fiducie, sans que puisse être opposée l'obligation de secret prévue à l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (V)
 
 
 ##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part
