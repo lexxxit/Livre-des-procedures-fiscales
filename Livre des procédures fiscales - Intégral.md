@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-05-02
 
 # Partie législative
 
@@ -15423,6 +15423,113 @@ générale des actes professionnels.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L97 (V)
+
+
+###### Article R*98 B-1
+
+Les informations à communiquer à la direction générale des impôts en application des dispositions de l'article L. 98 B par
+l'organisme de sécurité sociale mentionné à ce même article portent exclusivement sur les données suivantes :
+
+1° La raison sociale, l'adresse et le numéro SIRET de l'organisme de sécurité sociale émetteur des informations ;
+
+2° Pour chaque salarié déclaré :
+
+a. Son identification : nom de famille, nom marital, prénoms, sexe, date et lieu de naissance, adresse du dernier domicile
+connu et numéro d'inscription au répertoire national d'identification des personnes physiques ;
+
+b. L'identification de son employeur : nom et prénoms, pseudo-SIRET, adresse ;
+
+c. La période d'emploi et le nombre d'heures effectuées pendant cette période ;
+
+d. Le montant des sommes versées au cours de l'année civile précédente, en distinguant le salaire brut annuel correspondant
+au total sur l'année des rémunérations brutes servant de base au calcul des cotisations de sécurité sociale et le salaire net
+imposable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-642 du 30 avril 2007 - art. 1 () JORF 2 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 19 février 2010 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L98 B (V)
+
+
+###### Article R*98 B-2
+
+La communication par voie électronique prévue au deuxième alinéa de l'article L. 98 B est effectuée auprès d'un centre
+informatique désigné par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-642 du 30 avril 2007 - art. 1 () JORF 2 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 28 février 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L98 B (V)
+
+
+###### Article R*98 B-3
+
+Le numéro d'inscription au répertoire national d'identification des personnes physiques porté à la connaissance de la
+direction générale des impôts en application de l'article L. 98 B est exclusivement utilisé pour vérifier la fiabilité des
+éléments d'identification des personnes physiques figurant dans les traitements de données relatives à l'assiette, au
+contrôle et au recouvrement de l'impôt sur le revenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-642 du 30 avril 2007 - art. 1 () JORF 2 mai 2007
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L98 B (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*98 B-4 (V)
+
+
+###### Article R*98 B-4
+
+Lorsque la mise en oeuvre des dispositions de l'article R* 98 B-3 s'avère susceptible de porter une atteinte grave et
+immédiate aux droits et libertés visés à l'article 1er de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
+fichiers et aux libertés, la Commission nationale de l'informatique et des libertés peut enjoindre à l'autorité
+administrative de prendre sans délai les mesures de sécurité pouvant aller jusqu'à la destruction des supports d'information
+qui ont été constitués à partir du numéro d'inscription au répertoire national d'identification des personnes physiques.
+
+Elle peut également, indépendamment de la mesure de destruction prévue à l'alinéa précédent, faire application des articles
+R* 288-1 à R* 288-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-642 du 30 avril 2007 - art. 1 () JORF 2 mai 2007
+
+	**Codifié par**:
+
+	  - L'article sera codifié ultérieurement
 
 
 ###### Article R*101-1
