@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-08-22
+Version Consolidée au 2007-09-01
 
 # Partie législative
 
@@ -1110,29 +1110,6 @@ solidarité sur la fortune en se conformant à la procédure de rectification co
 	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
 
 
-##### II : Dispositions particulières aux droits d'enregistrement, à la taxe de publicite foncière et à l'impôt de solidarité sur la fortune
-
-##### C : Taxe sur la valeur vénale des immeubles possédés en France par des personnes morales.
-
-###### Article L23 B
-
-(Demande de renseignements et de justifications : voir R 23 B-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales  R23 B-1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
 ##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées
 
 ##### A : Contrôle à la circulation
@@ -1635,40 +1612,6 @@ l'administration dans les conditions prévues à l'article L. 35.
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R36 B-1 (M)
-
-
-##### Contributions indirectes.
-
-###### Article L36 B
-
-(Voir R 36 B-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R36 B-1
-
-
-##### 2 : Droits de timbre
-
-###### Article L37
-
-(Voir art. R. 37-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R37-1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### C : Droit de visite
@@ -2770,21 +2713,6 @@ une réclamation conformément à l'article L. 190.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L190 (V)
-
-
-###### Article L61 A
-
-(Bases d'imposition : voir article R 61 A-1.).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R61 A
-
-	**Nouveaux textes**:
-
-	  - CGI R61 A-1
 
 
 ###### Article L61 B
@@ -5013,40 +4941,6 @@ l'administration, sur sa demande, les registres prévus à ces articles.
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L114-20 (V)
-
-
-##### 20° : Intermédiaires sur le MATIF, le MONEP et en matière de bons d'options.
-
-###### Article L96 C
-
-(Voir R96 C-1, R96 C-2 et R96 C-3).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R96 C-1, R96 C-2, R96 C-3
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-
-##### 21° : Organisme gestionnaire d'un plan d'épargne en actions
-
-###### Article L96 D
-
-(Voir R96 D-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R96 D-1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
 
 
 ##### 22° : Etablissements diffuseurs ou distributeurs de services payants de programmes de télévision
@@ -9592,44 +9486,6 @@ décharge ou la réduction de l'imposition.
 	  - Livre des procédures fiscales - art. R*193-1 (V)
 
 
-###### Article L194
-
-(Base d'imposition déclarée ou acceptée par le contribuable : voir article R. 194-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R194-1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
-###### Article L195
-
-(Droits d'enregistrement, taxe de publicité foncière, droits de timbre et autres droits : voir article R. 195-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R195-1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
 ###### Article L195 A
 
 En cas de contestation des pénalités fiscales appliquées à un contribuable au titre des impôts directs, de la taxe sur la
@@ -9642,71 +9498,6 @@ et du droit de timbre, la preuve de la mauvaise foi et des manoeuvres frauduleus
 
 	  - CGI 1731 A
 	  - Loi n°77-1453 du 29 décembre 1977 - art. 19 (V)
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
-##### Section I : Procédure préalable auprès de l'administration des impôts
-
-##### I : Délais de réclamation.
-
-###### Article L196
-
-(Voir art. R. 196-1 à R. 196-5).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R196-1 à R196-5
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
-##### II : Forme et contenu des réclamations.
-
-###### Article L197
-
-(Voir art. R. 197-1 à R. 197-5).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R197-1 à R197-5
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
-##### III : Instruction des réclamations.
-
-###### Article L198
-
-(Voir art. R. 198-1 à R. 198-10).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R198-1 à R198-10
 
 	**Codifié par**:
 
@@ -9817,27 +9608,6 @@ Conseil d'Etat fixera les modalités d'application.
 	  - Loi n°96-1181 du 30 décembre 1996 - art. 112 (V) JORF 31 décembre 1996
 
 
-##### B : Procédure devant le tribunal administratif.
-
-###### Article L200
-
-(Voir art. R. 200-1 à R. 200-18).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R200-1 à R200-18
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
 ##### B : Procédure devant le tribunal administratif et la cour administrative d'appel
 
 ###### Article L201
@@ -9875,27 +9645,6 @@ désignées.
 	**Codifié par**:
 
 	  - Décret n°93-1095 1993-09-16
-
-
-##### C : Procédure devant le tribunal de grande instance.
-
-###### Article L202
-
-(Voir art. R. 202-1 à R. 202-4).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R202-1 à R202-4
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### Section III : Compensations
@@ -10134,48 +9883,6 @@ d'inconstitutionnalité prévue par l'article 1er prend effet dans les condition
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1727 (V)
-
-
-##### Section IV : Conséquences des décisions prises sur les réclamations et des jugements des tribunaux.
-
-###### Article L210
-
-(Conséquences des dégrèvements sur les taxes annexes aux impôts locaux : voir article R. 210-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI R210-1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
-##### Section V : Dégrèvements d'office.
-
-###### Article L211
-
-(Voir art. R. 211-1 et R. 211-2).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R211-1, R211-2
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 #### Chapitre II : Les procédures pénales
@@ -10550,27 +10257,6 @@ l'article L. 112-6 du même code sont constatées par des agents désignés par 
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2006
-
-
-##### III : Rédaction des procès-verbaux.
-
-###### Article L226
-
-(Voir art. R. 226-1 à R. 226-3).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R226-1 à R226-3
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
 
 
 ##### Section II : Exercice des poursuites pénales
@@ -11708,27 +11394,6 @@ de la région d'Ile-de-France.
 	  - HISTO: Edition du 31 mars 2000
 
 
-###### Article L254
-
-(Dispositions particulières à l'impôt sur les sociétés :
-
-voir article R. 254-1).
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales R254-1
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-
 ###### Article L255
 
 Lorsque l'impôt n'a pas été payé à la date limite de paiement et à défaut d'une réclamation assortie d'une demande de sursis
@@ -12030,25 +11695,6 @@ civile.
 	**Cite**:
 
 	  - Nouveau code de procédure civile 658
-
-
-###### Article L260 A
-
-(Voir R 260 A-1)
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°88-1002 1988-10-20
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1988
-
-	**Cite**:
-
-	  - LPF R260 A-1
 
 
 ##### II : Dispositions particulières aux poursuites exercées par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
