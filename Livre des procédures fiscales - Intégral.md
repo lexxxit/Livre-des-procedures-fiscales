@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-09-01
+Version Consolidée au 2007-10-01
 
 # Partie législative
 
@@ -8839,23 +8839,30 @@ troisième année suivant celle au cours de laquelle se termine cette période.
 
 Dans le cas prévu au deuxième alinéa du a du 1 du 7° de l'article 257 du code général des impôts, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle intervient la délivrance du
-permis de construire ou le début des travaux.
+permis de construire ou du permis d'aménager ou le début des travaux.
 
 Dans les cas prévus aux II et III de l'article 284 du code général des impôts, le droit de reprise de l'administration
 s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles est subordonné
 l'octroi du taux prévu aux 2, 3, 3 bis, 3 ter, 4 ou 5 du I de l'article 278 sexies du même code ont cessé d'être remplies.
 
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2004-804 du 9 août 2004 - art. 9 (V) JORF 11 août 2004
 
 	**Cité par**:
 
 	  - Arrêté du 22 septembre 2011 - art. 5 (V)
-	  - Code de la construction et de l'habitation. - art. R452-25-4 (V)
 	  - Code général des impôts, CGI. - art. 1609 quatervicies A (VD)
+	  - Code de la construction et de l'habitation. - art. R452-25-4 (V)
 	  - Code général des impôts, CGI. - art. 302 bis K (V)
 	  - Livre des procédures fiscales - art. L172 A (V)
 	  - Livre des procédures fiscales - art. L177 A (MMN)
@@ -8871,7 +8878,11 @@ l'octroi du taux prévu aux 2, 3, 3 bis, 3 ter, 4 ou 5 du I de l'article 278 sex
 
 	**Liens**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 39 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
 ###### Article L177
@@ -11434,17 +11445,29 @@ Les taxes, versements et participations prévus aux articles 1585 A et 1599 octi
 mentionnées au 1° de l'article L. 332-6-1 du code de l'urbanisme sont assis, liquidés et recouvrés en vertu d'un titre de
 recette individuel ou collectif délivré par le directeur départemental de l'équipement ou, dans des conditions fixées par
 décret en Conseil d'Etat, par le maire compétent pour délivrer les permis de construire au nom de la commune en application
-du premier alinéa de l'article L. 421-2-1 du code de l'urbanisme.
+de l'article L. 422-1 du code de l'urbanisme.
 
 L'autorité précitée peut déléguer sa signature aux agents placés sous son autorité.
+
+**Nota:**
+
+L'article 41 de l'ordonnance n° 2005-1527 énonce : " La présente ordonnance entrera en vigueur à des dates fixées par décret
+en Conseil d'Etat et au plus tard le 1er juillet 2007. " 
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26. 
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1585 A, 1599 octies
+	  - Livre des procédures fiscales 41
 	  - Code de l'urbanisme - art. L332-6-1 (M)
-	  - Code de l'urbanisme - art. L421-2-1 (M)
+	  - Code de l'urbanisme - art. L422-1 (M)
 
 	**Cité par**:
 
@@ -11453,15 +11476,13 @@ L'autorité précitée peut déléguer sa signature aux agents placés sous son 
 	  - Loi n°2000-1208 du 13 décembre 2000 - art. 51 (V)
 	  - Code du patrimoine. - art. L524-8 (MMN)
 
-	**Modifié par**:
-
-	  - Loi - art. 50 (V) JORF 31 décembre 1998
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°98-1267 1998-12-30 art. 50 II Finances rectificative pour 1998
-	  - SPEC_APPLI: Loi n°2000-1208 du 13 décembre 2000 - art. 51 (V)
-	  - HISTO: Edition du 31 mars 1999
+	  - HISTO: Edition du 1er janvier 2006
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1527 du 8 décembre 2005 - art. 39 () JORF 9 décembre 2005 en vigueur le 1er octobre 2007
 
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
