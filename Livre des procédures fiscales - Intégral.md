@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-11-09
+Version Consolidée au 2007-12-22
 
 # Partie législative
 
@@ -5779,8 +5779,8 @@ déclaration, que leur nom soit communiqué aux directions des services fiscaux 
 ou exploitations.
 
 La liste concernant l'impôt sur le revenu est complétée, dans les conditions fixées par décret, par l'indication du nombre de
-parts retenu pour l'application du quotient familial, du revenu imposable et du montant de l'imp<cb>t mis à la charge de
-chaque redevable.
+parts retenu pour l'application du quotient familial, du revenu imposable et du montant de l'impôt mis à la charge de chaque
+redevable.
 
 I bis. Une liste des personnes assujetties à la taxe départementale sur le revenu est dressée par commune pour les
 impositions établies dans son ressort.
@@ -5802,17 +5802,11 @@ La publication ou la diffusion par tout autre moyen, soit des listes prévues ci
 rapportant à ces listes et visant des personnes nommément désignées est interdite, sous peine de l'amende fiscale prévue à
 l'article 1762 du code précité.
 
-II. Les créanciers d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter les  listes
-mentionnées aux I et I bis détenues par la direction des services fiscaux dans le ressort de laquelle l'imposition du
-débiteur est établie.
-
-</cb>
+II. - Les créanciers et débiteurs d'aliments dont la qualité est reconnue par une décision de justice peuvent consulter les
+éléments des listes mentionnées au I afférents à l'imposition de leur débiteur ou créancier, selon le cas, quelle que soit la
+direction des services fiscaux dans le ressort de laquelle l'imposition du débiteur ou du créancier est établie.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1650, 1762
 
 	**Cité par**:
 
@@ -5826,11 +5820,7 @@ débiteur est établie.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 23 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 4
 
 
 ###### Article L112
@@ -11590,33 +11580,15 @@ contrôleur.
 
 Si la lettre de rappel ou la mise en demeure n'a pas été suivie de paiement ou de la mise en jeu des dispositions de
 l'article L. 277, le comptable public compétent peut, à l'expiration d'un délai de vingt jours suivant l'une ou l'autre de
-ces formalités, engager des poursuites.
+ces formalités, engager des poursuites. 
 
 Sous réserve des dispositions des articles L. 259 à L. 261, ces poursuites sont effectuées dans les formes prévues par le
-nouveau code de procédure civile pour le recouvrement des créances.
+code de procédure civile pour le recouvrement des créances. 
 
 Elles sont opérées par huissier de justice ou par tout agent de l'administration habilité à exercer des poursuites au nom du
 comptable.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1841
-	  - CGI 1842 1 (P.)
-	  - CGI 1843 (AL. 1 1RE PHRASE, AL. 3 1RE PHRASE)
-	  - CGI 1916 (AL. 1 P., AL. 2, AL. 3)
-	  - Loi n°46-854 1946-04-27 ART. 13
-	  - Décret n°48-1986 1948-12-09 ART. 272 3 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Décret n°69-560 1969-06-06
-	  - Loi n°1817-03-25 ART. 73
-	  - Décret n°55-604 1955-05-20 ART. 32 (LOI 55-349 1955-04-02)
-
-	**Modifié par**:
-
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-265 1993-02-26 art. 10 1 et 15 JORF 28 février 1993 en vigueur le 31 décembre 1992
 
 	**Cité par**:
 
@@ -11630,14 +11602,9 @@ comptable.
 	  - Livre des procédures fiscales - art. R*273-1 (Ab)
 	  - Livre des procédures fiscales - art. R258-1 (VT)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 18 août 1993
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L277 (MMN)
-	  - Livre des procédures fiscales L277, L259 à L261
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ###### Article L260
@@ -11679,28 +11646,18 @@ La saisie peut alors être pratiquée un jour après la signification du command
 ###### Article L259
 
 Par dérogation au deuxième alinéa de l'article L. 258, lorsqu'un commandement est signifié par le comptable du Trésor,
-l'envoi de la lettre simple prévu par l'article 658 du nouveau code de procédure civile n'est obligatoire que lorsqu'il y a
-dépôt de l'acte en mairie ; lorsque la copie de l'acte est remise à un voisin, il est laissé au domicile un avis de passage
-mentionnant la nature de l'acte et précisant le voisin à qui la copie a été remise.
+l'envoi de la lettre simple prévu par l'article 658 du    code de procédure civile n'est obligatoire que lorsqu'il y a dépôt
+de l'acte en mairie ; lorsque la copie de l'acte est remise à un voisin, il est laissé au domicile un avis de passage
+mentionnant la nature de l'acte et précisant le voisin à qui la copie a été remise. 
 
 Toutefois, les commandements peuvent être notifiés par la poste ; ces actes de poursuites échappent alors aux conditions
-générales de validité des actes des huissiers de justice, telles qu'elles sont tracées par le nouveau code de procédure
-civile.
+générales de validité des actes des huissiers de justice, telles qu'elles sont tracées par le    code de procédure civile.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1843 (AL. 3 2EME PHRASE, AL. 4)
-	  - Décret n°48-1986 1948-12-09 ART. 272 3 (LOI 48-1268 1948-08-17 ART. 5)
-	  - Décret n°65-1006 1965-11-26 ART. 41 1°, ART. 44, ART. 45
-	  - Décret n°75-1123 1975-12-05 ART. 1 A ART. 3
-	  - Décret n°75-1122 1975-12-05 ART. 35
-	  - Loi n°1901-02-25 ART. 49
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 	**Cité par**:
 
@@ -11708,14 +11665,6 @@ civile.
 	  - Code général de la propriété des personnes publ... - art. L2323-4 (VT)
 	  - Code général de la propriété des personnes publ... - art. L2323-5 (V)
 	  - Livre des procédures fiscales - art. L258 (VT)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-	**Cite**:
-
-	  - Nouveau code de procédure civile 658
 
 
 ##### II : Dispositions particulières aux poursuites exercées par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
@@ -12012,7 +11961,7 @@ créance du Trésor.
 Lorsqu'il envisage de faire procéder à la vente d'un fonds de commerce, le comptable public compétent peut, par dérogation
 aux articles L143-3 et L143-4 du code de commerce, faire ordonner par le président du tribunal de grande instance que cette
 vente soit effectuée dans les formes prévues pour les ventes de biens appartenant à des mineurs. Le président exerce, à cet
-égard, toutes les attributions confiées au tribunal par les articles 1272 et suivants du nouveau code de procédure civile.
+égard, toutes les attributions confiées au tribunal par les articles 1272 et suivants du    code de procédure civile.
 
 **Liens relatifs à cet article**
 
@@ -12025,21 +11974,7 @@ vente soit effectuée dans les formes prévues pour les ventes de biens apparten
 
 	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 art. 4, I, 8  JORF 21 septembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 2001-05-21
-
-	**Cite**:
-
-	  - Code de commerce. - art. L143-3 (V)
-	  - Code de commerce. - art. L143-4 (V)
-	  - Nouveau code de procédure civile 1272
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
 
 
 ##### 7° : Liquidation judiciaire
