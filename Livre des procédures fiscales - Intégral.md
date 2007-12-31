@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2007-12-29
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -3981,17 +3981,17 @@ du livre des procédures fiscales notifiés à compter du 1er janvier 2006.
 
 Pour rechercher les manquements aux règles de facturation auxquelles sont soumis les assujettis à la taxe sur la valeur
 ajoutée en application du code général des impôts ainsi qu'aux dispositions adoptées par les Etats membres pour l'application
-de l'article 22-3 de la sixième directive (CEE) n° 77-388 du 17 mai 1977, les agents des impôts ayant au moins le grade de
-contrôleur peuvent se faire présenter les factures, la comptabilité matière ainsi que les livres, les registres et les
-documents professionnels pouvant se rapporter à des opérations ayant donné ou devant donner lieu à facturation et procéder à
-la constatation matérielle des éléments physiques de l'exploitation.
+des articles 217 à 248 de la directive 2006 / 112 / CE du Conseil, du 28 novembre 2006, les agents des impôts ayant au moins
+le grade de contrôleur peuvent se faire présenter les factures, la comptabilité matière ainsi que les livres, les registres
+et les documents professionnels pouvant se rapporter à des opérations ayant donné ou devant donner lieu à facturation et
+procéder à la constatation matérielle des éléments physiques de l'exploitation.
 
 A cette fin, ils peuvent avoir accès de 8 heures à 20 heures et durant les heures d'activité professionnelle de l'assujetti
 aux locaux à usage professionnel, à l'exclusion des parties de ces locaux affectées au domicile privé, ainsi qu'aux terrains
-et aux entrepôts. Ils ont également accès aux moyens de transport à usage professionnel et à leur chargement.
+et aux entrepôts. Ils ont également accès aux moyens de transport à usage professionnel et à leur chargement. 
 
 Ils peuvent obtenir ou prendre copie, par tous moyens et sur tous supports, des pièces se rapportant aux opérations ayant
-donné ou devant donner lieu à facturation.
+donné ou devant donner lieu à facturation. 
 
 Ils peuvent recueillir sur place ou sur convocation des renseignements et justifications. Ces auditions donnent lieu à
 l'établissement de comptes rendus d'audition.
@@ -4001,26 +4001,15 @@ A.
 
 En outre, chaque intervention fait l'objet d'un procès-verbal relatant les opérations effectuées.
 
-**Nota:**
-
-Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Directive CEE 77-388 1977-05-17 art. 22-3 (6ème directive)
-	  - Livre des procédures fiscales L10 à L47 A
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - TXT_ASSOCIE: Instruction 1999-06-24 13K-8-99
-	  - TXT_ASSOCIE: Jurisprudence 2000-04-27 13K-5-00
 
 	**Modifié par**:
 
-	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 57
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L10
 
 	**Cité par**:
 
@@ -5430,28 +5419,17 @@ décès établis au cours du trimestre. Ces relevés sont certifiés par le mair
 
 ###### Article L102 AA
 
-I. Les régisseurs de messages publicitaires mentionnés au a du 2 du II de l'article 302 bis KB du code général des impôts
-sont tenus de fournir à chaque exploitant d'un service de télévision mentionné au I de cet article ainsi qu'à
-l'administration des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes qu'ils ont encaissées au
-cours de l'année civile précédente en rémunération de la diffusion des messages publicitaires par le service de télévision
-concerné.
+I. Les régisseurs de messages publicitaires mentionnés au a du 1° du II de l'article 302 bis KB du code général des impôts
+sont tenus de fournir à chaque éditeur d'un service de télévision mentionné au I de cet article ainsi qu'à l'administration
+des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes qu'ils ont encaissées au cours de l'année
+civile précédente en rémunération de la diffusion des messages publicitaires par le service de télévision concerné.
 
-II. Les organismes mentionnés au 1 du II de l'article 302 bis KB du code général des impôts sont tenus de fournir à chaque
-exploitant d'un service de télévision mentionné au I de cet article ainsi qu'à l'administration des impôts, avant le 15
-février de chaque année, un état récapitulatif des sommes qu'ils ont versées au cours de l'année civile précédente en
-rémunération de la fourniture par l'exploitant concerné des services de télévision mentionnés au I du même article.
-
-II bis. - Les personnes mentionnées au c du 2 du II de l'article 302 bis KB du code général des impôts auxquelles a été
-confié l'encaissement des sommes versées par les opérateurs de communications électroniques sont tenues de fournir à chaque
-exploitant de service de télévision mentionné au I de cet article ainsi qu'à l'administration des impôts, avant le 15 février
-de chaque année, un état récapitulatif des sommes prévues au c du 2 du II de cet article qu'elles ont encaissées au cours de
-l'année civile précédente.
+II. - Les personnes mentionnées au c du 1° du II de l'article 302 bis KB du code général des impôts assurant l'encaissement
+des sommes versées par les opérateurs de communications électroniques sont tenues de fournir à chaque éditeur de services de
+télévision ainsi qu'à l'administration des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes
+prévues au c du 1° du II de cet article qu'elles ont encaissées au cours de l'année civile précédente.
 
 III. Un décret fixe les conditions d'application du présent article.
-
-**Nota:**
-
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -5461,9 +5439,7 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 2005-12-30 art. 42 II, III Finances rectificative pour 2005 JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 42 (V) JORF 31 décembre 2005 en vigueur le 1er janvier 2006
-	  - Loi n°2007-309 du 5 mars 2007 - art. 35 (V)
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 90 (V)
 
 	**Cité par**:
 
@@ -5471,10 +5447,6 @@ NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1788 nonies (Ab)
 	  - Livre des procédures fiscales - art. R102 AA (P)
 	  - Livre des procédures fiscales - art. R102 AA-1 (P)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 #### Chapitre II bis : Obligation et délais de conservation des documents
@@ -15485,57 +15457,44 @@ Ce délai est réduit à dix jours en matière correctionnelle.
 
 ###### Article R102 AA-1
 
-I. - L'état récapitulatif mentionné au I de l'article L. 102 AA doit comporter les informations suivantes :
+I. - L'état récapitulatif mentionné au I et au II de l'article L. 102 AA doit comporter les informations suivantes :
 
 1. Les nom, adresse, numéro SIRET et nature de l'activité du souscripteur de l'état ;
 
-2. Pour chaque exploitant d'un ou plusieurs services de télévision, pour le compte duquel des sommes ont été encaissées :
+2. Pour chaque éditeur d'un ou plusieurs services de télévision, pour le compte duquel des sommes ont été encaissées :
 
 a) Le total des sommes encaissées par service de télévision au cours de l'année civile précédente ;
 
-b) Les nom, adresse et numéro SIRET de l'exploitant du ou des services de télévision concernés.
+b) Les nom, adresse et numéro SIRET de l'éditeur du ou des services de télévision concernés.
 
-II. - L'état récapitulatif mentionné au II de l'article L. 102 AA doit comporter les informations suivantes :
-
-1. Les nom, adresse, numéro SIRET et nature de l'activité du souscripteur de l'état ;
-
-2. Pour chaque exploitant d'un ou plusieurs services de télévision, auquel des sommes ont été versées :
-
-a) Le total des sommes versées par service de télévision au cours de l'année civile précédente ;
-
-b) Les nom, adresse et numéro SIRET de l'exploitant du ou des services de télévision concernés.
+II. - (abrogé à compter du 1er janvier 2008).
 
 III. - L'état destiné à l'administration des impôts est souscrit sur papier et adressé au service des impôts auprès duquel le
 souscripteur dépose habituellement ses déclarations de taxe sur la valeur ajoutée.
 
-IV. - Les régisseurs de messages publicitaires mentionnés au I de l'article L. 102 AA et les organismes désignés au II du
-même article doivent adresser à chaque exploitant d'un ou plusieurs services de télévision un extrait de l'état récapitulatif
-pour les informations les concernant. Les exploitants de services de télévision qui n'ont pas reçu cet état dans les délais
+IV. - Les régisseurs de messages publicitaires mentionnés au I de l'article L. 102 AA et les personnes désignées au II du
+même article doivent adresser à chaque éditeur d'un ou plusieurs services de télévision un extrait de l'état récapitulatif
+pour les informations les concernant. Les éditeurs de services de télévision qui n'ont pas reçu cet état dans les délais
 prévus à l'article précité doivent en informer l'administration des impôts.
 
 **Nota:**
 
-NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
+Cet article est devenu sans objet : Conséquence des articles 9 3° et 11 4° de l'ordonnance n° 2009-901 du 24 juillet 2009.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1720 2005-12-30 art. 42 II, III, art. 103 Finances rectificative pour 2005 JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 42 (V) JORF 31 décembre 2005
+	  - Décret n°2007-1566 du 2 novembre 2007 - art. 1 () JORF 4 novembre 2007 en vigueur le 1er janvier 2008
+	  - Décret n°2010-422  du 27 avril 2010 - art. 2
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2006-357 2006-03-24
+	  - PERIME: Décret n°2010-422  du 27 avril 2010 - art. 2
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L102 AA (M)
+	  - Livre des procédures fiscales - art. L102 AA
 
 
 #### Chapitre II bis : Obligation et délais de conservation des documents
