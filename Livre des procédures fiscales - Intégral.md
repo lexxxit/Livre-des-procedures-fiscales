@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-01-11
 
 # Partie législative
 
@@ -21045,8 +21045,8 @@ industriels et entrepreneurs de spectacles autorisés à payer sur états le dro
 
 ###### Article A47 A-1
 
-I. - Les copies mentionnées au quatrième alinéa de l'article L. 47 A présentent des fichiers à plat, à organisation
-séquentielle et structure zonée remplissant les critères suivants :
+I. - Les copies mentionnées au I de l'article L. 47 A du livre des procédures fiscales et aux b et c du II de ce même article
+présentent des fichiers à plat, à organisation séquentielle et structure zonée remplissant les critères suivants :
 
 1° Les enregistrements sont séparés par le caractère de contrôle Retour chariot et/ou Fin de ligne ;
 
@@ -21089,19 +21089,11 @@ En accord avec le service vérificateur, d'autre supports pourront être utilis�
 
 	**Modifié par**:
 
-	  - Arrêté 2005-10-11 art. 1 JORF 18 octobre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Arrêté du 28 décembre 2007 - art. 1
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. A47 AA-1 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L47 A (V)
 
 
 #### Chapitre II : Le droit de communication
