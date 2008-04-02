@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-01-11
+Version Consolidée au 2008-04-03
 
 # Partie législative
 
@@ -2294,19 +2294,38 @@ Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A
 
 Lorsque la vérification de la comptabilité, pour une période déterminée, au regard d'un impôt ou taxe ou d'un groupe d'impôts
 ou de taxes est achevée, l'administration ne peut procéder à une nouvelle vérification de ces écritures au regard des mêmes
-impôts ou taxes et pour la même période. Toutefois, il est fait exception à cette règle lorsque la vérification a été limitée
-à des opérations déterminées ainsi que dans les cas prévus aux articles L. 176 en matière de taxes sur le chiffre d'affaires
-et L. 187 en cas d'agissements frauduleux ainsi que dans les cas où l'administration a dressé un procès-verbal de flagrance
-fiscale dans les conditions prévues à l'article L. 16-0 BA, au titre d'une période postérieure, ainsi que dans les cas de
-vérification de la comptabilité des sociétés mères qui ont opté pour le régime prévu à l'article 223 A du code général des
-impôts et dans les cas prévus à l'article L. 188 A après l'intervention de la réponse de l'autorité compétente de l'autre
-Etat ou territoire.
+impôts ou taxes et pour la même période. 
+
+Toutefois, il est fait exception à cette règle : 
+
+1° Lorsque la vérification a été limitée à des opérations déterminées ; 
+
+2° Dans les cas prévus à l'article L. 176 en matière de taxes sur le chiffre d'affaires ; 
+
+3° Dans les cas prévus à l'article L. 187 en cas d'agissements frauduleux ; 
+
+4° Dans les cas où l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L.
+16-0 BA, au titre d'une période postérieure ; 
+
+5° Dans les cas de vérification de la comptabilité des sociétés mères qui ont opté pour le régime prévu à l'article 223 A du
+code général des impôts ; 
+
+6° Dans les cas prévus à l'article L. 188 A après l'intervention de la réponse de l'autorité compétente de l'autre Etat ou
+territoire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Livre des procédures fiscales - art. L16-0 BA
+	  - Livre des procédures fiscales - art. L176
+	  - Livre des procédures fiscales - art. L187
+	  - Livre des procédures fiscales - art. L188 A
 
 	**Cité par**:
 
@@ -3228,21 +3247,33 @@ de revenus, ou si un contrôle fiscal n'a pu avoir lieu du fait du contribuable 
 La procédure de taxation d'office prévue aux 2° et 5° de l'article L. 66 n'est applicable que si le contribuable n'a pas
 régularisé sa situation dans les trente jours de la notification d'une mise en demeure. 
 
-Toutefois, il n'y a pas lieu de procéder à cette mise en demeure si le contribuable change fréquemment son lieu de résidence
-ou de principal établissement, ou a transféré son activité à l'étranger sans déposer la déclaration de ses résultats ou de
-ses revenus non commerciaux, ou ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du
-tribunal de commerce, ou si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers ou, pour les fiducies,
-si les actes prévus à l'article 635 du code général des impôts n'ont pas été enregistrés. 
+Toutefois, il n'y a pas lieu de procéder à cette mise en demeure : 
 
-Il n'y a pas lieu non plus de procéder à cette mise en demeure lorsque l'administration a dressé un procès-verbal de
-flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA, au titre de l'année ou de l'exercice au cours duquel le
-procès-verbal est établi.
+1° Si le contribuable change fréquemment son lieu de résidence ou de principal établissement ; 
+
+2° Si le contribuable a transféré son activité à l'étranger sans déposer la déclaration de ses résultats ou de ses revenus
+non commerciaux ; 
+
+3° Si le contribuable ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du tribunal de
+commerce ; 
+
+4° Si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers ; 
+
+5° Pour les fiducies, si les actes prévus à l'article 635 du code général des impôts n'ont pas été enregistrés ; 
+
+6° Lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L. 16-0
+BA, au titre de l'année ou de l'exercice au cours duquel le procès-verbal est établi.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 635
+	  - Livre des procédures fiscales - art. L16-0 BA
 
 	**Cité par**:
 
@@ -4929,41 +4960,6 @@ Les communications prévues au présent article ne peuvent être exigées les jo
 	  - Livre des procédures fiscales - art. R81-5 (V)
 
 
-##### 15° : Intermédiaires professionnels des bourses de valeurs
-
-###### Article L94
-
-Les personnes dont le commerce habituel consiste à recueillir des offres et des demandes de valeurs de bourse doivent
-communiquer à l'administration, sur sa demande, les registres constituant le répertoire de leurs opérations.
-
-En outre, lorsqu'un procès-verbal d'infraction a été dressé, ou lorsque le répertoire de l'un des assujettis au droit de
-timbre sur les opérations de bourse ne mentionne pas la contrepartie d'une opération constatée sur le répertoire de l'autre,
-l'administration peut demander la communication des livres et documents comptables des deux assujettis, à la condition d'en
-limiter l'examen à une période de deux jours au plus.
-
-**Nota:**
-
-_Modifications effectuées en conséquence de l'article 11 I de la loi n° 2007-1822 du 24 décembre 2007._
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
-
-	**Modifié par**:
-
-	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-295 du 1er avril 2008 - art. 1
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. R*94-1 (P)
-
-
 ##### 15° bis : Sociétés civiles
 
 ###### Article L94 A
@@ -5220,27 +5216,32 @@ montant total des honoraires qui leur sont effectivement versés par les assuré
 
 ###### Article L98
 
-Les organismes débiteurs de l'allocation supplémentaire mentionnée à l'article L. 815-2 ou à l'article L. 815-3 du code de la
-sécurité sociale sont tenus de fournir à l'administration des impôts, avant le 31 janvier de chaque année, la liste des
-personnes auxquelles l'allocation a été attribuée ou supprimée au cours de l'année précédente.
+Les organismes débiteurs de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du code de la
+sécurité sociale, de l'allocation supplémentaire mentionnée à l'article L. 815-2 du même code dans sa version antérieure à
+l'ordonnance n° 2004-605 du 24 juin 2004 ou de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du
+même code sont tenus de fournir à l'administration des impôts, avant le 31 janvier de chaque année, la liste des personnes
+auxquelles l'allocation a été attribuée ou supprimée au cours de l'année précédente.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1er, 2 et 3 III de l'ordonnance 2004-605 du 24 juin 2004._
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-1282 1995-12-11
+	  - Ordonnance n°2004-605 du 24 juin 2004
+	  - Code de la sécurité sociale. - art. L815-1
+	  - Code de la sécurité sociale. - art. L815-2
+	  - Code de la sécurité sociale. - art. L815-24
+
+	**Modifié par**:
+
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1414 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Modifié par**:
-
-	  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
 
 
 ###### Article L98 A
@@ -5695,23 +5696,17 @@ Les comptables chargés du recouvrement des impôts directs délivrent aux perso
 rôle ou un certificat de non-inscription au rôle, soit une copie de l'avis de mise en recouvrement, selon le comptable
 compétent pour recouvrer l'impôt, dans les conditions suivantes :
 
-a) Pour les impôts directs d'Etat et taxes assimilées ainsi que pour la taxe départementale sur le revenu, ces documents ne
-peuvent être délivrés que dans la mesure où ils concernent le contribuable lui-même (1).
+a) Pour les impôts directs d'Etat et taxes assimilées (ainsi que pour la taxe départementale sur le revenu,) (1) ces
+documents ne peuvent être délivrés que dans la mesure où ils concernent le contribuable lui-même.
 
-b) Pour les impôts locaux et taxes annexes à l'exclusion de la taxe départementale sur le revenu, ces documents peuvent être
-délivrés même s'ils concernent un autre contribuable mais à condition que le demandeur figure personnellement au rôle.
+b) Pour les impôts locaux et taxes annexes (à l'exclusion de la taxe départementale sur le revenu,) (1) ces documents peuvent
+être délivrés même s'ils concernent un autre contribuable mais à condition que le demandeur figure personnellement au rôle.
 
 **Nota:**
 
-(1) L'entrée en vigueur de la taxe départementale sur le revenu est suspendue jusqu'à une date fixée par une loi qui
-interviendra après le 2 avril 1993.
+(1) Ces mots sont disjoints.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 21 III
 
 	**Cité par**:
 
@@ -5721,7 +5716,7 @@ interviendra après le 2 avril 1993.
 
 	**Modifié par**:
 
-	  - Loi - art. 21 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2005
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 
 ###### Article L105
@@ -5926,18 +5921,7 @@ La liste concernant l'impôt sur le revenu est complétée, dans les conditions 
 parts retenu pour l'application du quotient familial, du revenu imposable et du montant de l'impôt mis à la charge de chaque
 redevable.
 
-I bis. Une liste des personnes assujetties à la taxe départementale sur le revenu est dressée par commune pour les
-impositions établies dans son ressort.
-
-Cette liste est complétée par l'indication des personnes physiques pour lesquelles il n'est pas établi d'imposition à la taxe
-départementale dans la commune mais qui y possèdent une résidence.
-
-La liste est tenue par la direction des services fiscaux à la disposition des redevables de la taxe départementale qui
-relèvent de sa compétence territoriale. L'administration peut en prescrire l'affichage.
-
-La liste concernant la taxe départementale sur le revenu est complétée, dans des conditions fixées par décret, par
-l'indication du revenu imposable, du montant de l'abattement pour charges de famille, du montant de l'abattement à la base et
-du montant de la cotisation mise effectivement à la charge de chaque redevable.
+I bis. (Disjoint).
 
 I ter. L'administration recueille, chaque année, les observations et avis que la commission communale des impôts directs
 prévue à l'article 1650 du code général des impôts peut avoir à formuler sur ces listes.
@@ -5952,6 +5936,10 @@ direction des services fiscaux dans le ressort de laquelle l'imposition du débi
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 1650, 1762
+
 	**Cité par**:
 
 	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
@@ -5964,7 +5952,7 @@ direction des services fiscaux dans le ressort de laquelle l'imposition du débi
 
 	**Modifié par**:
 
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 4
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 
 ###### Article L112
@@ -7077,26 +7065,29 @@ d'imposition agrégées, par contribuable, nécessaires à l'établissement du r
 
 ###### Article L135 I
 
-Conformément au troisième alinéa de l'article L. 131-85 du code monétaire et financier, la Banque de France reçoit de
-l'administration des impôts les informations détenues par celle-ci en application de l'article 1649 A du code général des
-impôts, qui permettent d'identifier l'ensemble des comptes ouverts par les personnes physiques ou morales mentionnées à
-l'article L. 131-72 et au deuxième alinéa de l'article L. 163-6 du même code et sur lesquels peuvent être tirés des chèques.
-Elle lui fournit, aux seules fins poursuivies par le chapitre Ier du titre III du livre Ier du code monétaire et financier,
-les renseignements permettant d'identifier les titulaires de ces comptes.
+I.-Conformément au troisième alinéa de l'article L. 131-85 du code monétaire et financier et dans les conditions prévues à
+cet article, la Banque de France reçoit de l'administration des impôts les informations détenues par celle-ci en application
+de l'article 1649 A du code général des impôts. 
+
+II.-Conformément au deuxième alinéa du IV de l'article L. 141-6 du code monétaire et financier, les agents de
+l'administration des impôts peuvent communiquer à la Banque de France les renseignements qu'ils détiennent et qui sont
+nécessaires à l'accomplissement des missions mentionnées au II de cet article.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles L131-85 et L141-6 du code monétaire et financier._
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-1115 du 5 septembre 2006 - art. 3 () JORF 7 septembre 2006
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-485 2007-03-30
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Code général des impôts, CGI. - art. 1649 A
+	  - Code monétaire et financier - art. L131-85
+	  - Code monétaire et financier - art. L141-6
 
 	**Cité par**:
 
@@ -7319,6 +7310,51 @@ informations et renseignements nécessaires à l'exercice de cette mission.
 	**Liens**:
 
 	  - HISTO: Edition du 1er janvier 2007
+
+
+###### Article L135 R
+
+Conformément à l'article L. 213-11-2 du code de l'environnement, le secret professionnel ne peut être opposé aux agences de
+l'eau en ce qui concerne les documents qui leur sont nécessaires pour l'assiette et le contrôle des redevances mentionnées
+aux articles L. 213-10 à L. 213-10-12 du code précité.
+
+**Nota:**
+
+_Modifications effectuées en conséquence de l'article L213-11-2 du code de l'environnement._
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L213-10
+	  - Code de l'environnement - art. L213-11-2
+
+
+###### Article L135 S
+
+Aux fins de recherche et de prévention des atteintes aux intérêts fondamentaux de la nation en matière de sécurité publique
+et de sûreté de l'Etat, les agents individuellement désignés et dûment habilités des services de renseignement spécialisés,
+placés sous l'autorité des ministres chargés de la défense et de l'intérieur, peuvent demander aux administrations chargées
+de l'assiette, du recouvrement ou du contrôle des impôts et des recettes douanières de toutes sortes, sans qu'elles puissent
+leur opposer le secret professionnel, de leur communiquer tout document utile à l'exercice de leurs missions.
+
+**Nota:**
+
+_Modifications effectuées en conséquence de l'article 22 de la loi n° 2007-1824 du 25 décembre 2007._
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*135 S-1 (V)
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -8160,26 +8196,26 @@ spéciaux ou au régime agricole de sécurité sociale.
 ###### Article L152 A
 
 Conformément à l'article L. 583-3 du code de la sécurité sociale, l'administration des impôts est tenue de communiquer aux
-organismes débiteurs de prestations familiales toutes les informations nécessaires au contrôle des déclarations des
-allocataires.
+organismes débiteurs de prestations familiales toutes les informations nécessaires à l'appréciation des conditions
+d'ouverture, au maintien des droits et au calcul de ces prestations ainsi qu'au contrôle des déclarations des allocataires.
+
+**Nota:**
+
+_Modification effectuée en conséquence de l'article L. 583-3 du code de la sécurité sociale._
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 2 JORF 21 décembre 1985
-
-	**Codifié par**:
-
-	  - Décret n°86-1087 1986-10-07
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 juillet 1986
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L583-3
 
 
 ###### Article L152 B
@@ -8215,25 +8251,31 @@ prévues à l'article L. 152 du livre des procédures fiscales.
 
 ###### Article L153
 
-Conformément à l'article L. 815-15 du code de la sécurité sociale, les services chargés de l'attribution de l'allocation
-supplémentaire mentionnée à l'article L. 815-2 ou à l'article L. 815-3 du même code peuvent recevoir de l'administration des
-impôts communication des renseignements nécessaires à la liquidation et au contrôle de cette allocation, ainsi qu'à la mise
-en oeuvre des dispositions de l'article L. 815-12 du code précité notamment en ce qui concerne la détermination du montant
-des successions.
+Conformément à l'article L. 815-17, au troisième alinéa de l'article L. 815-28 et au premier alinéa de l'article L. 815-29 du
+code de la sécurité sociale, les services chargés de l'attribution de l'allocation de solidarité aux personnes âgées
+mentionnée à l'article L. 815-1 du code de la sécurité sociale ou de l'allocation supplémentaire d'invalidité mentionnée à
+l'article L. 815-24 du même code peuvent recevoir de l'administration des impôts communication des renseignements nécessaires
+à la liquidation et au contrôle de ces allocations, ainsi qu'à la mise en œuvre des dispositions de l'article L. 815-13 du
+code précité notamment en ce qui concerne la détermination du montant des successions.
+
+**Nota:**
+
+_Modification effectuée en conséquence des articles L815-17, L815-28 et L815-29 du code de la sécurité sociale._
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
 	**Modifié par**:
 
-	  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°95-1282 1995-12-11
+	  - Code de la sécurité sociale. - art. L815-1
+	  - Code de la sécurité sociale. - art. L815-13
+	  - Code de la sécurité sociale. - art. L815-17
+	  - Code de la sécurité sociale. - art. L815-24
+	  - Code de la sécurité sociale. - art. L815-28
+	  - Code de la sécurité sociale. - art. L815-29
 
 
 ###### Article L158
@@ -9498,7 +9540,7 @@ Ces dispositions s'appliquent aux procédures amiables ouvertes à compter du 1e
 Les réclamations relatives aux impôts, contributions, droits, taxes, redevances, soultes et pénalités de toute nature,
 établis ou recouvrés par les agents de l'administration, relèvent de la juridiction contentieuse lorsqu'elles tendent à
 obtenir soit la réparation d'erreurs commises dans l'assiette ou le calcul des impositions, soit le bénéfice d'un droit
-résultant d'une disposition législative ou réglementaire.
+résultant d'une disposition législative ou réglementaire. 
 
 Relèvent de la même juridiction les réclamations qui tendent à obtenir la réparation d'erreurs commises par l'administration
 dans la détermination d'un résultat déficitaire ou d'un excédent de taxe sur la valeur ajoutée déductible sur la taxe sur la
@@ -9506,26 +9548,29 @@ valeur ajoutée collectée au titre d'une période donnée, même lorsque ces er
 d'une imposition supplémentaire. Les réclamations peuvent être présentées à compter de la réception de la réponse aux
 observations du contribuable mentionnée à l'article L. 57, ou à compter d'un délai de 30 jours après la notification prévue à
 l'article L. 76 ou, en cas de saisine de la commission départementale ou nationale des impôts directs et des taxes sur le
-chiffre d'affaires, à compter de la notification de l'avis rendu par cette commission.
+chiffre d'affaires, à compter de la notification de l'avis rendu par cette commission. 
 
 Sont instruites et jugées selon les règles du présent chapitre toutes actions tendant à la décharge ou à la réduction d'une
 imposition ou à l'exercice de droits à déduction, fondées sur la non-conformité de la règle de droit dont il a été fait
-application à une règle de droit supérieure.
+application à une règle de droit supérieure. 
 
 Lorsque cette non-conformité a été révélée par une décision juridictionnelle ou un avis rendu au contentieux, l'action en
 restitution des sommes versées ou en paiement des droits à déduction non exercés ou l'action en réparation du préjudice subi
 ne peut porter que sur la période postérieure au 1er janvier de la troisième année précédant celle où la décision ou l'avis
-révélant la non-conformité est intervenu (1).
+révélant la non-conformité est intervenu (1). 
 
 Pour l'application du quatrième alinéa, sont considérés comme des décisions juridictionnelles ou des avis rendus au
 contentieux les décisions du Conseil d'Etat ainsi que les avis rendus en application de l'article L. 113-1 du code de justice
-administrative, les arrêts de la Cour de cassation ainsi que les avis rendus en application de l'article L. 151-1 du code de
-l'organisation judiciaire, les arrêts du Tribunal des conflits et les arrêts de la Cour de justice des Communautés
+administrative, les arrêts de la Cour de cassation ainsi que les avis rendus en application de l'article L. 441-1 du code de
+l'organisation judiciaire (2), les arrêts du Tribunal des conflits et les arrêts de la Cour de justice des Communautés
 européennes se prononçant sur un recours en annulation, sur une action en manquement ou sur une question préjudicielle.
 
 **Nota:**
 
-dispositions applicables aux propositions de rectifications adressées à compter du 1er juillet 2008.
+(1) Dispositions applicables aux propositions de rectifications adressées à compter du 1er juillet 2008.
+
+(2) 
+  _Modification effectuée en conséquence des articles 1er et 6 de l'ordonnance n° 2006-673 du 8 juin 2006._
 
 **Liens relatifs à cet article**
 
@@ -9548,7 +9593,14 @@ dispositions applicables aux propositions de rectifications adressées à compte
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 16 (V)
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L57
+	  - Livre des procédures fiscales - art. L76
+	  - Code de justice administrative - art. L113-1
+	  - Code de l'organisation judiciaire - art. L441-1
 
 
 ##### Charge et administration de la preuve
@@ -9795,96 +9847,6 @@ désignées.
 	**Codifié par**:
 
 	  - Décret n°93-1095 1993-09-16
-
-
-###### Article L201 A
-
-Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la réception du
-procès-verbal de flagrance fiscale mentionné à l'article L. 16-0 BA, met fin à la procédure prévue au même article s'il est
-fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux sur la régularité de cette procédure. 
-
-Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
-au profit du tribunal administratif qui se prononce en urgence. 
-
-La décision du juge du référé est susceptible d'appel devant le tribunal administratif dans le délai de huit jours. Le
-tribunal se prononce en urgence. 
-
-La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit mis fin à la procédure entraîne la mainlevée
-immédiate des saisies conservatoires éventuellement prises.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-295 du 1er avril 2008 - art. 1
-
-	**Cité par**:
-
-	  - Code de justice administrative. - art. L552-3 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L16-0 BA
-	  - Livre des procédures fiscales - art. L279
-
-
-###### Article L201 B
-
-Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la signification
-de saisies conservatoires mentionnées à l'article L. 252 B, ordonne qu'il soit mis fin à l'exécution de ces saisies en cas
-d'urgence et s'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux sur la régularité de
-cette procédure. 
-
-Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
-au profit du tribunal administratif qui se prononce en urgence. 
-
-La décision du juge du référé est susceptible d'appel devant le tribunal administratif dans le délai de huit jours. Le
-tribunal se prononce en urgence. 
-
-La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit mis fin à l'exécution des saisies entraîne la
-mainlevée immédiate de ces saisies.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-295 du 1er avril 2008 - art. 1
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L252 B (V)
-	  - Livre des procédures fiscales - art. L279
-
-
-###### Article L201 C
-
-Le paiement des impositions dues au titre de l'exercice ou de la période comprenant celle couverte par le procès-verbal prévu
-à l'article L. 16-0 BA entraîne la mainlevée des saisies conservatoires prévues à l'article L. 252 B, sauf si
-l'administration réunit des éléments permettant d'établir que les déclarations du contribuable au vu desquelles ce paiement
-est intervenu ne sont pas sincères.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-295 du 1er avril 2008 - art. 1
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L16-0 BA
-	  - Livre des procédures fiscales - art. L252 B (V)
 
 
 ##### Section III : Compensations
@@ -11566,9 +11528,9 @@ le recouvrement des recettes de toute nature qu'ils sont habilités à recevoir.
 
 ###### Article L252 B
 
-Dès la notification du procès-verbal mentionné à l'article L. 16-0 BA, le comptable peut procéder, par dérogation au chapitre
-IV de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, à des saisies conservatoires à
-hauteur d'un montant qui ne peut excéder : 
+I. Dès la notification du procès-verbal mentionné à l'article L. 16-0 BA, le comptable peut procéder, par dérogation au
+chapitre IV de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, à des saisies
+conservatoires à hauteur d'un montant qui ne peut excéder : 
 
 1° Pour l'impôt sur le revenu, le produit résultant de l'application, 
 
@@ -11596,13 +11558,45 @@ du même code ;
 code général des impôts, selon la nature des opérations, à la base du chiffre d'affaires ou des recettes brutes hors taxes
 réalisés au titre de la période en cours pour laquelle aucune obligation déclarative n'est échue, jusqu'à la date du procès-
 verbal de flagrance fiscale, et sous déduction d'un montant de taxe déductible dans les conditions prévues aux articles 271 à
-273 septies C du même code.
+273 septies C du même code. 
+
+II. Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la
+signification de saisies conservatoires mentionnées au I, ordonne qu'il soit mis fin à l'exécution de ces saisies en cas
+d'urgence et s'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux sur la régularité de
+cette procédure. 
+
+Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
+au profit du tribunal administratif qui se prononce en urgence. 
+
+La décision du juge du référé est susceptible d'appel devant le tribunal administratif dans le délai de huit jours. Le
+tribunal se prononce en urgence. 
+
+La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit mis fin à l'exécution des saisies entraîne la
+mainlevée immédiate de ces saisies. 
+
+III. Le paiement des impositions dues au titre de l'exercice ou de la période comprenant celle couverte par le procès-verbal
+prévu à l'article L. 16-0 BA entraîne la mainlevée des saisies conservatoires prévues au I, sauf si l'administration réunit
+des éléments permettant d'établir que les déclarations du contribuable au vu desquelles ce paiement est intervenu ne sont pas
+sincères.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Loi n°91-650 du 9 juillet 1991
+	  - Code général des impôts, CGI. - art. 102 ter
+	  - Code général des impôts, CGI. - art. 1668
+	  - Code général des impôts, CGI. - art. 194
+	  - Code général des impôts, CGI. - art. 197
+	  - Code général des impôts, CGI. - art. 219
+	  - Code général des impôts, CGI. - art. 271
+	  - Code général des impôts, CGI. - art. 278
+	  - Code général des impôts, CGI. - art. 50-0
+	  - Livre des procédures fiscales - art. L279
+
+	**Modifié par**:
+
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
@@ -11877,6 +11871,10 @@ code de procédure civile pour le recouvrement des créances.
 Elles sont opérées par huissier de justice ou par tout agent de l'administration habilité à exercer des poursuites au nom du
 comptable.
 
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007._
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -11893,7 +11891,15 @@ comptable.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L277
 
 
 ###### Article L260
@@ -11935,18 +11941,24 @@ La saisie peut alors être pratiquée un jour après la signification du command
 ###### Article L259
 
 Par dérogation au deuxième alinéa de l'article L. 258, lorsqu'un commandement est signifié par le comptable du Trésor,
-l'envoi de la lettre simple prévu par l'article 658 du    code de procédure civile n'est obligatoire que lorsqu'il y a dépôt
-de l'acte en mairie ; lorsque la copie de l'acte est remise à un voisin, il est laissé au domicile un avis de passage
+l'envoi de la lettre simple prévu par l'article 658 du code de procédure civile n'est obligatoire que lorsqu'il y a dépôt de
+l'acte en mairie ; lorsque la copie de l'acte est remise à un voisin, il est laissé au domicile un avis de passage
 mentionnant la nature de l'acte et précisant le voisin à qui la copie a été remise. 
 
 Toutefois, les commandements peuvent être notifiés par la poste ; ces actes de poursuites échappent alors aux conditions
-générales de validité des actes des huissiers de justice, telles qu'elles sont tracées par le    code de procédure civile.
+générales de validité des actes des huissiers de justice, telles qu'elles sont tracées par le code de procédure civile.
+
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007.
+
+_
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
@@ -11954,6 +11966,10 @@ générales de validité des actes des huissiers de justice, telles qu'elles son
 	  - Code général de la propriété des personnes publ... - art. L2323-4 (VT)
 	  - Code général de la propriété des personnes publ... - art. L2323-5 (V)
 	  - Livre des procédures fiscales - art. L258 (VT)
+
+	**Cite**:
+
+	  - Code de procédure civile - art. 658
 
 
 ##### II : Dispositions particulières aux poursuites exercées par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
@@ -12248,9 +12264,13 @@ créance du Trésor.
 ###### Article L268
 
 Lorsqu'il envisage de faire procéder à la vente d'un fonds de commerce, le comptable public compétent peut, par dérogation
-aux articles L143-3 et L143-4 du code de commerce, faire ordonner par le président du tribunal de grande instance que cette
-vente soit effectuée dans les formes prévues pour les ventes de biens appartenant à des mineurs. Le président exerce, à cet
-égard, toutes les attributions confiées au tribunal par les articles 1272 et suivants du    code de procédure civile.
+aux articles L. 143-3 et L. 143-4 du code de commerce, faire ordonner par le président du tribunal de grande instance que
+cette vente soit effectuée dans les formes prévues pour les ventes de biens appartenant à des mineurs. Le président exerce, à
+cet égard, toutes les attributions confiées au tribunal par les articles 1272 et suivants du code de procédure civile.
+
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007._
 
 **Liens relatifs à cet article**
 
@@ -12263,7 +12283,12 @@ vente soit effectuée dans les formes prévues pour les ventes de biens apparten
 
 	**Modifié par**:
 
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 26 (V)
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L143-3 (V)
+	  - Code de procédure civile - art. 1272 (V)
 
 
 ##### 7° : Liquidation judiciaire
@@ -12318,34 +12343,28 @@ Pour assurer le recouvrement des impositions établies par voie de taxation d'of
 L. 66 à L. 70 au nom de personnes qui changent fréquemment de lieu de séjour ou qui séjournent dans des locaux d'emprunt ou
 des locaux meublés, les trésoriers-payeurs généraux sont autorisés, dès réception du rôle et avant l'envoi de tout avis
 d'imposition au contribuable, mais après avis de la commission départementale des chefs des services financiers et des
-représentants des organismes de recouvrement des cotisations de sécurité sociale, à faire prendre des sûretés sur tous les
-biens et avoirs du contribuable et, notamment, à faire procéder au blocage de tous comptes courants de dépôts ou d'avances
-ouverts à l'intéressé.
+représentants des organismes de recouvrement des cotisations de sécurité sociale et d'assurance chômage, à faire prendre des
+sûretés sur tous les biens et avoirs du contribuable et, notamment, à faire procéder au blocage de tous comptes courants de
+dépôts ou d'avances ouverts à l'intéressé.
+
+**Nota:**
+
+_Modification effectuée en conséquence des articles 1er et 7 du décret n° 2007-686 du 4 mai 2007_.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1844 bis
-	  - Loi n°53-79 1953-02-07 art. 23 (al. 1, al. 2, al. dernier)
-	  - Décret n°78-486 du 31 mars 1978 - art. 1 (Ab)
-
 	**Modifié par**:
 
-	  - Décret n°97-656 du 30 mai 1997 - art. 1 (Ab) JORF 1er juin 1997
-
-	**Codifié par**:
-
-	  - Décret n°98-401 1998-05-22
-
-	**Liens**:
-
-	  - HISTO: Edition du 22 avril 1998
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L271 (Ab)
 	  - Livre des procédures fiscales - art. L273 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L66
 
 
 ##### 10° : Taxes sur le chiffre d'affaires
@@ -13413,15 +13432,19 @@ général des impôts peut déléguer sa signature à un ou plusieurs fonctionna
 générale des impôts ayant au moins le grade d'administrateur civil ou un grade équivalent ou au directeur de la direction
 nationale d'enquêtes fiscales ou son adjoint.
 
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 11 du décret n° 2002-609 du 26 avril 2002._
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2002-609 du 26 avril 2002 - art. 11 (V) JORF 28 avril 2002
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - Livre des procédures fiscales - art. L16 B
 
 
 ##### I ter : Dispositions particulières à la contribution à l'audiovisuel public
@@ -14443,19 +14466,23 @@ ministre chargé de la recherche, le délégué régional à la recherche et à 
 
 ###### Article R*80 B-6
 
-Le délai de six mois prévu au 3° de l'article L. 80 B court à compter de la réception de la demande d'appréciation ou, si les
-dispositions du d de l'article R. 80 B-5 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+Le délai de trois mois prévu au 3° de l'article L. 80 B court à compter de la réception de la demande d'appréciation ou, si
+les dispositions du d de l'article R. 80 B-5 ont été mises en oeuvre, à compter de la réception des compléments demandés.
+
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 69 IV et VIII de la loi n° 2007-1822 du 24 décembre 2007._
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: CGI Livre des procédures fiscales L80 B
-	  - HISTO: Edition du 22 avril 1998
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°97-496 du 16 mai 1997 - art. 1 () JORF 18 mai 1997
+	  - Livre des procédures fiscales - art. L80 B
+	  - Livre des procédures fiscales - art. R*80 B-5
 
 
 ###### Article R*80 B-7
@@ -15077,44 +15104,6 @@ obligations définies à l'article R. 87-1.
 	  - Livre des procédures fiscales - art. R87-1 (V)
 
 
-##### 15° : Intermédiaires professionnels des bourses de valeur
-
-###### Article R*94-1
-
-En application de l'article L. 94, toute personne qui fait commerce habituel de recueillir les offres et les demandes de
-valeurs mobilières doit, à toute demande des agents de l'administration, représenter les bordereaux des prestataires de
-services d'investissement ou faire connaître les numéros et les dates des bordereaux ainsi que les noms des prestataires de
-services d'investissement de qui ils émanent.
-
-**Nota:**
-
-_Modification effectuée en conséquence de l'article 11 I de la loi n° 2007-1822 du 24 décembre 2007.
-
-_
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN2 407
-
-	**Modifié par**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-662 1997-05-28
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-295 du 1er avril 2008 - art. 2
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L94
-
-
 ##### 20° : Etablissements, personnes et sociétés tenant le compte des opérations réalisées par leurs clients sur un MATIF, sur un MONEP, sur un FCIMT, ou tenant le compte des opérations sur bons d'option
 
 ###### Article R96 C-1
@@ -15410,20 +15399,22 @@ Lorsque la mise en oeuvre des dispositions de l'article R* 98 B-3 s'avère susce
 immédiate aux droits et libertés visés à l'article 1er de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux
 fichiers et aux libertés, la Commission nationale de l'informatique et des libertés peut enjoindre à l'autorité
 administrative de prendre sans délai les mesures de sécurité pouvant aller jusqu'à la destruction des supports d'information
-qui ont été constitués à partir du numéro d'inscription au répertoire national d'identification des personnes physiques.
+qui ont été constitués à partir du numéro d'inscription au répertoire national d'identification des personnes physiques. 
 
-Elle peut également, indépendamment de la mesure de destruction prévue à l'alinéa précédent, faire application des articles
-R* 288-1 à R* 288-3.
+Elle peut également, indépendamment de la mesure de destruction prévue au premier alinéa, faire application des articles R*
+288-1 à R* 288-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2007-642 du 30 avril 2007 - art. 1 () JORF 2 mai 2007
+	  - Loi n°78-17 du 6 janvier 1978 - art. 1
+	  - Livre des procédures fiscales - art. R*288-1
+	  - Livre des procédures fiscales - art. R*98 B-3
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - L'article sera codifié ultérieurement
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
 
 ###### Article R*101-1
@@ -15990,26 +15981,23 @@ informations saisies dès l'achèvement de son contrat.
 
 ###### Article R145 A-1
 
-La demande de renseignements prévue au deuxième alinéa de l'article L. 611-2 du code de commerce est adressée dans le délai
-d'un mois à compter de la date de l'entretien ou du procès-verbal de carence. Elle est accompagnée de la copie du procès-
-verbal d'entretien ou de carence établi en application de l'article 4 du décret n° 2005-1677 du 28 décembre 2005.
+Les formes et le délai de présentation de la demande de renseignements prévue à l'article L. 145 A ainsi que les conséquences
+attachées à leur respect sont régis conformément aux dispositions de l'article R. 611-12 du code de commerce.
 
-Si la demande a été présentée dans les formes et délai prescrits au premier alinéa, les personnes et organismes interrogés
-communiquent les renseignements réclamés dans le délai d'un mois. Dans le cas contraire, ils ne sont pas tenus d'y répondre.
+**Nota:**
+
+Modification effectuée en conséquence de l'article R611-12 du code de commerce.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 5 (Ab) JORF 29 décembre 2005
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-357 2006-03-24
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code de commerce - art. R611-12
+	  - Livre des procédures fiscales - art. L145 A
 
 
 ##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale
@@ -17349,36 +17337,48 @@ La juridiction saisie statue à l'expiration de ce délai.
 
 Le jugement du tribunal est exécutoire de droit à titre provisoire. En cas d'appel, l'exécution provisoire peut toutefois
 être arrêtée, si elle risque d'entraîner des conséquences manifestement excessives, ou aménagée, dans les conditions prévues
-aux articles 517 à 524 du nouveau code de procédure civile.
+aux articles 517 à 524 du code de procédure civile.
+
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007.
+
+_
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-127 du 4 mars 1998 - art. 5 () JORF 5 mars 1998
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 22 avril 1998
-	  - TXT_ASSOCIE: Instruction 1999-07-23 13O-5-99
+	  - Code de procédure civile - art. 517
 
 
 ###### Article R*202-6
 
 Sous réserve de l'application des dispositions des alinéas 2 et 4 de l'article R 202-2 et de celles des articles R 202-3 et R
-202-4, l'appel est formé, instruit et jugé selon les règles de la procédure avec représentation obligatoire prévue au nouveau
-code de procédure civile.
+202-4, l'appel est formé, instruit et jugé selon les règles de la procédure avec représentation obligatoire prévue au code de
+procédure civile.
+
+**Nota:**
+
+_Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007.
+
+_
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°98-127 du 4 mars 1998 - art. 5 () JORF 5 mars 1998
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 22 avril 1998
-	  - TXT_ASSOCIE: Instruction 1998-03-21 13O-3-98
+	  - Livre des procédures fiscales - art. R*202-2
+	  - Livre des procédures fiscales - art. R*202-3
+	  - Livre des procédures fiscales - art. R*202-4
 
 
 ##### Section III : Compensations
@@ -18592,51 +18592,6 @@ comporte l'indication qu'elle a été prise après avis du comité.
 	**Créé par**:
 
 	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 juillet 1984
-
-
-###### Article R*247-17
-
-En application de l'article L. 621-60 du code de commerce, des remises, modérations ou transactions portant sur les créances
-fiscales peuvent être accordées, dans les limites et conditions fixées par l'article L. 247, aux entreprises soumises à la
-procédure de redressement ou de liquidation judiciaires. 
-
-Dans le régime général du redressement judiciaire, l'administration statue sur les demandes écrites des mandataires
-judiciaires dans le délai de six semaines suivant la date de leur présentation. Ce délai est porté à huit semaines lorsque
-l'administration doit consulter le comité du contentieux fiscal, douanier ou des changes. Dans la procédure simplifiée, elle
-statue dans un délai de quatre semaines qui est porté à six semaines en cas de consultation du comité. 
-
-Les délais de trente jours et de quinze jours prévus aux articles R 247-12 et R 247-13 du livre des procédures fiscales ne
-sont pas applicables. 
-
-Le défaut de réponse de l'administration dans les délais impartis vaut rejet des demandes.
-
-**Nota:**
-
-Loi 2005-845 2005-07-26 art. 165 II : 
-
-Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de
-redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire,
-et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux
-plans de sauvegarde ou de redressement judiciaire.
-
-_Modification effectuée en conséquence de l'article 9 du décret n° 2007-153 du 5 février 2007._
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005
-
-	**Liens**:
-
-	  - PERIME: Décret n°2008-295 du 1er avril 2008 - art. 2
-
-	**Cite**:
-
-	  - Code de commerce - art. L621-60
-	  - Livre des procédures fiscales - art. L247
-	  - Livre des procédures fiscales - art. R*247-12
-	  - Livre des procédures fiscales - art. R*247-13
 
 
 ###### Article R*247-18
@@ -20806,31 +20761,36 @@ vérifier sur place la mise en oeuvre de son injonction.
 ###### Article R*288-3
 
 Lorsque la Commission nationale de l'informatique et des libertés saisit le président du tribunal de grande instance de Paris
-en application du deuxième alinéa de l'article L. 288, elle présente sa demande dans les formes prévues pour les référés.
+en application du deuxième alinéa de l'article L. 288, elle présente sa demande dans les formes prévues pour les référés. 
 
-Il peut être procédé selon les modalités prévues au second alinéa de l'article 485 du nouveau code de procédure civile.
+Il peut être procédé selon les modalités prévues au second alinéa de l'article 485 du code de procédure civile. 
 
-Le président du tribunal dispose pour statuer d'un délai de vingt-quatre heures.
+Le président du tribunal dispose pour statuer d'un délai de vingt-quatre heures. 
 
 La décision rendue en la forme des référés est exécutoire à titre provisoire, sauf si le président du tribunal en décide
-autrement.
+autrement. 
 
 Le délai d'appel est de trois jours. Le président de la chambre saisie fixe à bref délai l'audience à laquelle l'affaire sera
-appelée. Au jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762 du nouveau code de procédure
-civile.
+appelée. Au jour indiqué, il est procédé selon les modalités prévues aux articles 760 à 762 du code de procédure civile. 
 
-Dans le cas où un pourvoi en cassation a été formé, les articles 1009 à 1009-3 du nouveau code de procédure civile sont
-applicables.
+Dans le cas où un pourvoi en cassation a été formé, les articles 1009 à 1009-3 du code de procédure civile sont applicables.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 26 IV premier alinéa de la loi n° 2007-1787 du 20 décembre 2007.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-8 du 4 janvier 2000 - art. 4 () JORF 7 janvier 2000
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 mars 2000
+	  - Livre des procédures fiscales - art. L288
+	  - Code de procédure civile - art. 1009
+	  - Code de procédure civile - art. 485
+	  - Code de procédure civile - art. 760
 
 
 #### Chapitre III : Dispositions communautaires
@@ -21045,43 +21005,43 @@ industriels et entrepreneurs de spectacles autorisés à payer sur états le dro
 
 ###### Article A47 A-1
 
-I. - Les copies mentionnées au I de l'article L. 47 A du livre des procédures fiscales et aux b et c du II de ce même article
-présentent des fichiers à plat, à organisation séquentielle et structure zonée remplissant les critères suivants :
+I.-Les copies mentionnées au I et aux b et c du II de l'article L. 47 A présentent des fichiers à plat, à organisation
+séquentielle et structure zonée remplissant les critères suivants : 
 
-1° Les enregistrements sont séparés par le caractère de contrôle Retour chariot et/ou Fin de ligne ;
+1° Les enregistrements sont séparés par le caractère de contrôle Retour chariot et / ou Fin de ligne ; 
 
-2° Ils peuvent être de type mono ou multistructures ;
+2° Ils peuvent être de type mono ou multistructures ; 
 
-3° La longueur des enregistrements peut être fixe ou variable, avec ou sans séparateur de zone ;
+3° La longueur des enregistrements peut être fixe ou variable, avec ou sans séparateur de zone ; 
 
-4° Le caractère séparateur de zone éventuellement utilisé est unique et non équivoque dans chaque fichier.
+4° Le caractère séparateur de zone éventuellement utilisé est unique et non équivoque dans chaque fichier. 
 
-II. - Chaque fichier remis est obligatoirement accompagné d'une description, qui précise :
+II.-Chaque fichier remis est obligatoirement accompagné d'une description, qui précise : 
 
-1° Le nom, la nature et la signification de chaque zone ;
+1° Le nom, la nature et la signification de chaque zone ; 
 
-2° La signification des codes utilisés comme valeurs de zone ;
+2° La signification des codes utilisés comme valeurs de zone ; 
 
 3° Toutes les informations techniques nécessaires au traitement des fichiers, et notamment le jeu de caractères utilisé, le
-type de structure, la longueur des enregistrements, les caractères séparateur de zone et séparateur d'enregistrement.
+type de structure, la longueur des enregistrements, les caractères séparateur de zone et séparateur d'enregistrement. 
 
-III. - Le codage des informations doit être conforme aux spécifications suivantes :
+III.-Le codage des informations doit être conforme aux spécifications suivantes : 
 
-1° Les caractères utilisés appartiennent à l'un des jeux de caractères ASCII, norme ISO 8859-15 ou EBCDIC ;
+1° Les caractères utilisés appartiennent à l'un des jeux de caractères ASCII, norme ISO 8859-15 ou EBCDIC ; 
 
 2° Les valeurs numériques sont exprimées en mode caractère et en base décimale, cadrées à droite et complétées à gauche par
 des zéros pour les zones de longueur fixe. Le signe est indiqué par le premier caractère à partir de la gauche. La virgule
-sépare la fraction entière de la partie décimale. Aucun séparateur de millier n'est accepté ;
+sépare la fraction entière de la partie décimale. Aucun séparateur de millier n'est accepté ; 
 
-3° Les zones alphanumériques sont cadrées à gauche et complétées à droite par des espaces ;
+3° Les zones alphanumériques sont cadrées à gauche et complétées à droite par des espaces ; 
 
-4° Les dates sont exprimées au format AAAAMMJJ sans séparateur. Les heures sont exprimées au format HH:MM:SS.
+4° Les dates sont exprimées au format AAAAMMJJ sans séparateur. Les heures sont exprimées au format HH : MM : SS. 
 
-IV. - En accord avec le service vérificateur, d'autres solutions d'échange peuvent être retenues dans la mesure où elles sont
-de nature à faciliter le traitement des données transmises.
+IV.-En accord avec le service vérificateur, d'autres solutions d'échange peuvent être retenues dans la mesure où elles sont
+de nature à faciliter le traitement des données transmises. 
 
-V. - Les copies de fichiers sont remises sur des disques optiques de type CD ou DVD non réinscriptibles, clôturés de telle
-sorte qu'ils ne puissent plus recevoir de données et utilisant le système de fichiers UDF et/ou ISO 9660.
+V.-Les copies de fichiers sont remises sur des disques optiques de type CD ou DVD non réinscriptibles, clôturés de telle
+sorte qu'ils ne puissent plus recevoir de données et utilisant le système de fichiers UDF et / ou ISO 9660. 
 
 En accord avec le service vérificateur, d'autre supports pourront être utilisés.
 
@@ -21089,11 +21049,15 @@ En accord avec le service vérificateur, d'autre supports pourront être utilis�
 
 	**Modifié par**:
 
-	  - Arrêté du 28 décembre 2007 - art. 1
+	  - Arrêté du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. A47 AA-1 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L47 A
 
 
 #### Chapitre II : Le droit de communication
