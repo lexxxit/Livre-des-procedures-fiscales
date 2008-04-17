@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-04-03
+Version Consolidée au 2008-04-18
 
 # Partie législative
 
@@ -13525,31 +13525,28 @@ partie de la succession ne sont plus recevables.
 
 ###### Article R23 B-1
 
-1. Lorsqu'en application du 3° de l'article 990 E du code général des impôts, une demande de renseignements et de
-justifications est faite à une personne morale, celle-ci dispose d'un délai de soixante jours pour fournir à l'administration
-l'ensemble de ces renseignements et justifications.
+1. Lorsqu'en application du d du 3° de l'article 990 E du code général des impôts, une demande de renseignements et de
+justifications est faite à une entité juridique, celle-ci dispose d'un délai de soixante jours pour fournir à
+l'administration l'ensemble de ces renseignements et justifications. 
 
-2. Lorsque la personne morale a répondu de façon insuffisante à la demande de l'administration, celle-ci lui adresse une mise
-en demeure de compléter sa réponse dans un délai de trente jours en précisant les compléments de réponse à fournir.
+2. Lorsque l'entité juridique a répondu de façon insuffisante à la demande de l'administration, celle-ci lui adresse une mise
+en demeure de compléter sa réponse dans un délai de trente jours en précisant les compléments de réponse à fournir. 
 
 3. En l'absence de réponse, ou en cas de réponse insuffisante, dans le délai prévu au 1 prorogé le cas échéant du délai prévu
-au 2, la personne morale doit déposer dans un délai de trente jours la déclaration mentionnée à l'article 990 F au titre de
-l'année au cours de laquelle l'engagement prévu au 3° du 990 E n'a pas été respecté ainsi qu'au titre des années antérieures
-non prescrites.
+au 2, l'entité juridique doit déposer dans un délai de trente jours la déclaration mentionnée à l'article 990 F au titre de
+l'année au cours de laquelle l'engagement prévu au d du 3° du 990 E n'a pas été respecté ainsi qu'au titre des années
+antérieures non prescrites.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-819 du 14 mai 1993 - art. 3 () JORF 15 mai 1993
+	  - Décret n°2008-354 du 15 avril 2008 - art. 3
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°93-1095 1993-09-16
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Code général des impôts, CGI. - art. 990 E
+	  - Code général des impôts, CGI. - art. 990 F
 
 
 ##### III : Dispositions particulières aux contributions indirectes, au timbre et aux législations assimilées
