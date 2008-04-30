@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-04-18
+Version Consolidée au 2008-05-01
 
 # Partie législative
 
@@ -230,18 +230,23 @@ opposables à l'administration.
 ###### Article L10 A
 
 Dans le cadre des procédures prévues au présent livre, les agents de la direction générale des impôts peuvent rechercher et
-constater les infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail, dans les conditions prévues
-par l'article L. 324-12 de ce code.
+constater les infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail, dans les conditions prévues
+par les articles L. 8271-7 à L. 8271-11 de ce code.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007._
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 11 avril 1997
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°97-210 du 11 mars 1997 - art. 11 () JORF 12 mars 1997
+	  - Code du travail - art. L8221-1
+	  - Code du travail - art. L8271-7
 
 
 ###### Article L10 B
@@ -846,8 +851,7 @@ a) La réitération d'opérations commerciales sans facture et non comptabilisé
 b) L'utilisation d'un logiciel de comptabilité ou de caisse aux fins de permettre la réalisation de l'un des faits mentionnés
 au 1° de l'article 1743 du code général des impôts ; 
 
-4° Une infraction aux interdictions mentionnées à l'article L. 324-9 du code du travail
-, 
+4° Une infraction aux interdictions mentionnées à l'article L. 8221-1 du code du travail, 
 
 ils peuvent, en cas de circonstances susceptibles de menacer le recouvrement d'une créance fiscale de la nature de celle
 mentionnée au premier alinéa, dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale. 
@@ -880,13 +884,47 @@ Un procès-verbal relatant les opérations effectuées est établi. Il est sign�
 que par le contribuable. En cas de refus de signer, mention en est faite au procès-verbal. L'original de ce procès-verbal est
 conservé par l'administration et copie en est remise au contribuable. 
 
-Ces opérations ne constituent pas une vérification de comptabilité au sens de l'article L. 13.
+Ces opérations ne constituent pas une vérification de comptabilité au sens de l'article L. 13. 
+
+V. Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la réception
+du procès-verbal de flagrance fiscale mentionné au I, met fin à la procédure s'il est fait état d'un moyen propre à créer, en
+l'état de l'instruction, un doute sérieux sur la régularité de cette procédure. 
+
+Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
+au profit du tribunal administratif qui se prononce en urgence. 
+
+La décision du juge du référé est susceptible d'appel devant le tribunal administratif dans le délai de huit jours. Le
+tribunal se prononce en urgence. 
+
+La décision du juge du référé ou du tribunal administratif ordonnant qu'il soit mis fin à la procédure entraîne la mainlevée
+immédiate des saisies conservatoires éventuellement prises.
+
+**Nota:**
+
+_Modification effectuée en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007._
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 170
+	  - Code général des impôts, CGI. - art. 172
+	  - Code général des impôts, CGI. - art. 1743
+	  - Code général des impôts, CGI. - art. 223
+	  - Code général des impôts, CGI. - art. 272
+	  - Code général des impôts, CGI. - art. 287
+	  - Livre des procédures fiscales - art. L13
+	  - Livre des procédures fiscales - art. L16 B
+	  - Livre des procédures fiscales - art. L16 D
+	  - Livre des procédures fiscales - art. L279
+	  - Livre des procédures fiscales - art. L47
+	  - Livre des procédures fiscales - art. L80 F
+	  - Livre des procédures fiscales - art. L80 H (V)
+	  - Code du travail - art. L8221-1
 
 	**Cité par**:
 
@@ -3404,65 +3442,76 @@ l'article 885 X du code général des impôts en ce qui concerne l'impôt de sol
 
 ###### Article L73
 
-Peuvent être évalués d'office :
+Peuvent être évalués d'office : 
 
 1° Le bénéfice imposable des contribuables qui perçoivent des revenus provenant d'entreprises industrielles, commerciales ou
 artisanales, ou des revenus d'exploitations agricoles imposables selon un régime de bénéfice réel, lorsque la déclaration
-annuelle prévue à l'article 53 A du code général des impôts n'a pas été déposée dans le délai légal ;
+annuelle prévue à l'article 53 A du code général des impôts n'a pas été déposée dans le délai légal ; 
 
-1° bis Les résultats imposables selon le régime d'imposition défini à l'article 50-0 du code général des impôts dès lors :
+1° bis Les résultats imposables selon le régime d'imposition défini à l'article 50-0 du code général des impôts dès lors : 
 
-a. Qu'un des éléments déclaratifs visé au 3 de l'article précité n'a pas été indiqué ;
+a. Qu'un des éléments déclaratifs visé au 3 de l'article précité n'a pas été indiqué ; 
 
 b. Ou que la différence entre le montant du chiffre d'affaires déclaré et celui du chiffre d'affaires réel est supérieure à
-10 % du premier chiffre ;
+10 % du premier chiffre ; 
 
 c. Ou que la différence entre le montant des achats figurant sur le registre prévu au même texte et le montant des achats
-réels est supérieure de 10 % au premier chiffre ;
+réels est supérieure de 10 % au premier chiffre ; 
 
-d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
-cadre de l'article L. 324-12 du même code ;
+d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail dans le
+cadre des articles L. 8271-7 à L. 8271-11 du même code ; 
 
 1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue à l'article 223 VI du code général des
-impôts n'a pas été déposée dans le délai légal par le fiduciaire ;
+impôts n'a pas été déposée dans le délai légal par le fiduciaire ; 
 
 2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés lorsque la
-déclaration annuelle prévue à l'article 97 du code général des impôts n'a pas été déposée dans le délai légal ;
+déclaration annuelle prévue à l'article 97 du code général des impôts n'a pas été déposée dans le délai légal ; 
 
-2° bis Les résultats imposables selon le régime d'imposition défini à l'article 102 ter du code général des impôts dès lors :
+2° bis Les résultats imposables selon le régime d'imposition défini à l'article 102 ter du code général des impôts dès
+lors : 
 
-a.  Qu'un des éléments déclaratifs visés au 2 de l'article précité n'a pas été indiqué ;
+a. Qu'un des éléments déclaratifs visés au 2 de l'article précité n'a pas été indiqué ; 
 
 b. Ou que la différence entre le montant des recettes déclarées et celui du montant des recettes réelles est supérieure à 10
-% du premier montant ;
+% du premier montant ; 
 
-c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 324-9 du code du travail dans le
-cadre de l'article L. 324-12 du même code ;
+c. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail dans le
+cadre des articles L. 8271-7 à L. 8271-11 du même code ; 
 
 3° Les revenus fonciers des contribuables qui se sont abstenus de répondre aux demandes de justifications mentionnées au
-deuxième alinéa de l'article L. 16.
+deuxième alinéa de l'article L. 16. 
 
 4° Les gains de cession de valeurs mobilières ou de droits sociaux des contribuables qui se sont abstenus de répondre aux
-demandes de justifications mentionnées au deuxième alinéa de l'article L. 16.
+demandes de justifications mentionnées au deuxième alinéa de l'article L. 16. 
 
 5° Les plus-values réalisées par les contribuables qui se sont abstenus de répondre aux demandes de justifications
-mentionnées au deuxième alinéa de l'article L. 16.
+mentionnées au deuxième alinéa de l'article L. 16. 
 
 Les dispositions de l'article L. 68 sont applicables dans les cas d'évaluation d'office prévus aux 1° et 2°.
 
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007._
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 102 ter
+	  - Code général des impôts, CGI. - art. 50-0
+	  - Code général des impôts, CGI. - art. 53 A
+	  - Livre des procédures fiscales - art. L16
+	  - Livre des procédures fiscales - art. L68
+	  - Code du travail - art. L8221-1
+	  - Code du travail - art. L8271-7
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 ter (Ab)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Modifié par**:
-
-	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
 
 
 ###### Article L74
@@ -5273,20 +5322,28 @@ d'imposition ainsi que celle des personnes ayant cessé de percevoir ce revenu m
 ###### Article L98 B
 
 L'organisme du régime général de sécurité sociale chargé du recouvrement des cotisations et contributions sociales dues par
-les particuliers employeurs qui utilisent les dispositifs prévus à l'article L. 129-2 du code du travail dans sa rédaction
-antérieure à la publication de la loi n° 2005-841 du 26 juillet 2005, au 1° de l'article L. 129-5, à l'article L. 812-1 du
-même code ainsi qu'à l'article L. 531-5 du code de la sécurité sociale, communique à l'administration des impôts, avant le
-1er mars de chaque année, les informations relatives aux personnes déclarées par ces employeurs au cours de l'année
-précédente.
+les particuliers employeurs qui utilisent les dispositifs prévus au 1° de l'article L. 1271-1 du code du travail et aux
+articles L. 1522-3 et L. 1522-4 du même code, ainsi qu'à l'article L. 531-5 du code de la sécurité sociale, communique à
+l'administration des impôts, avant le 1er mars de chaque année, les informations relatives aux personnes déclarées par ces
+employeurs au cours de l'année précédente. 
 
-La communication prévue au premier alinéa peut être faite par voie électronique.
+La communication prévue au premier alinéa peut être faite par voie électronique. 
 
 Un décret en Conseil d'Etat pris après avis de la Commission nationale de l'informatique et des libertés fixe le contenu et
 les modalités de cette communication, et notamment les conditions d'utilisation du numéro d'inscription au répertoire
 national d'identification des personnes physiques pour les échanges et traitements nécessaires à la communication des
 informations ainsi transmises à l'administration des impôts.
 
+**Nota:**
+
+_Modifications effectuées en conséquence de l'article 36 I de la loi n° 2005-841 du 26 juillet 2005 et des articles 1, 3 et
+12 I de l'ordonnance n° 2007-329 du 12 mars 2007._
+
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
 	**Cité par**:
 
@@ -5296,13 +5353,12 @@ informations ainsi transmises à l'administration des impôts.
 	  - Livre des procédures fiscales - art. R*98 B-2 (V)
 	  - Livre des procédures fiscales - art. R*98 B-3 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 6 () JORF 8 décembre 2005
+	  - Code du travail - art. L1271-1
+	  - Code du travail - art. L1522-3
+	  - Code du travail - art. L1522-4
+	  - Code de la sécurité sociale. - art. L531-5
 
 
 ###### Article L99
@@ -6738,9 +6794,15 @@ versement en cas de dépassement du plafond légal de densité mentionné à l'a
 
 ###### Article L134
 
-Conformément aux dispositions prévues aux articles L. 324-12, L. 325-1, L. 325-2, L. 325-4 et L. 325-5 du code du travail,
-les agents de la direction générale des impôts et de la direction générale des douanes et droits indirects peuvent
-communiquer et obtenir communication de tous documents ou renseignements utiles à la lutte contre le travail illégal.
+Conformément aux dispositions prévues aux articles L. 8271-1, L. 8271-2, L. 8271-4, L. 8271-5 et L. 8271-7 du code du
+travail, ainsi qu'au deuxième alinéa de l'article L. 133-9-3 du code de la sécurité sociale les agents de la direction
+générale des impôts et de la direction générale des douanes et droits indirects peuvent communiquer et obtenir communication
+de tous documents ou renseignements utiles à la lutte contre le travail illégal.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007 et du code de
+la sécurité sociale art. L. 133-9-3._
 
 **Liens relatifs à cet article**
 
@@ -6748,57 +6810,61 @@ communiquer et obtenir communication de tous documents ou renseignements utiles 
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2006-357 2006-03-24
-
 	**Modifié par**:
 
-	  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code du travail - art. L8271-1
+	  - Code du travail - art. L8271-2
+	  - Code du travail - art. L8271-4
+	  - Code du travail - art. L8271-5
+	  - Code du travail - art. L8271-7
+	  - Code de la sécurité sociale. - art. L133-9-3
 
 
 ###### Article L134 A
 
 Les agents chargés des opérations de contrôle de la recherche d'emploi peuvent, pour l'exercice de leur mission, recevoir
 communication des renseignements détenus par l'administration des impôts ou par l'administration des douanes et droits
-indirects conformément aux dispositions des cinquième alinéa de l'article L. 351-18 et troisième alinéa de l'article R.
-351-30 du code du travail.
+indirects conformément aux dispositions du 1° de l'article L. 5426-9 du code du travail et du décret pris en application de
+cet article.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007._
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-357 2006-03-24
-
 	**Modifié par**:
 
-	  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code du travail - art. L5426-9
 
 
 ###### Article L134 B
 
-Les agents des impôts peuvent communiquer aux organismes chargés, en application de l'article L. 351-21 du code du travail,
-du service de l'allocation d'assurance et du recouvrement des contributions mentionnées à l'article L. 351-3 du même code
-ainsi que de la gestion des allocations de solidarité mentionnées aux articles L. 351-9 et L. 351-10 du code précité, les
-renseignements nécessaires à l'assiette des cotisations et au calcul des prestations.
+Conformément à l'article L. 5427-2 du code du travail, les agents des services des impôts peuvent communiquer aux organismes
+gestionnaires du régime d'assurance chômage les renseignements nécessaires à l'assiette des cotisations et au calcul des
+prestations.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°92-1446 du 31 décembre 1992 - art. 15 () JORF 1er janvier 1993
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Code du travail - art. L5427-2
 
 
 ###### Article L135
@@ -6834,22 +6900,26 @@ nécessaires à la liquidation du prélèvement sur le bénéfice net des chanti
 
 ###### Article L135 A
 
-Conformément à l'article L. 991-3 du code du travail, le contrôle mentionné aux articles L. 991-1 et L. 991-2 du même code
-est exercé par les inspecteurs et les contrôleurs de la formation professionnelle commissionnés à cet effet.
+Conformément à l'article L. 6362-1 du code du travail, l'administration fiscale communique aux agents de contrôle mentionnés
+à l'article L. 6361-5 du même code les renseignements nécessaires à l'accomplissement de leur mission de contrôle de la
+formation professionnelle continue.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007.
+
+_
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-357 2006-03-24
-
 	**Modifié par**:
 
-	  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code du travail - art. L6361-5
+	  - Code du travail - art. L6362-1
 
 
 ###### Article L135 B
@@ -7964,24 +8034,26 @@ n° 2010-1609 du 22 décembre 2010.
 
 ###### Article L147 C
 
-Conformément à l'article L. 516-2 du code du travail, les agents de l'administration des impôts ou de l'administration des
-douanes et droits indirects doivent communiquer aux conseillers rapporteurs membres d'un conseil de prud'hommes, sur la
-demande de ceux-ci et sans pouvoir opposer le secret professionnel, les renseignements et documents relatifs au travail
-dissimulé, au marchandage ou au prêt illicite de main-d'oeuvre dont ils disposent.
+Conformément au deuxième alinéa de l'article L. 1454-1 du code du travail, les agents de l'administration des impôts ou de
+l'administration des douanes et droits indirects doivent communiquer aux conseillers rapporteurs membres d'un conseil de
+prud'hommes, sur la demande de ceux-ci et sans pouvoir opposer le secret professionnel, les renseignements et documents
+relatifs au travail dissimulé, au marchandage ou au prêt illicite de main-d'oeuvre dont ils disposent.
+
+**Nota:**
+
+_Modification effectuée en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007.
+
+_
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°98-401 1998-05-22
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 22 avril 1998
-
-	**Créé par**:
-
-	  - Loi n°97-210 du 11 mars 1997 - art. 18 () JORF 12 mars 1997
+	  - Code du travail - art. L1454-1
 
 
 ##### V : Dérogations au profit des officiers ministériels
@@ -12157,25 +12229,23 @@ cessation des paiements et en connaissance de celle-ci.
 
 ###### Article L264
 
-La cession des rémunérations mentionnées aux articles L. 145-1 et R. 145-1 du code du travail n'est opposable au comptable
+La cession des rémunérations mentionnées aux articles L. 3252-1 et R. 145-1 du code du travail n'est opposable au comptable
 chargé du recouvrement d'impositions privilégiées qu'à concurrence de la moitié de la portion saisissable ou cessible.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007._
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1925 (AL. 2)
-	  - CGI 1926 bis (P.)
-	  - Décret n°55-470 1955-04-30 ART. 3 (AL. 1) (LOI 55-439 1955-04-02)
-	  - Décret-loi 1938-06-17 ART. 1
+	  - Décret n°2008-295 du 1er avril 2008 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - Code du travail - art. L3252-1
+	  - Code du travail - art. R145-1
 
 
 ##### 3° : Obligations des dépositaires publics de fonds
@@ -14820,22 +14890,28 @@ des impôts, affecté ou non dans le ressort territorial du même service et app
 
 ###### Article R*81 A-1
 
-I. - N'entrent dans le champ d'application de l'obligation édictée par l'article L. 81-A que :
+I.-N'entrent dans le champ d'application de l'obligation édictée par l'article L. 81-A que : 
 
-a) Les employeurs ;
+a) Les employeurs ; 
 
-b) Les organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale ;
+b) Les organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale ; 
 
-c) Les institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale ;
+c) Les institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale ; 
 
-d) Les institutions gestionnaires du régime d'assurance prévu à l'article L. 351-1 du code du travail.
+d) Les institutions gestionnaires du régime d'assurance prévu à l'article L. 5421-1 du code du travail. 
 
-II. - Une personne ou organisme mentionné au I ne peut porter à la connaissance de la direction générale des impôts, de la
+II.-Une personne ou organisme mentionné au I ne peut porter à la connaissance de la direction générale des impôts, de la
 direction générale de la comptabilité publique ou de la direction générale des douanes et droits indirects un numéro
 d'inscription au répertoire national d'identification des personnes physiques, sur le fondement de l'article L. 81-A, qu'en
 complément des éléments d'identification d'une personne physique au sujet de laquelle une disposition législative expresse du
 présent livre ou du code général des impôts l'oblige à fournir sur support papier ou électronique des informations
 nominatives.
+
+**Nota:**
+
+_Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordonnance 2007-329 du 12 mars 2007.
+
+_
 
 **Liens relatifs à cet article**
 
@@ -14846,18 +14922,14 @@ nominatives.
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 39 A (V)
 	  - Livre des procédures fiscales - art. R*287-1 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°99-1047 du 14 décembre 1999 - art. 1 () JORF 15 décembre 1999
+	  - Décret n°2008-295 du 1er avril 2008 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Décret n°99-1047 du 14 décembre 1999 - art. 4 (V)
-	  - HISTO: Edition du 31 mars 2000
-
-	**Codifié par**:
-
-	  - Décret n°2000-478 2000-06-02
+	  - Livre des procédures fiscales - art. L81 A
+	  - Code du travail - art. L5421-1
 
 
 ###### Article R*81-1
