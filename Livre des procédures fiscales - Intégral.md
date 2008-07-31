@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2008-08-01
 
 # Partie législative
 
@@ -14098,18 +14098,19 @@ informé de ce constat.
 ###### Article R*57-1
 
 La proposition de rectification prévue par l'article L. 57 fait connaître au contribuable la nature et les motifs de la
-rectification envisagée. L'administration invite, en même temps, le contribuable à faire parvenir son acceptation ou ses
-observations dans un délai de trente jours à compter de la réception de la proposition.
+rectification envisagée.L'administration invite, en même temps, le contribuable à faire parvenir son acceptation ou ses
+observations dans un délai de trente jours à compter de la réception de la proposition, prorogé, le cas échéant, dans les
+conditions prévues au deuxième alinéa de cet article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2004-282 du 25 mars 2004 - art. 1 () JORF 27 mars 2004 en vigueur le 1er juin 2004
+	  - Décret n°2008-749 du 29 juillet 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Livre des procédures fiscales - art. L57
 
 
 ###### Article R*59 B-1
@@ -18109,29 +18110,31 @@ infraction de le signer également et la réponse qu'elle a faite à cette invit
 
 ###### Article R*228-1
 
-La commission des infractions fiscales prévue à l'article L. 228 est saisie par le ministre chargé des finances ou, sur
-délégation, par des chefs de services de l'administration centrale de la direction générale des impôts et de la direction de
-la comptabilité publique.
+La commission des infractions fiscales prévue à l'article L. 228 est saisie par le ministre chargé du budget ou, sur
+délégation, par le directeur général, les directeurs adjoints, les chefs de services, les sous-directeurs ou les chefs de
+bureaux de l'administration centrale de la direction générale des finances publiques. 
+
+Un arrêté du ministre chargé du budget fixe la liste des autorités mentionnées au premier alinéa pouvant saisir la
+commission. 
+
+Le changement de ministre ne met pas fin à cette délégation, sauf si le ministre en décide autrement par arrêté publié au
+Journal officiel de la République française.
 
 L'autorité qui saisit la commission lui adresse le dossier de l'affaire accompagné de ses propositions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGIAN2 384 SEPTIES-0 E
-
 	**Modifié par**:
 
-	  - Décret n°81-618 1981-05-18 ART. 1 JORF 21 MAI 1981
-
-	**Codifié par**:
-
-	  - Décret n°82-882 1982-10-15
+	  - Décret n°2008-752 du 29 juillet 2008 - art. 1
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. A228-1 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L228
 
 
 ###### Article R*228-2
@@ -21288,6 +21291,26 @@ Les procès-verbaux sont rédigés à la requête du directeur général des imp
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L225 A (V)
+
+
+##### Section II : Exercice des poursuites pénales
+
+###### Article A228-1
+
+Les autorités bénéficiaires de la délégation de signature du ministre chargé du budget pour saisir la commission des
+infractions fiscales prévue à l'article R. * 228-1 sont le directeur général des finances publiques, l'adjoint au directeur
+général chargé de la fiscalité, le sous-directeur chargé de la sous-direction du contrôle fiscal et le chef du bureau
+affaires particulières et affaires pénales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 29 juillet 2008 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*228-1
 
 
 ### Titre IV : Le recouvrement de l'impôt
