@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-08-01
+Version Consolidée au 2008-08-06
 
 # Partie législative
 
@@ -702,89 +702,122 @@ ou en passant ou en faisant passer sciemment des écritures inexactes ou fictive
 est imposée par le code général des impôts, elle peut, dans les conditions prévues au II, autoriser les agents de
 l'administration des impôts, ayant au moins le grade d'inspecteur et habilités à cet effet par le directeur général des
 impôts, à rechercher la preuve de ces agissements, en effectuant des visites en tous lieux, même privés, où les pièces et
-documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support.
+documents s'y rapportant sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support. 
 
 II. Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande
-instance dans le ressort duquel sont situés les lieux à visiter.
+instance dans le ressort duquel sont situés les lieux à visiter. 
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
 
-L'ordonnance comporte :
+L'ordonnance comporte : 
 
-l'adresse des lieux à visiter ;
+l'adresse des lieux à visiter ; 
 
-le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
+le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de
+visite. 
+
+la mention de la faculté pour le contribuable de faire appel à un conseil de son choix.
+
+L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
-l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.
+l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
 la personne occupant les lieux visités est titulaire et où des pièces et documents se rapportant aux agissements visés au I
 sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance,
-procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-verbal prévu au IV.
+procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-verbal prévu au IV. 
 
-La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. A cette fin, il
-donne toutes instructions aux agents qui participent à ces opérations.
+La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées.A cette fin, il
+donne toutes instructions aux agents qui participent à ces opérations. 
 
-Il désigne un officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
+Il désigne un officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement. 
 
 Il peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention.
 
 A tout moment, il peut décider la suspension ou l'arrêt de la visite.
+
+L'ordonnance est exécutoire au seul vu de la minute.
 
 L'ordonnance est notifiée verbalement et sur place au moment de la visite, à l'occupant des lieux ou à son représentant qui
 en reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au IV. En l'absence de l'occupant des lieux
 ou de son représentant, l'ordonnance est notifiée, après la visite, par lettre recommandée avec avis de réception. La
 notification est réputée faite à la date de réception figurant sur l'avis.
 
-A défaut de réception, il est procédé à la signification de l'ordonnance dans les conditions prévues par les articles 550 et
-suivants du code de procédure pénale.
+A défaut de réception, il est procédé à la signification de l'ordonnance par acte d'huissier de justice. 
 
-Les délai et modalités de la voie de recours sont mentionnés sur les actes de notification et de signification.
+Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
-L'ordonnance mentionnée au premier alinéa n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le
-code de procédure pénale ; ce pourvoi n'est pas suspensif. Les délais de pourvoi courent à compter de la notification ou de
-la signification de l'ordonnance.
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
+constituer avoué. 
+
+Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou
+adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de
+quinze jours. Ce délai court à compter soit de la remise, soit de la réception, soit de la signification de l'ordonnance. Cet
+appel n'est pas suspensif. 
+
+Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
+parties peuvent le consulter.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 III. La visite, qui ne peut être commencée avant six heures ni après vingt et une heures, est effectuée en présence de
 l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins
-choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des impôts.
+choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des impôts. 
 
 Les agents de l'administration des impôts mentionnés au I peuvent être assistés d'autres agents des impôts habilités dans les
-mêmes conditions que les inspecteurs.
+mêmes conditions que les inspecteurs. 
 
 Les agents des impôts habilités, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent seuls
 prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
-dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
+dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
 
 IV. Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
 dressé sur-le-champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est
 annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des impôts et par
 l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du III ; en cas de refus de signer,
-mention en est faite au procès-verbal.
+mention en est faite au procès-verbal. 
 
-Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des
+Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés.L'occupant des
 lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
 police judiciaire ; l'inventaire est alors établi.
 
 V. Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la
-visite ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant.
+visite ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie est également
+adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des agissements mentionnés au I,
+nonobstant les dispositions de l'article L. 103. 
 
 Les pièces et documents saisis sont restitués à l'occupant des locaux dans les six mois de la visite ; toutefois, lorsque des
-poursuites pénales sont engagées, leur restitution est autorisée par l'autorité judiciaire compétente.
+poursuites pénales sont engagées, leur restitution est autorisée par l'autorité judiciaire compétente. 
 
-VI. L'administration des impôts ne peut opposer au contribuable les informations recueillies qu'après restitution des pièces
+Le procès-verbal et l'inventaire mentionnent le délai et la voie de recours. 
+
+Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie. Les
+parties ne sont pas tenues de constituer avoué. 
+
+Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
+ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
+de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire,
+mentionnés au premier alinéa. Ce recours n'est pas suspensif.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
+
+VI.L'administration des impôts ne peut opposer au contribuable les informations recueillies qu'après restitution des pièces
 et documents saisis ou de leur reproduction et mise en oeuvre des procédures de contrôle visées aux premier et deuxième
 alinéas de l'article L. 47.
 
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 164 V : Les modifications induites par la loi n° 2008-776 sont
+applicables aux opérations de visite et de saisie pour lesquelles l'ordonnance d'autorisation a été notifiée ou signifiée à
+compter de la date d'entrée en vigueur de la présente loi.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2003
 
 	**Cité par**:
 
@@ -801,12 +834,14 @@ alinéas de l'article L. 47.
 
 	**Modifié par**:
 
-	  - Loi n°2000-516 2000-06-15 art. 49 VI, art. 140 JORF 16 juin 2000
-	  - Loi n°2000-516 du 15 juin 2000 - art. 49 () JORF 16 juin 2000
+	  - Loi n°2008-776 du 4 août 2008 - art. 164 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2003-934 2003-09-30
+	  - Livre des procédures fiscales - art. L103 (V)
+	  - Livre des procédures fiscales - art. L47 (V)
+	  - CODE DE PROCEDURE PENALE - art. 56 (V)
+	  - CODE DE PROCEDURE PENALE - art. 58 (V)
 
 
 ###### Article L16 BA
@@ -1766,59 +1801,76 @@ l'administration dans les conditions prévues à l'article L. 35.
 
 1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du
 code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents
-habilités à cet effet par l'administration des douanes et droits indirects, peuvent effectuer des visites en tous lieux, même
-privés, où les pièces, documents, objets ou marchandises se rapportant à ces infractions sont susceptibles d'être détenus et
-procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire.
+habilités à cet effet par le ministre chargé des douanes, peuvent effectuer des visites en tous lieux, même privés, où les
+pièces, documents, objets ou marchandises se rapportant à ces infractions sont susceptibles d'être détenus et procéder à leur
+saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire. 
 
-2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du président du tribunal de grande
-instance dans le ressort duquel sont situés les locaux à visiter ou d'un juge délégué par lui.
+2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention
+du tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter. 
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
-doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite.
+doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
 
 Il désigne l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
 
-L'ordonnance comporte :
+L'ordonnance comporte : 
 
-le cas échéant, mention de la délégation du président du tribunal de grande instance ;
+l'adresse des lieux à visiter ; 
 
-l'adresse des lieux à visiter ;
+le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de
+visite. 
 
-le nom et la qualité du fonctionnaire habilité qui a sollicité et obtenu l'autorisation de procéder aux opérations de visite.
+la mention de la faculté pour l'occupant des lieux ou son représentant, ainsi que l'auteur présumé des infractions
+mentionnées au 1, de faire appel à un conseil de son choix.
+
+L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
-l'espèce, l'existence des infractions dont la preuve est recherchée.
+l'espèce, l'existence des infractions dont la preuve est recherchée. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
 la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
 infractions visées au 1. sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge
 qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
-verbal prévu au 4.
+verbal prévu au 4. 
 
-La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
+La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. 
 
 Il peut se rendre dans les locaux pendant l'intervention.
 
 A tout moment, il peut décider la suspension ou l'arrêt de la visite.
 
-L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de procédure pénale. Les
-délais de pourvoi courent à compter de la notification ou de la signification de l'ordonnance. Ce pourvoi n'est pas
-suspensif.
+L'ordonnance est exécutoire au seul vu de la minute.
 
 L'ordonnance est notifiée, verbalement et sur place au moment de la visite, à l'occupant des lieux ou à son représentant qui
 en reçoit copie intégrale contre récépissé ou émargement au procès-verbal prévu au 4. En l'absence de l'occupant des lieux ou
 de son représentant, l'ordonnance est notifiée après la visite par lettre recommandée avec avis de réception. La notification
-est réputée faite à la date de réception figurant sur l'avis.
+est réputée faite à la date de réception figurant sur l'avis. Une copie est également adressée par lettre recommandée avec
+demande d'avis de réception à l'auteur présumé des infractions mentionnées au 1, nonobstant les dispositions de l'article L.
+103.
 
-A défaut de réception, il est procédé à la signification de l'ordonnance dans les conditions prévues par les articles 550 et
-suivants du code de procédure pénale.
+A défaut de réception, il est procédé à la signification de l'ordonnance par acte d'huissier de justice. 
 
-Les délai et modalités de la voie de recours sont mentionnés sur les actes de notification et de signification.
+Le délai et la voie de recours sont mentionnés dans l'ordonnance.
+
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
+constituer avoué. 
+
+Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou
+adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de
+quinze jours. Ce délai court à compter soit de la remise, soit de la réception, soit de la signification de l'ordonnance. Cet
+appel n'est pas suspensif. 
+
+Le greffe du tribunal de grande instance transmet sans délai le dossier de l'affaire au greffe de la cour d'appel où les
+parties peuvent le consulter.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 3. La visite ne peut être commencée avant six heures ni après vingt et une heures ; dans les lieux ouverts au public elle
 peut également être commencée pendant les heures d'ouverture de l'établissement. Elle est effectuée en présence de l'occupant
 des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en
-dehors des personnes relevant de son autorité ou de celle de l'administration des douanes et droits indirects.
+dehors des personnes relevant de son autorité ou de celle de l'administration des douanes et droits indirects. 
 
 Les agents de l'administration des douanes et droits indirects mentionnés au 1, l'occupant des lieux ou son représentant et
 l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
@@ -1830,22 +1882,36 @@ dispositions du troisième alinéa de l'article 56 du code de procédure pénale
 de l'administration des douanes et droits indirects. Un inventaire des pièces et documents saisis lui est annexé. Le procès-
 verbal et l'inventaire sont signés par les agents de l'administration des douanes et droits indirects et par l'officier de
 police judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ci-dessus ; en cas de refus de signer,
-mention en est faite au procès-verbal.
+mention en est faite au procès-verbal. 
 
 Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des
 lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
-police judiciaire ; l'inventaire est alors établi.
+police judiciaire ; l'inventaire est alors établi. 
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a
-délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant.
+délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie
+est également adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des infractions mentionnées
+au 1, nonobstant les dispositions de l'article L. 103. 
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après exécution de la transaction consécutive à la
 rédaction du procès-verbal de constatation des infractions prévu par l'article L. 212 A ; en cas de poursuites judiciaires,
-leur restitution est autorisée par l'autorité judiciaire compétente.
+leur restitution est autorisée par l'autorité judiciaire compétente. 
+
+Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie
+autorisées en application du 2. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations mentionnent le délai et
+la voie de recours. Les parties ne sont pas tenues de constituer avoué. 
+
+Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
+ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
+de quinze jours. Ce délai court à compter de la remise ou de la réception soit du procès-verbal, soit de l'inventaire,
+mentionnés au premier alinéa. Ce recours n'est pas suspensif.
+
+L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par
+le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
 6. Les informations recueillies ne peuvent être exploitées dans le cadre d'une procédure de vérification de comptabilité ou
 de contrôle de revenu qu'après restitution des pièces ou de leur reproduction et mise en oeuvre des procédures de contrôle
-visées aux premier et deuxième alinéas de l'article L. 47.
+visées aux premier et deuxième alinéas de l'article L. 47. 
 
 7. Les dispositions des 1 à 6 peuvent être mises en oeuvre par les agents de l'administration des impôts habilités à cet
 effet par le directeur général des impôts, pour la recherche et la constatation des infractions aux dispositions de l'article
@@ -1853,7 +1919,9 @@ effet par le directeur général des impôts, pour la recherche et la constatati
 
 **Nota:**
 
-Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
+Loi n° 2008-776 du 4 août 2008 JORF 5 août 2008 art. 164 V : Les modifications induites par la loi n° 2008-776 sont
+applicables aux opérations de visite et de saisie pour lesquelles l'ordonnance d'autorisation a été notifiée ou signifiée à
+compter de la date d'entrée en vigueur de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -1868,11 +1936,14 @@ Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
 
 	**Modifié par**:
 
-	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
+	  - Loi n°2008-776 du 4 août 2008 - art. 164 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2003
+	  - Code général des impôts, CGI. - art. 290 quater
+	  - Code général des impôts, CGI. - art. 298 bis
+	  - Livre des procédures fiscales - art. L103
+	  - Livre des procédures fiscales - art. L47
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
