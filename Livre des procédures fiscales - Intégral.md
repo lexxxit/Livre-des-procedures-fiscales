@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-11-01
+Version Consolidée au 2008-12-25
 
 # Partie législative
 
@@ -14231,65 +14231,46 @@ retenir comme base d'imposition.
 ###### Article R*60-1
 
 Lorsque le litige est soumis à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires, en
-application de l'article L. 59 A, le contribuable est convoqué trente jours au moins avant la date de la réunion. Le rapport
+application de l'article L. 59 A, ou à la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires, en
+application de l'article L. 59 C, le contribuable est convoqué trente jours au moins avant la date de la réunion. Le rapport
 et les documents mentionnés à l'article L. 60 doivent être tenus à sa disposition, au secrétariat de la commission, pendant
 le délai de trente jours qui précède la réunion de cette commission.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI L59 A
-	  - CGI L60
-
 	**Modifié par**:
 
-	  - Décret n°2005-1284 du 11 octobre 2005 - art. 1 () JORF 18 octobre 2005
+	  - Décret n°2008-1393 du 19 décembre 2008 - art. 1
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Livre des procédures fiscales - art. L59 A
+	  - Livre des procédures fiscales - art. L59 C
+	  - Livre des procédures fiscales - art. L60
 
 
 ###### Article R*60-2
 
-Devant la commission départementale, le contribuable peut se faire assister par deux conseils de son choix.
+Devant la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires, le contribuable
+peut se faire assister par deux conseils de son choix.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1651 bis 2
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+	  - Décret n°2008-1393 du 19 décembre 2008 - art. 2
 
 
 ###### Article R*60-3
 
-L'avis ou la décision de la commission départementale doit être motivé. Il est notifié au contribuable par l'administration
-des impôts.
+L'avis ou la décision de la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires
+doit être motivé. Il est notifié au contribuable par l'administration des impôts.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1651 bis 3
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-	  - TXT_ASSOCIE: Instruction 2000-06-16 13M-1-00
+	  - Décret n°2008-1393 du 19 décembre 2008 - art. 3
 
 
 ###### Article R*61 A-1
@@ -17094,6 +17075,8 @@ Les jugements des tribunaux administratifs peuvent faire l'objet des recours pr�
 
 ##### B : Procédure devant le tribunal administratif et la cour administrative d'appel.
 
+##### B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat
+
 ###### Article R*200-1
 
 Les dispositions du code de justice administrative sont applicables aux affaires portées devant le tribunal administratif ou
@@ -17336,6 +17319,19 @@ transmission prévu à l'alinéa précédent ou de la date de la signification f
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
+
+
+###### Article R*201-1
+
+Un conseiller d'Etat ne peut siéger dans une formation de jugement ayant à connaître d'un litige portant sur une imposition
+dont il a eu à apprécier la base comme président de la Commission nationale des impôts directs et des taxes sur le chiffre
+d'affaires.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2008-1393 du 19 décembre 2008 - art. 4
 
 
 ##### C : Procédure devant le tribunal de grande instance et la cour d'appel
