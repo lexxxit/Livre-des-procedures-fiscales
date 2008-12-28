@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2008-12-25
+Version Consolidée au 2008-12-29
 
 # Partie législative
 
@@ -183,23 +183,20 @@ est notifiée à l'intéressé, au maire et à l'administration.
 
 ###### Article L10
 
-L'administration des impôts contrôle les déclarations ainsi que que les actes utilisés pour l'établissement des impôts,
-droits, taxes et redevances.
+L'administration des impôts contrôle les déclarations ainsi que les actes utilisés pour l'établissement des impôts, droits,
+taxes et redevances. 
 
-Elle contrôle, également les documents déposés en vue d'obtenir des déductions, restitutions ou remboursements.
+Elle contrôle, également les documents déposés en vue d'obtenir des déductions, restitutions ou remboursements, ou
+d'acquitter tout ou partie d'une imposition au moyen d'une créance sur l'Etat.
 
 A cette fin, elle peut demander aux contribuables tous renseignements, justifications ou éclaircissements relatifs aux
-déclarations souscrites ou aux actes déposés.
+déclarations souscrites ou aux actes déposés. 
 
 Avant l'engagement d'une des vérifications prévues aux articles L. 12 et L. 13, l'administration des impôts remet au
 contribuable la charte des droits et obligations du contribuable vérifié ; les dispositions contenues dans la charte sont
 opposables à l'administration.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°87-502 1987-07-08 art. 8 JORF 9 juillet 1987 en vigueur le 1er janvier 1988
 
 	**Cité par**:
 
@@ -216,15 +213,13 @@ opposables à l'administration.
 	  - Livre des procédures fiscales - art. L80 FA (V)
 	  - Livre des procédures fiscales - art. R*135 S-2 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 10 août 1987
-	  - TXT_ASSOCIE: Jurisprudence 2000-05-12 7G-7-00
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 38 (V)
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L12 (M)
-	  - Livre des procédures fiscales - art. L13 (M)
+	  - Livre des procédures fiscales - art. L12 (V)
 
 
 ###### Article L10 A
@@ -17072,8 +17067,6 @@ Les jugements des tribunaux administratifs peuvent faire l'objet des recours pr�
 
 
 ##### II : Règles de procédure
-
-##### B : Procédure devant le tribunal administratif et la cour administrative d'appel.
 
 ##### B : Procédure devant le tribunal administratif, la cour administrative d'appel et le Conseil d'Etat
 
