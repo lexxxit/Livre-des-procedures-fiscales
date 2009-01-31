@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-02-01
 
 # Partie législative
 
@@ -3580,7 +3580,7 @@ réels est supérieure de 10 % au premier chiffre ;
 d. Ou qu'il a été constaté des infractions aux interdictions mentionnées à l'article L. 8221-1 du code du travail dans le
 cadre des articles L. 8271-7 à L. 8271-11 du même code ; 
 
-1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue à l'article 223 VI du code général des
+1° ter Le bénéfice imposable des fiducies lorsque la déclaration annuelle prévue à l'article 238 quater M du code général des
 impôts n'a pas été déposée dans le délai légal par le fiduciaire ; 
 
 2° Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux ou des revenus assimilés lorsque la
@@ -3616,11 +3616,12 @@ _Modifications effectuées en conséquence des articles 1, 3 et 12 I de l'ordonn
 
 	**Modifié par**:
 
-	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+	  - Ordonnance n°2009-112 du 30 janvier 2009 - art. 10
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 102 ter
+	  - Code général des impôts, CGI. - art. 238 quater M
 	  - Code général des impôts, CGI. - art. 50-0
 	  - Code général des impôts, CGI. - art. 53 A
 	  - Livre des procédures fiscales - art. L16
@@ -7573,6 +7574,26 @@ _Modifications effectuées en conséquence de l'article 22 de la loi n° 2007-18
 	  - Livre des procédures fiscales - art. R*135 S-1 (V)
 
 
+###### Article L135 T
+
+Les services de l'Etat chargés de mettre en œuvre les mesures de gel des avoirs dans le cadre des articles L. 562-1 et L.
+562-5 du code monétaire et financier ou du règlement (CE) n° 2580 / 2001 du 27 décembre 2001 concernant l'adoption de
+certaines mesures restrictives à l'encontre de certaines personnes et entités dans le cadre de la lutte contre le terrorisme
+et au titre des sanctions financières internationales décidées par l'Union européenne ou l'Organisation des Nations unies
+peuvent recevoir de l'administration des impôts tous les renseignements nécessaires à l'accomplissement de ces missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 11
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L562-1
+	  - Code monétaire et financier - art. L562-5
+
+
 ##### III : Dérogations au profit de diverses commissions
 
 ###### Article L136
@@ -10771,6 +10792,30 @@ Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commiss
 	  - HISTO: Edition du 20 juillet 1984
 
 
+###### Article L228 A
+
+Lorsque la commission des infractions fiscales mentionnée à l'article L. 228 examine les affaires soumises par le ministre du
+budget en application de la deuxième phrase du troisième alinéa du II de l'article L. 561-29 du code monétaire et financier,
+elle émet un avis sur le caractère raisonnablement suffisant des soupçons de fraude fiscale déclarés au service mentionné à
+l'article L. 561-23 du même code, en application du II de l'article L. 561-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 11
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L561-29 (VT)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L228
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-23
+
+
 ###### Article L229
 
 Les plaintes sont déposées par le service chargé de l'assiette ou du recouvrement de l'impôt sans qu'il y ait lieu de mettre,
@@ -12032,64 +12077,6 @@ de la région d'Ile-de-France.
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2000
-
-
-##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
-
-###### Article L256
-
-Un avis de mise en recouvrement est adressé par le comptable public à tout redevable des sommes, droits, taxes et redevances
-de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la date d'exigibilité.
-
-Un avis de mise en recouvrement est également adressé par le comptable public pour la restitution des sommes, droits, taxes
-et redevances de toute nature mentionnés au premier alinéa et indûment versés par l'Etat.
-
-L'avis de mise en recouvrement est individuel. Il est signé et rendu exécutoire par l'autorité administrative désignée par
-décret. Les pouvoirs de l'autorité administrative susmentionnée sont également exercés par le comptable public.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
-	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
-	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
-	  - Décret n°2015-964 du 31 juillet 2015 (V)
-	  - Code des postes et des communications électronique - art. R*70-1 (Ab)
-	  - Livre des procédures fiscales - art. R*256-1 (V)
-	  - Livre des procédures fiscales - art. R*273-1 (Ab)
-	  - Livre des procédures fiscales - art. R256-8 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 101 () JORF 31 décembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-
-###### Article L257 A
-
-Les avis de mises en recouvrement peuvent être signés et rendus exécutoires et les mises en demeure peuvent être signées,
-sous l'autorité et la responsabilité du comptable, par les agents du service des impôts ayant au moins le grade de
-contrôleur.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
-	**Cité par**:
-
-	  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
 
 
 ##### Section II : Exercice des poursuites
