@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-02-01
+Version Consolidée au 2009-03-28
 
 # Partie législative
 
@@ -6660,6 +6660,24 @@ susceptibles d'être réquisitionnés en vertu de l'article L. 642-1 du même co
 
 	  - Code de la construction et de l'habitation. - art. L642-1 (V)
 	  - Code de la construction et de l'habitation. - art. L642-8 (V)
+
+
+###### Article L124 B
+
+Les fournisseurs de données et les gestionnaires des observatoires nominatifs prévus par l'article 4 de la loi n° 90-449 du
+31 mai 1990 visant à la mise en œuvre du droit au logement peuvent recevoir des services fiscaux, sur leur demande,
+communication des renseignements qu'ils détiennent et qui sont nécessaires au recensement et au suivi du traitement des
+logements, locaux ou installations indignes et non décents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-449 du 31 mai 1990 - art. 4
+
+	**Créé par**:
+
+	  - Loi n°2009-323 du 25 mars 2009 - art. 95
 
 
 ###### Article L125
