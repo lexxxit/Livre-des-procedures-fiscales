@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-04-10
+Version Consolidée au 2009-04-18
 
 # Partie législative
 
@@ -19236,6 +19236,27 @@ l'obligation de la personne qui y est désignée.
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
+
+
+###### Article R257 B-1
+
+Lorsqu'il a exercé la compensation prévue à l'article L. 257 B, le comptable public compétent notifie au redevable un avis
+lui précisant la nature et le montant des sommes affectées au paiement de la créance qu'il a prise en charge à sa caisse. 
+
+Les effets de cette compensation peuvent être contestés dans les formes et délais mentionnés aux articles L. 281 et R. *
+281-1 à R. * 281-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-419 du 15 avril 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L257 B
+	  - Livre des procédures fiscales - art. L281
+	  - Livre des procédures fiscales - art. R*281-1
 
 
 ##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
