@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-05-01
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -4281,38 +4281,36 @@ une personne morale, à son représentant.
 
 A l'issue de l'enquête prévue à l'article L. 80 F, les agents de l'administration établissent un procès-verbal consignant les
 manquements constatés ou l'absence de tels manquements. La liste des documents dont une copie a été délivrée lui est annexée
-s'il y a lieu.
+s'il y a lieu. 
 
 Le procès-verbal est établi dans les trente jours qui suivent la dernière intervention sur place ou la dernière convocation.
 Il est signé par les agents de l'administration ainsi que par l'assujetti ou son représentant, qui peut faire valoir ses
 observations dans un délai de trente jours. Celles-ci sont portées ou annexées au procès-verbal. En cas de refus de signer,
-mention en est faite au procès-verbal. Une copie de celui-ci est remise à l'intéressé.
+mention en est faite au procès-verbal. Une copie de celui-ci est remise à l'intéressé. 
 
 Les constatations du procès-verbal ne peuvent être opposées à cet assujetti ainsi qu'aux tiers concernés par la facturation
 que dans le cadre des procédures de contrôle mentionnées à l'article L. 47 au regard des impositions de toute nature et de la
 procédure d'enquête prévue à l'article L. 80 F. Elles peuvent être invoquées lorsqu'est demandée la mise en oeuvre des
 procédures de visite et de saisie mentionnées aux articles L. 16 B et L. 38. La mise en oeuvre du droit d'enquête ne peut
-donner lieu à l'application d'amendes hormis celles prévues aux 1 et 3 du I et au II de l'article 1737 et à l'article 1788 B
-du code général des impôts.
+donner lieu à l'application d'amendes hormis celles prévues aux 1, 2 et 3 du I et au II de l'article 1737 et à l'article 1788
+B du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 1788 B
-	  - Livre des procédures fiscales - art. L16 B (M)
-	  - Livre des procédures fiscales - art. L38 (M)
-	  - Livre des procédures fiscales - art. L47 (M)
-	  - Livre des procédures fiscales - art. L80 F (M)
-	  - Livre des procédures fiscales L80 F, L47, L16 B, L38, 1737
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 1737 (V)
+	  - Code général des impôts, CGI. - art. 1788 B (V)
+	  - Livre des procédures fiscales
+	  - Livre des procédures fiscales - art. L16 B
+	  - Livre des procédures fiscales - art. L38
+	  - Livre des procédures fiscales - art. L47
+	  - Livre des procédures fiscales - art. L80 F
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 23 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 	**Cité par**:
 
@@ -6047,6 +6045,32 @@ les déclarations dans lesquelles ces personnes sont désignées.
 	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 99
 
 
+###### Article L107 A
+
+Toute personne peut obtenir communication ponctuelle, le cas échéant par voie électronique, d'informations relatives aux
+immeubles situés sur le territoire d'une commune déterminée, ou d'un arrondissement pour les communes de Paris, Lyon et
+Marseille, sur lesquels une personne désignée dans la demande dispose d'un droit réel immobilier. Toute personne peut
+obtenir, dans les mêmes conditions, communication d'informations relatives à un immeuble déterminé. Les informations
+communicables sont les références cadastrales, l'adresse ou, le cas échéant, les autres éléments d'identification cadastrale
+des immeubles, la contenance cadastrale de la parcelle, la valeur locative cadastrale des immeubles, ainsi que les noms et
+adresses des titulaires de droits sur ces immeubles. Un décret en Conseil d'Etat, pris après avis de la Commission nationale
+de l'informatique et des libertés, définit les modalités d'application du présent article et les conditions de communication
+par voie électronique des informations visées à la phrase précédente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 109
+
+	**Cité par**:
+
+	  - Loi n°2014-1170 du 13 octobre 2014 - art. 94 (V)
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+	  - Livre des procédures fiscales - art. R* 107 A-1 (V)
+	  - Livre des procédures fiscales - art. R* 107 A-3 (V)
+
+
 ###### Article L108
 
 Les agents de l'administration peuvent donner connaissance sur place des livres et registres relatifs aux contributions
@@ -7195,14 +7219,21 @@ des modalités définies par un décret en Conseil d'Etat.
 
 Les agents de l'administration des impôts et de l'administration des douanes et droits indirects peuvent communiquer aux
 agents de l'Institut national de la statistique et des études économiques et aux agents des services statistiques
-ministériels, dans les limites et conditions prévues par la loi n° 86-1305 du 23 décembre 1986, les renseignements utiles à
-l'établissement de statistiques.
+ministériels, dans les limites et conditions prévues par la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et
+le secret en matière de statistiques, les renseignements utiles à l'établissement de statistiques.
+
+Les informations communiquées en application du premier alinéa par les agents de l'administration des impôts et de
+l'administration des douanes et portant sur les renseignements prévus aux articles L. 232-21 à L. 232-23 du code de commerce
+ou, pour celles n'en relevant pas, portant sur les comptes annuels comptables déposés en application des articles 53 A, 72,
+74 A, 97, 223 et 302 septies A bis du code général des impôts, peuvent l'être également, dans les mêmes limites et
+conditions, soit pour des besoins de recherche scientifique, soit à des fins exclusives de réalisation d'études économiques,
+aux agents de services de l'Etat chargés de la réalisation d'études économiques. La liste de ces services est définie par
+arrêté conjoint du ministre chargé de l'économie et du ministre chargé du budget. 
+
+Les bénéficiaires de cette communication sont astreints, pour les données dont ils ont à connaître en application du présent
+article, au secret professionnel sous les sanctions prévues à l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°86-1305 1986-12-23
 
 	**Cité par**:
 
@@ -7222,17 +7253,7 @@ l'établissement de statistiques.
 
 	**Modifié par**:
 
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°94-900 1994-10-17
-
-	**Liens**:
-
-	  - HISTO: Edition du 2 septembre 1994
+	  - Loi n°2009-526 du 12 mai 2009 - art. 19
 
 
 ###### Article L135 E
@@ -12637,6 +12658,75 @@ d'affaires, sous réserve des adaptations nécessaires.
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R*273-1 (Ab)
+
+
+##### 11° : Créances de l'Etat faisant l'objet d'un titre de perception visé à l'article L. 252 A
+
+###### Article L273 A
+
+I. - Les créances de l'Etat qui font l'objet d'un titre de perception visé à l'article L. 252 A peuvent être recouvrées par
+voie de saisie à tiers détenteur. 
+
+La saisie à tiers détenteur est notifiée, avec mention des délais et voies de recours, au débiteur ainsi qu'aux personnes
+physiques ou morales qui détiennent des fonds pour son compte, qui ont une dette envers lui ou qui lui versent une
+rémunération. 
+
+Elle emporte l'effet d'attribution immédiate, prévu à l'article 43 de la loi n° 91-650 du 9 juillet 1991 portant réforme des
+procédures civiles d'exécution, des sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie est
+pratiquée. 
+
+Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
+trente jours qui suivent la réception de la saisie par le tiers détenteur auprès du comptable chargé du recouvrement. 
+
+La saisie à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme ; dans ce cas, les fonds sont versés
+au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles. 
+
+Lorsqu'une même personne est simultanément destinataire de plusieurs saisies à tiers détenteur établies au nom du même
+redevable, elle doit, en cas d'insuffisance des fonds, exécuter ces oppositions en proportion de leurs montants respectifs. 
+
+Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre ses mains, ce dernier doit en aviser le comptable
+chargé du recouvrement dès la réception de la saisie. 
+
+Les contestations relatives à la saisie doivent être adressées à l'administration dont dépend le comptable qui a exercé cette
+poursuite avant tout recours juridictionnel. 
+
+II. - Les comptables du Trésor chargés du recouvrement d'une créance visée au I peuvent obtenir, sans que le secret
+professionnel puisse leur être opposé, les informations et renseignements nécessaires à l'exercice de cette mission. 
+
+Ce droit de communication s'exerce quel que soit le support utilisé pour la conservation de ces informations ou
+renseignements. 
+
+Les renseignements et informations communiqués aux comptables visés au premier alinéa du présent II sont ceux relatifs à
+l'état civil des débiteurs, à leur domicile, aux nom et adresse de leur employeur et des établissements ou organismes auprès
+desquels un compte de dépôt est ouvert à leur nom, aux nom et adresse des organismes ou particuliers qui détiennent des fonds
+et valeurs pour leur compte et à l'immatriculation de leur véhicule. 
+
+Ces renseignements et informations peuvent être sollicités auprès des collectivités territoriales et de leurs établissements
+publics, des administrations et entreprises publiques, des établissements et organismes de sécurité sociale, ainsi que des
+organismes ou particuliers assurant des prestations de services à caractère juridique, financier ou comptable, ou la
+détention de biens ou de fonds pour le compte de débiteurs. 
+
+En complément de ce droit de communication, les comptables du Trésor chargés du recouvrement d'une créance visée au I
+disposent d'un droit d'accès aux fichiers utilisés par les services en charge de l'établissement de l'assiette et du
+recouvrement des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°91-650 du 9 juillet 1991 (V)
+	  - Livre des procédures fiscales - art. L252 A (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-526 du 12 mai 2009 - art. 95
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L223-15 (VD)
+	  - Code des assurances - art. L132-14 (VD)
+	  - Code du travail - art. R3252-38 (V)
+	  - Livre des procédures fiscales - art. L135 X (V)
 
 
 ##### Section IV : Prescription de l'action en vue du recouvrement
