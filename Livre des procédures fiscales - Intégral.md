@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-07-04
+Version Consolidée au 2009-07-26
 
 # Partie législative
 
@@ -5627,32 +5627,18 @@ criminelle ou correctionnelle même terminée par un non-lieu.
 
 ###### Article L102
 
-Les sociétés d'auteurs, d'éditeurs, de compositeurs ou de distributeurs et le centre national de la cinématographie doivent
-communiquer aux agents de l'administration des impôts tous les documents relatifs aux déclarations souscrites par les
+Les sociétés d'auteurs, d'éditeurs, de compositeurs ou de distributeurs et le Centre national du cinéma et de l'image animée
+doivent communiquer aux agents de l'administration des impôts tous les documents relatifs aux déclarations souscrites par les
 exploitants de spectacles, y compris les déclarations de recettes établies en vue du paiement des droits d'auteurs, ainsi que
 toutes les indications recueillies, à l'occasion des vérifications opérées dans les salles.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1567 (2EME PHRASE)
-	  - Décret-loi 1939-07-29 ART. 3
-	  - Loi n°1941-12-31 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
-	**Modifié par**:
-
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 1 () JORF 18 SEPTEMBRE 1993
-
 	**Cité par**:
 
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 	  - Code du cinéma et de l'image animée - art. L413-3 (V)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 54 septies (M)
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
 
 
 ###### Article L102 A
