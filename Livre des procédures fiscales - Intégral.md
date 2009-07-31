@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-07-26
+Version Consolidée au 2009-08-01
 
 # Partie législative
 
@@ -3943,7 +3943,7 @@ fiscal ; elle se prononce dans un délai de trois mois lorsqu'elle est saisie d'
 redevable de bonne foi. 
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent 1°, notamment le contenu, le lieu ainsi que les
-modalités de dépôt de cette demande. 
+modalités de dépôt de cette demande ; 
 
 2° Lorsque l'administration n'a pas répondu dans un délai de trois mois à un redevable de bonne foi qui : 
 
@@ -3973,9 +3973,23 @@ demande du contribuable que pour un motif tiré de ce qu'une autre des condition
 général des impôts n'est pas remplie. 
 
 Les personnes consultées en application du deuxième alinéa du 3° sont tenues au secret professionnel dans les conditions
-prévues à l'article L. 103 du présent livre. 
+prévues à l'article L. 103. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 3° ; 
+
+3° bis Lorsque les services relevant du ministre chargé de la recherche ou un organisme chargé de soutenir l'innovation
+figurant sur la liste mentionnée au 3° n'ont pas répondu dans un délai de trois mois à un redevable de bonne foi qui leur a
+demandé, dans les mêmes conditions que celles prévues à l'avant-dernier alinéa du 2°, si son projet de dépenses de recherche
+présente un caractère scientifique et technique le rendant éligible au bénéfice des dispositions de l'article 244 quater B du
+code général des impôts. 
+
+La prise de position des services relevant du ministre chargé de la recherche ou de l'organisme chargé de soutenir
+l'innovation est notifiée au contribuable et à l'administration des impôts. Cette réponse doit être motivée. 
+
+Les personnes consultées en application du premier alinéa sont tenues au secret professionnel dans les conditions prévues à
+l'article L. 103.
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent 3° bis ; 
 
 4° Lorsque l'administration n'a pas répondu de manière motivée dans un délai de trois mois à un contribuable de bonne foi qui
 a demandé, à partir d'une présentation écrite précise et complète de la situation de fait, si son entreprise constitue une
@@ -4007,6 +4021,10 @@ société civile, si les résultats de son activité professionnelle sont soumis
 sociétés.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.
+
+**Nota:**
+
+Loi n° 2008-776 du 4 août 2008 : Le 3 bis entre en vigueur à une date fixée par décret et au plus tard le 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
@@ -4048,10 +4066,8 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent 8
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 5 (V)
 	  - Loi n°2008-776 du 4 août 2008 - art. 136 (V)
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 48 (V)
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
+	  - Décret n°2009-388  du 7 avril 2009 article 1er(V)
 
 	**Cite**:
 
