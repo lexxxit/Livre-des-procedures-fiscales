@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-08-23
+Version Consolidée au 2009-08-30
 
 # Partie législative
 
@@ -14705,36 +14705,56 @@ dispositions de l'article R. 80 B-3 ont été mises en oeuvre, à compter de la 
 
 ###### Article R*80 B-5
 
-Les dispositions des articles R.[* 80 B-1 à R.*] 80 B-3 sont applicables aux demandes d'appréciation visées au 3° de
-l'article L. 80 B sous réserve de l'application des dispositions suivantes :
+Les dispositions des articles R. * 80 B-1 à R. * 80 B-3 sont applicables aux demandes d'appréciation visées au 3° de
+l'article L. 80 B sous réserve de l'application des dispositions suivantes : 
 
-a) Le modèle prévu à l'article R.[* 80 B-1 est fixé par arrêté du ministre chargé du budget et du ministre chargé de la
-recherche ;
+a) Le modèle prévu à l'article R. * 80 B-1 est fixé par arrêté du ministre chargé du budget et du ministre chargé de la
+recherche ; 
 
-b) La demande d'appréciation est adressée ou déposée à la direction des services fiscaux dont dépend le service auprès duquel
-le contribuable est tenu de souscrire ses déclarations de résultats ;
+b) La demande d'appréciation est adressée ou déposée, selon les cas, à la direction des services fiscaux dont dépend le
+service auprès duquel le contribuable est tenu de souscrire ses déclarations de résultats, ou au service chargé des grandes
+entreprises mentionné à l'article 344-0 A de l'annexe III au code général des impôts lorsque le demandeur relève de la
+compétence de ce service ; 
 
-c) L'administration des impôts sollicite l'avis des services du ministère chargé de la recherche lorsque l'appréciation du
-caractère scientifique et technique du projet de recherche présenté par l'entreprise le nécessite ;
+c) En application des dispositions du deuxième alinéa du 3° de l'article L. 80 B, l'administration des impôts sollicite,
+lorsque l'appréciation du caractère scientifique et technique du projet de dépenses de recherche présenté par l'entreprise le
+nécessite, l'avis de l'un des services ou organismes suivants : 
 
-d) La demande d'éléments complémentaires prévue à l'article R.*] 80 B-3 peut être faite par le ministre chargé du budget, le
-ministre chargé de la recherche, le délégué régional à la recherche et à la technologie ou le directeur des services fiscaux.
+1° Les services relevant du ministre chargé de la recherche, notamment les délégués régionaux à la recherche et à la
+technologie ; 
+
+2° L'Agence nationale de la recherche ; 
+
+3° La société anonyme OSEO INNOVATION ; 
+
+d) La demande d'éléments complémentaires prévue à l'article R. * 80 B-3 peut être faite par : 
+
+1° Le directeur général des finances publiques ou le directeur du service des impôts auquel est adressée la demande
+d'appréciation en application du b ; 
+
+2° Le directeur général pour la recherche et l'innovation ou le délégué régional à la recherche et à la technologie dans le
+ressort territorial duquel se situe l'établissement où sera réalisé le projet de dépenses de recherche ; 
+
+3° Le directeur général de l'Agence nationale de la recherche ; 
+
+4° Le directeur général de la société anonyme OSEO INNOVATION ; 
+
+e) Le service ou l'organisme consulté en application du c notifie son avis simultanément par pli recommandé avec demande
+d'avis de réception postal au contribuable et au service des impôts auquel est adressée la demande d'appréciation en
+application du b.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TXT_SOURCE: CGI Livre des procédures fiscales L80 B
-	  - HISTO: Edition du 22 avril 1998
-
-	**Créé par**:
-
-	  - Décret n°97-496 du 16 mai 1997 - art. 1 () JORF 18 mai 1997
+	  - Décret n°2009-1046 du 27 août 2009 - art. 1
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L80 B (M)
-	  - Livre des procédures fiscales R80 B-1, R80 B-2, R80 B-3, L80 B
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
+	  - Livre des procédures fiscales - art. L80 B
+	  - Livre des procédures fiscales - art. R*80 B-1
+	  - Livre des procédures fiscales - art. R*80 B-3
 
 	**Cité par**:
 
@@ -14761,6 +14781,104 @@ _Modification effectuée en conséquence de l'article 69 IV et VIII de la loi n�
 
 	  - Livre des procédures fiscales - art. L80 B
 	  - Livre des procédures fiscales - art. R*80 B-5
+
+
+###### Article R*80 B-6-1
+
+a) La demande prévue au 3° bis de l'article L. 80 B précise le nom ou la raison sociale et l'adresse du demandeur. Elle
+précise également l'identité et l'adresse du service des impôts auprès duquel le demandeur est tenu de souscrire ses
+déclarations de résultats ; 
+
+b) Elle fournit une présentation précise et complète de la situation de fait et est établie conformément au modèle mentionné
+au a de l'article R. * 80 B-5 ; 
+
+c) Elle est adressée par pli recommandé avec demande d'avis de réception postal : 
+
+1° A la délégation régionale à la recherche et à la technologie dans le ressort territorial de laquelle se situe
+l'établissement où sera réalisé le projet de dépenses de recherche, si le demandeur entend obtenir une prise de position des
+services relevant du ministre chargé de la recherche ; 
+
+2° Ou à l'Agence nationale de la recherche si le demandeur entend obtenir une prise de position de celle-ci ; 
+
+3° Ou à la société anonyme OSEO INNOVATION si le demandeur entend obtenir une prise de position de celle-ci. 
+
+La demande peut également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1°, 2° et
+3° ; 
+
+d) Si la demande est incomplète au regard des dispositions du a et du b, il est demandé à son auteur, par pli recommandé avec
+demande d'avis de réception postal, de fournir les éléments complémentaires nécessaires. 
+
+La demande d'éléments complémentaires est adressée : 
+
+1° Par le directeur général pour la recherche et l'innovation ou le délégué régional à la recherche et à la technologie dans
+le ressort territorial duquel se situe l'établissement où sera réalisé le projet de dépenses de recherche, lorsqu'il a été
+fait application du 1° du c ; 
+
+2° Par le directeur général de l'Agence nationale de la recherche, lorsqu'il a été fait application du 2° du c ; 
+
+3° Par le directeur général de la société anonyme OSEO INNOVATION, lorsqu'il a été fait application du 3° du c. 
+
+Les éléments complémentaires sont transmis par le demandeur par pli recommandé avec demande d'avis de réception postal. Ils
+peuvent également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1°, 2° et 3° du
+c.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1046 du 27 août 2009 - art. 2
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B
+	  - Livre des procédures fiscales - art. R*80 B-5
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 B-6-2 (V)
+	  - Livre des procédures fiscales - art. R*80 B-6-3 (V)
+
+
+###### Article R*80 B-6-2
+
+Le délai de trois mois prévu au 3° bis de l'article L. 80 B court à compter de la réception de la demande d'appréciation ou,
+si les dispositions du d de l'article R. * 80 B-6-1 ont été mises en œuvre, à compter de la réception des éléments
+complémentaires demandés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1046 du 27 août 2009 - art. 2
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B
+	  - Livre des procédures fiscales - art. R*80 B-6-1
+
+
+###### Article R*80 B-6-3
+
+a) Le service ou l'organisme qui reçoit la demande mentionnée au 3° bis de l'article L. 80 B en adresse, dès sa réception,
+une copie par pli recommandé avec demande d'avis de réception postal au service des impôts auprès duquel le demandeur est
+tenu de souscrire ses déclarations de résultats, en mentionnant la date de réception de cette dernière et, s'il y a lieu, la
+date de retransmission de cette demande au directeur général pour la recherche et l'innovation. Le demandeur est informé
+simultanément de cette retransmission par pli recommandé avec demande d'avis de réception postal ; 
+
+b) Le responsable du service ou de l'organisme consulté mentionné au c de l'article R. * 80 B-6-1 notifie sa prise de
+position simultanément par pli recommandé avec demande d'avis de réception postal au demandeur et au service des impôts
+mentionné au a.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1046 du 27 août 2009 - art. 2
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B
+	  - Livre des procédures fiscales - art. R*80 B-6-1
 
 
 ###### Article R*80 B-7
