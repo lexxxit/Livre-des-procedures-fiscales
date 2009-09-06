@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-08-30
+Version Consolidée au 2009-09-07
 
 # Partie législative
 
@@ -16413,6 +16413,79 @@ informations saisies dès l'achèvement de son contrat.
 	**Cite**:
 
 	  - Livre des procédures fiscales R135 B
+
+
+###### Article R*135 S-1
+
+Le directeur central du renseignement intérieur, le directeur général de la sécurité extérieure, le directeur du
+renseignement militaire et le directeur de la protection et de la sécurité de la défense délivrent les habilitations à
+formuler les demandes mentionnées à l'article L. 135 S à des agents relevant de leur service. 
+
+Ces habilitations sont personnelles. 
+
+Le nombre d'agents habilités ne peut être supérieur à dix par direction. 
+
+La compétence prévue au premier alinéa ne peut faire l'objet d'une délégation de signature. 
+
+Le directeur général des finances publiques et le directeur général des douanes et droits indirects sont informés de
+l'identité et de la fonction des personnes habilitées et de toute modification relative à ces habilitations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1095 du 4 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L135 S
+
+
+###### Article R*135 S-2
+
+La demande de transmission des documents, formulée par écrit, mentionne les nom, prénom, grade et fonction du demandeur. Elle
+est adressée au directeur général des finances publiques ou au directeur général des douanes et droits indirects. 
+
+La réponse est effectuée, sous enveloppe fermée, par le directeur général compétent ou par l'un des fonctionnaires de sa
+direction générale auxquels il délègue sa signature à cet effet. Le nombre d'agents recevant délégation ne peut excéder neuf
+dans chaque direction générale. 
+
+Les documents communicables par la direction générale des finances publiques ou par la direction générale des douanes et
+droits indirects sont, quel que soit le support utilisé pour leur conservation, ceux établis ou recueillis par ces
+directions : 
+
+1° Du fait des déclarations souscrites par les contribuables et les administrations publiques et les établissements ou
+organismes soumis à une obligation déclarative en application du code général des impôts ; 
+
+2° Ou dans le cadre des procédures de contrôle de l'impôt prévues aux articles L. 10 à L. 57 A du présent livre des
+procédures fiscales, des procédures de visite et de saisies mentionnées aux articles L. 16 B et L. 38, de la procédure de
+l'abus de droit mentionnée à l'article L. 64, des procédures de recherche de manquements aux règles de facturation prévues
+aux articles L. 80 F à L. 80 J, des procédures de recherche de manquements aux obligations et formalités mentionnées aux
+articles L. 80 K et L. 80 L et de la procédure de droit de communication prévue aux articles L. 81 à L. 102 AA ; 
+
+3° Ou dans le cadre des procédures de recouvrement telles que mentionnées au titre IV du présent livre. 
+
+Les documents transmis ne laissent apparaître que les informations relatives à l'identité, la raison sociale, l'adresse,
+l'identité de l'employeur ou des employés, aux comptes bancaires, à l'assiette et au recouvrement des impôts des personnes
+physiques ou morales faisant l'objet d'une demande mentionnée au premier alinéa. 
+
+Les documents communiqués peuvent être conservés par le service demandeur jusqu'à la fin de la troisième année qui suit celle
+de la transmission du document.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1095 du 4 septembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L10
+	  - Livre des procédures fiscales - art. L16 B
+	  - Livre des procédures fiscales - art. L38
+	  - Livre des procédures fiscales - art. L80 F
+	  - Livre des procédures fiscales - art. L80 K
+	  - Livre des procédures fiscales - art. L81
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions
