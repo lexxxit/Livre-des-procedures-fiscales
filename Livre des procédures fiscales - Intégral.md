@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-11-01
+Version Consolidée au 2009-12-19
 
 # Partie législative
 
@@ -8842,6 +8842,32 @@ informations indiquant si le demandeur est déjà détenteur de ce produit.
 	  - Code monétaire et financier - art. L221-38
 
 
+##### 6° : Groupement d'intérêt public France Télé numérique
+
+###### Article L166 B
+
+Pour les besoins de la gestion du fonds d'aide prévu à l'article 102 de la loi n° 86-1067 du 30 septembre 1986 relative à la
+liberté de communication, l'administration des impôts est autorisée à communiquer au groupement d'intérêt public créé par
+l'article 100 de la même loi, à sa demande, les nom, prénom et adresse des personnes visées aux 2° à 3° bis de l'article 1605
+bis du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 102
+	  - Code général des impôts, CGI. - art. 1605 bis
+
+	**Cité par**:
+
+	  - Arrêté du 8 mars 1996 - art. 5 (V)
+	  - Arrêté du 25 mars 2016 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Loi n°2009-1572 du 17 décembre 2009 - art. 5
+
+
 #### Chapitre IV : Les délais de prescription
 
 ###### Article L168
@@ -15120,6 +15146,160 @@ l'article R. * 80 C-3 ont été mises en oeuvre, à compter de la réception des
 
 	  - Livre des procédures fiscales - art. L80 C (V)
 	  - Livre des procédures fiscales - art. R*80 C-3 (V)
+
+
+###### Article R*80 CB-1
+
+La demande écrite de second examen mentionnée à l'article L. 80 CB est soit adressée par pli recommandé avec demande d'avis
+de réception postal au service qui a répondu à la demande initiale du contribuable, soit déposée auprès de ce même service
+contre décharge. Elle doit être présentée dans le délai de deux mois, décompté à partir de la date de réception de la réponse
+de l'administration à la demande initiale. 
+
+Le contribuable qui souhaite bénéficier des dispositions du quatrième alinéa de l'article L. 80 CB le mentionne dans sa
+demande.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 CB
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 CB-6 (V)
+
+
+###### Article R*80 CB-2
+
+Le collège prévu au troisième alinéa de l'article L. 80 CB se prononce selon les mêmes règles et délais que ceux prévus pour
+la demande initiale. Ce délai est décompté, dans les mêmes conditions, à partir de la date de réception par l'administration
+de la demande du contribuable d'un second examen. 
+
+Le collège est national lorsque la demande initiale présentée par le contribuable a fait l'objet d'une réponse, selon le cas,
+par les services centraux ou les directions à compétence nationale de la direction générale des finances publiques ou par les
+services centraux ou les directions à compétence nationale de la direction générale des douanes et droits indirects. 
+
+Dans les autres cas, le collège est territorial.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 CB
+
+
+###### Article R*80 CB-3
+
+La composition des collèges nationaux est fixée par arrêté du ministre chargé du budget. Ils comprennent, selon le cas, six
+membres de la direction générale des finances publiques ou six membres de la direction générale des douanes et droits
+indirects. Un des membres, désigné par arrêté du ministre chargé du budget, a la qualité de président. Le président a voix
+prépondérante en cas de partage. En cas d'absence ou d'empêchement ou dans le cas prévu au cinquième alinéa, la présidence
+est assurée par un membre du collège désigné à cet effet par l'arrêté mentionné ci-dessus. 
+
+La composition et la compétence géographique de chaque collège territorial sont fixées par arrêté du ministre chargé du
+budget. Chaque collège comprend, selon le cas, six membres de la direction générale des finances publiques ou six membres de
+la direction générale des douanes et droits indirects. Un des membres, désigné par arrêté du ministre chargé du budget, a la
+qualité de président. Le président a voix prépondérante en cas de partage. En cas d'absence ou d'empêchement ou dans le cas
+prévu au cinquième alinéa, la présidence est assurée par un membre du collège désigné à cet effet par l'arrêté mentionné ci-
+dessus. 
+
+Le collège national ou territorial désigne, selon le cas, un rapporteur de la direction générale des finances publiques ou un
+rapporteur de la direction générale des douanes et droits indirects. 
+
+Sauf en cas d'urgence motivée, ses membres sont convoqués par le président quinze jours au moins avant la date fixée pour la
+réunion du collège. 
+
+S'il apparaît que l'un des membres a eu à prendre position sur l'une des affaires soumises au collège, il ne prend pas part à
+la délibération du collège. 
+
+Le collège délibère valablement à condition que trois membres au moins soient présents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. A80 CB-3-1 (V)
+	  - Livre des procédures fiscales - art. A80 CB-3-2 (VD)
+	  - Livre des procédures fiscales - art. A80 CB-3-3 (VD)
+	  - Livre des procédures fiscales - art. A80 CB-3-4 (V)
+	  - Livre des procédures fiscales - art. A80 CB-3-5 (V)
+	  - Livre des procédures fiscales - art. A80 CB-6-1 (V)
+	  - Livre des procédures fiscales - art. R*80 CB-6 (V)
+
+
+###### Article R*80 CB-4
+
+Le service, dont la réponse initiale a fait l'objet de la demande de second examen, notifie au contribuable, par pli
+recommandé avec demande d'avis de réception postal, une nouvelle réponse conforme à la délibération du collège.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+
+
+###### Article R*80 CB-5
+
+Lorsque la demande de second examen porte sur le caractère scientifique et technique d'un projet de dépenses de recherche
+ayant donné lieu à une prise de position de l'administration des impôts sur le fondement du 3° de l'article L. 80 B et que
+l'avis des services ou organismes mentionnés au deuxième alinéa de ce même 3° est sollicité, l'expert qui examine la demande
+ne peut être celui qui a examiné la demande initiale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B
+
+
+###### Article R*80 CB-6
+
+Lorsque la demande de second examen mentionnée à l'article L. 80 CB porte sur une prise de position de l'administration au
+titre du 3° bis de l'article L. 80 B, les articles R. * 80 CB-1 à R. * 80 CB-4 s'appliquent. 
+
+Toutefois, par dérogation aux dispositions de l'article R. * 80 CB-3, dans ce cas, le collège est national. La composition du
+collège est fixée par arrêté du ministre chargé de la recherche. Il comprend quatre membres de la direction générale pour la
+recherche et l'innovation. Le collège délibère valablement à condition que deux membres au moins soient présents. Un des
+membres, désigné par le ministre chargé de la recherche, a la qualité de président. Le président a voix prépondérante en cas
+de partage. En cas d'absence ou d'empêchement, ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3, la
+présidence est assurée par un membre du collège désigné à cet effet par l'arrêté mentionné ci-dessus. 
+
+Le collège désigne un rapporteur choisi au sein de la direction générale pour la recherche et l'innovation ainsi qu'un expert
+différent de celui qui a examiné la demande initiale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1575 du 16 décembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. A80 CB-6-1 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (V)
+	  - Livre des procédures fiscales - art. L80 CB
+	  - Livre des procédures fiscales - art. R*80 CB-1 (V)
+	  - Livre des procédures fiscales - art. R*80 CB-3 (V)
 
 
 ##### Section VII : Sanctions fiscales
