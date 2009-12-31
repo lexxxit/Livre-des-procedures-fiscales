@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2009-12-28
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -409,49 +409,172 @@ Mention est faite de son refus éventuel.
 	  - Loi n°86-1317 1986-12-30 art. 81 I Finances pour 1987 JORF 31 décembre 1986
 
 
+###### Article L13 AA
+
+I. ― Les personnes morales établies en France : 
+
+a) Dont le chiffre d'affaires annuel hors taxes ou l'actif brut figurant au bilan est supérieur ou égal à 400 millions
+d'euros, ou 
+
+b) Détenant à la clôture de l'exercice, directement ou indirectement, plus de la moitié du capital ou des droits de vote
+d'une entité juridique ― personne morale, organisme, fiducie ou institution comparable établie ou constituée en France ou
+hors de France ― satisfaisant à l'une des conditions mentionnées au a, ou 
+
+c) Dont plus de la moitié du capital ou des droits de vote est détenue, à la clôture de l'exercice, directement ou
+indirectement, par une entité juridique satisfaisant à l'une des conditions mentionnées au a, ou 
+
+d) Bénéficiant de l'agrément prévu à l'article 209 quinquies du code général des impôts, et, dans ce cas, toutes les
+entreprises imposables en France faisant partie du périmètre de consolidation, ou 
+
+e) Appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A du même code lorsque ce groupe comprend au moins
+une personne morale satisfaisant l'une des conditions mentionnées aux a, b, c ou d, 
+
+doivent tenir à disposition de l'administration une documentation permettant de justifier la politique de prix de transfert
+pratiquée dans le cadre de transactions de toute nature réalisées avec des entités juridiques liées au sens du 12 de
+l'article 39 du même code établies ou constituées hors de France, ci-après désignées par les termes : " entreprises associées
+”. 
+
+II. ― La documentation mentionnée au I comprend les éléments suivants : 
+
+1° Des informations générales sur le groupe d'entreprises associées : 
+
+― une description générale de l'activité déployée, incluant les changements intervenus au cours de l'exercice vérifié ; 
+
+― une description générale des structures juridiques et opérationnelles du groupe d'entreprises associées, comportant une
+identification des entreprises associées du groupe engagées dans des transactions contrôlées ; 
+
+― une description générale des fonctions exercées et des risques assumés par les entreprises associées dès lors qu'ils
+affectent l'entreprise vérifiée ; 
+
+― une liste des principaux actifs incorporels détenus, notamment brevets, marques, noms commerciaux et savoir-faire, en
+relation avec l'entreprise vérifiée ; 
+
+― une description générale de la politique de prix de transfert du groupe ; 
+
+2° Des informations spécifiques concernant l'entreprise vérifiée : 
+
+― une description de l'activité déployée, incluant les changements intervenus au cours de l'exercice vérifié ; 
+
+― une description des opérations réalisées avec d'autres entreprises associées, incluant la nature et le montant des flux, y
+compris les redevances ; 
+
+― une liste des accords de répartition de coûts ainsi qu'une copie des accords préalables en matière de prix de transfert et
+des rescrits relatifs à la détermination des prix de transfert, affectant les résultats de l'entreprise vérifiée ; 
+
+― une présentation de la ou des méthodes de détermination des prix de transfert dans le respect du principe de pleine
+concurrence, comportant une analyse des fonctions exercées, des actifs utilisés et des risques assumés ainsi qu'une
+explication concernant la sélection et l'application de la ou des méthodes retenues ; 
+
+― lorsque la méthode choisie le requiert, une analyse des éléments de comparaison considérés comme pertinents par
+l'entreprise. 
+
+III. ― Cette documentation, qui ne se substitue pas aux justificatifs afférents à chaque transaction, est tenue à la
+disposition de l'administration à la date d'engagement de la vérification de comptabilité. 
+
+Si la documentation requise n'est pas mise à sa disposition à cette date, ou ne l'est que partiellement, l'administration
+adresse à la personne morale mentionnée au I une mise en demeure de la produire ou de la compléter dans un délai de trente
+jours, en précisant la nature des documents ou compléments attendus. Cette mise en demeure doit indiquer les sanctions
+applicables en l'absence de réponse ou en cas de réponse partielle.
+
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 22 VII 1 : les présentes dispositions sont
+applicables aux exercices ouverts à compter du 1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 209 quinquies
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1735 ter (V)
+	  - Code général des impôts, CGI. - art. 223 quinquies B (M)
+	  - Code général des impôts, CGI. - art. 57 (V)
+	  - Livre des procédures fiscales - art. L13 AB (V)
+	  - Livre des procédures fiscales - art. L13 B (V)
+
+
+###### Article L13 AB
+
+Lorsque des transactions de toute nature sont réalisées avec une ou plusieurs entreprises associées établies ou constituées
+dans un Etat ou territoire non coopératif au sens de l'article 238-0 A du code général des impôts, la documentation
+mentionnée à l'article L. 13 AA du présent livre comprend également, pour chaque entreprise bénéficiaire des transferts, une
+documentation complémentaire comprenant l'ensemble des documents qui sont exigés des sociétés passibles de l'impôt sur les
+sociétés, y compris le bilan et le compte de résultat établis dans les conditions prévues par le IV de l'article 209 B du
+code général des impôts. 
+
+Le III de l'article L. 13 AA du présent livre s'applique à cette documentation complémentaire.
+
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 22 VII 1 : les présentes dispositions sont
+applicables aux exercices ouverts à compter du 1er janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 209 B
+	  - Code général des impôts, CGI. - art. 238-0 A
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1735 ter (V)
+	  - Code général des impôts, CGI. - art. 57 (V)
+
+
 ###### Article L13 B
 
 Lorsque, au cours d'une vérification de comptabilité, l'administration a réuni des éléments faisant présumer qu'une
-entreprise a opéré un transfert indirect de bénéfices, au sens des dispositions de l'article 57 du code général des impôts,
-elle peut demander à cette entreprise des informations et documents précisant :
+entreprise, autre que celles mentionnées au I de l'article L. 13 AA, a opéré un transfert indirect de bénéfices, au sens des
+dispositions de l'article 57 du code général des impôts, elle peut demander à cette entreprise des informations et documents
+précisant : 
 
 1° La nature des relations entrant dans les prévisions de l'article 57 du code général des impôts, entre cette entreprise et
-une ou plusieurs entreprises exploitées hors de France ou sociétés ou groupements établis hors de France ;
+une ou plusieurs entreprises exploitées hors de France ou sociétés ou groupements établis hors de France ; 
 
 2° La méthode de détermination des prix des opérations de nature industrielle, commerciale ou financière qu'elle effectue
 avec des entreprises, sociétés ou groupements visés au 1° et les éléments qui la justifient ainsi que, le cas échéant, les
-contreparties consenties ;
+contreparties consenties ; 
 
-3° Les activités exercées par les entreprises, sociétés ou groupements visés au 1°, liées aux opérations visées au 2° ;
+3° Les activités exercées par les entreprises, sociétés ou groupements visés au 1°, liées aux opérations visées au 2° ; 
 
 4° Le traitement fiscal réservé aux opérations visées au 2° et réalisées par les entreprises qu'elle exploite hors de France
 ou par les sociétés ou groupements visés au 1° dont elle détient, directement ou indirectement, la majorité du capital ou des
-droits de vote.
+droits de vote. 
 
 Les demandes visées au premier alinéa doivent être précises et indiquer explicitement, par nature d'activité ou par produit,
 le pays ou le territoire concerné, l'entreprise, la société ou le groupement visé ainsi que, le cas échéant, les montants en
 cause. Elles doivent, en outre, préciser à l'entreprise vérifiée le délai de réponse qui lui est ouvert. Ce délai, qui ne
-peut être inférieur à deux mois, peut être prorogé sur demande motivée sans pouvoir excéder au total une durée de trois mois.
+peut être inférieur à deux mois, peut être prorogé sur demande motivée sans pouvoir excéder au total une durée de trois
+mois. 
 
 Lorsque l'entreprise a répondu de façon insuffisante, l'administration lui adresse une mise en demeure d'avoir à compléter sa
 réponse dans un délai de trente jours en précisant les compléments de réponse qu'elle souhaite. Cette mise en demeure doit
-rappeler les sanctions applicables en cas de défaut de réponse (1).
+rappeler les sanctions applicables en cas de défaut de réponse (1). 
 
 (1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en vigueur de la loi 96-314.
 
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 22 VII 1 : les présentes dispositions sont
+applicables aux exercices ouverts à compter du 1er janvier 2010.
+
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 57
-
-	**Créé par**:
-
-	  - Loi n°96-314 1996-04-12 [*DDOEF*] art. 39 I, V JORF 13 avril 1996
-
-	**Codifié par**:
-
-	  - Décret n°96-557 1996-06-21
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
 
 	**Cité par**:
 
@@ -461,9 +584,9 @@ rappeler les sanctions applicables en cas de défaut de réponse (1).
 	  - Code général des impôts, CGI. - art. 57 (V)
 	  - Livre des procédures fiscales - art. L80 B (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - Livre des procédures fiscales - art. L13 AA (V)
 
 
 ###### Article L13-0 A
@@ -906,10 +1029,23 @@ mentionnée au premier alinéa, dresser à l'encontre de ce contribuable un proc
 Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts ainsi que par le contribuable.
 En cas de refus de signer, mention en est faite au procès-verbal. 
 
-L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable. 
+L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable.
+
+I bis. - Lorsque les agents mentionnés au premier alinéa du I sont informés, dans les conditions prévues au 1 de l'article
+1649 quater-0 B bis du code général des impôts, de l'exercice par le contribuable d'une activité entrant dans le champ
+d'application du 2 du même article au titre de la période en cours pour laquelle l'une des obligations déclaratives prévues
+aux articles 170, 172, 223 et 287 du même code n'est pas échue, ils peuvent, en cas de circonstances susceptibles de menacer
+le recouvrement d'une créance fiscale, dresser à l'encontre de ce contribuable un procès-verbal de flagrance fiscale.
+
+Le procès-verbal de flagrance fiscale est signé par les agents de l'administration des impôts.
+
+L'original du procès-verbal est conservé par l'administration des impôts et copie est notifiée au contribuable.
+
+La décision de faire application du présent I bis est prise par un agent de catégorie A détenant au moins un grade fixé par
+décret en Conseil d'Etat, qui vise à cet effet le procès-verbal de flagrance fiscale. 
 
 II.-La notification du procès-verbal de flagrance fiscale permet d'effectuer les saisies conservatoires mentionnées à
-l'article L. 252 B. 
+l'article L. 252 B.
 
 III.-Lorsque le procès-verbal de flagrance fiscale a été dressé dans le cadre de la procédure prévue à l'article L. 16 B,
 l'administration peut, par dérogation au VI de ce même article, utiliser pour la détermination du montant mentionné à
@@ -920,7 +1056,7 @@ l'administration peut, par dérogation à l'article L. 80 H, utiliser pour la d�
 252 B les informations recueillies au cours de cette procédure. 
 
 L'administration peut se fonder, pour la détermination du montant mentionné à l'article L. 252 B, sur des renseignements et
-informations obtenus de tiers, en application des articles L. 81 et suivants. 
+informations obtenus de tiers, en application des articles L. 81 et suivants.
 
 IV.-Pour arrêter le montant mentionné à l'article L. 252 B, l'administration est fondée à consulter sur place les registres
 et documents de toute nature, notamment ceux dont la tenue est prévue par le code général des impôts et par le code de
@@ -931,7 +1067,7 @@ Un procès-verbal relatant les opérations effectuées est établi. Il est sign�
 que par le contribuable. En cas de refus de signer, mention en est faite au procès-verbal. L'original de ce procès-verbal est
 conservé par l'administration et copie en est remise au contribuable. 
 
-Ces opérations ne constituent pas une vérification de comptabilité au sens de l'article L. 13. 
+Ces opérations ne constituent pas une vérification de comptabilité au sens de l'article L. 13.
 
 V. Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la réception
 du procès-verbal de flagrance fiscale mentionné au I, met fin à la procédure s'il est fait état d'un moyen propre à créer, en
@@ -948,13 +1084,14 @@ immédiate des saisies conservatoires éventuellement prises.
 
 **Nota:**
 
-_Modification effectuée en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007._
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009  art 19 XI : Le présent article s'applique à compter
+de l'imposition des revenus de l'année 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 19 (V)
 
 	**Cite**:
 
@@ -970,7 +1107,7 @@ _Modification effectuée en conséquence des articles 1, 3 et 12 I de l'ordonnan
 	  - Livre des procédures fiscales - art. L279
 	  - Livre des procédures fiscales - art. L47
 	  - Livre des procédures fiscales - art. L80 F
-	  - Livre des procédures fiscales - art. L80 H (V)
+	  - Livre des procédures fiscales - art. L80 H
 	  - Code du travail - art. L8221-1
 
 	**Cité par**:
@@ -2455,13 +2592,13 @@ impôt, à moins que le contribuable ne lui ait fourni des éléments incomplets
 un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA, au titre d'une période
 postérieure. 
 
-Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A.
+Il est fait exception à cette règle dans les cas prévus aux articles L. 188 A et L. 188 B.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
 
 	**Cité par**:
 
@@ -2470,7 +2607,8 @@ Il est fait exception à cette règle dans les cas prévus à l'article L. 188 A
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L16-0 BA
-	  - Livre des procédures fiscales - art. L188 A (V)
+	  - Livre des procédures fiscales - art. L188 A
+	  - Livre des procédures fiscales - art. L188 B
 
 
 ###### Article L51
@@ -2494,13 +2632,15 @@ Toutefois, il est fait exception à cette règle :
 code général des impôts ; 
 
 6° Dans les cas prévus à l'article L. 188 A après l'intervention de la réponse de l'autorité compétente de l'autre Etat ou
-territoire.
+territoire ; 
+
+7° Dans les cas prévus à l'article L. 188 B.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
 
 	**Cite**:
 
@@ -2509,6 +2649,7 @@ territoire.
 	  - Livre des procédures fiscales - art. L176
 	  - Livre des procédures fiscales - art. L187
 	  - Livre des procédures fiscales - art. L188 A
+	  - Livre des procédures fiscales - art. L188 B
 
 	**Cité par**:
 
@@ -2547,7 +2688,10 @@ s'étendre sur une durée supérieure à six mois.
 
 5° Elle ne l'est pas non plus pour la vérification de comptabilité de l'année ou de l'exercice au cours duquel
 l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA, ainsi que
-pour la vérification des années antérieures. 
+pour la vérification des années antérieures ; 
+
+6° Lorsqu'à la date d'expiration de ce délai, une enquête judiciaire ou une information ouverte par l'autorité judiciaire
+dans le cas mentionné à l'article L. 188 B est en cours. 
 
 III.-En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois de la durée de la vérification sur place
 est prorogée de la durée comprise entre la date du choix du contribuable pour l'une des options prévues à cet article pour la
@@ -2555,14 +2699,6 @@ réalisation du traitement et, respectivement selon l'option choisie, soit celle
 fichiers nécessaires par l'entreprise, soit celle de la remise des résultats des traitements réalisés par l'entreprise à
 l'administration, soit celle de la remise des copies de fichiers nécessaires à la réalisation des traitements par
 l'administration. Cette dernière date fait l'objet d'une consignation par écrit.
-
-**Nota:**
-
-Le 4° du II de l'article L. 52 du livre des procédures fiscales est applicable aux contrôles pour lesquels un avis de
-vérification a été adressé après le 1er janvier 2008. 
-
-Le III du présent article est applicable aux contrôles pour lesquels l'avis de vérification a été adressé à compter du 1er
-janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -2574,15 +2710,16 @@ janvier 2008.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 14
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 18 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 septies A (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 69 (V)
-	  - Livre des procédures fiscales - art. L12 (V)
+	  - Code général des impôts, CGI. - art. 302 septies A
+	  - Code général des impôts, CGI. - art. 69
+	  - Livre des procédures fiscales - art. L12
 	  - Livre des procédures fiscales - art. L16-0 BA
+	  - Livre des procédures fiscales - art. L188 B
 	  - Livre des procédures fiscales - art. L47 A
 
 
@@ -2747,7 +2884,8 @@ réel d'imposition.
 
 La procédure de rectification contradictoire n'est pas applicable :
 
-1° En matière d'impositions directes perçues au profit des collectivités locales ou d'organismes divers ;
+1° En matière d'impositions directes perçues au profit des collectivités locales ou d'organismes divers, à l'exclusion de la
+cotisation sur la valeur ajoutée des entreprises prévue à l'article 1586 ter ;
 
 2° En matière de contributions indirectes ;
 
@@ -2759,18 +2897,9 @@ La procédure de rectification contradictoire n'est pas applicable :
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 2004-12-30 art. 25 I, II Finances rectificative pour 2005 JORF 31 décembre 2004
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 25 (V) JORF 31 décembre 2004
-
-	**Codifié par**:
-
-	  - Décret n°2005-331 2005-04-06
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -3169,28 +3298,29 @@ dispositions d'application.
 
 ###### Article L63
 
-Lorsque les agents des impôts constatent une disproportion marquée entre le train de vie d'un contribuable et les revenus
-qu'il déclare, ils peuvent modifier la base d'imposition dans les conditions prévues à l'article 168 du code général des
-impôts.
+1. Lorsque les agents des impôts constatent une disproportion marquée entre le train de vie d'un contribuable et les revenus
+qu'il déclare, ils peuvent modifier la base d'imposition dans les conditions prévues aux articles 168 et 1649 quater-0 B ter
+du code général des impôts. 
+
+2. La décision de faire application du 1 est prise par un agent de catégorie A détenant au moins un grade fixé par décret en
+Conseil d'Etat, qui vise à cet effet la proposition prévue au premier alinéa de l'article L. 57.
+
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009  art 19 XI : Le présent article s'applique à compter
+de l'imposition des revenus de l'année 2009.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 19 (V)
+
 	**Cite**:
 
-	  - CGI 168
-
-	**Anciens textes**:
-
-	  - CGI 168 1 (AL. 1 P.)
-	  - Ordonnance 59-246 1959-02-04 ART. 8
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
+	  - Code général des impôts, CGI. - art. 1649 quater-0 B ter (V)
+	  - Code général des impôts, CGI. - art. 168 (V)
+	  - Livre des procédures fiscales - art. L57 (V)
 
 	**Cité par**:
 
@@ -3410,7 +3540,7 @@ Toutefois, il n'y a pas lieu de procéder à cette mise en demeure :
 non commerciaux ; 
 
 3° Si le contribuable ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du tribunal de
-commerce ; 
+commerce ou s'il s'est livré à une activité illicite (1) ; 
 
 4° Si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers ; 
 
@@ -3419,11 +3549,16 @@ commerce ;
 6° Lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L. 16-0
 BA, au titre de l'année ou de l'exercice au cours duquel le procès-verbal est établi.
 
+**Nota:**
+
+(3) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux procédures de contrôle engagées à
+compter du 1er janvier 2010.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
 
 	**Cite**:
 
@@ -3732,6 +3867,36 @@ l'article L. 190.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L190 (V)
+
+
+###### Article L76 A bis
+
+1. Lorsque les agents des impôts sont informés pour un contribuable de la situation de fait mentionnée à l'article 1649
+quater-0 B bis du code général des impôts, ils peuvent modifier la base d'imposition sur le fondement des présomptions
+établies par cet article.
+
+2. La décision de faire application du 1 est prise par un agent de catégorie A détenant au moins un grade fixé par décret en
+Conseil d'Etat, qui vise à cet effet la proposition prévue au premier alinéa de l'article L. 57 ou la notification prévue à
+l'article L. 76.
+
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009  art 19 XI : Le présent article s'applique à compter
+de l'imposition des revenus de l'année 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 19 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI.
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*76 AA-1 (V)
 
 
 ##### Section V bis : Information du contribuable sur les renseignements ou documents obtenus auprès de tiers
@@ -4210,28 +4375,24 @@ d'appliquer, les motifs de celle-ci et la possibilité dont dispose l'intéress�
 
 ###### Article L80 E
 
-La décision d'appliquer les majorations prévues aux articles 1729 et 1732 du code général des impôts est prise par un agent
-de catégorie A détenant au moins un grade fixé par décret qui vise à cet effet le document comportant la motivation des
-pénalités.
+La décision d'appliquer les majorations et amendes  prévues aux articles 1729, 1732 et 1735 ter  du code général des impôts
+est prise par un agent de catégorie A détenant au moins un grade fixé par décret qui vise à cet effet le document comportant
+la motivation des pénalités.
 
 **Nota:**
 
-Les dispositions du I sont applicables aux documents comportant la motivation des pénalités mentionnés par l'article L. 80 E
-du livre des procédures fiscales notifiés à compter du 1er janvier 2006.
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 22 VII 1 : les présentes dispositions sont
+applicables aux exercices ouverts à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1729, 1732
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 28 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1729
 
 	**Cité par**:
 
@@ -5336,22 +5497,11 @@ l'administration, sur sa demande, les registres prévus à ces articles.
 
 Les établissements diffuseurs ou distributeurs de services payants de programmes de télévision sont tenus de fournir à
 l'administration, sur sa demande, les éléments des contrats de certains de leurs clients strictement nécessaires à
-l'établissement de l'assiette de la redevance audiovisuelle. Ces informations se composent exclusivement de l'identité du
-client, de son adresse et de la date du contrat. Un décret en Conseil d'Etat définit les modalités de cette communication.
-
-**Nota:**
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+l'établissement de l'assiette de la contribution à l'audiovisuel public. Ces informations se composent exclusivement de
+l'identité du client, de son adresse et de la date du contrat. Un décret en Conseil d'Etat définit les modalités de cette
+communication.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Créé par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
 
 	**Cité par**:
 
@@ -5359,6 +5509,10 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1770 nonies (T)
 	  - Code général des impôts, CGI. - art. 1840 W quater (V)
 	  - Livre des procédures fiscales - art. R*96 E-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 32
 
 
 ##### 23° : Fiducie
@@ -5417,54 +5571,32 @@ du 17 octobre 2005 précité.
 ###### Article L97
 
 Doivent adresser chaque année à l'administration des impôts un relevé récapitulatif par médecin, chirurgien-dentiste, sage-
-femme, auxiliaire médical et laboratoire d'analyses médicales des feuilles de maladie et notes de frais remises par les
-assurés :
+femme, auxiliaire médical, pharmacie d'officine, laboratoire d'analyses médicales, fournisseur de dispositifs et équipements
+médicaux et entreprise effectuant des transports sanitaires des feuilles de maladie et notes de frais remises par les
+assurés : 
 
-1° les caisses de sécurité sociale chargées de la gestion des risques maladie et maternité ;
+1° les caisses de sécurité sociale chargées de la gestion des risques maladie et maternité ; 
 
-2° les organismes chargés de la gestion des risques maladie et maternité des régimes spéciaux de sécurité sociale ;
+2° les organismes chargés de la gestion des risques maladie et maternité des régimes spéciaux de sécurité sociale ; 
 
 3° les sociétés ou unions de sociétés de secours mutuel fonctionnant comme organismes d'assurances sociales agricoles pour
-les assurances maladie et maternité ;
+les assurances maladie et maternité ; 
 
-4° les caisses de base du régime social des indépendants mentionnées à l'article L. 611-3 du code de la sécurité sociale ;
+4° les caisses de base du régime social des indépendants mentionnées à l'article L. 611-3 du code de la sécurité sociale ; 
 
 5° les sociétés et organismes qui assurent le service des prestations prévues par les articles L752-1 à L752-21 du code rural
-relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture.
+relatifs à l'assurance des personnes non salariées contre les accidents et les maladies professionnelles dans l'agriculture. 
 
-Ce relevé mentionne, notamment, le montant des honoraires versés par les assurés aux praticiens.
+Ce relevé mentionne, notamment, le montant des honoraires versés par les assurés aux praticiens. 
 
 Pour permettre l'application de ces dispositions, les praticiens doivent indiquer sur les feuilles de maladie ou de soins le
 montant total des honoraires qui leur sont effectivement versés par les assurés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1994 (AL. 1 SAUF LA DERNIERE PHRASE, AL. 2)
-	  - Loi n°1942-10-24 ART. 15
-	  - Loi n°48-809 1948-05-13 ART. 24 (AL. 1), ART. 25
-	  - Loi n°52-401 du 14 avril 1952 - art. 53 (V)
-	  - Ordonnance 67-828 1967-09-23 ART. 17
-	  - Loi n°68-1172 1968-12-27 ART. 5 II
-	  - Loi n°72-1121 du 20 décembre 1972 - art. 54, v. init.
-
-	**Cite**:
-
-	  - Code rural L752-1 à L752-21
-	  - Code de la sécurité sociale. - art. L611-3 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
 	**Modifié par**:
 
-	  - Ordonnance n°2005-1528 du 8 décembre 2005 - art. 2 () JORF 9 décembre 2005
-
-	**Codifié par**:
-
-	  - Décret n°2007-485 2007-03-30
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 112
 
 	**Cité par**:
 
@@ -5474,6 +5606,11 @@ montant total des honoraires qui leur sont effectivement versés par les assuré
 	  - Livre des procédures fiscales - art. A97-1 (V)
 	  - Livre des procédures fiscales - art. R*97-1 (V)
 	  - Livre des procédures fiscales - art. R*97-2 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L752-1
+	  - Code de la sécurité sociale. - art. L611-3
 
 
 ###### Article L98
@@ -5508,24 +5645,26 @@ _Modifications effectuées en conséquence des articles 1er, 2 et 3 III de l'ord
 
 ###### Article L98 A
 
-Les organismes débiteurs de l'allocation aux adultes handicapés et du revenu minimum d'insertion sont tenus de fournir à
-l'administration fiscale, dans des conditions fixées par arrêté :
+Les organismes débiteurs de l'allocation aux adultes handicapés, du revenu minimum d'insertion et du revenu de solidarité
+active sont tenus de fournir à l'administration fiscale, dans des conditions fixées par arrêté :
 
 1° La liste des personnes bénéficiaires de l'allocation aux adultes handicapés au 1er janvier de l'année d'imposition ;
 
 2° La liste des personnes auxquelles le revenu minimum d'insertion a été versé au 1er janvier ou au cours de l'année
-d'imposition ainsi que celle des personnes ayant cessé de percevoir ce revenu minimum au cours de l'année précédente.
+d'imposition ainsi que celle des personnes ayant cessé de percevoir ce revenu minimum au cours de l'année précédente ;
+
+3° La liste des personnes auxquelles le revenu de solidarité active a été versé en 2010 et en 2011.
+
+**Nota:**
+
+Conformément à la loi n° 2009-1673 du 30 décembre 2009, article 21 II, les dispositions modifiées par le I du même article
+entrent en vigueur à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-	  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 33 III Finances rectificative pour 2002
-
 	**Modifié par**:
 
-	  - Loi - art. 33 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 21
 
 	**Cité par**:
 
@@ -5582,10 +5721,9 @@ informations ainsi transmises à l'administration des impôts.
 
 ###### Article L99
 
-Les organismes ou caisses de sécurité sociale ainsi que les caisses de mutualité sociale agricole communiquent à
-l'administration des impôts les faits susceptibles de constituer des infractions qu'ils relèvent en ce qui concerne
-l'application des lois et règlements relatifs, d'une part, aux impôts et taxes en vigueur et, d'autre part, aux cotisations
-et contributions sociales.
+Les organismes de protection sociale communiquent à l'administration des impôts les faits susceptibles de constituer des
+infractions qu'ils relèvent en ce qui concerne l'application des lois et règlements relatifs, d'une part, aux impôts et taxes
+en vigueur et, d'autre part, aux cotisations et contributions sociales.
 
 **Liens relatifs à cet article**
 
@@ -5593,13 +5731,9 @@ et contributions sociales.
 
 	  - Décret n°2004-581 du 21 juin 2004 - art. 4 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
-
 	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 92 () JORF 20 décembre 2005
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 17
 
 
 ###### Article L101
@@ -5677,47 +5811,6 @@ décès établis au cours du trimestre. Ces relevés sont certifiés par le mair
 	**Abrogé par**:
 
 	  - Loi n°2015-1785 du 29 décembre 2015 - art. 84
-
-
-###### Article L102 AA
-
-I. Les régisseurs de messages publicitaires mentionnés au a du 1° du II de l'article 1609 sexdecies du code général des
-impôts sont tenus de fournir à chaque éditeur d'un service de télévision mentionné au I de cet article ainsi qu'à
-l'administration des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes qu'ils ont encaissées au
-cours de l'année civile précédente en rémunération de la diffusion des messages publicitaires par le service de télévision
-concerné. 
-
-II.-Les personnes mentionnées au c du 1° du II de l'article 1609 sexdecies du code général des impôts assurant l'encaissement
-des sommes versées par les opérateurs de communications électroniques sont tenues de fournir à chaque éditeur de services de
-télévision ainsi qu'à l'administration des impôts, avant le 15 février de chaque année, un état récapitulatif des sommes
-prévues au c du 1° du II de cet article qu'elles ont encaissées au cours de l'année civile précédente. 
-
-III. Un décret fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 9
-
-	**Nouveaux textes**:
-
-	  - Code du cinéma et de l'image animée - art. L115-13 (VD)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1609 sexdecies
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1736 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1788 nonies (Ab)
-	  - Livre des procédures fiscales - art. R102 AA (P)
-	  - Livre des procédures fiscales - art. R102 AA-1 (P)
 
 
 #### Chapitre II bis : Obligation et délais de conservation des documents
@@ -6274,19 +6367,17 @@ dans les services des impôts de ce département.
 Des dérogations à la règle du secret professionnel sont établies au profit d'administrations et autorités administratives,
 collectivités, services, organismes publics et autres personnes dans les cas prévus à la présente section. 
 
-Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, L. 127, L. 130, L. 135, L. 135 B, L. 135
-D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, L. 152 A, L. 158 et L. 166 sont eux-mêmes
-soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 138-II de la loi n° 2006-1640 du 21 décembre 2006.
+Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, 
+L. 127, L. 130, L. 135, L. 135 B, 
+L. 135 D, L. 135 E, L. 135 F, L. 135 H, L. 135 I, L. 135 J, 
+L. 135 O, L. 136, L. 139 A, L. 152 A, L. 158, L. 158 A et L. 163 et L. 166 sont eux-mêmes soumis au secret professionnel dans
+les termes des articles 226-13 et 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 113
 
 	**Cité par**:
 
@@ -6298,22 +6389,18 @@ Modification effectuée en conséquence de l'article 138-II de la loi n° 2006-1
 
 	  - Livre des procédures fiscales - art. L123 (V)
 	  - Livre des procédures fiscales - art. L127 (V)
-	  - Livre des procédures fiscales - art. L130 (V)
+	  - Livre des procédures fiscales - art. L130
 	  - Livre des procédures fiscales - art. L135 (V)
 	  - Livre des procédures fiscales - art. L135 B (V)
 	  - Livre des procédures fiscales - art. L135 D (V)
-	  - Livre des procédures fiscales - art. L135 E (V)
-	  - Livre des procédures fiscales - art. L135 F (V)
 	  - Livre des procédures fiscales - art. L135 H (V)
-	  - Livre des procédures fiscales - art. L135 I (V)
-	  - Livre des procédures fiscales - art. L135 J (V)
 	  - Livre des procédures fiscales - art. L135 O (V)
 	  - Livre des procédures fiscales - art. L136 (V)
 	  - Livre des procédures fiscales - art. L139 A (V)
-	  - Livre des procédures fiscales - art. L152 A (V)
-	  - Livre des procédures fiscales - art. L158 (V)
+	  - Livre des procédures fiscales - art. L152 A
+	  - Livre des procédures fiscales - art. L158
+	  - Livre des procédures fiscales - art. L163
 	  - Livre des procédures fiscales - art. L166 (V)
-	  - Code pénal - art. 226-13 (V)
 
 
 ##### I : Dérogations en matière d'assistance fiscale internationale
@@ -6454,23 +6541,6 @@ d'inspecteur qui appartiennent à d'autres administrations des finances et qui s
 	**Codifié par**:
 
 	  - Décret n°93-1095 1993-09-16
-
-
-###### Article L117 A
-
-Les services en charge du recouvrement des impôts directs sont autorisés à communiquer au service de la redevance de
-l'audiovisuel les informations relatives aux nom, prénom et adresse des contribuables assujettis à la taxe d'habitation ou
-qui en sont exonérés.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 12 mai 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 32
 
 
 ###### Article L118
@@ -7466,25 +7536,17 @@ et du rapporteur général de la commission en charge des affaires budgétaires.
 Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
 publique, les agents de la direction générale de la comptabilité publique, de la direction générale des douanes et droits
 indirects, de la direction générale des impôts et de la direction générale de la concurrence, de la consommation et de la
-répression des fraudes doivent répondre aux demandes formulées par les officiers et agents de police judiciaire concernant
-les renseignements et documents de nature financière, fiscale ou douanière, sans que puisse être opposée l'obligation au
-secret. Dans ce même cadre, les officiers et agents de police judiciaire doivent communiquer aux agents des quatre directions
-précitées tous les éléments susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que
-puisse être opposée l'obligation au secret.
+répression des fraudes transmettent, spontanément ou sur demande, aux officiers et agents de police judiciaire les
+renseignements et documents de nature financière, fiscale ou douanière, sans que puisse être opposée l'obligation au secret.
+Dans ce même cadre, les officiers et agents de police judiciaire transmettent, spontanément ou sur demande, aux agents des
+quatre directions précitées tous les éléments susceptibles de comporter une implication de nature financière, fiscale ou
+douanière, sans que puisse être opposée l'obligation au secret.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
-
 	**Modifié par**:
 
-	  - Loi n°2004-204 du 9 mars 2004 - art. 16 () JORF 10 mars 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 16 (V)
 
 	**Cité par**:
 
@@ -8448,8 +8510,9 @@ desquels un compte est ouvert au nom du débiteur.
 
 Les agents des administrations fiscales communiquent aux organismes et services chargés de la gestion d'un régime obligatoire
 de sécurité sociale, de l'attribution de la protection complémentaire en matière de santé visée à l'article L. 861-1 du code
-de la sécurité sociale, à la direction générale de la comptabilité publique et aux institutions mentionnées au chapitre Ier
-du titre II du livre IX du code de la sécurité sociale les informations nominatives nécessaires :
+de la sécurité sociale, à la direction générale de la comptabilité publique, aux institutions mentionnées au chapitre Ier du
+titre II du livre IX du code de la sécurité sociale ainsi qu'à l'institution mentionnée à l'article L. 5312-1 du code du
+travail les informations nominatives nécessaires :
 
 1° à l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ;
 
@@ -8457,10 +8520,12 @@ du titre II du livre IX du code de la sécurité sociale les informations nomina
 
 3° à l'appréciation des conditions d'assujettissement aux cotisations et contributions ;
 
-4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement.
+4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement ;
 
-Le numéro d'inscription au répertoire national d'identification des personnes physiques est utilisé pour les demandes,
-échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 4°, lorsqu'elles concernent des
+5° Au recouvrement des prestations indûment versées.
+
+Le numéro d'inscription au répertoire national d'identification des personnes physiques peut être utilisé pour les demandes,
+échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 5°, lorsqu'elles concernent des
 personnes physiques.
 
 Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction des droits aux prestations de sécurité
@@ -8472,7 +8537,7 @@ Les agents des administrations fiscales signalent aux directeurs régionaux des 
 des services régionaux de l'inspection du travail, de l'emploi et de la politique sociale agricoles, ainsi qu'aux organismes
 de protection sociale les faits susceptibles de constituer des infractions qu'ils relèvent en ce qui concerne l'application
 des lois et règlements relatifs au régime général, au régime des travailleurs indépendants non agricoles, aux régimes
-spéciaux ou au régime agricole de sécurité sociale.
+spéciaux, au régime agricole de sécurité sociale ou à l'assurance chômage .
 
 **Liens relatifs à cet article**
 
@@ -8503,15 +8568,11 @@ spéciaux ou au régime agricole de sécurité sociale.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1579 du 19 décembre 2005 - art. 92 () JORF 20 décembre 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 17
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L861-1 (M)
+	  - Code de la sécurité sociale. - art. L861-1
 
 
 ###### Article L152 A
@@ -8637,6 +8698,27 @@ administratives compétentes les renseignements qu'ils détiennent et qui sont n
 	  - Code de l'action sociale et des familles - art. L133-3 (V)
 
 
+###### Article L158 A
+
+Les services et établissements publics à caractère administratif de l'Etat qui, pour établir et recouvrer des cotisations,
+accorder ou maintenir des prestations ou avantages quelconques prévus par les dispositions législatives et réglementaires,
+font souscrire par leurs assujettis ou prestataires une déclaration de ressources ou de patrimoine ou se font remettre une
+copie de document fiscal peuvent, en cas de besoin, se faire communiquer par l'administration fiscale les renseignements
+nécessaires au contrôle de ces documents ou au recouvrement des prestations indûment versées. La liste de ces services et
+établissements est fixée par arrêté conjoint du ministre chargé du budget et du ministre sous l'autorité ou la tutelle duquel
+ils se trouvent placés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 113
+
+	**Cité par**:
+
+	  - Arrêté du 10 novembre 2010 - art. 1 (V)
+
+
 ###### Article L162 A
 
 Les organismes débiteurs de prestations familiales peuvent obtenir de l'administration des impôts les renseignements prévus à
@@ -8700,12 +8782,17 @@ montant d'allocation versé. Elles sont transmises et utilisées dans des condit
 
 ###### Article L163
 
-Le centre national de la cinématographie, ainsi que les sociétés d'auteurs, d'éditeurs, de compositeurs ou de distributeurs
-peuvent recevoir communication, de la part de l'administration des impôts, de tous les renseignements relatifs aux recettes
-réalisées par les entreprises soumises à leur contrôle. 
+Le Centre national du cinéma et de l'image animée peut recevoir de l'administration des impôts tous les renseignements : 
 
-Le Centre national de cinématographie peut recevoir communication de l'administration des impôts, pour chaque redevable, de
-tous renseignements relatifs au montant de la taxe mentionnée à l'article 1609 sexdecies B du code général des impôts.
+1° Relatifs aux recettes réalisées par les entreprises soumises à son contrôle ; 
+
+2° Nécessaires au recouvrement et au contrôle des impositions mentionnées aux articles L. 115-1, L. 115-6 et L. 115-14 du
+code du cinéma et de l'image animée ; 
+
+3° Relatifs au montant de la taxe mentionnée à l'article 1609 sexdecies B du code général des impôts. 
+
+Les sociétés d'auteurs, d'éditeurs, de compositeurs ou de distributeurs peuvent recevoir de l'administration des impôts tous
+les renseignements relatifs aux recettes réalisées par les entreprises soumises à leur contrôle.
 
 **Nota:**
 
@@ -8715,11 +8802,6 @@ décret n° 2009-388 du 7 avril 2009.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
-	  - Décret n°2009-389 du 7 avril 2009 - art. 1
-
 	**Cité par**:
 
 	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
@@ -8727,9 +8809,16 @@ décret n° 2009-388 du 7 avril 2009.
 	  - Code du cinéma et de l'image animée - art. L413-4 (V)
 	  - Livre des procédures fiscales - art. L113 (VT)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art. 8
+
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1609 sexdecies B (V)
+	  - Code du cinéma et de l'image animée - art. L115-1 (VD)
+	  - Code du cinéma et de l'image animée - art. L115-14 (VD)
+	  - Code du cinéma et de l'image animée - art. L115-6 (VD)
 
 
 ##### 2° : SAFER
@@ -8820,6 +8909,37 @@ sont soumises.
 	**Modifié par**:
 
 	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
+
+
+##### 4° bis Professionnels de l'expertise comptable autorisés.
+
+###### Article L166 bis
+
+L'administration fiscale doit communiquer soit au président du conseil régional de l'ordre des experts-comptables, soit au
+président de la commission nationale d'inscription prévue à l'article 42 bis de l'ordonnance n° 45-2138 du 19 septembre 1945
+portant institution de l'Ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable les
+résultats des contrôles dont ont fait l'objet respectivement les clients ou adhérents de ces professionnels. Ces
+renseignements peuvent porter sur la nature et le montant des rectifications dont le client ou l'adhérent a fait l'objet. 
+
+Ces résultats sont également communiqués aux commissaires du Gouvernement auprès du conseil régional intéressé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 42
+
+	**Créé par**:
+
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 10 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2010-422  du 27 avril 2010 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Livre des procédures fiscales - art. L166 C (V)
 
 
 ##### 5° : Prévention de la multidétention de produits d'épargne générale à régime fiscal spécifique
@@ -8926,21 +9046,30 @@ contraires du code général des impôts.
 Pour l'impôt sur le revenu et l'impôt sur les sociétés, le droit de reprise de l'administration des impôts s'exerce jusqu'à
 la fin de la troisième année qui suit celle au titre de laquelle l'imposition est due. 
 
+Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration, pour les revenus imposables selon
+un régime réel dans les catégories des bénéfices industriels et commerciaux, des bénéfices non commerciaux et des bénéfices
+agricoles, s'exerce jusqu'à la fin de la deuxième année qui suit celle au titre de laquelle l'imposition est due, lorsque le
+contribuable est adhérent d'un centre de gestion agréé ou d'une association agréée, pour les périodes au titre desquelles le
+service des impôts des entreprises a reçu une copie du compte rendu de mission prévu aux articles 1649 quater E et 1649
+quater H du code général des impôts. Cette réduction de délai ne s'applique pas aux adhérents pour lesquels des manquements
+délibérés auront été établis sur les périodes d'imposition non prescrites. 
+
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
-dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé dans le délai
-légal les déclarations qu'il était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des
-entreprises ou au greffe du tribunal de commerce. 
+dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable exerce une activité occulte.
+L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations qu'il
+était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au greffe du
+tribunal de commerce, soit s'est livré à une activité illicite (2).
 
 Le droit de reprise mentionné au deuxième alinéa ne s'applique qu'aux seules catégories de revenus que le contribuable n'a
 pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique pas lorsque des
 revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés. 
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
-l'imposition est due, lorsque les obligations déclaratives prévues aux articles 123 bis, 209 B, 1649 A et 1649 AA du même
-code n'ont pas été respectées et concernent un Etat ou un territoire qui n'a pas conclu avec la France une convention
-d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales permettant l'accès aux renseignements
-bancaires. Ce droit de reprise concerne les seuls revenus ou bénéfices afférents aux obligations déclaratives qui n'ont pas
-été respectées. 
+l'imposition est due, lorsque les obligations déclaratives prévues aux articles 123 bis, 209 B, 
+1649 A et 1649 AA du même code n'ont pas été respectées et concernent un Etat ou un territoire qui n'a pas conclu avec la
+France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales permettant l'accès
+aux renseignements bancaires. Ce droit de reprise concerne les seuls revenus ou bénéfices afférents aux obligations
+déclaratives qui n'ont pas été respectées. 
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
 l'imposition est due, lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à
@@ -8953,20 +9082,20 @@ mentionnée au premier alinéa, les résultats et les plus-values ou moins-value
 de ce groupe et qui ont concouru à la détermination de ce déficit ou de cette moins-value peuvent être remis en cause à
 hauteur du montant du déficit ou de la moins-value ainsi imputés, nonobstant les dispositions prévues au premier alinéa. 
 
-Si le groupe a cessé d'exister, les règles définies au sixième alinéa demeurent applicables au déficit ou à la moins-value
-nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
+Si le groupe a cessé d'exister, les règles définies au sixième (1) alinéa demeurent applicables au déficit ou à la moins-
+value nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
 
 **Nota:**
 
 Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 52 VI : le présent article s'applique aux
 délais venant à expiration postérieurement au 31 décembre 2008.
 
+(1) : il faut lire "septième" au lieu de "sixième"
+
+(2) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
+postérieurement au 31 décembre 2009.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 52 (V)
 
 	**Cité par**:
 
@@ -8994,15 +9123,23 @@ délais venant à expiration postérieurement au 31 décembre 2008.
 	  - Livre des procédures fiscales - art. L52 (V)
 	  - Livre des procédures fiscales - art. R*169 B-1 (P)
 
+	**Modifié par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
+
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 123 bis (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 A (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1649 AA (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 209 B (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 A (VT)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 223 S (V)
-	  - Livre des procédures fiscales - art. L16-0 BA (V)
+	  - Code général des impôts, CGI. - art. 123 bis
+	  - Code général des impôts, CGI. - art. 1649 A
+	  - Code général des impôts, CGI. - art. 1649 AA
+	  - Code général des impôts, CGI. - art. 1649 quater E
+	  - Code général des impôts, CGI. - art. 1649 quater H
+	  - Code général des impôts, CGI. - art. 209 B
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Code général des impôts, CGI. - art. 223 C
+	  - Code général des impôts, CGI. - art. 223 D
+	  - Code général des impôts, CGI. - art. 223 S
+	  - Livre des procédures fiscales - art. L16-0 BA
 
 
 ###### Article L169 A
@@ -9021,9 +9158,10 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 6° A la taxe sur les salaires ; 
 
-7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés. 
+7° A tous prélèvements et taxes qui tiennent lieu de l'impôt sur le revenu ou de l'impôt sur les sociétés ; 
 
-8° A la cotisation minimale de taxe professionnelle prévue au II de l'article 1647 E du code général des impôts
+8° A la cotisation minimale de taxe professionnelle prévue au II de l'article 1647 E du code général des impôts dans sa
+rédaction en vigueur au 31 décembre 2009.
 
 **Liens relatifs à cet article**
 
@@ -9037,7 +9175,7 @@ Le délai de reprise prévu au premier alinéa de l'article L. 169 s'applique é
 
 	**Modifié par**:
 
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 	**Cité par**:
 
@@ -9255,26 +9393,18 @@ l'année du remboursement, d'une majoration de son impôt sur le revenu égale �
 ###### Article L172 F
 
 Pour la contribution à l'audiovisuel public prévue au I de l'article 1605 du code général des impôts, le droit de reprise de
-l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle la redevance audiovisuelle
-est due.
-
-**Nota:**
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle la contribution à
+l'audiovisuel public est due.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 32
+
 	**Cite**:
 
-	  - CGI 1605
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Créé par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
+	  - Code général des impôts, CGI. - art. 1605 (V)
 
 
 ###### Article L172 G
@@ -9304,20 +9434,28 @@ dispositions applicables aux crédits d'impôt calculés au titre des dépenses 
 ###### Article L173
 
 Pour les impôts directs perçus au profit des collectivités locales et les taxes perçues sur les mêmes bases au profit de
-divers organismes, à l'exception de la taxe professionnelle et de ses taxes additionnelles, le droit de reprise de
-l'administration des impôts s'exerce jusqu'à la fin de l'année suivant celle au titre de laquelle l'imposition est due.
+divers organismes, à l'exception de la taxe professionnelle, de la cotisation foncière des entreprises, de la cotisation sur
+la valeur ajoutée des entreprises et de leurs taxes additionnelles, le droit de reprise de l'administration des impôts
+s'exerce jusqu'à la fin de l'année suivant celle au titre de laquelle l'imposition est due.
 
-Toutefois, lorsque le revenu imposable à raison duquel le contribuable a bénéficié d'une exonération, d'un dégrèvement ou
-d'un abattement en application des articles 1391, 1414, 1414 A et du 3 du II de l'article 1411 du code général des impôts
-fait ultérieurement l'objet d'un rehaussement, l'imposition correspondant au montant du dégrèvement ou de l'exonération
-accordés à tort est établie et mise en recouvrement dans le même délai que l'impôt sur le revenu correspondant au
-rehaussement.
+Toutefois, lorsque le revenu fiscal de référence ou le nombre de personnes à charge ou encore le quotient familial à raison
+desquels le contribuable a bénéficié d'une exonération, d'un dégrèvement ou d'un abattement, en application des articles
+1391, 1391 B, 1391 B bis, 1414, 1414 A, 1414 B et des 1 et 3 du II de l'article 1411 du code général des impôts, fait
+ultérieurement l'objet d'une rectification, l'imposition correspondant au montant de l'exonération, du dégrèvement ou de
+l'abattement accordés à tort est établie et mise en recouvrement dans le délai fixé en matière d'impôt sur le revenu au
+premier alinéa de l'article L. 169 du présent livre.
+
+**Nota:**
+
+Loi n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 article 37 II : Le I de l'article 37 s'applique aux
+impositions de taxe d'habitation et de taxe foncière sur les propriétés bâties établies au titre des années 2009 et
+suivantes.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - CGI 1411, 1391, 1414, 1414 A
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 37 (V)
 
 	**Cité par**:
 
@@ -9327,32 +9465,31 @@ rehaussement.
 	  - Code général des impôts, CGI. - art. 1395 F (VT)
 	  - Livre des procédures fiscales - art. L45 G (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-	  - TXT_ASSOCIE: Instruction 2000-10-30 6D-3-00
-
-	**Modifié par**:
-
-	  - Loi n°2000-656 2000-07-13 art. 11 V 4 Finances rectificative pour 2000 JORF 14 juillet 2000
-
 
 ###### Article L174
 
-Les omissions ou les erreurs concernant la taxe professionnelle peuvent être réparées par l'administration jusqu'à
-l'expiration de la troisième année suivant celle au titre de laquelle l'imposition est due. 
+Les omissions ou les erreurs concernant la taxe professionnelle, la cotisation foncière des entreprises et la cotisation sur
+la valeur ajoutée des entreprises peuvent être réparées par l'administration jusqu'à l'expiration de la troisième année
+suivant celle au titre de laquelle l'imposition est due. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
-sixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable n'a pas déposé dans le délai
-légal les déclarations qu'il était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des
-entreprises ou au greffe du tribunal de commerce, ou lorsque l'administration a dressé un procès-verbal de flagrance fiscale
-dans les conditions prévues à l'article L. 16-0 BA, au titre d'une année postérieure.
+dixième année qui suit celle au titre de laquelle l'imposition est due lorsque l'administration a dressé un procès-verbal de
+flagrance fiscale dans les conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le
+contribuable exerce une activité occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans
+le délai légal les déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de
+formalités des entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite. (1)
+
+**Nota:**
+
+(1) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
+postérieurement au 31 décembre 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
 
 	**Cité par**:
 
@@ -9405,11 +9542,19 @@ année suivant celle au cours de laquelle la taxe est devenue exigible conformé
 code général des impôts. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
+deuxième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément au 2 de l'article 269 du code
+général des impôts, lorsque le contribuable est adhérent d'un centre de gestion agréé ou d'une association agréée, pour les
+périodes pour lesquelles le service des impôts des entreprises a reçu une copie du compte rendu de mission prévu aux articles
+1649 quater E et 1649 quater H du même code. Cette réduction de délai ne s'applique pas aux adhérents pour lesquels des
+manquements délibérés auront été établis sur les périodes d'imposition non prescrites. 
+
+Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 dixième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de
-l'article 269 du code général des impôts, lorsque le contribuable n'a pas déposé dans le délai légal les déclarations qu'il
-était tenu de souscrire et n'a pas fait connaître son activité à un centre de formalités des entreprises ou au greffe du
-tribunal de commerce, ou lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues
-à l'article L. 16-0 BA, au titre d'une année postérieure. 
+l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les
+conditions prévues à l'article L. 16-0 BA du présent livre au titre d'une année postérieure ou lorsque le contribuable exerce
+une activité occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les
+déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des
+entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite (2).
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
@@ -9426,19 +9571,16 @@ d'être remplies.
 
 **Nota:**
 
-(1) Dispositions applicables, conformément à l'article 33 V de la loi n° 2007-1824 du 25 décembre 2007, aux opérations
-engagées du 1er janvier 2008 jusqu'au 31 décembre 2009.
+(1) Dispositions applicables aux opérations engagées du 1er janvier 2008 jusqu'au 31 décembre 2009.
 
-Loi n° 2008-1443 du 30 décembre 2008 de finances rectificative pour 2008 art. 52 VI : le présent article s'applique aux
-délais venant à expiration postérieurement au 31 décembre 2008.
+(2) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
+postérieurement au 31 décembre 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 15
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 33 (V)
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 52 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
 
 	**Cité par**:
 
@@ -9455,6 +9597,8 @@ délais venant à expiration postérieurement au 31 décembre 2008.
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 1649 quater E
+	  - Code général des impôts, CGI. - art. 1649 quater H
 	  - Code général des impôts, CGI. - art. 257
 	  - Code général des impôts, CGI. - art. 269
 	  - Code général des impôts, CGI. - art. 278 sexies
@@ -9833,6 +9977,31 @@ la réponse de l'autorité compétente de l'autre Etat ou territoire au moment o
 	  - Code général des impôts, CGI. - art. 1727 (VD)
 	  - Livre des procédures fiscales - art. L50 (V)
 	  - Livre des procédures fiscales - art. L51 (V)
+
+
+###### Article L188 B
+
+Lorsque l'administration a, dans le délai de reprise, déposé une plainte ayant abouti à l'ouverture d'une enquête judiciaire
+pour fraude fiscale dans les cas visés aux 1° à 3° de l'article L. 228, les omissions ou insuffisances d'imposition
+afférentes à la période couverte par le délai de reprise peuvent, même si celui-ci est écoulé, être réparées jusqu'à la fin
+de l'année qui suit la décision qui met fin à la procédure et, au plus tard, jusqu'à la fin de la dixième année qui suit
+celle au titre de laquelle l'imposition est due.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L228
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L50 (V)
+	  - Livre des procédures fiscales - art. L51 (V)
+	  - Livre des procédures fiscales - art. L52 (V)
 
 
 ##### Section VIII : Interruption et suspension de la prescription
@@ -10403,6 +10572,32 @@ sont pas capitalisés.
 	  - Livre des procédures fiscales - art. R*208 A-1 (V)
 
 
+###### Article L208 B
+
+Un assujetti non établi en France mais établi dans un autre Etat membre reçoit le paiement d'intérêts moratoires calculés sur
+le montant de la taxe sur la valeur ajoutée à rembourser sur le fondement du d du V de l'article 271 du code général des
+impôts, lorsque le remboursement intervient après l'expiration d'un délai fixé par décret en Conseil d'Etat. Les intérêts,
+calculés au taux prévu à l'article L. 208, courent du lendemain de l'expiration de ce délai. Ils ne sont pas capitalisés. 
+
+Les intérêts ne sont pas dus si l'assujetti n'a pas fourni l'ensemble des informations complémentaires prévues par les
+articles 20 et 21 de la directive 2008/9/ CE du Conseil, du 12 février 2008, définissant les modalités du remboursement de la
+taxe sur la valeur ajoutée, prévu par la directive 2006/112/ CE, en faveur des assujettis qui ne sont pas établis dans l'Etat
+membre du remboursement, mais dans un autre Etat membre. Si les documents à transmettre par voie électronique, dans des
+conditions fixées par décret en Conseil d'Etat, ne l'ont pas été dans le délai prévu au premier alinéa, les intérêts ne
+courent qu'à compter de la date de leur réception.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 271 (V)
+	  - Livre des procédures fiscales - art. L208 (V)
+
+
 ###### Article L209
 
 Lorsque le tribunal administratif rejette totalement ou partiellement la demande d'un contribuable tendant à obtenir
@@ -10759,13 +10954,13 @@ catégorie comprenant les cercles et maisons de jeux, peuvent être établis par
 Les procès-verbaux constatant les infractions aux lois et réglements relatifs à l'organisation du marché des vins et
 concernant les obligations fixées pour les sorties des vins de la propriété et les mesures prises pour l'amélioration de la
 qualité des vins, peuvent être établis par les agents chargés de la répression des fraudes commerciales et les agents de
-l'office national interprofessionnel des vins de table ayant au moins le grade de contrôleur.
+l'Etablissement national des produits de l'agriculture et de la mer (FranceAgriMer) ayant au moins le grade de contrôleur.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 78
 
 
 ###### Article L225
@@ -10853,24 +11048,30 @@ Sous peine d'irrecevabilité, les plaintes tendant à l'application de sanctions
 sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et
 de droits de timbre sont déposées par l'administration sur avis conforme de la commission des infractions fiscales.
 
-La commission examine les affaires qui lui sont soumises par le ministre chargé des finances. Le contribuable est avisé de la
+La commission examine les affaires qui lui sont soumises par le ministre chargé du budget. Le contribuable est avisé de la
 saisine de la commission qui l'invite à lui communiquer, dans un délai de trente jours, les informations qu'il jugerait
 nécessaires.
+
+Toutefois, la commission examine l'affaire sans que le contribuable soit avisé de la saisine ni informé de son avis lorsque
+le ministre chargé du budget fait valoir qu'existent des présomptions caractérisées qu'une infraction fiscale pour laquelle
+existe un risque de dépérissement des preuves résulte :
+
+1° Soit de l'utilisation, aux fins de se soustraire à l'impôt, de comptes ou de contrats souscrits auprès d'organismes
+établis dans un Etat ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en vue de
+lutter contre la fraude ou l'évasion fiscale entrée en vigueur au moment des faits et dont la mise en œuvre permet l'accès
+effectif à tout renseignement, y compris bancaire, nécessaire à l'application de la législation fiscale française ;
+
+2° Soit de l'interposition, dans un Etat ou territoire mentionné au 1°, de personnes physiques ou morales ou de tout
+organisme, fiducie ou institution comparable ;
+
+3° Soit de l'usage d'une fausse identité ou de faux documents au sens de l'article 441-1 du code pénal, ou de toute autre
+falsification.
 
 Le ministre est lié par les avis de la commission.
 
 Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commission.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1741 A (AL. 6, AL. 5, AL. 1)
-	  - Loi n°77-1453 1977-12-29 ART. 1 (AL. 1, AL. 5 1RE, 2EME PHRASE, AL. 6)
-
-	**Modifié par**:
-
-	  - Loi n°77-1453 du 29 décembre 1977 - art. 1 (V) JORF 30 décembre 1977
 
 	**Cité par**:
 
@@ -10888,13 +11089,9 @@ Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commiss
 	  - Livre des procédures fiscales - art. R*228-2 (V)
 	  - Livre des procédures fiscales - art. R*228-6 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°84-876 1984-10-01
-
-	**Liens**:
-
-	  - HISTO: Edition du 20 juillet 1984
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
 
 
 ###### Article L228 A
@@ -11911,7 +12108,8 @@ I. Dès la notification du procès-verbal mentionné à l'article L. 16-0 BA, le
 chapitre IV de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, à des saisies
 conservatoires à hauteur d'un montant qui ne peut excéder : 
 
-1° Pour l'impôt sur le revenu, le produit résultant de l'application, 
+1° Pour l'impôt sur le revenu, le produit résultant de l'application, ou, pour les personnes mentionnées à l'article 1649
+quater-0 B bis du code général des impôts, au montant des revenus déterminés dans les conditions prévues à cet article, 
 
 au montant du chiffre d'affaires hors taxes réalisé au titre de l'année ou de l'exercice en cours pour lequel aucune
 obligation déclarative n'est échue, jusqu'à la date du procès-verbal de flagrance fiscale diminué d'un abattement
@@ -11958,6 +12156,11 @@ prévu à l'article L. 16-0 BA entraîne la mainlevée des saisies conservatoire
 des éléments permettant d'établir que les déclarations du contribuable au vu desquelles ce paiement est intervenu ne sont pas
 sincères.
 
+**Nota:**
+
+LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009  art 19 XI : Le présent article s'applique à compter
+de l'imposition des revenus de l'année 2009.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -11975,7 +12178,7 @@ sincères.
 
 	**Modifié par**:
 
-	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 19 (V)
 
 	**Cité par**:
 
@@ -11986,6 +12189,37 @@ sincères.
 
 
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites
+
+###### Article L253
+
+Un avis d'imposition est adressé sous pli fermé à tout contribuable inscrit au rôle des impôts directs dans les conditions
+prévues aux articles 1658 à 1659 A du code général des impôts.
+
+L'avis d'imposition mentionne le total par nature d'impôt des sommes à acquitter, les conditions d'exigibilité, la date de
+mise en recouvrement et la date limite de paiement. 
+
+Les avis d'imposition des contribuables des communes soumises aux prélèvements prévus à l'article L 2531-13 du code général
+des collectivités territoriales mentionnent le montant de la contribution de leur commune au fonds de solidarité des communes
+de la région d'Ile-de-France.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-1266 du 19 décembre 1991 - art. 34 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-7 (V)
+	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-5 (M)
+	  - Loi - art. 37 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1658 (V)
+	  - Code général des collectivités territoriales - art. L2531-13 (V)
+
 
 ###### Article L255
 
@@ -12129,55 +12363,6 @@ Pour l'application  du premier alinéa, les créances doivent être liquides et 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R257 B-1 (V)
-
-
-##### I : Impôts recouvrés par les comptables du Trésor
-
-###### Article L253
-
-Un avis d'imposition est adressé sous pli fermé à tout contribuable inscrit au rôle des impôts directs dans les conditions
-prévues aux articles 1658 à 1659 A du code général des impôts.
-
-L'avis d'imposition mentionne le total par nature d'impôt des sommes à acquitter, les conditions d'exigibilité, la date de
-mise en recouvrement et la date limite de paiement.
-
-Une notice annexée à l'avis d'imposition est établie au titre de chaque taxe directe locale. Cette notice fait apparaître les
-éléments des variations des impositions perçues au profit de chaque collectivité locale, groupement de collectivités locales
-ou organisme concerné.
-
-Toutefois, l'année de transformation d'un établissement public de coopération intercommunale à fiscalité additionnelle en
-établissement public de coopération intercommunale à taxe professionnelle unique, les variations d'imposition pour les taxes
-acquittées par les ménages s'appliquent à la part cumulée de la commune et de l'intercommunalité.
-
-Les avis d'imposition des contribuables des communes soumises aux prélèvements prévus à l'article L 2531-13 du code général
-des collectivités territoriales mentionnent le montant de la contribution de leur commune au fonds de solidarité des communes
-de la région d'Ile-de-France.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1658 à 1659 A
-	  - Code général des collectivités territoriales - art. L2531-13 (M)
-
-	**Cité par**:
-
-	  - Décret n°91-1266 du 19 décembre 1991 - art. 34 (V)
-	  - Décret n°91-1369 du 30 décembre 1991 - art. 17-7 (V)
-	  - Décret n°91-1369 du 30 décembre 1991 - art. 7-5 (M)
-	  - Loi - art. 37 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2000-478 2000-06-02
-
-	**Modifié par**:
-
-	  - Décret n°2000-478 du 2 juin 2000 - art. 1 () JORF 3 juin 2000
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
 
 
 ##### Section II : Exercice des poursuites
@@ -12519,29 +12704,14 @@ Ces dispositions s'appliquent également aux liquidateurs de sociétés dissoute
 ces sociétés.
 
 Les obligations imposées aux personnes désignées au présent article s'étendent au règlement des acomptes provisionnels
-d'impôt sur le revenu, des acomptes d'impôt sur les sociétés, des acomptes de taxe professionnelle.
+d'impôt sur le revenu, des acomptes d'impôt sur les sociétés, des acomptes de cotisation foncière des entreprises et de
+cotisation sur la valeur ajoutée des entreprises.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - CGI 1921
-	  - CGI 1924 (1er membre de phrase)
-	  - Décret-loi 1791-08-05
-	  - Décret-loi 1791-08-18
-	  - Décret-loi 1935-10-30 art. 2
-	  - Loi n°1902-03-30 art. 58
-	  - Loi n°46-2914 1946-12-23 art. 45
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Décret n°48-1986 1948-12-09 art. 121 3, art. 122
-	  - Loi n°55-349 1955-04-02
-	  - Loi n°73-1150 1973-12-27 art. 22 I (al. dernier)
-	  - Loi n°75-678 1975-07-29 art. 9 I
-	  - Décret n°55-604 du 20 mai 1955 - art. 32 ()
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
 
 
 ##### 4° : Responsabilité des dirigeants et gérants de sociétés
@@ -15073,6 +15243,90 @@ dont dépend l'entreprise des suites données à sa demande d'appréciation.
 
 	  - Livre des procédures fiscales - art. L80 B (M)
 	  - Livre des procédures fiscales R80 B-1 à R80 B-3, L80 B
+
+
+###### Article R*80 B-11
+
+La demande prévue au 1° de l'article L. 80 B précise le nom ou la raison sociale et l'adresse de son auteur et indique les
+dispositions que le contribuable entend appliquer. Elle fournit une présentation précise, complète et sincère de la situation
+de fait en distinguant, le cas échéant, selon les dispositions concernées, les catégories d'informations nécessaires pour
+permettre à l'administration fiscale d'apprécier si les conditions requises par la loi sont effectivement satisfaites.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1701 du 30 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (V)
+
+
+###### Article R*80 B-12
+
+I.-La demande prévue au 1° de l'article L. 80 B est adressée par pli recommandé avec demande d'avis de réception postal, à la
+direction dont dépend le service auprès duquel le contribuable est tenu de souscrire ses obligations déclaratives en fonction
+de l'objet de la demande ; elle peut également faire l'objet d'un dépôt contre décharge. 
+
+II.-L'administration centrale de la direction générale des finances publiques peut répondre à la demande mentionnée au I.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1701 du 30 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 B-13 (V)
+
+
+###### Article R*80 B-13
+
+Si la demande prévue au 1° de l'article L. 80 B est incomplète, l'administration adresse, par lettre recommandée avec demande
+d'avis de réception postal, un courrier sollicitant les renseignements complémentaires nécessaires à sa prise de position
+formelle. Ces éléments sont produits dans les conditions prévues à l'article R. * 80 B-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1701 du 30 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (V)
+	  - Livre des procédures fiscales - art. R*80 B-12 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*80 B-14 (V)
+
+
+###### Article R*80 B-14
+
+Le délai de trois mois prévu au 1° de l'article L. 80 B court à compter de la réception de la demande ou, si les dispositions
+de l'article R. * 80 B-13 ont été mises en œuvre, à compter de la réception des compléments demandés. 
+
+Lorsque la demande parvient à un service incompétent, ce service la transmet sans délai au service compétent et en informe
+l'auteur de la demande. Dans ce cas, le délai prévu au 1° de l'article L. 80 B court à compter de la date de réception par le
+service compétemment saisi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1701 du 30 décembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L80 B (V)
+	  - Livre des procédures fiscales - art. R*80 B-13 (V)
 
 
 ###### Article R*80 B-15
