@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-01-20
 
 # Partie législative
 
@@ -22052,6 +22052,161 @@ En accord avec le service vérificateur, d'autre supports pourront être utilis�
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L47 A
+
+
+##### Section VI : Conséquences et limites des procédures de rectification 
+
+###### Article A80 CB-3-1
+
+Le collège national de la direction générale des finances publiques mentionné à l'article R. * 80 CB-3 est composé : 
+
+― du directeur, adjoint au directeur général des finances publiques, chargé de la fiscalité, ou de son représentant, qui
+assure la fonction de président du collège ; 
+
+― du directeur de la législation fiscale ou de son représentant. Il assure la présidence du collège en cas d'absence ou
+d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ; 
+
+― du chef du service juridique de la fiscalité ou de son représentant ; 
+
+― du sous-directeur de la sous-direction du contrôle fiscal ou de son représentant ; 
+
+― du directeur en charge de la direction des vérifications nationales et internationales ou de son représentant ; 
+
+― du chef des services fiscaux ou de l'administrateur général des finances publiques de la direction nationale de
+vérification des situations fiscales personnelles ou de son représentant. 
+
+Chaque représentant a au moins le grade de directeur divisionnaire des impôts ou un grade équivalent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 8 janvier 2010 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-2
+
+La compétence géographique de chaque collège territorial est définie en annexe I à l'arrêté du 8 janvier 2010 pris pour
+l'application de l'article R. * 80 CB-3 du livre des procédures fiscales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 8 janvier 2010 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-3
+
+Les collèges territoriaux des finances publiques sont composés : 
+
+― d'un chef des services fiscaux ou d'un administrateur général des finances publiques d'une direction dont le département
+est de la compétence géographique du collège. Il est président du collège ; 
+
+― d'un directeur de la direction de contrôle fiscal ou de la direction spécialisée des finances publiques en matière de
+contrôle fiscal dont l'un des départements de son ressort territorial est de la compétence géographique du collège. Il assure
+la présidence du collège en cas d'absence ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article
+R. * 80 CB-3 ; 
+
+― d'un directeur départemental des impôts ou d'un administrateur des finances publiques d'une direction dont le département
+est de la compétence géographique du collège ; 
+
+― de trois directeurs divisionnaires des impôts de directions dont le département est de la compétence géographique du
+collège. 
+
+Les membres du collège sont désignés par le chef des services fiscaux ou l'administrateur général des finances publiques de
+la direction de rattachement du collège.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 8 janvier 2010 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-4
+
+Le collège national de la direction générale des douanes et droits indirects mentionné à l'article R. * 80 CB-3 est
+composé : 
+
+― du directeur général des douanes et droits indirects ou de son représentant, qui assure la fonction de président du
+collège ; 
+
+― du sous-directeur de la fiscalité ou de son représentant ; il assure la présidence du collège en cas d'absence ou
+d'empêchement ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ; 
+
+― du sous-directeur des affaires juridiques, du contentieux, des contrôles et de la lutte contre la fraude, ou de son
+représentant ; 
+
+― du chef du bureau des contributions indirectes ou de son représentant ; 
+
+― du chef du bureau de la fiscalité, des transports et des politiques fiscales communautaires ou de son représentant ; 
+
+― du chef de la direction nationale du renseignement et des enquêtes douanières ou de son représentant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 8 janvier 2010 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*80 CB-3
+
+
+###### Article A80 CB-3-5
+
+I. ― Les collèges territoriaux sont composés pour chaque direction interrégionale des douanes et droits indirects mentionnée
+en annexe au décret n° 2007-1665 du 26 novembre 2007 relatif à l'organisation des services déconcentrés de la direction
+générale des douanes et droits indirects : 
+
+― du directeur interrégional des douanes et droits indirects ou son représentant, qui assure la fonction de président du
+collège ; 
+
+― de quatre directeurs régionaux de la circonscription interrégionale, désignés par le directeur interrégional des douanes et
+droits indirects, ou leurs représentants. A défaut d'un nombre suffisant de directeurs régionaux dans la circonscription
+interrégionale, siègent les directeurs des services douaniers ou les inspecteurs principaux des douanes, en poste dans cette
+circonscription, désignés à cet effet par le directeur interrégional des douanes et droits indirects ; 
+
+― d'un chef de service régional d'enquêtes, désigné par le directeur interrégional des douanes et droits indirects, autre que
+celui dont dépend le service dont la position fait l'objet de la demande de second examen, ou son représentant. 
+
+En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
+présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents. 
+
+II.-Pour ce qui concerne la direction régionale de La Réunion, le collège territorial est composé : 
+
+― du directeur régional des douanes et droits indirects ou son représentant, qui assure la fonction de président ; 
+
+― de cinq membres de la direction régionale des douanes et droits indirects désignés par le directeur régional des douanes et
+droits indirects. 
+
+En cas d'absence ou d'empêchement ou dans le cas mentionné au cinquième alinéa de l'article R. * 80 CB-3, le collège est
+présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le plus élevé parmi les membres présents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2007-1665 du 26 novembre 2007 (V)
+	  - Livre des procédures fiscales - art. R*80 CB-3
+
+	**Créé par**:
+
+	  - Arrêté du 8 janvier 2010 - art. 1
 
 
 #### Chapitre II : Le droit de communication
