@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-02-21
+Version Consolidée au 2010-03-11
 
 # Partie législative
 
@@ -5185,42 +5185,6 @@ activité.
 	  - Livre des procédures fiscales - art. L14 (V)
 
 
-##### 10° : Personnes effectuant des opérations immobilières
-
-###### Article L88
-
-Les personnes qui réalisent des opérations mentionnées au 6° de l'article 257 du code général des impôts, portant sur des
-immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières dont les résultats doivent être compris
-dans les bases de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux, doivent communiquer à
-l'administration, sur sa demande, leurs livres, registres, titres, pièces de recettes, de dépenses et de comptabilité
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 257 6°
-
-	**Codifié par**:
-
-	  - Décret n°90-799 1990-09-10
-
-	**Modifié par**:
-
-	  - Décret n°90-799 du 10 septembre 1990 - art. 1 () JORF 11 septembre 1990
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juin 1990
-
-	**Abrogé par**:
-
-	  - Loi n°2010-237 du 9 mars 2010 - art. 16
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 290 (Ab)
-
-
 ##### 11° : Personnes effectuant des opérations d'assurance
 
 ###### Article L89
@@ -9554,33 +9518,26 @@ l'article 269 du code général des impôts lorsque l'administration a dressé u
 conditions prévues à l'article L. 16-0 BA du présent livre au titre d'une année postérieure ou lorsque le contribuable exerce
 une activité occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les
 déclarations qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des
-entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite (2).
+entreprises ou au greffe du tribunal de commerce, soit s'est livré à une activité illicite (1).
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
 troisième année suivant celle au cours de laquelle se termine cette période. 
 
-Dans le cas prévu au deuxième alinéa du a du 1 du 7° de l'article 257 du code général des impôts, le droit de reprise de
-l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle intervient la délivrance du
-permis de construire ou du permis d'aménager ou le début des travaux. 
-
 Dans les cas prévus aux II et III de l'article 284 du code général des impôts, le droit de reprise de l'administration
 s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles est subordonné
-l'octroi du taux prévu aux 2, 3, 3 bis, 3 ter, 3 octies (1), 4 ou 5 du I de l'article 278 sexies du même code ont cessé
-d'être remplies.
+l'octroi du taux prévu aux  2 à 12 du I de l'article 278 sexies du même code ont cessé d'être remplies.
 
 **Nota:**
 
-(1) Dispositions applicables aux opérations engagées du 1er janvier 2008 jusqu'au 31 décembre 2009.
-
-(2) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
+(1) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux délais venant à expiration
 postérieurement au 31 décembre 2009.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
+	  - Loi n°2010-237 du 9 mars 2010 - art. 16
 
 	**Cité par**:
 
