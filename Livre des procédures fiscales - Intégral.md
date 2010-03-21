@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-03-11
+Version Consolidée au 2010-03-22
 
 # Partie législative
 
@@ -19337,15 +19337,14 @@ son refus.
 ###### Article R*247-4
 
 Sauf en matière de contributions indirectes, la décision sur les demandes des contribuables tendant à obtenir une modération,
-remise ou transaction appartient :
+remise ou transaction appartient : 
 
 a) Au directeur chargé d'une direction des services fiscaux ou au directeur chargé d'un service à compétence nationale ou
 d'une direction spécialisée pour les affaires relatives à des impositions établies à l'initiative des agents placés sous son
-autorité, lorsque les sommes faisant l'objet de la demande n'excèdent pas 150 000 Euros par cote, exercice ou affaire, selon
-la nature des impôts ;
+autorité, lorsque les sommes faisant l'objet de la demande n'excèdent pas 150 000 € par cote, exercice ou affaire, selon la
+nature des impôts ; 
 
-b) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
-changes, dans les autres cas.
+b) Au ministre chargé du budget, après avis du comité du contentieux fiscal, douanier et des changes, dans les autres cas.
 
 **Liens relatifs à cet article**
 
@@ -19357,33 +19356,25 @@ changes, dans les autres cas.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1108 du 30 août 2002 - art. 1 () JORF 1er septembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1208 2002-09-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
-	  - TXT_ASSOCIE: Instruction 2002-10-18 13S-1-02
+	  - Décret n°2010-298 du 19 mars 2010 - art. 2
 
 
 ###### Article R*247-5
 
 En matière de contributions indirectes, la décision sur les demandes tendant à obtenir une transaction, remise ou modération
-appartient :
+appartient : 
 
-a) Au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
+a) Au directeur chargé des services fiscaux dans le département, pour les matières qui relèvent de sa compétence, lorsque les
 droits ou la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes
-n'excède pas 150 000 Euros et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ;
+n'excèdent pas 150 000 € et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ; 
 
-b) (Abrogé à compter du 1er janvier 1998)
+b) Au directeur régional des douanes et droits indirects, pour les matières qui relèvent de sa compétence, lorsque les droits
+ou la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes n'excèdent
+pas 250 000 € et qu'en outre le montant des droits effectivement fraudés ne dépasse pas 100 000 € ; 
 
-c) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
-changes, dans les autres cas.
+c) Au ministre chargé du budget après avis du comité du contentieux fiscal, douanier et des changes, dans les autres cas. 
 
-Lorsqu'une action judiciaire est mise en mouvement comme il est prévu à l'article L. 249 le comité du contentieux fiscal,
+Lorsqu'une action judiciaire est mise en mouvement comme il est prévu à l'article L. 249, le comité du contentieux fiscal,
 douanier et des changes n'est pas saisi.
 
 **Liens relatifs à cet article**
@@ -19395,16 +19386,7 @@ douanier et des changes n'est pas saisi.
 
 	**Modifié par**:
 
-	  - Décret n°2002-1108 du 30 août 2002 - art. 1 () JORF 1er septembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1208 2002-09-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
-	  - TXT_ASSOCIE: Instruction 2002-10-18 13S-1-02
+	  - Décret n°2010-298 du 19 mars 2010 - art. 1
 
 	**Cite**:
 
@@ -19467,8 +19449,8 @@ changes, dans les autres cas.
 ###### Article R*247-12
 
 Le comité du contentieux fiscal, douanier et des changes intervenant dans les cas fixés par le b de l'article R 247-4 est
-saisi par le ministre de l'économie, des finances et de l'industrie. Il en est de même lorsque le comité susmentionné
-intervient dans les cas fixés par le c de l'article R 247-5 et le b de l'article R 247-5 C.
+saisi par le ministre chargé du budget. Il en est de même lorsque le comité susmentionné intervient dans les cas fixés par le
+c de l'article R 247-5 et le b de l'article R 247-5 C. 
 
 Il invite le contribuable, par lettre recommandée avec avis de réception, à produire, dans un délai de trente jours, les
 observations écrites que celui-ci juge utile de présenter à l'appui de sa demande de transaction ou de remise, ou à présenter
@@ -19479,16 +19461,7 @@ un conseil ou représentant de son choix, tenu pour les faits de l'espèce au re
 
 	**Modifié par**:
 
-	  - Décret n°2002-1109 du 30 août 2002 - art. 2 () JORF 1er septembre 2002
-	  - Décret n°2002-1108 du 30 août 2002 - art. 1 () JORF 1er septembre 2002
-
-	**Codifié par**:
-
-	  - Décret n°2002-1208 2002-09-27
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2002
+	  - Décret n°2010-298 du 19 mars 2010 - art. 2
 
 	**Cité par**:
 
@@ -19496,7 +19469,9 @@ un conseil ou représentant de son choix, tenu pour les faits de l'espèce au re
 
 	**Cite**:
 
-	  - Livre des procédures fiscales R247-4, R247-5, R247-5 C
+	  - Livre des procédures fiscales - art. R*247-4 (V)
+	  - Livre des procédures fiscales - art. R*247-5 (V)
+	  - Livre des procédures fiscales - art. R*247-5 C (V)
 
 
 ###### Article R*247-13
@@ -19636,25 +19611,21 @@ En matière d'impôts locaux, les demandes gracieuses sont soumises à l'avis du
 ###### Article R247-7
 
 La décision du directeur des services fiscaux ou du directeur chargé d'une direction spécialisée ou d'un service à compétence
-nationale ou la décision du directeur régional des douanes et droits indirects, selon le cas, peut être soumise au ministre
-de l'économie, des finances et de l'industrie.
+nationale ou la décision du directeur régional des douanes et droits indirects, selon le cas, peut être soumise au
+ministre chargé du budget. 
 
-La décision du ministre de l'économie, des finances et de l'industrie peut faire l'objet de recours devant la même autorité,
-mais seulement si des faits nouveaux sont invoqués.
+La décision du            ministre chargé du budget peut faire l'objet de recours devant la même autorité, mais seulement si
+des faits nouveaux sont invoqués.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 3 () JORF 25 octobre 2000
+	  - Décret n°2010-298 du 19 mars 2010 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 21 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ###### Article R247-8
@@ -19715,19 +19686,23 @@ douanes et droits indirects, déléguer son pouvoir de décision aux agents plac
 
 Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
 mises en cause doivent, en ce qui concerne les impôts recouvrés par les comptables du Trésor, adresser une demande au
-trésorier-payeur général dont dépend le lieu d'imposition.
+trésorier-payeur général dont dépend le lieu d'imposition. 
 
-Après examen de la demande, la décision appartient :
+Après examen de la demande, la décision appartient : 
 
-a) au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 304
-898,03 euros par cote. Toutefois, lorsque les sommes n'excèdent pas 38 112,25 euros par cote, le trésorier-payeur général
-prend la décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de deux mois.
+a) au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 304 898,
+03 € par cote. Toutefois, lorsque les sommes n'excèdent pas 38 112,25 € par cote, le trésorier-payeur général prend la
+décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de deux mois. 
 
-b) (abrogé à compter du 01/01/1998).
+b) (abrogé à compter du 01/01/1998). 
 
-c) au ministre de l'économie, des finances et de l'industrie, dans les autres cas.
+c) au ministre chargé du budget, dans les autres cas.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2010-298 du 19 mars 2010 - art. 2
 
 	**Cité par**:
 
@@ -19735,46 +19710,28 @@ c) au ministre de l'économie, des finances et de l'industrie, dans les autres c
 	  - Livre des procédures fiscales - art. R*247-10 A (T)
 	  - Livre des procédures fiscales - art. R*247-18 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
-
-	**Modifié par**:
-
-	  - Règlement CE 1103/97 1997-06-17 art. 5 (Conseil) JO L162 19 juin 1997 en vigueur le 1er janvier 2002
-	  - Règlement CE 2866/98 1998-12-31 art. 1 (Conseil) JO L359 31 décembre 1998 en vigueur le 1er janvier 2002
-	  - Règlement CE 974/98 1998-05-03 art. 14 (Conseil) JO L139 11 mai 1998 en vigueur le 1er janvier 2002
-
 
 ###### Article R247-11
 
 Pour obtenir la dispense du paiement prévu au sixième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
 concerne les impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes
 et droits indirects, selon le cas, adresser sa demande au directeur des services fiscaux ou au directeur régional des douanes
-et droits indirects, dont dépend le comptable chargé du recouvrement.
+et droits indirects, dont dépend le comptable chargé du recouvrement. 
 
-La décision appartient :
+La décision appartient : 
 
 a) au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
-sommes faisant l'objet de la demande n'excèdent pas 304 898,03 euros par exercice ou affaire, selon la nature des impôts ;
+sommes faisant l'objet de la demande n'excèdent pas 304 898,03 euros par exercice ou affaire, selon la nature des impôts ; 
 
-b) abrogé.
+b) abrogé. 
 
-c) au ministre de l'économie, des finances et de l'industrie, dans les autres cas.
+c) au ministre chargé du budget, dans les autres cas.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
-
 	**Modifié par**:
 
-	  - Loi - art. 35 () JORF 31 décembre 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-304 2004-03-26
+	  - Décret n°2010-298 du 19 mars 2010 - art. 2
 
 	**Cité par**:
 
@@ -19782,7 +19739,7 @@ c) au ministre de l'économie, des finances et de l'industrie, dans les autres c
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L247 (M)
+	  - Livre des procédures fiscales - art. L247 (VT)
 
 
 ##### Les taxes d'urbanisme
