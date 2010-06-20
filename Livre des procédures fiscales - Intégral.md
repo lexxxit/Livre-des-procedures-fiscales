@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-06-17
+Version Consolidée au 2010-06-21
 
 # Partie législative
 
@@ -13719,6 +13719,22 @@ qu'à l'occasion d'une suspension des opérations de fabrication, les producteur
 
 ##### I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée
 
+###### Article R*16-0 BA
+
+La décision de mettre en œuvre les dispositions du I bis de l'article L. 16-0 BA est prise par un agent ayant au moins le
+grade d'inspecteur départemental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-672 du 18 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L16-0 BA
+
+
 ###### Article R16 B-1
 
 Pour l'habilitation des agents de l'administration des impôts, mentionnée aux I et III de l'article L. 16 B, le directeur
@@ -14565,6 +14581,26 @@ Modifications apportées en conséquence de l'article 35 I et IX de la loi n° 2
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L64 (V)
+
+
+##### Section V : Procédures d'imposition d'office
+
+##### IV : Notification et suite des impositions d'office
+
+###### Article R*76 AA-1
+
+La décision de mettre en œuvre les dispositions du 1 de l'article L. 76 AA est prise par un agent ayant au moins le grade
+d'inspecteur départemental.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-672 du 18 juin 2010 - art. 2
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L76 A bis
 
 
 ##### Section VI : Conséquences et limites des procédures de rectification
