@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-07-29
+Version Consolidée au 2010-09-01
 
 # Partie législative
 
@@ -17424,25 +17424,16 @@ Tout réclamant domicilié hors de France doit faire élection de domicile en Fr
 ###### Article R*198-1
 
 Les réclamations sont instruites, selon le cas, par les agents de l'administration des impôts ou par les agents de
-l'administration des douanes et droits indirects.
+l'administration des douanes et droits indirects. 
 
-Les agents appartenant au corps des géomètres du cadastre participent à l'instruction des réclamations concernant la taxe
-foncière, dans les conditions fixées par le directeur général des impôts.
+Les agents appartenant au corps des  géomètres-cadastreurs des finances publiques participent à l'instruction des
+réclamations concernant la taxe foncière, dans les conditions fixées par le directeur général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1935
-
 	**Modifié par**:
 
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-	  - Décret n°93-311 du 9 mars 1993 - art. 10 () JORF 11 mars 1993
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
+	  - Décret n°2010-983 du 26 août 2010 - art. 26 (V)
 
 
 ###### Article R*198-2
@@ -18607,10 +18598,11 @@ chambres de métiers et de l'artisanat.
 Les propositions de dégrèvements d'office et de restitutions prévues à l'article R. 211-1 peuvent être faites par les agents
 de l'administration des impôts ou de l'administration des douanes et droits indirects, selon le cas, et les comptables du
 Trésor, chargés du recouvrement. Ces propositions sont portées sur des états adressés, selon le cas, au directeur des
-services fiscaux ou au directeur régional des douanes et droits indirects pour la suite à donner.
+services fiscaux ou au directeur régional des douanes et droits indirects pour la suite à donner. 
 
-Les agents appartenant au corps des géomètres du cadastre sont également admis, dans les conditions fixées par le directeur
-général des impôts, à proposer d'office, en matière de taxe foncière, le dégrèvement des droits formant surtaxe.
+Les agents appartenant au corps des  géomètres-cadastreurs des finances publiques sont également admis, dans les conditions
+fixées par le directeur général des impôts, à proposer d'office, en matière de taxe foncière, le dégrèvement des droits
+formant surtaxe. 
 
 Sauf s'il s'agit des dégrèvements d'office prévus au III de l'article 1414 et à l'article 1414 A du code général des impôts,
 les propositions de dégrèvements sont communiquées par l'administration au maire ou à la commission communale des impôts
@@ -18621,19 +18613,11 @@ directs conformément à l'article R. 198-3.
 	**Cite**:
 
 	  - CGI 1414, 1414 A
-	  - Livre des procédures fiscales R211-1, R198-3
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
+	  - Livre des procédures fiscales
 
 	**Modifié par**:
 
-	  - Loi n°2000-656 2000-07-13 art. 11 V 1, VI 2 Finances rectificative pour 2000 JORF 14 juillet 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 2001-05-21
+	  - Décret n°2010-983 du 26 août 2010 - art. 26 (V)
 
 
 #### Chapitre II : Les procédures pénales
