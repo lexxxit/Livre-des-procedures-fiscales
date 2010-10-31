@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-10-24
+Version Consolidée au 2010-11-01
 
 # Partie législative
 
@@ -7763,29 +7763,22 @@ communication auprès des administrations publiques de tout renseignement sur la
 huitième alinéa de l'article L. 331-3 du même code ci-après reproduit :
 
 "Art. L. 331-3, 8e alinéa. - Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des
-administrations publiques, des établissements de crédit, des organismes de sécurité et de prévoyance sociale ainsi que des
-services chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui
-donner une exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de
-conciliation amiables en cours."
+administrations publiques, des établissements de crédit, des établissements de paiement, des organismes mentionnés au 5 de
+l'article L. 511-6 du code monétaire et financier, des organismes de sécurité et de prévoyance sociale ainsi que des services
+chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une
+exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables
+en cours."
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: 2004)
-	  - HISTO: Edition du 31 août 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
-
 	**Modifié par**:
 
-	  - Décret n°2004-1070 du 8 octobre 2004 - art. 4 () JORF 10 octobre 2004
+	  - Loi n°2010-737 du 1er juillet 2010 - art. 40
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-1 (M)
+	  - Code de la consommation - art. L331-1
+	  - Code monétaire et financier - art. L511-6
 
 	**Cité par**:
 
@@ -19011,27 +19004,24 @@ du III de l'article 298 bis du code général des impôts et l'application de l'
 ###### Article R*247 A-1
 
 La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation vaut demande de
-remise gracieuse d'impôts directs dès lors que cette saisine satisfait aux conditions prévues à l'article R. 331-7-3 du même
+remise gracieuse d'impôts directs dès lors que cette saisine satisfait aux conditions prévues à l'article R. 331-8-1 du même
 code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-180 du 24 février 2004 - art. 5 () JORF 25 février 2004
+	  - Décret n°2010-1304 du 29 octobre 2010 - art. 10
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-1 (M)
+	  - Code de la consommation - art. L331-1
+	  - Code de la consommation - art. R331-8-1
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R335-4 (Ab)
 	  - Code de la consommation - art. R711-1 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
 
 
 ###### Article R*247-1
@@ -19301,36 +19291,28 @@ comporte l'indication qu'elle a été prise après avis du comité.
 
 La saisine de la commission de surendettement mentionnée à l'article L. 331-1 du code de la consommation par des tiers tenus
 au paiement de l'impôt vaut demande de dispense de paiement au sens de l'article R. 247-10 dès lors que cette saisine
-satisfait aux conditions prévues à l'article R. 331-7-3 du code de la consommation.
+satisfait aux conditions prévues à l'article R. 331-8-1 du code de la consommation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2005-331 2005-04-06
+	  - Décret n°2005-331 du 6 avril 2005
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-331 du 6 avril 2005 - art. 2 () JORF 8 avril 2005
+	  - Décret n°2010-1304 du 29 octobre 2010 - art. 10
 
 	**Cite**:
 
-	  - Code de la consommation - art. L331-1 (M)
-	  - Code de la consommation L331-1, R331-7-3
-	  - Livre des procédures fiscales - art. R247-10 (M)
+	  - Code de la consommation - art. L331-1
+	  - Code de la consommation - art. R331-8-1
+	  - Livre des procédures fiscales - art. R247-10
 
 	**Cité par**:
 
 	  - Code de la consommation - art. R335-4 (Ab)
 	  - Code de la consommation - art. R711-1 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales R247-10 A
 
 
 ###### Article R247-2
