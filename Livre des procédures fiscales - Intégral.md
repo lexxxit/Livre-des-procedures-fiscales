@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-11-01
+Version Consolidée au 2010-11-08
 
 # Partie législative
 
@@ -18788,29 +18788,30 @@ L'autorité qui saisit la commission lui adresse le dossier de l'affaire accompa
 
 ###### Article R*228-2
 
-Lorsque la commission est saisie, le secrétariat en informe le contribuable par lettre recommandée avec avis de réception. Il
-lui communique l'essentiel des griefs qui motivent cette saisine et l'invite en même temps à faire parvenir à la commission,
-dans un délai de trente jours, les informations qu'il estimerait nécessaires.
+Lorsque la commission est saisie en application de l'article L. 228, sous réserve des dispositions des troisième à sixième
+alinéas de cet article, le secrétariat en informe le contribuable par lettre recommandée avec avis de réception. Il lui
+communique l'essentiel des griefs qui motivent cette saisine et l'invite en même temps à faire parvenir à la commission, dans
+un délai de trente jours, les informations qu'il estimerait nécessaires. 
 
 Le contribuable n'est pas admis à présenter des observations orales par lui-même ni par mandataire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGIAN2 384 septies-0 F
-
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°81-860 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Décret n°2010-1324 du 5 novembre 2010 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2013-576 du 2 juillet 2013 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er juillet 1981
+	  - Livre des procédures fiscales - art. L228 (V)
 
 
 ###### Article R*228-3
@@ -18877,24 +18878,25 @@ présence de l'autorité qui l'a saisie et du contribuable.
 ###### Article R*228-6
 
 Le président ou, en cas d'absence ou d'empêchement, son suppléant, notifie l'avis de la commission au ministre. Cet avis
-n'est pas motivé.
+n'est pas motivé. 
 
-Le contribuable est informé de l'avis de la commission par le secrétariat si cet avis est défavorable à l'engagement de
-poursuites ou, dans le cas contraire, par l'administration lors du dépôt de la plainte.
+Lorsque la commission a été saisie en application de l'article L. 228, sous réserve des dispositions des troisième à sixième
+alinéas de cet article, le contribuable est informé de l'avis de la commission par le secrétariat si cet avis est défavorable
+à l'engagement de poursuites ou, dans le cas contraire, par l'administration lors du dépôt de la plainte.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2002-1102 du 29 août 2002 - art. 1 () JORF 31 août 2002
+	  - Décret n°2010-1324 du 5 novembre 2010 - art. 4
 
 	**Cité par**:
 
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 384 septies-0 B (VD)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2002
+	  - Livre des procédures fiscales - art. L228
 
 
 ##### III : Dispositions particulières aux contributions indirectes
