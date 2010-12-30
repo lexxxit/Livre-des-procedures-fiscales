@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-12-11
+Version Consolidée au 2010-12-31
 
 # Partie législative
 
@@ -14778,7 +14778,7 @@ technologie ;
 
 2° L'Agence nationale de la recherche ; 
 
-3° La société anonyme OSEO INNOVATION ; 
+3° La société anonyme OSEO ; 
 
 d) La demande d'éléments complémentaires prévue à l'article R. * 80 B-3 peut être faite par : 
 
@@ -14790,7 +14790,7 @@ ressort territorial duquel se situe l'établissement où sera réalisé le proje
 
 3° Le directeur général de l'Agence nationale de la recherche ; 
 
-4° Le directeur général de la société anonyme OSEO INNOVATION ; 
+4° Le directeur général de la société anonyme OSEO ; 
 
 e) Le service ou l'organisme consulté en application du c notifie son avis simultanément par pli recommandé avec demande
 d'avis de réception postal au contribuable et au service des impôts auquel est adressée la demande d'appréciation en
@@ -14800,7 +14800,8 @@ application du b.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1046 du 27 août 2009 - art. 1
+	  - Loi n°2010-1249 du 22 octobre 2010 - art. 64 (V)
+	  - Décret n°2011-646 du 9 juin 2011 - art. 2 (V)
 
 	**Cite**:
 
@@ -14853,7 +14854,7 @@ services relevant du ministre chargé de la recherche ;
 
 2° Ou à l'Agence nationale de la recherche si le demandeur entend obtenir une prise de position de celle-ci ; 
 
-3° Ou à la société anonyme OSEO INNOVATION si le demandeur entend obtenir une prise de position de celle-ci. 
+3° Ou à la société anonyme OSEO si le demandeur entend obtenir une prise de position de celle-ci. 
 
 La demande peut également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1°, 2° et
 3° ; 
@@ -14869,7 +14870,7 @@ fait application du 1° du c ;
 
 2° Par le directeur général de l'Agence nationale de la recherche, lorsqu'il a été fait application du 2° du c ; 
 
-3° Par le directeur général de la société anonyme OSEO INNOVATION, lorsqu'il a été fait application du 3° du c. 
+3° Par le directeur général de la société anonyme OSEO, lorsqu'il a été fait application du 3° du c. 
 
 Les éléments complémentaires sont transmis par le demandeur par pli recommandé avec demande d'avis de réception postal. Ils
 peuvent également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1°, 2° et 3° du
@@ -14877,9 +14878,10 @@ c.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1046 du 27 août 2009 - art. 2
+	  - Loi n°2010-1249 du 22 octobre 2010 - art. 64 (V)
+	  - Décret n°2011-646 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
