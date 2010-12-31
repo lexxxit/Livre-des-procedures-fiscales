@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2010-12-31
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -1559,6 +1559,23 @@ circulation.
 	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
 
 
+###### Article L24 A
+
+Les personnes tractant ou conduisant une résidence mobile terrestre soumise à la taxe prévue à l'article 1013 du code général
+des impôts présentent sur le champ, à toute demande des agents de l'administration habilités à établir des procès-verbaux, le
+récépissé établissant qu'elles sont à jour de leurs obligations au regard de cette taxe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 35 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1013 (V)
+
+
 ###### Article L25
 
 A défaut de présentation des pièces mentionnées à l'article L. 24, qui doivent accompagner un transport de boissons, ou en
@@ -2244,16 +2261,21 @@ la régularisation des déductions opérées indûment sur les taxes payées à 
 
 ###### Article L45 F
 
-Les agents mandatés par le directeur général des finances publiques peuvent contrôler sur le lieu d'exploitation le respect
-des conditions liées à la réalisation, l'affectation et la conservation des investissements productifs ayant ouvert un droit
-au bénéfice des dispositions des articles 199 undecies A, 199 undecies B, 217 undecies et 217 duodecies du code général des
-impôts et prévues aux mêmes articles.
+Dans les départements d'outre-mer, l'administration peut contrôler sur le lieu d'exploitation le respect des conditions de
+réalisation, d'affectation, d'exploitation et de conservation des investissements ayant ouvert droit au bénéfice des
+dispositions prévues aux articles 199 undecies A,199 undecies B,199 undecies C,217 undecies et 217 duodecies du code général
+des impôts. 
+
+Dans les collectivités d'outre-mer et en Nouvelle-Calédonie, les contrôles mentionnés au premier alinéa peuvent être réalisés
+par les agents mandatés par le directeur général des finances publiques. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 79
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 104
 
 	**Cité par**:
 
@@ -2265,10 +2287,8 @@ impôts et prévues aux mêmes articles.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 199 undecies A
-	  - Code général des impôts, CGI. - art. 199 undecies B
-	  - Code général des impôts, CGI. - art. 217 duodecies
-	  - Code général des impôts, CGI. - art. 217 undecies
+	  - Code général des impôts, CGI. - art. 199 undecies A (V)
+	  - Code général des impôts, CGI. - art. 217 undecies (V)
 
 
 ###### Article L45 G
@@ -4089,8 +4109,8 @@ modalités de dépôt de cette demande ;
 a. Disposition devenue sans objet ; 
 
 b. a notifié à l'administration sa volonté de bénéficier des dispositions des articles 39 AB, 39 AC, 39 quinquies A, 39
-quinquies D, 39 quinquies DA ou des articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies ou
-44 octies A du code général des impôts. 
+quinquies D, 39 quinquies DA ou des articles 39 quinquies E, 39 quinquies F, 39 quinquies FA, 39 quinquies FC, 44 sexies, 44
+octies A ou 44 quindecies du code général des impôts. 
 
 La notification doit être préalable à l'opération en cause et effectuée à partir d'une présentation écrite précise et
 complète de la situation de fait. 
@@ -4126,7 +4146,7 @@ La prise de position des services relevant du ministre chargé de la recherche o
 l'innovation est notifiée au contribuable et à l'administration des impôts. Cette réponse doit être motivée. 
 
 Les personnes consultées en application du premier alinéa sont tenues au secret professionnel dans les conditions prévues à
-l'article L. 103.
+l'article L. 103. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 3° bis ; 
 
@@ -4149,7 +4169,7 @@ Un décret en Conseil d'État précise les modalités d'application du présent 
 
 7° Lorsque l'administration a conclu un accord préalable portant sur la méthode de détermination des prix mentionnés au 2° de
 l'article L. 13 B, soit avec l'autorité compétente désignée par une convention fiscale bilatérale destinée à éliminer les
-doubles impositions, soit avec le contribuable ;
+doubles impositions, soit avec le contribuable ; 
 
 8° Lorsque l'administration n'a pas répondu dans un délai de trois mois à un contribuable de bonne foi qui a demandé, à
 partir d'une présentation écrite, précise et complète de la situation de fait, si les revenus de son activité
@@ -4157,7 +4177,7 @@ professionnelle, lorsqu'elle est soumise à l'impôt sur le revenu, relèvent de
 commerciaux au sens de l'article 34 du code général des impôts ou des bénéfices des professions libérales et des charges et
 offices dont les titulaires n'ont pas la qualité de commerçants mentionnés à l'article 92 du même code, ou, s'agissant d'une
 société civile, si les résultats de son activité professionnelle sont soumis à l'impôt sur le revenu ou à l'impôt sur les
-sociétés.
+sociétés. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.
 
@@ -4205,27 +4225,30 @@ Loi n° 2008-776 du 4 août 2008 : Le 3 bis entre en vigueur à une date fixée 
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 136 (V)
-	  - Décret n°2009-388  du 7 avril 2009 article 1er(V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 244 quater B (V)
-	  - Code général des impôts, CGI. - art. 39 AB
-	  - Code général des impôts, CGI. - art. 39 AC
-	  - Code général des impôts, CGI. - art. 39 quinquies A
-	  - Code général des impôts, CGI. - art. 39 quinquies D
-	  - Code général des impôts, CGI. - art. 39 quinquies DA
-	  - Code général des impôts, CGI. - art. 39 quinquies E
-	  - Code général des impôts, CGI. - art. 39 quinquies F
-	  - Code général des impôts, CGI. - art. 39 quinquies FA
-	  - Code général des impôts, CGI. - art. 39 quinquies FC
-	  - Code général des impôts, CGI. - art. 44 octies A
-	  - Code général des impôts, CGI. - art. 44 sexies
-	  - Code général des impôts, CGI. - art. 44 sexies-0 A
+	  - Code général des impôts, CGI. - art. 244 quater B (V)
+	  - Code général des impôts, CGI. - art. 34 (V)
+	  - Code général des impôts, CGI. - art. 39 AB (V)
+	  - Code général des impôts, CGI. - art. 39 AC (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies A (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies D (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies DA (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies E (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies F (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies FA (V)
+	  - Code général des impôts, CGI. - art. 39 quinquies FC (V)
+	  - Code général des impôts, CGI. - art. 44 octies A (V)
+	  - Code général des impôts, CGI. - art. 44 quindecies (V)
+	  - Code général des impôts, CGI. - art. 44 sexies (V)
+	  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
+	  - Code général des impôts, CGI. - art. 44 undecies (V)
+	  - Code général des impôts, CGI. - art. 92 (V)
 	  - Livre des procédures fiscales - art. L103 (V)
-	  - Livre des procédures fiscales - art. L13 B
-	  - Livre des procédures fiscales - art. L80 A
+	  - Livre des procédures fiscales - art. L13 B (V)
+	  - Livre des procédures fiscales - art. L80 A (V)
 
 
 ###### Article L80 C
@@ -4553,14 +4576,16 @@ Ils peuvent se faire assister lors de ces contrôles par des agents de la direct
 
 #### Chapitre I ter : Le droit de contrôle des entrepôts
 
+#### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
+
 ###### Article L80 K
 
 Pour rechercher les manquements aux obligations et formalités auxquelles sont soumises les personnes autorisées à ouvrir un
-entrepôt fiscal mentionné au 2° du I de l'article 277 A du code général des impôts, les agents des impôts ou des douanes,
-ayant au moins le grade de contrôleur, peuvent, dans les conditions et selon les modalités prévues aux articles L. 80 F et L.
-80 G, se faire présenter les registres et les factures, ainsi que tous les documents pouvant se rapporter aux biens placés ou
-destinés à être placés dans un entrepôt fiscal et aux opérations et prestations afférentes à ces biens. Ils peuvent également
-procéder à la constatation matérielle des éléments physiques de l'exploitation.
+régime mentionné au 2° du I de l'article 277 A du code général des impôts, les agents des impôts ou des douanes ayant au
+moins le grade de contrôleur peuvent, dans les conditions et selon les modalités prévues aux articles L. 80 F et L. 80 G, se
+faire présenter les registres et les factures, ainsi que tous les documents pouvant se rapporter aux biens placés ou destinés
+à être placés dans un tel régime et aux opérations et prestations afférentes à ces biens. Ils peuvent également procéder à la
+constatation matérielle des éléments physiques de l'exploitation. 
 
 Lorsque les registres sont tenus au moyen de systèmes informatisés, l'intervention porte sur l'ensemble des informations,
 données et traitements informatiques qui concourent directement ou indirectement à leur élaboration et à celle des
@@ -4576,7 +4601,13 @@ Modifications effectuées en conséquence de l'article 18 I de la loi n° 2007-1
 
 	**Modifié par**:
 
+	  - Loi n°2010-237 du 9 mars 2010 - art. 18 (V)
 	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 277 A
+	  - Livre des procédures fiscales - art. L47 A
 
 	**Cité par**:
 
@@ -4586,12 +4617,6 @@ Modifications effectuées en conséquence de l'article 18 I de la loi n° 2007-1
 	  - Livre des procédures fiscales - art. R*135 S-2 (V)
 	  - Livre des procédures fiscales - art. R80 K (P)
 	  - Livre des procédures fiscales - art. R80 K-1 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L47 A
-	  - Livre des procédures fiscales - art. L80 F
-	  - Livre des procédures fiscales - art. L80 G
 
 
 ###### Article L80 L
@@ -4992,6 +5017,26 @@ opposer le secret professionnel, tout document ou information qu'elle détient d
 	  - Loi n°2010-476 du 12 mai 2010 - art. 40
 
 
+##### 5° ter : Etablissements de jeux
+
+###### Article L84 C
+
+Les casinos ainsi que les groupements, les cercles et les sociétés organisant des jeux de hasard, des loteries, des paris ou
+des pronostics sportifs ou hippiques sont tenus de communiquer à l'administration, sur sa demande, les informations
+consignées en vertu de l'article L. 561-13 du code monétaire et financier. Nonobstant les dispositions du premier alinéa de
+cet article, l'administration peut utiliser ces informations pour l'exercice de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 63
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-13 (V)
+
+
 ##### 6° : Personnes ayant la qualité de commerçant
 
 ###### Article L85
@@ -5056,6 +5101,24 @@ parts ou obligations à des personnes ou sociétés autres que celles chargées 
 	**Créé par**:
 
 	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 23 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+
+
+##### 6° ter : Artisans
+
+###### Article L85-0 B
+
+Les artisans inscrits au répertoire des métiers et de l'artisanat doivent communiquer à l'administration, sur sa demande, les
+documents comptables, pièces justificatives de recettes et de dépenses et tous documents relatifs à leur activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 63
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R81-5 (V)
 
 
 ##### 7° : Agriculture
@@ -5505,6 +5568,29 @@ du 17 octobre 2005 précité.
 	**Créé par**:
 
 	  - Loi n°2008-1443 du 30 décembre 2008 - art. 55
+
+
+##### 25° Fabricants et marchands de métaux précieux
+
+###### Article L96 H
+
+Les personnes mentionnées aux articles 537 du code général des impôts et 321-7 du code pénal sont tenues de présenter à
+l'administration, sur sa demande, les registres prévus à ces articles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 63
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 537 (V)
+	  - Code pénal - art. 321-7 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R81-5 (V)
 
 
 ##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part
@@ -7042,42 +7128,47 @@ intercommunale dotés d'une ficalité propre, aux établissements publics admini
 articles L. 321-1, L. 324-1 et L. 326-1 du code de l'urbanisme les éléments d'information qu'elle détient au sujet des
 valeurs foncières déclarées à l'occasion des mutations intervenues dans les cinq dernières années et qui sont nécessaires à
 l'exercice de leurs compétences en matière de politique foncière et d'aménagement. Cette administration ne peut, dans ce cas,
-se prévaloir de la règle du secret.
+se prévaloir de la règle du secret. 
 
 Ces dispositions ne font pas échec au secret de la défense nationale.
 
 L'administration fiscale est tenue de transmettre, chaque année, aux collectivités locales et à leurs groupements dotés d'une
-fiscalité propre :
+fiscalité propre : 
 
 a) Les rôles généraux des impôts directs locaux comportant les impositions émises à leur profit et, à leur demande, les
 montants des rôles supplémentaires lorsqu'ils sont d'un montant supérieur à un seuil fixé par arrêté du ministre chargé du
-budget ainsi que,  si la collectivité ou l'établissement public de coopération intercommunale doté  d'une fiscalité propre en
-fait la demande complémentaire, des renseignements  individuels figurant sur le rôle supplémentaire et nécessaires à
-l'appréciation  des montants figurant sur ce rôle, à l'exclusion des informations tenant à  l'origine des rectifications
-opérées   ;
+budget ainsi que, si la collectivité ou l'établissement public de coopération intercommunale doté d'une fiscalité propre en
+fait la demande complémentaire, des renseignements individuels figurant sur le rôle supplémentaire et nécessaires à
+l'appréciation des montants figurant sur ce rôle, à l'exclusion des informations tenant à l'origine des rectifications
+opérées ; 
+
+a bis) Le montant par impôt et par redevable des impôts directs non recouvrés par voie de rôle perçus à leur profit ; 
 
 b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements dont les contribuables de la collectivité ont
 bénéficié, à l'exception de ceux accordés en application de l'article L. 190.
 
-A leur  demande, l'administration fiscale transmet aux groupements qui perçoivent la  taxe d'enlèvement des ordures ménagères
-les rôles généraux de taxe foncière sur  les propriétés bâties émis dans leur ressort.
+A leur demande, l'administration fiscale transmet aux groupements qui perçoivent la taxe d'enlèvement des ordures ménagères
+les rôles généraux de taxe foncière sur les propriétés bâties émis dans leur ressort. 
 
 Elle transmet également, gratuitement, à leur demande, aux services de l'Etat, aux collectivités territoriales, aux
 établissements publics de coopération intercommunale dotés d'une fiscalité propre et à l'Agence nationale de l'habitat, la
 liste des logements vacants recensés l'année précédente pour l'établissement de la taxe d'habitation. Cette liste indique,
 pour chaque logement, son adresse, sa nature, sa valeur locative, la première année de vacance du local, le nom et l'adresse
 de son propriétaire et, le cas échéant, l'année à partir de laquelle le local a été soumis à la taxe sur les locaux vacants
-et le taux d'imposition à cette taxe.
+et le taux d'imposition à cette taxe. 
 
 Les collectivités locales, les établissements publics de coopération intercommunale dotés d'une fiscalité propre et
 l'administration fiscale peuvent se communiquer mutuellement les informations nécessaires au recensement des bases des
 impositions directes locales.
 
-L'administration fiscale transmet chaque année aux collectivités  territoriales et aux établissements publics de coopération
-intercommunale dotés  d'une fiscalité propre, percevant la taxe professionnelle, la liste des  établissements implantés sur
-leur territoire qui appartiennent à une entreprise  bénéficiaire des dispositions du I de  l'article 1647 B sexies du code
-général des impôts et dont les bases sont  retenues pour la détermination du plafond de participation défini au 2 du C du III
-de l'article 85 de la loi  n° 2005-1719 du 30 décembre 2005 de  finances pour 2006.
+L'administration fiscale transmet chaque année aux collectivités territoriales et aux établissements publics de coopération
+intercommunale dotés d'une fiscalité propre, percevant la taxe professionnelle, la liste des établissements implantés sur
+leur territoire qui appartiennent à une entreprise bénéficiaire des dispositions du I de l'article 1647 B sexies du code
+général des impôts et dont les bases sont retenues pour la détermination du plafond de participation défini au 2 du C du III
+de l'article 85 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006. Elle transmet également à l'établissement
+public de coopération intercommunale la liste des locaux à usage de logement soumis à la taxe sur les logements vacants au
+sens de l'article 232 du code général des impôts ou ceux relevant de la taxe d'habitation sur les logements vacants visés à
+l'article 1407 bis du même code. 
 
 Les informations transmises aux collectivités locales et à leurs groupements dotés d'une fiscalité propre sont couvertes par
 le secret professionnel, et soumises aux dispositions de la loi n° 78-17 du 6 janvier 1978 modifiée relative à
@@ -7085,6 +7176,15 @@ l'informatique, aux fichiers et aux libertés. Leur utilisation respecte les obl
 des modalités définies par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85
+	  - Code général des impôts, CGI. - art. 1407 bis (V)
+	  - Code général des impôts, CGI. - art. 1647 B sexies (V)
+	  - Code général des impôts, CGI. - art. 232 (V)
+	  - Code de l'urbanisme - art. L326-1
 
 	**Cité par**:
 
@@ -7103,7 +7203,8 @@ des modalités définies par un décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 102 (V)
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 113
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 114
 
 
 ###### Article L135 D
@@ -7232,14 +7333,16 @@ portant sur les immeubles.
 
 ###### Article L135 H
 
-L'administration fiscale transmet aux chambres de commerce et d'industrie, l'année précédant leur renouvellement, les bases
-d'imposition agrégées, par contribuable, nécessaires à l'établissement du rapport préalable aux élections consulaires.
+L'administration fiscale transmet aux      chambres de commerce et d'industrie territoriales, l'année précédant leur
+renouvellement, les bases d'imposition agrégées, par contribuable, nécessaires à l'établissement du rapport préalable aux
+élections consulaires.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 12 mai 1996
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 8
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -7632,6 +7735,22 @@ Modifications effectuées en conséquence de l'article 95 de la loi n° 2009-526
 	  - Livre des procédures fiscales - art. L273 A (V)
 
 
+###### Article L135 XA
+
+L'administration fiscale transmet aux représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie les
+informations mentionnées à la première phrase du premier alinéa de l'article 242 sexies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 100
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 sexies
+
+
 ###### Article L135 Y
 
 L'administration chargée du recouvrement de la taxe sur les surfaces commerciales prévue à l'article 3 de la loi n° 72-657 du
@@ -7660,6 +7779,35 @@ article, au secret professionnel sous les sanctions prévues à l'article 226-13
 	**Créé par**:
 
 	  - Loi n°2010-853 du 23 juillet 2010 - art. 44
+
+
+###### Article L135 Z
+
+L'administration fiscale transmet aux représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie les
+informations mentionnées à la seconde phrase du deuxième alinéa de l'article 242 septies du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 101 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 septies (V)
+
+
+###### Article L135 ZA
+
+Les agents de la direction générale des finances publiques et les agents des services préfectoraux chargés des associations
+et fondations peuvent se communiquer les renseignements et documents utiles à l'appréciation de la capacité des associations
+et fondations à recevoir des dons ou legs ou à bénéficier des avantages fiscaux réservés à ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 67
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -8852,7 +9000,7 @@ deuxième année qui suit celle au titre de laquelle l'imposition est due, lorsq
 gestion agréé ou d'une association agréée, pour les périodes au titre desquelles le service des impôts des entreprises a reçu
 une copie du compte rendu de mission prévu aux articles 1649 quater E et 1649 quater H du code général des impôts. Cette
 réduction de délai ne s'applique pas aux contribuables pour lesquels des pénalités autres que les intérêts de retard auront
-été appliquées sur les périodes d'imposition non prescrites.
+été appliquées sur les périodes d'imposition non prescrites visées au présent alinéa.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable exerce une activité
@@ -8919,7 +9067,7 @@ Modifications effectuées en conséquence de l'article 129 II 1° de la loi n° 
 
 	**Modifié par**:
 
-	  - Loi n°2010-658 du 15 juin 2010 - art. 6
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 65
 
 	**Cite**:
 
@@ -9339,27 +9487,27 @@ impôts.
 
 Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième
 année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de l'article 269 du
-code général des impôts.
+code général des impôts. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 deuxième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément au 2 de l'article 269 du code
-général des impôts                   pour les contribuables dont les revenus bénéficient des dispositions du deuxième alinéa
-de l'article L. 169 et pour les périodes pour lesquelles le service des impôts des entreprises a reçu une copie du compte
-rendu de mission prévu aux articles 1649 quater E et 1649 quater H du même code. Cette réduction de délai ne s'applique pas
-aux contribuables pour lesquels des pénalités autres que les intérêts de retard auront été appliquées sur les périodes
-d'imposition non prescrites.
+général des impôts pour les contribuables dont les revenus bénéficient des dispositions du deuxième alinéa de l'article L.
+169 et pour les périodes pour lesquelles le service des impôts des entreprises a reçu une copie du compte rendu de mission
+prévu aux articles 1649 quater E et 1649 quater H du même code. Cette réduction de délai ne s'applique pas aux contribuables
+pour lesquels des pénalités autres que les intérêts de retard auront été appliquées sur les périodes d'imposition non
+prescrites visées au présent alinéa. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 dixième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de
 l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les
 conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le contribuable exerce une activité
-occulte.L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
+occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
 qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, soit s'est livré à une activité illicite.
+greffe du tribunal de commerce, soit s'est livré à une activité illicite. 
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
-troisième année suivant celle au cours de laquelle se termine cette période.
+troisième année suivant celle au cours de laquelle se termine cette période. 
 
 Dans les cas prévus aux II et III de l'article 284 du code général des impôts, le droit de reprise de l'administration
 s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles est subordonné
@@ -9369,7 +9517,7 @@ l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code o
 
 	**Modifié par**:
 
-	  - Loi n°2010-658 du 15 juin 2010 - art. 6
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 65
 
 	**Cité par**:
 
@@ -9386,8 +9534,13 @@ l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code o
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 269
-	  - Code général des impôts, CGI. - art. 284
+	  - Code général des impôts, CGI. - art. 1649 quater E (V)
+	  - Code général des impôts, CGI. - art. 1649 quater H (V)
+	  - Code général des impôts, CGI. - art. 269 (V)
+	  - Code général des impôts, CGI. - art. 278 sexies (V)
+	  - Code général des impôts, CGI. - art. 284 (V)
+	  - Livre des procédures fiscales - art. L16-0 BA (V)
+	  - Livre des procédures fiscales - art. L169 (V)
 
 
 ###### Article L177
@@ -9822,25 +9975,28 @@ mention portée sur la proposition de rectification qu'elles pourront être éve
 ###### Article L189 A
 
 Lorsqu'à la suite d'une proposition de rectification, une procédure amiable en vue d'éliminer la double imposition est
-ouverte sur le fondement d'une convention fiscale bilatérale ou de la convention européenne 90/436/CEE relative à
-l'élimination des doubles impositions en cas de correction des bénéfices d'entreprises associées du 23 juillet 1990, le cours
-du délai d'établissement de l'imposition correspondante est suspendu de la date d'ouverture de la procédure amiable au terme
-du troisième mois qui suit la date de la notification au contribuable de l'accord ou du constat de désaccord intervenu entre
-les autorités compétentes.
+ouverte entre la France et un autre Etat ou territoire sur le fondement d'une convention fiscale bilatérale ou de la
+convention européenne 90/436/CEE relative à l'élimination des doubles impositions en cas de correction des bénéfices
+d'entreprises associées du 23 juillet 1990, le cours du délai d'établissement de l'imposition correspondante est suspendu de
+la date d'ouverture de la procédure amiable au terme du troisième mois qui suit la date de la notification au contribuable de
+l'accord ou du constat de désaccord intervenu entre les autorités compétentes, sauf si les bénéfices ou revenus rectifiés ont
+bénéficié d'un régime fiscal privilégié dans l'autre Etat ou territoire au sens de l'article 238 A du code général des
+impôts.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux procédures amiables ouvertes à compter du 1er janvier 2005.
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 101 : Cet article demeure applicable aux procédures amiables
+ouvertes avant le 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2005
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 69 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 21 (V) JORF 31 décembre 2004
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 101
 
 
 ### Titre III : Le contentieux de l'impôt
@@ -11117,10 +11273,10 @@ et de recouvrement sont poursuivies devant le tribunal correctionnel, qui pronon
 L'administration instruit et défend sur l'instance portée devant le tribunal. En cas d'infraction touchant à la fois au
 régime fiscal et au régime économique de l'alcool, le service désigné par décret est seul chargé des poursuites.
 
-Pour les affaires dans lesquelles des agents de l'administration des douanes ont été requis en application des I et II de
-l'article 28-1 du code de procédure pénale, le ministère public exerce l'action publique et l'action pour l'application des
-sanctions fiscales. Dans ce cas, les dispositions de l'article L. 248 relatives au droit de transaction ne sont pas
-applicables.
+Dans les procédures dont les agents des douanes ont été saisis en application des I et II de l'article 28-1 du code de
+procédure pénale, le ministère public exerce l'action publique et l'action pour l'application des sanctions fiscales. Sur
+autorisation du ministère public, l'action pour l'application des sanctions fiscales peut être exercée par l'administration
+des douanes et, dans ce cas, le 3° de l'article L. 247 et l'article L. 248 du présent livre sont applicables.
 
 Dans ces mêmes procédures, l'administration des douanes exerce l'action en paiement des droits et taxes compromis ou éludés,
 prévue par l'article 1804 B du code général des impôts.
@@ -11130,8 +11286,8 @@ prévue par l'article 1804 B du code général des impôts.
 	**Cite**:
 
 	  - CGI 1804 B
-	  - Livre des procédures fiscales - art. L248 (V)
-	  - CODE DE PROCEDURE PENALE - art. 28-1 (M)
+	  - Livre des procédures fiscales - art. L248
+	  - Code de procédure pénale - art. 28-1
 
 	**Cité par**:
 
@@ -11140,15 +11296,11 @@ prévue par l'article 1804 B du code général des impôts.
 
 	**Codifié par**:
 
-	  - Décret n°2005-331 2005-04-06
+	  - Décret n°2005-331 du 6 avril 2005
 
 	**Modifié par**:
 
-	  - Décret n°2005-331 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 64 (V)
 
 
 ###### Article L236
@@ -12057,6 +12209,37 @@ d'assiette et de liquidation, en amont du recouvrement par le comptable du publi
 	  - Code de l'urbanisme - art. L422-3 (V)
 
 
+###### Article L256
+
+Un avis de mise en recouvrement est adressé par le comptable public  compétent à tout redevable des sommes, droits, taxes et
+redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la date d'exigibilité.
+
+Un avis de mise en recouvrement est également adressé par le comptable public  compétent pour la restitution des sommes,
+droits, taxes et redevances de toute nature mentionnés au premier alinéa et indûment versés par l'Etat.
+
+L'avis de mise en recouvrement est individuel. Il est signé et rendu exécutoire par l'autorité administrative désignée par
+décret. Les pouvoirs de l'autorité administrative susmentionnée sont également exercés par le comptable public  compétent.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
+	  - Décret n°93-309 du 9 mars 1993 - art. 21 (V)
+	  - Ordonnance n°2010-638 du 10 juin 2010 - art. 18 (VD)
+	  - Décret n°2015-964 du 31 juillet 2015 (V)
+	  - Code des postes et des communications électronique - art. R*70-1 (Ab)
+	  - Livre des procédures fiscales - art. R*256-1 (V)
+	  - Livre des procédures fiscales - art. R*273-1 (Ab)
+	  - Livre des procédures fiscales - art. R256-8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+
+
 ###### Article L256 A
 
 Lorsque l'avis de mise en recouvrement a été détruit dans un cas de force majeure, le paiement des créances fiscales et
@@ -12110,6 +12293,22 @@ demandes de sursis de paiement formulées à compter du 1er juillet 2009.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L277
+
+
+###### Article L257 A
+
+Les avis de mises en recouvrement peuvent être signés et rendus exécutoires et les mises en demeure de payer peuvent être
+signées, sous l'autorité et la responsabilité du comptable public compétent, par les agents du service ayant reçu délégation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°88-1193 du 29 décembre 1988 - art. 21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 
 ###### Article L257 B
@@ -12642,8 +12841,9 @@ d'affaires, sous réserve des adaptations nécessaires.
 
 ###### Article L273 A
 
-I. - Les créances de l'Etat qui font l'objet d'un titre de perception visé à l'article L. 252 A peuvent être recouvrées par
-voie de saisie à tiers détenteur. 
+I. - Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le compte de tiers sur la base d'un titre de
+perception délivré par lui en application de l'article L. 252 A peuvent être recouvrées par voie de saisie à tiers
+détenteur. 
 
 La saisie à tiers détenteur est notifiée, avec mention des délais et voies de recours, au débiteur ainsi qu'aux personnes
 physiques ou morales qui détiennent des fonds pour son compte, qui ont une dette envers lui ou qui lui versent une
@@ -12679,7 +12879,7 @@ II. - (Dispositions transférées sous l'article L. 135 X)
 
 	**Modifié par**:
 
-	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 	**Cité par**:
 
@@ -12735,30 +12935,15 @@ compter du 11 décembre 2010.
 
 ###### Article L274
 
-Les comptables du Trésor qui n'ont fait aucune poursuite contre un contribuable retardataire pendant quatre années
-consécutives, à partir du jour de la mise en recouvrement du rôle perdent leur recours et sont déchus de tous droits et de
-toute action contre ce redevable.
-
-Le délai de quatre ans mentionné au premier alinéa, par lequel se prescrit l'action en vue du recouvrement, est interrompu
-par tous actes comportant reconnaissance de la part des contribuables et par tous autres actes interruptifs de la
-prescription.
+Les  comptables publics des administrations fiscales qui n'ont fait aucune  poursuite contre un redevable pendant quatre
+années consécutives à  compter du jour de la mise en recouvrement du rôle ou de l'envoi de  l'avis de mise en recouvrement
+sont déchus de tous droits et de toute  action contre ce redevable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1850
-	  - CGI 1975 (AL. 1 P.)
-	  - Loi n°1922-07-12 ART. 2
-	  - Loi n°63-1316 1963-12-27 ART. 19
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
 	**Codifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Décret n°81-859 du 15 septembre 1981
 
 	**Cité par**:
 
@@ -12766,6 +12951,10 @@ prescription.
 	  - Loi n°87-571 du 23 juillet 1987 - art. 25 (V)
 	  - Loi - art. 21 (M)
 	  - Loi - art. 62 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 
 ###### Article L274 A
@@ -15513,6 +15702,8 @@ de déclaration ou d'exercice de l'activité, pour toute la période visée à l
 
 
 #### Chapitre I ter : Le droit de contrôle des entrepôts
+
+#### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
 
 ###### Article R80 K-1
 
