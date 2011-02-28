@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-03-01
 
 # Partie législative
 
@@ -4573,8 +4573,6 @@ Ils peuvent se faire assister lors de ces contrôles par des agents de la direct
 	  - Code des douanes - art. 60
 	  - Code des douanes - art. 61
 
-
-#### Chapitre I ter : Le droit de contrôle des entrepôts
 
 #### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
 
@@ -11635,11 +11633,14 @@ de payer par suite de gêne ou d'indigence ;
 2° Des remises totales ou partielles d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas échéant,
 les impositions auxquelles elles s'ajoutent sont définitives ; 
 
+2° bis Des remises totales ou partielles des frais de poursuites mentionnés à l'article 1912 du code général des impôts et
+des intérêts moratoires prévus à l'article L. 209 du présent livre ; 
+
 3° Par voie de transaction, une atténuation d'amendes fiscales ou de majorations d'impôts lorsque ces pénalités et, le cas
 échéant, les impositions auxquelles elles s'ajoutent ne sont pas définitives. 
 
-Les dispositions des troisième et quatrième alinéas sont le cas échéant applicables s'agissant des sommes dues au titre de
-l'intérêt de retard visé à l'article 1727 du code général des impôts.
+Les dispositions des 2° et 3° sont le cas échéant applicables s'agissant des sommes dues au titre de l'intérêt de retard visé
+à l'article 1727 du code général des impôts.
 
 L'administration peut également décharger de leur responsabilité les personnes tenues au paiement d'impositions dues par un
 tiers. 
@@ -11647,6 +11648,11 @@ tiers.
 Aucune autorité publique ne peut accorder de remise totale ou partielle de droits d'enregistrement, de taxe de publicité
 foncière, de droits de timbre, de taxes sur le chiffre d'affaires, de contributions indirectes et de taxes assimilées à ces
 droits, taxes et contributions.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010, article 55 IV-C : Ces dispositions entrent en vigueur au 1er janvier 2012, à
+l'exception des produits recouvrés par l'administration fiscale pour lesquels ils entrent en vigueur au 1er mars 2011.
 
 **Liens relatifs à cet article**
 
@@ -11682,15 +11688,13 @@ droits, taxes et contributions.
 
 	**Modifié par**:
 
-	  - Loi - art. 35 () JORF 31 décembre 2003
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2004
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1727 (V)
+	  - Code général des impôts, CGI. - art. 1912 (VT)
+	  - Livre des procédures fiscales - art. L209 (V)
 
 
 ###### Article L247 A
@@ -12407,90 +12411,6 @@ La saisie peut alors être pratiquée un jour après la signification du command
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L258 A (VD)
-
-
-##### I : Dispositions particulières aux poursuites exercées par les comptables du Trésor
-
-###### Article L259
-
-Par dérogation au deuxième alinéa de l'article L. 258, lorsqu'un commandement est signifié par le comptable public, l'envoi
-de la lettre simple prévu par l'article 658 du code de procédure civile n'est obligatoire que lorsqu'il y a dépôt de l'acte
-en mairie ; lorsque la copie de l'acte est remise à un voisin, il est laissé au domicile un avis de passage mentionnant la
-nature de l'acte et précisant le voisin à qui la copie a été remise. 
-
-Toutefois, les commandements peuvent être notifiés par la poste ; ces actes de poursuites échappent alors aux conditions
-générales de validité des actes des huissiers de justice, telles qu'elles sont tracées par le code de procédure civile. 
-
-Le commandement interrompt la prescription de l'action en recouvrement.
-
-**Nota:**
-
-_
-_
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-431 du 20 avril 2009 - art. 18
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L213-11-13 (VT)
-	  - Code général de la propriété des personnes publ... - art. L2323-4 (VT)
-	  - Code général de la propriété des personnes publ... - art. L2323-5 (V)
-	  - Livre des procédures fiscales - art. L258 (VT)
-
-	**Cite**:
-
-	  - Code de procédure civile - art. 658
-
-
-##### II : Dispositions particulières aux poursuites exercées par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
-
-###### Article L261
-
-Lorsque les poursuites exercées par le comptable public compétent ont lieu par voie de saisie mobilière, la notification de
-la mise en demeure prévue à l'article L. 257 tient lieu du commandement prescrit par le code de procédure civile. La saisie
-peut être pratiquée, sans autre formalité, à l'expiration du délai fixé à l'article L. 258.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1916 (AL. 4)
-	  - Loi n°72-1121 1972-12-20 ART. 14 V
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-	**Modifié par**:
-
-	  - Loi n°1926-04-04 art. 6 JORF 4 avril 1926
-	  - Loi n°72-1121 du 20 décembre 1972 - art. 14 (V) JORF 21 décembre 1972
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 1993-09-16
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L257
-	  - Livre des procédures fiscales - art. L258
 
 
 ##### Section III : Mesures particulières
@@ -15700,8 +15620,6 @@ de déclaration ou d'exercice de l'activité, pour toute la période visée à l
 
 	  - Livre des procédures fiscales - art. L102 B (VD)
 
-
-#### Chapitre I ter : Le droit de contrôle des entrepôts
 
 #### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
 
