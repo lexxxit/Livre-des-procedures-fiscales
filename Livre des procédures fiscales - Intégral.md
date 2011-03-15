@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-03-01
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -2039,9 +2039,15 @@ conditions prévues à l'article L. 35.
 
 1. Pour la recherche et la constatation des infractions aux dispositions du titre III de la première partie du livre Ier du
 code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents
-habilités à cet effet par le ministre chargé des douanes, peuvent effectuer des visites en tous lieux, même privés, où les
-pièces, documents, objets ou marchandises se rapportant à ces infractions sont susceptibles d'être détenus et procéder à leur
-saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire. 
+habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les
+pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant
+directement ou indirectement sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support. Ils sont
+accompagnés d'un officier de police judiciaire.
+
+Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie des pièces et documents, quel qu'en soit le
+support, ainsi que des objets ou des marchandises se rapportant aux infractions précitées. Ils peuvent saisir les biens et
+avoirs provenant directement ou indirectement des infractions précitées uniquement dans le cas de visites autorisées en
+application du 2 du présent article.
 
 2. Hormis les cas de flagrance, chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention
 du tribunal de grande instance dans le ressort duquel sont situés les locaux à visiter. 
@@ -2064,7 +2070,8 @@ mentionnées au 1, de faire appel à un conseil de son choix.
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
-l'espèce, l'existence des infractions dont la preuve est recherchée. 
+l'espèce, l'existence des infractions dont la preuve est recherchée. Il se prononce par une mention expresse sur la saisie de
+biens et avoirs pouvant provenir directement ou indirectement des infractions dont la preuve est recherchée. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
 la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
@@ -2072,7 +2079,14 @@ infractions visées au 1. sont susceptibles de se trouver, ils peuvent, sur auto
 qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
 verbal prévu au 4. 
 
-La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. 
+Si, à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens
+ou avoirs se rapportant aux infractions visées au 1, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a
+pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins de saisir ces biens et avoirs. Mention de cette
+autorisation est portée au procès-verbal prévu au 4. 
+
+La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Lorsqu'elle a lieu en dehors du ressort de son
+tribunal de grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la
+détention du tribunal de grande instance dans le ressort duquel s'effectue la visite. 
 
 Il peut se rendre dans les locaux pendant l'intervention.
 
@@ -2114,22 +2128,26 @@ Les agents de l'administration des douanes et droits indirects mentionnés au 1,
 l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
-dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
+dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
 
 4. Le procès-verbal de visite relatant les modalités et le déroulement de l'opération est dressé sur-le-champ par les agents
-de l'administration des douanes et droits indirects. Un inventaire des pièces et documents saisis lui est annexé. Le procès-
-verbal et l'inventaire sont signés par les agents de l'administration des douanes et droits indirects et par l'officier de
-police judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ci-dessus ; en cas de refus de signer,
-mention en est faite au procès-verbal. 
+de l'administration des douanes et droits indirects. Un inventaire des pièces et documents saisis, ainsi que des biens et
+avoirs provenant directement ou indirectement des infractions dont la preuve est recherchée, lui est annexé. Le procès-verbal
+et l'inventaire sont signés par les agents de l'administration des douanes et droits indirects et par l'officier de police
+judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en
+est faite au procès-verbal. 
 
-Si l'inventaire sur place présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des
-lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
-police judiciaire ; l'inventaire est alors établi. 
+Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous
+scellés.L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en
+présence de l'officier de police judiciaire ; l'inventaire est alors établi. 
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a
 délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie
 est également adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des infractions mentionnées
 au 1, nonobstant les dispositions de l'article L. 103. 
+
+Si le juge constate que les biens et avoirs saisis ne proviennent pas directement ou indirectement des infractions dont la
+preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés. 
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après exécution de la transaction consécutive à la
 rédaction du procès-verbal de constatation des infractions prévu par l'article L. 212 A ; en cas de poursuites judiciaires,
@@ -2149,7 +2167,7 @@ le code de procédure civile. Le délai du pourvoi en cassation est de quinze jo
 
 6. Les informations recueillies ne peuvent être exploitées dans le cadre d'une procédure de vérification de comptabilité ou
 de contrôle de revenu qu'après restitution des pièces ou de leur reproduction et mise en oeuvre des procédures de contrôle
-visées aux premier et deuxième alinéas de l'article L. 47. 
+visées aux premier et deuxième alinéas de l'article L. 47.
 
 7. Les dispositions des 1 à 6 peuvent être mises en oeuvre par les agents habilités à cet effet par le directeur général des
 finances publiques, pour la recherche et la constatation des infractions aux dispositions de l'article 290 quater et du III
@@ -2174,14 +2192,17 @@ compter de la date d'entrée en vigueur de la présente loi.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 78
+	  - Loi n°2011-267 du 14 mars 2011 - art. 110
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 290 quater
 	  - Code général des impôts, CGI. - art. 298 bis
 	  - Livre des procédures fiscales - art. L103
+	  - Livre des procédures fiscales - art. L212 A
 	  - Livre des procédures fiscales - art. L47
+	  - Code de procédure pénale - art. 56
+	  - Code de procédure pénale - art. 58
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
@@ -7061,6 +7082,23 @@ Dispositions devenues sans objet en conséquence de l'article 17 II et III de la
 	**Cite**:
 
 	  - Code du travail - art. L5427-2 (V)
+
+
+###### Article L134 C
+
+Conformément aux articles L. 114-16-1 à L. 114-16-3 du code de la sécurité sociale, les agents de la direction générale des
+finances publiques et de la direction générale des douanes et des droits indirects sont habilités à communiquer et à recevoir
+communication de tous documents ou renseignements utiles à la lutte contre la fraude en matière sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 104
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L114-16-1 (V)
 
 
 ###### Article L135
