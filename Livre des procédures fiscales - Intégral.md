@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-04-01
 
 # Partie législative
 
@@ -20060,7 +20060,7 @@ Modifications apportées en conséquence des articles 1 et 41 de la loi n° 90-5
 Le comptable mentionné aux premier, deuxième et troisième alinéas de l'article L. 256 est le comptable de la direction
 générale des impôts ou le comptable de la direction générale des douanes et droits indirects en ce qui concerne, pour ce
 dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et
-de la contribution prévue par l'article 527 du code général des impôts. 
+de la contribution prévue par l'article 527 du code général des impôts.
 
 Le comptable public compétent pour établir l'avis de mise en recouvrement est soit celui du lieu de déclaration ou
 d'imposition du redevable, soit, dans le cas où ce lieu a été ou aurait dû être modifié, celui compétent à l'issue de ce
@@ -20071,17 +20071,24 @@ alinéa de l'article L. 256, est le directeur des services fiscaux ou le directe
 pour ce dernier, le recouvrement des contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes
 règles et de la contribution prévue par l'article 527 du code général des impôts.
 
+Les avis de mise en recouvrement résultant de l'engagement par la direction nationale des vérifications de situations
+fiscales d'une procédure de rectification ou d'une procédure d'imposition d'office sont établis, signés et rendus exécutoires
+par le comptable chargé du pôle de recouvrement spécialisé de Paris Sud-Ouest.
+
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2005-1720 2005-12-30 art. 42 II, III, art. 103 Finances rectificative pour 2005 JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 42 (V) JORF 31 décembre 2005
+	  - CGI 527
+	  - Livre des procédures fiscales - art. L256
 
 	**Codifié par**:
 
-	  - Décret n°2006-357 2006-03-24
+	  - Décret n°2006-357 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-303 du 21 mars 2011 - art. 2
 
 	**Cité par**:
 
@@ -20089,15 +20096,6 @@ règles et de la contribution prévue par l'article 527 du code général des im
 	  - Décret n°2015-607 du 3 juin 2015 (V)
 	  - Décret n°2017-214 du 20 février 2017 - art. 1 (V)
 	  - Décret n°2017-381 du 22 mars 2017 (V)
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 527 (V)
-	  - Livre des procédures fiscales - art. L256 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section II : Exercice des poursuites
