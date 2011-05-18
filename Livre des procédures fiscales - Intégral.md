@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-04-01
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -4905,27 +4905,27 @@ respectives.
 
 ###### Article L83 B
 
-Les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes et de la direction
-générale des douanes et droits indirects peuvent se communiquer spontanément tous les renseignements et documents recueillis
-dans le cadre de leurs missions respectives.
+Les                 agents de la concurrence, de la consommation et de la répression des fraudes et de la direction générale
+des douanes et droits indirects peuvent se communiquer spontanément tous les renseignements et documents recueillis dans le
+cadre de leurs missions respectives.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-357 2006-03-24
+	  - Décret n°2006-357 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 160
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L114-20 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ###### Article L83 C
@@ -7466,18 +7466,18 @@ et du rapporteur général de la commission en charge des affaires budgétaires.
 
 Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
 publique, les agents de la direction générale des finances publiques, de la direction générale des douanes et droits
-indirects et de la direction générale de la concurrence, de la consommation et de la répression des fraudes transmettent,
-spontanément ou sur demande, aux officiers et agents de police judiciaire les renseignements et documents de nature
-financière, fiscale ou douanière, sans que puisse être opposée l'obligation au secret. Dans ce même cadre, les officiers et
-agents de police judiciaire transmettent, spontanément ou sur demande, aux agents des trois directions précitées tous les
-éléments susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que puisse être opposée
+indirects et de la    concurrence, de la consommation et de la répression des fraudes transmettent, spontanément ou sur
+demande, aux officiers et agents de police judiciaire les renseignements et documents de nature financière, fiscale ou
+douanière, sans que puisse être opposée l'obligation au secret. Dans ce même cadre, les officiers et agents de police
+judiciaire transmettent, spontanément ou sur demande, aux agents des trois directions précitées tous les éléments
+susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que puisse être opposée
 l'obligation au secret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 88
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cité par**:
 
@@ -7691,9 +7691,9 @@ de ces comptes.
 ###### Article L135 V
 
 Conformément aux dispositions de l'article L. 232-20 du code du sport, les agents de l'administration des impôts, des douanes
-et de la direction générale de la concurrence, de la consommation et de la répression des fraudes sont habilités à se
-communiquer entre eux et aux services mentionnés à cet article tous renseignements obtenus dans l'accomplissement de leur
-mission respective et relatifs aux substances et procédés mentionnés à l'article L. 232-9 du même code.
+et de la    concurrence, de la consommation et de la répression des fraudes sont habilités à se communiquer entre eux et aux
+services mentionnés à cet article tous renseignements obtenus dans l'accomplissement de leur mission respective et relatifs
+aux substances et procédés mentionnés à l'article L. 232-9 du même code.
 
 **Nota:**
 
@@ -7701,9 +7701,9 @@ Modifications effectuées en conséquence de l'article L232-20 du code du sport.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cite**:
 
@@ -11435,34 +11435,6 @@ prénoms, profession et domicile dans le délai de trois jours francs à compter
 	**Liens**:
 
 	  - HISTO: Edition du 18 août 1993
-
-
-###### Article L239
-
-Lorsqu'une infraction fiscale est punie d'une peine de prison, la personne surprise en flagrant délit est arrêtée et
-constituée prisonnière ; elle est amenée sur-le-champ devant un officier de police judiciaire ou remise aux agents de la
-force publique qui la conduisent devant le juge compétent, lequel prend immédiatement une décision d'incarcération ou de mise
-en liberté. Cette décision doit être motivée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1866 (AL. 1)
-	  - Loi n°1816-04-28 ART. 222, ART. 223, ART. 224 (AL. 1)
-	  - Loi n°1900-12-29 ART. 14
-
-	**Codifié par**:
-
-	  - Décret n°81-859 du 15 septembre 1981
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
 ###### Article L239 A
