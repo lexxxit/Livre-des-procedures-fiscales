@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-01
 
 # Partie législative
 
@@ -15625,6 +15625,8 @@ de déclaration ou d'exercice de l'activité, pour toute la période visée à l
 
 
 #### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
+
+#### Chapitre I ter : Le droit de contrôle des entrepôts 
 
 ###### Article R80 K-1
 
