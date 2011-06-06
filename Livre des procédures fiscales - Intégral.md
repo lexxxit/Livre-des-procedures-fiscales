@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2011-06-07
 
 # Partie législative
 
@@ -1275,6 +1275,8 @@ informations qui doivent être fournis par le contribuable.
 
 
 ##### 3° : Contrôle des déclarations de succession
+
+##### 3° : Contrôle des actes de succession
 
 ###### Article L19
 
@@ -4596,6 +4598,8 @@ Ils peuvent se faire assister lors de ces contrôles par des agents de la direct
 
 
 #### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
+
+#### Chapitre I ter : Le droit de contrôle des entrepôts 
 
 ###### Article L80 K
 
@@ -15623,8 +15627,6 @@ de déclaration ou d'exercice de l'activité, pour toute la période visée à l
 
 	  - Livre des procédures fiscales - art. L102 B (VD)
 
-
-#### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
 
 #### Chapitre I ter : Le droit de contrôle des entrepôts 
 
