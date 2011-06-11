@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-06-07
+Version Consolidée au 2011-06-12
 
 # Partie législative
 
@@ -1273,8 +1273,6 @@ informations qui doivent être fournis par le contribuable.
 
 	  - Livre des procédures fiscales - art. L17 (V)
 
-
-##### 3° : Contrôle des déclarations de succession
 
 ##### 3° : Contrôle des actes de succession
 
@@ -4154,8 +4152,8 @@ L'avis est notifié au contribuable et à l'administration des impôts. Lorsqu'i
 demande du contribuable que pour un motif tiré de ce qu'une autre des conditions mentionnées à l'article 244 quater B du code
 général des impôts n'est pas remplie. 
 
-Les personnes consultées en application du deuxième alinéa du 3° sont tenues au secret professionnel dans les conditions
-prévues à l'article L. 103. 
+Les personnes consultées en application du deuxième alinéa sont tenues au secret professionnel dans les conditions prévues à
+l'article L. 103. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 3° ; 
 
@@ -4248,30 +4246,30 @@ Loi n° 2008-776 du 4 août 2008 : Le 3 bis entre en vigueur à une date fixée 
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 129 (V)
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 244 quater B (V)
-	  - Code général des impôts, CGI. - art. 34 (V)
-	  - Code général des impôts, CGI. - art. 39 AB (V)
-	  - Code général des impôts, CGI. - art. 39 AC (V)
-	  - Code général des impôts, CGI. - art. 39 quinquies A (V)
-	  - Code général des impôts, CGI. - art. 39 quinquies D (V)
-	  - Code général des impôts, CGI. - art. 39 quinquies DA (V)
-	  - Code général des impôts, CGI. - art. 39 quinquies E (V)
-	  - Code général des impôts, CGI. - art. 39 quinquies F (V)
-	  - Code général des impôts, CGI. - art. 39 quinquies FA (V)
-	  - Code général des impôts, CGI. - art. 39 quinquies FC (V)
-	  - Code général des impôts, CGI. - art. 44 octies A (V)
-	  - Code général des impôts, CGI. - art. 44 quindecies (V)
-	  - Code général des impôts, CGI. - art. 44 sexies (V)
-	  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
-	  - Code général des impôts, CGI. - art. 44 undecies (V)
-	  - Code général des impôts, CGI. - art. 92 (V)
-	  - Livre des procédures fiscales - art. L103 (V)
-	  - Livre des procédures fiscales - art. L13 B (V)
-	  - Livre des procédures fiscales - art. L80 A (V)
+	  - Code général des impôts, CGI. - art. 244 quater B
+	  - Code général des impôts, CGI. - art. 34
+	  - Code général des impôts, CGI. - art. 39 AB
+	  - Code général des impôts, CGI. - art. 39 AC
+	  - Code général des impôts, CGI. - art. 39 quinquies A
+	  - Code général des impôts, CGI. - art. 39 quinquies D
+	  - Code général des impôts, CGI. - art. 39 quinquies DA
+	  - Code général des impôts, CGI. - art. 39 quinquies E
+	  - Code général des impôts, CGI. - art. 39 quinquies F
+	  - Code général des impôts, CGI. - art. 39 quinquies FA
+	  - Code général des impôts, CGI. - art. 39 quinquies FC
+	  - Code général des impôts, CGI. - art. 44 octies A
+	  - Code général des impôts, CGI. - art. 44 quindecies
+	  - Code général des impôts, CGI. - art. 44 sexies
+	  - Code général des impôts, CGI. - art. 44 sexies-0 A
+	  - Code général des impôts, CGI. - art. 44 undecies
+	  - Code général des impôts, CGI. - art. 92
+	  - Livre des procédures fiscales - art. L103
+	  - Livre des procédures fiscales - art. L13 B
+	  - Livre des procédures fiscales - art. L80 A
 
 
 ###### Article L80 C
@@ -4596,8 +4594,6 @@ Ils peuvent se faire assister lors de ces contrôles par des agents de la direct
 	  - Code des douanes - art. 60
 	  - Code des douanes - art. 61
 
-
-#### Chapitre I ter : Le droit de contrôle d'un entrepôt ou du régime fiscal suspensif
 
 #### Chapitre I ter : Le droit de contrôle des entrepôts 
 
@@ -6736,35 +6732,31 @@ travaux publics prévue par les articles L. 13-12 et L. 16-4 du code précité.
 ###### Article L124
 
 Conformément à l'article L. 316-2 du code de la construction et de l'habitation, les agents des administrations compétentes,
-commissionnés à cet effet, peuvent recevoir de l'administration des impôts et des services déconcentrés du Trésor
-communication des renseignements permettant de déterminer le caractère de résidence principale des logements construits avec
-la participation financière de l'Etat.
+commissionnés à cet effet, peuvent recevoir de la direction générale des finances publiques communication des renseignements
+permettant de déterminer le caractère de résidence principale des logements construits avec la participation financière de
+l'Etat.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article L. 316-2 du code de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 2016 ter (al. 1)
-
-	**Cite**:
-
-	  - Code de la construction L316-2
-
-	**Liens**:
-
-	  - HISTO: Edition du 4 juillet 1992
+	  - Décret n°92-837 du 27 août 1992
 
 	**Modifié par**:
 
-	  - Loi n°92-125 du 6 février 1992 - art. 3 (V) JORF 8 février 1992
-
-	**Codifié par**:
-
-	  - Décret n°92-837 1992-08-27
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L316-2 (V)
 
 
 ###### Article L124 A
@@ -7417,18 +7409,22 @@ _Modifications effectuées en conséquence des articles L131-85 et L141-6 du cod
 
 Afin de procéder à des rapprochements avec le répertoire des métiers, les chambres de métiers et de l'artisanat peuvent se
 faire communiquer par l'administration fiscale la liste nominative des assujettis à la taxe pour frais de chambres de métiers
-et de l'artisanat.
+et de l'artisanat. 
 
 Les chambres de métiers et de l'artisanat et l'administration peuvent se communiquer mutuellement les informations
-nécessaires au recensement des assujettis à la taxe pour frais de chambres de métiers et de l'artisanat.
+nécessaires au recensement des assujettis à la taxe pour frais de chambres de métiers et de l'artisanat. 
 
-Les dispositions du dixième alinéa de l'article L. 135 B sont applicables aux informations ainsi transmises.
+Les dispositions du onzième alinéa de l'article L. 135 B sont applicables aux informations ainsi transmises.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 114 de la loi n° 2010-1657 du 29 décembre 2010.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 102 (V)
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -7436,7 +7432,7 @@ Les dispositions du dixième alinéa de l'article L. 135 B sont applicables aux 
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L135 B
+	  - Livre des procédures fiscales - art. L135 B (V)
 
 
 ###### Article L135 K
@@ -7941,25 +7937,18 @@ cours des cinq dernières années.
 
 La commission de surendettement des particuliers prévue à l'article L. 331-1 du code de la consommation peut obtenir
 communication auprès des administrations publiques de tout renseignement sur la situation du débiteur conformément au
-huitième alinéa de l'article L. 331-3 du même code ci-après reproduit :
-
-"Art. L. 331-3, 8e alinéa. - Nonobstant toute disposition contraire, la commission peut obtenir communication, auprès des
-administrations publiques, des établissements de crédit, des établissements de paiement, des organismes mentionnés au 5 de
-l'article L. 511-6 du code monétaire et financier, des organismes de sécurité et de prévoyance sociale ainsi que des services
-chargés de centraliser les risques bancaires et les incidents de paiement, de tout renseignement de nature à lui donner une
-exacte information sur la situation du débiteur, l'évolution possible de celle-ci et les procédures de conciliation amiables
-en cours."
+cinquième alinéa du II de l'article L. 331-3 du même code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-737 du 1er juillet 2010 - art. 40
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 	**Cite**:
 
 	  - Code de la consommation - art. L331-1
-	  - Code monétaire et financier - art. L511-6
+	  - Code de la consommation - art. L331-3
 
 	**Cité par**:
 
@@ -8228,10 +8217,9 @@ Modifications effectuées en conséquence des articles 133 et 173 de l'ordonnanc
 
 ###### Article L145 D
 
-Dans le cadre du contrôle des mesures recommandées par la commission de surendettement des particuliers ou du contrôle de sa
-recommandation aux fins de rétablissement personnel sans liquidation judiciaire prévus aux articles L. 332-2 à L. 332-5-1 du
-code de la consommation, le juge de l'exécution peut obtenir communication de tout renseignement sur la situation du débiteur
-conformément aux articles précités.
+Dans le cadre du contrôle des mesures imposées ou recommandées par la commission de surendettement des particuliers prévu aux
+articles L. 332-1 à L. 332-3 du code de la consommation, le juge de l'exécution peut obtenir communication de tout
+renseignement sur la situation du débiteur conformément au sixième alinéa de l'article L. 332-2 du même code.
 
 **Liens relatifs à cet article**
 
@@ -8241,11 +8229,11 @@ conformément aux articles précités.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1249 du 22 octobre 2010 - art. 43
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation - art. L332-2
+	  - Code de la consommation - art. L332-1
 
 
 ###### Article L146
@@ -8473,31 +8461,38 @@ n° 2010-1609 du 22 décembre 2010.
 
 ###### Article L151 A
 
-Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice peut obtenir l'adresse des organismes auprès
+I. - Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice peut obtenir l'adresse des organismes auprès
 desquels un compte est ouvert au nom du débiteur.
 
+II. - Sous réserve des dispositions de l'article 6 de la loi n° 51-711 du 7 juin 1951 sur l'obligation, la coordination et le
+secret en matière de statistiques, les administrations fiscales communiquent à l'huissier de justice chargé de l'exécution,
+porteur d'un titre exécutoire, les renseignements qu'elles détiennent permettant de déterminer l'adresse du débiteur,
+l'identité et l'adresse de son employeur ou de tout tiers débiteur ou dépositaire de sommes liquides ou exigibles et la
+composition de son patrimoine immobilier, à l'exclusion de tout autre renseignement, sans pouvoir opposer le secret
+professionnel.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 5-1 et 43 de la loi n° 2010-1609 du 22 décembre 2010.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°51-711 du 7 juin 1951 - art. 6
 
 	**Cité par**:
 
 	  - Arrêté du 14 juin 1982 - art. 4 (V)
 	  - Livre des procédures fiscales - art. L132 A (V)
 
-	**Créé par**:
-
-	  - Loi n°2004-130 du 11 février 2004 - art. 63 () JORF 12 février 2004
-
 	**Codifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2004-1070 du 8 octobre 2004
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 août 2004
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales L151-1
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 
 ##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale
@@ -11301,26 +11296,20 @@ déductions ;
 ###### Article L235
 
 Les infractions en matière de contributions indirectes et de législations édictant les mêmes règles en matière de procédure
-et de recouvrement sont poursuivies devant le tribunal correctionnel, qui prononce la condamnation.
+et de recouvrement sont poursuivies devant le tribunal correctionnel, qui prononce la condamnation. 
 
 L'administration instruit et défend sur l'instance portée devant le tribunal. En cas d'infraction touchant à la fois au
-régime fiscal et au régime économique de l'alcool, le service désigné par décret est seul chargé des poursuites.
+régime fiscal et au régime économique de l'alcool, le service désigné par décret est seul chargé des poursuites. 
 
 Dans les procédures dont les agents des douanes ont été saisis en application des I et II de l'article 28-1 du code de
 procédure pénale, le ministère public exerce l'action publique et l'action pour l'application des sanctions fiscales. Sur
 autorisation du ministère public, l'action pour l'application des sanctions fiscales peut être exercée par l'administration
-des douanes et, dans ce cas, le 3° de l'article L. 247 et l'article L. 248 du présent livre sont applicables.
+des douanes et, dans ce cas, le 3° de l'article L. 247 et l'article L. 248 sont applicables. 
 
 Dans ces mêmes procédures, l'administration des douanes exerce l'action en paiement des droits et taxes compromis ou éludés,
 prévue par l'article 1804 B du code général des impôts.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1804 B
-	  - Livre des procédures fiscales - art. L248
-	  - Code de procédure pénale - art. 28-1
 
 	**Cité par**:
 
@@ -11333,7 +11322,13 @@ prévue par l'article 1804 B du code général des impôts.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 64 (V)
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1804 B (V)
+	  - Livre des procédures fiscales - art. L247 (V)
+	  - Code de procédure pénale - art. 28-1 (V)
 
 
 ###### Article L236
@@ -12585,9 +12580,10 @@ _Modifications effectuées en conséquence des articles 1er, 3 et 12 I de l'ordo
 
 ###### Article L265
 
-Les huissiers de justice, commissaires-priseurs, notaires, séquestres et tous autres dépositaires publics de fonds ne peuvent
-les remettre aux héritiers, créanciers et autres personnes ayant droit de toucher les sommes séquestrées et déposées,
-qu'après avoir vérifié et justifié que les impôts directs dus par les personnes dont ils détiennent les fonds ont été payés.
+Les huissiers de justice, commissaires-priseurs judiciaires, notaires, séquestres et tous autres dépositaires publics de
+fonds ne peuvent les remettre aux héritiers, créanciers et autres personnes ayant droit de toucher les sommes séquestrées et
+déposées, qu'après avoir vérifié et justifié que les impôts directs dus par les personnes dont ils détiennent les fonds ont
+été payés.
 
 Ces séquestres et dépositaires sont autorisés à payer directement les impositions qui se trouveraient dues avant de procéder
 à la délivrance des fonds qu'ils détiennent.
@@ -12599,11 +12595,16 @@ Les obligations imposées aux personnes désignées au présent article s'étend
 d'impôt sur le revenu, des acomptes d'impôt sur les sociétés, des acomptes de cotisation foncière des entreprises et de
 cotisation sur la valeur ajoutée des entreprises.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 29 de la loi n° 2000-642 du 10 juillet 2000.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Décret n°2011-646 du 9 juin 2011 - art. 1
 
 
 ##### 4° : Responsabilité des dirigeants et gérants de sociétés
@@ -13874,16 +13875,16 @@ qu'à l'occasion d'une suspension des opérations de fabrication, les producteur
 
 ##### I bis : Dispositions particulières à l'impôt sur le revenu ou sur les bénéfices et à la taxe sur la valeur ajoutée
 
-###### Article R*16-0 BA
+###### Article R*16-0 BA-1
 
 La décision de mettre en œuvre les dispositions du I bis de l'article L. 16-0 BA est prise par un agent ayant au moins le
 grade d'inspecteur départemental.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-672 du 18 juin 2010 - art. 1
+	  - Décret n°2011-646 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -15712,10 +15713,19 @@ _
 
 ###### Article R*81-1
 
-Le droit de communication défini à l'article L. 81 est exercé par les fonctionnaires titulaires ou stagiaires appartenant à
-des corps de catégorie A ou B ou par des fonctionnaires titulaires appartenant à des corps de catégorie C agissant soit dans
-l'ensemble de la région où est situé le service auquel ils sont affectés, soit, lorsqu'il est plus étendu, dans le ressort
-territorial de ce service.
+I.-Le droit de communication défini à l'article L. 81 est exercé par les fonctionnaires titulaires ou stagiaires appartenant
+à des corps de catégorie A ou B ou par des fonctionnaires titulaires appartenant à des corps de catégorie C agissant soit
+dans l'ensemble de la région où est situé le service auquel ils sont affectés, soit, lorsqu'il est plus étendu, dans le
+ressort territorial de ce service. 
+
+II.-Dans le cadre prévu par l'article 376 de l'annexe II au code général des impôts et par dérogation au I du présent
+article, les agents mentionnés à ce même I peuvent exercer le droit de communication prévu à l'article L. 81 à l'égard de
+toute personne ou organisme soumis à l'exercice de ce droit.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4-III du décret n° 2009-707 du 16 juin 2009  et de l'article 2 [1°, b]
+du décret n° 2010-939 du 24 août 2010.
 
 **Liens relatifs à cet article**
 
@@ -15729,15 +15739,12 @@ territorial de ce service.
 
 	**Modifié par**:
 
-	  - Décret n°2004-501 du 2 juin 2004 - art. 1 () JORF 9 juin 2004
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2011-646 du 9 juin 2011 - art. 2
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L81 (MMN)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 376 (V)
+	  - Livre des procédures fiscales - art. L81
 
 
 ###### Article R*81-2
@@ -15805,36 +15812,35 @@ Cet article devient sans objet en application de la loi n° 2014-1655 du 29 déc
 Le droit de communication mentionné à l'article L. 81 est exercé par les agents de la direction générale des impôts. Le droit
 de communication visé au premier alinéa de l'article précité peut être exercé par les agents de la direction générale des
 douanes et droits indirects dans les conditions définies aux articles L. 82 C, L. 83, L. 84, au premier alinéa de l'article
-L. 85, aux articles L. 85-A, L. 90, L. 92, L. 95, L. 101, R. 81-1, R. 81-4, R. 101-1 et A. 85-1 en ce qui concerne les
-contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et la contribution prévue par
-l'article 527 du code général des impôts.
+L. 85, aux articles L. 85-A, L. 90, L. 92, L. 95, L. 101, au I de l'article R. * 81-1, aux articles R. 81-4, R. 101-1 et A.
+85-1 en ce qui concerne les contributions indirectes, droits, taxes, redevances et impositions obéissant aux mêmes règles et
+la contribution prévue par l'article 527 du code général des impôts.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 4-III du décret n° 2009-707 du 16 juin 2009 et de l'article 2 [1°, b] du
+décret n° 2010-939 du 24 août 2010.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Codifié par**:
 
-	  - CGI 527
-	  - Livre des procédures fiscales - art. L81 (MMN)
-	  - Livre des procédures fiscales - art. L82 C (M)
-	  - Livre des procédures fiscales - art. L83 (MMN)
-	  - Livre des procédures fiscales - art. L84 (M)
-	  - Livre des procédures fiscales - art. L85 (MMN)
+	  - Décret n°2004-1070 du 8 octobre 2004
 
 	**Modifié par**:
 
-	  - Décret n°2004-501 du 2 juin 2004 - art. 2 () JORF 9 juin 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2011-646 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2012-1352 du 4 décembre 2012 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Code général des impôts, CGI. - art. 527 (V)
+	  - Livre des procédures fiscales - art. A85-1 (V)
+	  - Livre des procédures fiscales - art. L82 C (V)
+	  - Livre des procédures fiscales - art. R*81-1
 
 
 ##### Section I : Conditions d'exercice du droit de communication
@@ -15949,6 +15955,30 @@ obligations définies à l'article R. 87-1.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. R87-1 (V)
+
+
+##### 18° : Opérations de transfert de fonds à l'étranger
+
+###### Article R* 96 A-1
+
+Le contenu de l'obligation de conservation ainsi que les modalités d'exercice du droit de communication prévu à l'article L.
+96 A sont régis conformément aux 
+dispositions de l'article R. 152-10 du code monétaire et financier
+.
+
+**Nota:**
+
+Création effectuée en conséquence de l'article R. 152-10 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-646 du 9 juin 2011 - art. 2
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. R152-10
 
 
 ##### 20° : Etablissements, personnes et sociétés tenant le compte des opérations réalisées par leurs clients sur un MATIF, sur un MONEP, sur un FCIMT, ou tenant le compte des opérations sur bons d'option
@@ -19609,7 +19639,7 @@ c) au ministre chargé du budget, dans les autres cas.
 
 ###### Article R247-11
 
-Pour obtenir la dispense du paiement prévu au sixième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
+Pour obtenir la dispense du paiement prévu au septième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
 concerne les impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes
 et droits indirects, selon le cas, adresser sa demande au directeur des services fiscaux ou au directeur régional des douanes
 et droits indirects, dont dépend le comptable chargé du recouvrement. 
@@ -19617,17 +19647,21 @@ et droits indirects, dont dépend le comptable chargé du recouvrement.
 La décision appartient : 
 
 a) au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
-sommes faisant l'objet de la demande n'excèdent pas 304 898,03 euros par exercice ou affaire, selon la nature des impôts ; 
+sommes faisant l'objet de la demande n'excèdent pas 304 898,03 € par exercice ou affaire, selon la nature des impôts ; 
 
 b) abrogé. 
 
 c) au ministre chargé du budget, dans les autres cas.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'article 55-IV [B et C] de la loi n° 2010-1658 du 29 décembre 2010.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-298 du 19 mars 2010 - art. 2
+	  - Décret n°2011-646 du 9 juin 2011 - art. 2
 
 	**Cité par**:
 
@@ -19635,7 +19669,7 @@ c) au ministre chargé du budget, dans les autres cas.
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L247 (VT)
+	  - Livre des procédures fiscales - art. L247
 
 
 ##### Les taxes d'urbanisme
@@ -22017,23 +22051,24 @@ présidé par le membre du conseil ayant le plus d'ancienneté dans le grade le 
 Le collège national de la direction générale pour la recherche et l'innovation mentionné à l'article R. * 80 CB-6 est
 composé :
 
-- du chef du service des entreprises, du transfert de technologie et de l'action régionale, ou de son représentant, qui
+a) du chef du service des entreprises, du transfert de technologie et de l'action régionale, ou de son représentant, qui
 assure la fonction de président du collège ;
 
-- du chef du secteur mathématiques, physique, nanosciences, sciences et technologies de l'information et de la communication
+b) du chef du secteur mathématiques, physique, nanosciences, sciences et technologies de l'information et de la communication
 du service de la stratégie de la recherche et de l'innovation, ou de son représentant. Il assure la présidence du collège en
 cas d'absence ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
 
-- du chef du secteur énergie, développement durable, chimie et procédés du service de la stratégie de la recherche et de
+c) du chef du secteur énergie, développement durable, chimie et procédés du service de la stratégie de la recherche et de
 l'innovation, ou de son représentant ;
 
-- du chef du secteur biologie et santé du service de la stratégie de la recherche et de l'innovation, ou de son représentant.
+d) du chef du secteur biologie et santé du service de la stratégie de la recherche et de l'innovation, ou de son
+représentant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 12 février 2010 - art. 1
+	  - Arrêté du 9 juin 2011 - art. 1
 
 	**Cite**:
 
