@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-10-01
+Version Consolidée au 2011-10-16
 
 # Partie législative
 
@@ -20214,6 +20214,9 @@ Les effets de cette compensation peuvent être contestés dans les formes et dé
 L'avis de mise en recouvrement prévu à l'article L. 256 indique pour chaque impôt ou taxe le montant global des droits, des
 pénalités et des intérêts de retard qui font l'objet de cet avis.
 
+L'avis de mise en recouvrement mentionne également que d'autres intérêts de retard pourront être liquidés après le paiement
+intégral des droits.
+
 Lorsque l'avis de mise en recouvrement est consécutif à une procédure de rectification, il fait référence à la proposition
 prévue à l'article L. 57 ou à la notification prévue à l'article L. 76 et, le cas échéant, au document adressé au
 contribuable l'informant d'une modification des droits, taxes et pénalités résultant des rectifications.
@@ -20224,8 +20227,8 @@ du groupe, l'administration adresse à la société mère, préalablement à la 
 correspondant, un document l'informant du montant global par impôt des droits, des pénalités et des intérêts de retard dont
 elle est redevable. L'avis de mise en recouvrement, qui peut être alors émis sans délai, fait référence à ce document.
 
-L'avis de mise en recouvrement, dans le cas mentionné au deuxième alinéa de l'article L. 256, indique seulement le montant de
-la somme indûment versée, et la date de son versement.
+L'avis de mise en recouvrement, dans le cas mentionné au troisième alinéa de l'article L. 256, indique seulement le montant
+de la somme indûment versée, et la date de son versement.
 
 **Liens relatifs à cet article**
 
@@ -20236,16 +20239,12 @@ la somme indûment versée, et la date de son versement.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
+	  - Décret n°2011-1302 du 14 octobre 2011 - art. 5
 
 	**Cité par**:
 
 	  - Décret n°2012-239 du 20 février 2012 (V)
 	  - Décret n°2015-964 du 31 juillet 2015 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
 
 
 ##### Section II : Exercice des poursuites
@@ -20349,34 +20348,6 @@ leur incombe.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L268
-
-
-##### Section IV : Prescription de l'action en vue du recouvrement
-
-###### Article R*275-1
-
-Lorsque le défaut de paiement ou l'insuffisance, l'inexactitude ou l'omission qui motive l'émission d'un avis de mise en
-recouvrement, donne lieu à l'application d'indemnités de retard ou d'intérêts de retard, mention en est faite sur cet avis de
-mise en recouvrement. Cette mention équivaut, en ce qui les concerne, à la notification prévue au premier alinéa de l'article
-L. 275.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2006-1092 du 29 août 2006 - art. 1 () JORF 31 août 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1302 du 14 octobre 2011 - art. 14
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L275
 
 
 #### Chapitre II : Le sursis de paiement
