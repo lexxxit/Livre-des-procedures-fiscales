@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-10-16
+Version Consolidée au 2011-10-24
 
 # Partie législative
 
@@ -22262,14 +22262,13 @@ Les procès-verbaux sont rédigés à la requête du directeur général des imp
 
 Les autorités bénéficiaires de la délégation de signature du ministre chargé du budget pour saisir la commission des
 infractions fiscales prévue à l'article R. * 228-1 sont le directeur général des finances publiques, l'adjoint au directeur
-général chargé de la fiscalité, le sous-directeur chargé de la sous-direction du contrôle fiscal et le chef du bureau
-affaires particulières et affaires pénales.
+général chargé de la fiscalité, le chef du service du contrôle fiscal et le chef du bureau des affaires fiscales et pénales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 29 juillet 2008 - art. 1
+	  - Arrêté du 10 octobre 2011 - art. 1
 
 	**Cite**:
 
