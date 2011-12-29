@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-12-15
+Version Consolidée au 2011-12-30
 
 # Partie législative
 
@@ -1121,41 +1121,6 @@ de l'imposition des revenus de l'année 2009.
 	  - Livre des procédures fiscales - art. R*16-0 BA-1 (V)
 
 
-##### I ter : Dispositions particulières à la contribution à l'audiovisuel public
-
-###### Article L16 C
-
-Les agents du Trésor public, concurremment avec les agents de l'administration des impôts, assurent le contrôle de la taxe
-prévue au I de l'article 1605 du code général des impôts. A cette fin, ils peuvent demander aux contribuables tous
-renseignements, justifications ou éclaircissements relatifs aux déclarations souscrites.
-
-Les opérations effectuées par les agents du Trésor public ne constituent pas une vérification de comptabilité au sens de
-l'article L. 13.
-
-**Nota:**
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1605
-	  - Livre des procédures fiscales - art. L13
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Créé par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 54
-
-
 ##### I quater : Dispositions particulières au contrôle en matière de taxe sur la valeur ajoutée des redevables placés sous le régime simplifié d'imposition
 
 ###### Article L16 D
@@ -1394,7 +1359,7 @@ l'acte de donation en se conformant à la procédure de rectification contradict
 
 ###### Article L21 B
 
-I. - Les signataires de la déclaration prévue à l'article 800 du code général des impôts et les donataires mentionnés dans un
+I.-Les signataires de la déclaration prévue à l'article 800 du code général des impôts et les donataires mentionnés dans un
 acte de mutation à titre gratuit entre vifs peuvent demander à l'administration de contrôler la déclaration dont ils sont
 signataires ou l'acte auquel ils sont parties. Cette demande, pour être recevable, doit être signée par les bénéficiaires
 d'au moins un tiers de l'actif net déclaré et transmis lors de la mutation. 
@@ -1407,14 +1372,14 @@ demeure mentionnée à l'article L. 67 ;
 2° Et présentée au plus tard dans le délai de trois mois suivant l'enregistrement de la déclaration ou de l'acte sans pouvoir
 être antérieure à la date de cet enregistrement. 
 
-II. - Lorsque les conditions mentionnées au I sont satisfaites, aucun rehaussement d'imposition ne peut être proposé
+II.-Lorsque les conditions mentionnées au I sont satisfaites, aucun rehaussement d'imposition ne peut être proposé
 postérieurement au délai d'un an suivant la date de réception de la demande de contrôle. Cette période d'un an est prorogée,
 le cas échéant, du délai de réponse du contribuable aux demandes de renseignements, justifications ou éclaircissements de
 l'administration, pour la partie excédant le délai prévu à l'article L. 11, ainsi que du délai nécessaire à l'administration
 pour recevoir les renseignements demandés aux autorités étrangères lorsque des biens situés à l'étranger figurent sur la
 déclaration ou l'acte mentionné au I du présent article. 
 
-III. - La garantie mentionnée au II ne s'applique pas aux rehaussements d'imposition : 
+III.-La garantie mentionnée au II ne s'applique pas aux rehaussements d'imposition : 
 
 1° Découlant de l'omission, dans l'acte ou la déclaration, de la mention de biens, droits, valeurs ou donations antérieures
 qui auraient dû y figurer ; 
@@ -1424,14 +1389,20 @@ engagement ou d'une condition prévus pour en bénéficier ;
 
 3° Ou proposés dans le cadre de la procédure prévue à l'article L. 64. 
 
-IV. - Les I à III s'appliquent aux demandes de contrôle afférentes à des successions ouvertes ou à des donations consenties
-entre le 1er janvier 2009 et le 31 décembre 2011.
+IV. (abrogé)
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 36 (V)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 55
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 800 (V)
+	  - Livre des procédures fiscales - art. L11 (V)
+	  - Livre des procédures fiscales - art. L64 (V)
+	  - Livre des procédures fiscales - art. L67 (V)
 
 
 ##### 4° : Contrôle des ventes publiques de meubles
@@ -1629,13 +1600,14 @@ Les agents de l'administration peuvent intervenir, sans formalité préalable et
 dans les locaux professionnels des personnes soumises, en raison de leur profession, à la législation des contributions
 indirectes ou aux législations édictant les mêmes règles en matière de procédure et de recouvrement, pour y procéder à des
 inventaires, aux opérations nécessaires à la constatation et à la garantie de l'impôt et généralement aux contrôles
-qualitatifs et quantitatifs prévus par ces législations.
+qualitatifs et quantitatifs prévus par ces législations. 
 
-Les agents ont également libre accès aux lieux de dépôt des entreprises de transport ainsi qu'aux ateliers publics et aux
-locaux des associations coopératives où sont effectuées des distillations.
+Les agents ont également libre accès aux lieux de dépôt des entreprises de transport, aux bureaux de poste sédentaires ou
+ambulants, y compris aux salles de tri, aux locaux des entreprises assurant l'acheminement de plis et de colis ainsi qu'aux
+ateliers publics et aux locaux des associations coopératives où sont effectuées des distillations. 
 
 Ils ont un accès immédiat aux données conservées dans des systèmes dématérialisés de billetterie, ainsi qu'à la restitution
-des informations en clair.
+des informations en clair. 
 
 Lorsque les agents de catégorie A et B constatent une infraction, ils ont le droit, après en avoir informé le contrevenant,
 de saisir les objets, produits, marchandises ou appareils passibles de confiscation. Il est fait mention de la saisie au
@@ -1645,10 +1617,6 @@ Les agents de catégorie C peuvent également exercer ce droit, lorsqu'ils agiss
 ayant au moins le grade d'inspecteur.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI Livre des procédures fiscales L212 A
 
 	**Cité par**:
 
@@ -1663,11 +1631,11 @@ ayant au moins le grade d'inspecteur.
 
 	**Modifié par**:
 
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 104 (V) JORF 31 décembre 2006 en vigueur le 1er janvier 2007
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 56
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2007
+	  - Livre des procédures fiscales - art. L212 A
 
 
 ###### Article L27
@@ -3246,33 +3214,29 @@ une réclamation conformément à l'article L. 190.
 
 ###### Article L61 B
 
-1. Lorsque les agents du Trésor public constatent une insuffisance, une inexactitude, une omission ou une dissimulation dans
-les éléments servant de base au calcul de la taxe prévue au I de l'article 1605 du code général des impôts, les rehaussements
-correspondants sont effectués suivant la procédure de rectification contradictoire définie aux articles L. 57 à L. 61.
+1. Lorsque les agents de la direction générale des finances publiques constatent une insuffisance, une inexactitude, une
+omission ou une dissimulation dans les éléments servant de base au calcul de la taxe prévue au I de l'article 1605 du code
+général des impôts dans les conditions mentionnées au 1° du II du même article, les rehaussements correspondants sont
+effectués suivant la procédure de rectification contradictoire définie aux articles L. 57 à L. 61.
 
-2. Lorsqu'une infraction aux obligations prévues aux articles 1605 bis et 1605 ter du code général des impôts est constatée,
-les agents mentionnés au 1 peuvent dresser un procès-verbal faisant foi jusqu'à preuve du contraire, qui doit être apportée
-selon les modalités prévues par le dernier alinéa de l'article 537 du code de procédure pénale.
-
-**Nota:**
-
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+2. Pour le contrôle de la taxe prévue au I de l'article 1605 du code général des impôts et dans les conditions mentionnées au
+1° du II du même article, les agents mentionnés au 1 du présent article peuvent procéder au constat matériel de la détention
+des appareils récepteurs de télévision ou dispositifs assimilés permettant la réception de la télévision. Lorsqu'une
+infraction aux obligations prévues aux articles 1605 bis et 1605 ter du code général des impôts est constatée, les agents
+mentionnés au 1 du présent article peuvent dresser un procès-verbal faisant foi jusqu'à preuve du contraire, qui doit être
+apportée selon les modalités prévues par le dernier alinéa de l'article 537 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 54
+
 	**Cite**:
 
-	  - CGI 1605, 1605 bis, 1605 ter
-	  - CODE DE PROCEDURE PENALE - art. 537 (M)
-	  - Livre des procédures fiscales L57 à L61
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
-	**Créé par**:
-
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 41 (V) JORF 31 décembre 2004
+	  - Code général des impôts, CGI. - art. 1605 (V)
+	  - Livre des procédures fiscales - art. L57 (V)
+	  - Code de procédure pénale - art. 537
 
 
 ##### II : Procédure de régularisation
@@ -6259,6 +6223,52 @@ par voie électronique des informations visées à la phrase précédente.
 	  - Livre des procédures fiscales - art. R* 107 A-3 (V)
 
 
+###### Article L107 B
+
+Sans préjudice des dispositions de l'article L. 135 B, toute personne physique faisant l'objet d'une procédure
+d'expropriation ou d'une procédure de contrôle portant sur la valeur d'un bien immobilier ou faisant état de la nécessité
+d'évaluer la valeur vénale d'un bien immobilier pour la détermination de l'assiette de l'impôt de solidarité sur la fortune
+ou des droits de mutation à titre gratuit peut obtenir, par voie électronique, communication des éléments d'information
+relatifs aux mutations à titre onéreux de biens immobiliers comparables intervenues dans un périmètre et pendant une période
+déterminés et qui sont utiles à la seule appréciation de la valeur vénale du bien concerné. 
+
+Les biens immobiliers comparables s'entendent des biens de type et de superficie similaires à ceux précisés par le
+demandeur. 
+
+Les informations communicables sont la rue et la commune, ainsi que la superficie, le type et les caractéristiques du bien
+immobilier, la nature et la date de mutation ainsi que la valeur foncière déclarée à cette occasion et les références de
+publication au fichier immobilier. 
+
+Ces informations sont réservées à l'usage personnel du demandeur. 
+
+La consultation de ces informations est soumise à une procédure sécurisée d'authentification préalable, aux fins de laquelle
+le demandeur doit justifier de sa qualité et accepter les conditions générales d'accès au service ainsi que l'enregistrement
+de sa consultation. 
+
+La circonstance que le prix ou l'évaluation d'un bien immobilier ait été déterminé sur le fondement d'informations obtenues
+en application du présent article ne fait pas obstacle au droit de l'administration de rectifier ce prix ou cette évaluation
+suivant la procédure contradictoire prévue à l'article L. 55.
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, définit les
+modalités d'application du présent article, notamment les conditions de communication d'informations par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 57
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L135 B
+	  - Livre des procédures fiscales - art. L55
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R* 107 B-1 (V)
+	  - Livre des procédures fiscales - art. R* 107 B-2 (VD)
+
+
 ###### Article L108
 
 Les agents de l'administration peuvent donner connaissance sur place des livres et registres relatifs aux contributions
@@ -7198,7 +7208,7 @@ valeurs foncières déclarées à l'occasion des mutations intervenues dans les 
 l'exercice de leurs compétences en matière de politique foncière et d'aménagement. Cette administration ne peut, dans ce cas,
 se prévaloir de la règle du secret. 
 
-Ces dispositions ne font pas échec au secret de la défense nationale.
+Ces dispositions ne font pas échec au secret de la défense nationale. 
 
 L'administration fiscale est tenue de transmettre, chaque année, aux collectivités locales et à leurs groupements dotés d'une
 fiscalité propre : 
@@ -7210,10 +7220,12 @@ fait la demande complémentaire, des renseignements individuels figurant sur le 
 l'appréciation des montants figurant sur ce rôle, à l'exclusion des informations tenant à l'origine des rectifications
 opérées ; 
 
-a bis) Le montant par impôt et par redevable des impôts directs non recouvrés par voie de rôle perçus à leur profit ; 
+a bis) Le montant par impôt et par redevable des impôts directs non recouvrés par voie de rôle perçus à leur profit, ainsi
+que l'ensemble des informations déclarées par le redevable intervenant dans le calcul du montant, notamment les effectifs
+salariés ; 
 
 b) Le montant total, pour chaque impôt perçu à leur profit, des dégrèvements dont les contribuables de la collectivité ont
-bénéficié, à l'exception de ceux accordés en application de l'article L. 190.
+bénéficié, à l'exception de ceux accordés en application de l'article L. 190. 
 
 A leur demande, l'administration fiscale transmet aux groupements qui perçoivent la taxe d'enlèvement des ordures ménagères
 les rôles généraux de taxe foncière sur les propriétés bâties émis dans leur ressort. 
@@ -7227,7 +7239,8 @@ et le taux d'imposition à cette taxe.
 
 Les collectivités locales, les établissements publics de coopération intercommunale dotés d'une fiscalité propre et
 l'administration fiscale peuvent se communiquer mutuellement les informations nécessaires au recensement des bases des
-impositions directes locales.
+impositions directes locales. De même, les collectivités locales et les établissements publics de coopération intercommunale
+peuvent se communiquer entre eux des informations fiscales sur leurs produits d'impôts. 
 
 L'administration fiscale transmet chaque année aux collectivités territoriales et aux établissements publics de coopération
 intercommunale dotés d'une fiscalité propre, percevant la taxe professionnelle, la liste des établissements implantés sur
@@ -7249,9 +7262,11 @@ des modalités définies par un décret en Conseil d'Etat.
 
 	  - Loi n°78-17 du 6 janvier 1978
 	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85
-	  - Code général des impôts, CGI. - art. 1407 bis (V)
-	  - Code général des impôts, CGI. - art. 1647 B sexies (V)
-	  - Code général des impôts, CGI. - art. 232 (V)
+	  - Code général des impôts, CGI. - art. 1407 bis
+	  - Code général des impôts, CGI. - art. 1647 B sexies
+	  - Code général des impôts, CGI. - art. 232
+	  - Livre des procédures fiscales - art. L190 (V)
+	  - Code de l'urbanisme - art. L321-1 (V)
 	  - Code de l'urbanisme - art. L326-1
 
 	**Cité par**:
@@ -7271,8 +7286,8 @@ des modalités définies par un décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 113
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 114
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 100
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 101
 
 
 ###### Article L135 D
@@ -7856,7 +7871,7 @@ article, au secret professionnel sous les sanctions prévues à l'article 226-13
 ###### Article L135 Z
 
 L'administration fiscale transmet aux représentants de l'Etat dans les collectivités d'outre-mer et en Nouvelle-Calédonie les
-informations mentionnées à la seconde phrase du deuxième alinéa de l'article 242 septies du code général des impôts.
+informations mentionnées à la seconde phrase du neuvième alinéa de l'article 242 septies du code général des impôts.
 
 **Liens relatifs à cet article**
 
@@ -7864,9 +7879,13 @@ informations mentionnées à la seconde phrase du deuxième alinéa de l'article
 
 	  - Loi n°2010-1657 du 29 décembre 2010 - art. 101 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 85
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 242 septies (V)
+	  - Code général des impôts, CGI. - art. 242 septies
 
 
 ###### Article L135 ZA
@@ -9060,7 +9079,7 @@ contraires du code général des impôts.
 ###### Article L169
 
 Pour l'impôt sur le revenu et l'impôt sur les sociétés, le droit de reprise de l'administration des impôts s'exerce jusqu'à
-la fin de la troisième année qui suit celle au titre de laquelle l'imposition est due.
+la fin de la troisième année qui suit celle au titre de laquelle l'imposition est due. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration, pour les revenus imposables selon
 un régime réel dans les catégories des bénéfices industriels et commerciaux, des bénéfices non commerciaux et des bénéfices
@@ -9071,42 +9090,44 @@ deuxième année qui suit celle au titre de laquelle l'imposition est due, lorsq
 gestion agréé ou d'une association agréée, pour les périodes au titre desquelles le service des impôts des entreprises a reçu
 une copie du compte rendu de mission prévu aux articles 1649 quater E et 1649 quater H du code général des impôts. Cette
 réduction de délai ne s'applique pas aux contribuables pour lesquels des pénalités autres que les intérêts de retard auront
-été appliquées sur les périodes d'imposition non prescrites visées au présent alinéa.
+été appliquées sur les périodes d'imposition non prescrites visées au présent alinéa. 
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
-dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable exerce une activité
-occulte.L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
-qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, soit s'est livré à une activité illicite.
+dixième année qui suit celle au titre de laquelle l'imposition est due, lorsque le contribuable exerce une activité occulte.
+L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations qu'il
+était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au greffe du
+tribunal de commerce, soit s'est livré à une activité illicite. 
 
 Le droit de reprise mentionné au troisième alinéa ne s'applique qu'aux seules catégories de revenus que le contribuable n'a
 pas fait figurer dans une quelconque des déclarations qu'il a déposées dans le délai légal. Il ne s'applique pas lorsque des
-revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés.
+revenus ou plus-values ont été déclarés dans une catégorie autre que celle dans laquelle ils doivent être imposés. 
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
 l'imposition est due, lorsque les obligations déclaratives prévues aux articles 123 bis, 209 B, 
-1649 A et 1649 AA du même code n'ont pas été respectées et concernent un Etat ou un territoire qui n'a pas conclu avec la
-France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales permettant l'accès
-aux renseignements bancaires. Ce droit de reprise concerne les seuls revenus ou bénéfices afférents aux obligations
-déclaratives qui n'ont pas été respectées.
+1649 A, 1649 AA et 1649 AB du même code n'ont pas été respectées. Toutefois, en cas de non-respect de l'obligation
+déclarative prévue à l'article 1649 A, cette extension de délai ne s'applique pas lorsque le contribuable apporte la preuve
+que le total des soldes créditeurs de ses comptes à l'étranger est inférieur à 50 000 € au 31 décembre de l'année au titre de
+laquelle la déclaration devait être faite. Le droit de reprise de l'administration concerne les seuls revenus ou bénéfices
+afférents aux obligations déclaratives qui n'ont pas été respectées. 
 
 Le droit de reprise de l'administration s'exerce jusqu'à la fin de la dixième année qui suit celle au titre de laquelle
 l'imposition est due, lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à
-l'article L. 16-0 BA, au titre d'une année postérieure.
+l'article L. 16-0 BA, au titre d'une année postérieure. 
 
 Si le déficit d'ensemble ou la moins-value nette à long terme d'ensemble subis par un groupe mentionné à l'article 223 A du
 code général des impôts sont imputés dans les conditions prévues aux articles 223 C et 223 D dudit code sur le résultat
 d'ensemble ou la plus-value nette à long terme d'ensemble réalisés au titre de l'un des exercices clos au cours de la période
 mentionnée au premier alinéa, les résultats et les plus-values ou moins-values nettes à long terme réalisés par les sociétés
 de ce groupe et qui ont concouru à la détermination de ce déficit ou de cette moins-value peuvent être remis en cause à
-hauteur du montant du déficit ou de la moins-value ainsi imputés, nonobstant les dispositions prévues au premier alinéa.
+hauteur du montant du déficit ou de la moins-value ainsi imputés, nonobstant les dispositions prévues au premier alinéa. 
 
 Si le groupe a cessé d'exister, les règles définies au septième alinéa demeurent applicables au déficit ou à la moins-value
 nette à long terme définis au cinquième alinéa de l'article 223 S du code général des impôts.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 129 II 1° de la loi n° 2008-1425 du 27 décembre 2008.
+Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 58 II : le a du 1° du I s'applique aux
+délais de reprise venant à expiration postérieurement au 31 décembre 2011.
 
 **Liens relatifs à cet article**
 
@@ -9138,13 +9159,14 @@ Modifications effectuées en conséquence de l'article 129 II 1° de la loi n° 
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 65
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 58 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 123 bis
 	  - Code général des impôts, CGI. - art. 1649 A
 	  - Code général des impôts, CGI. - art. 1649 AA
+	  - Code général des impôts, CGI. - art. 1649 AB
 	  - Code général des impôts, CGI. - art. 1649 quater E
 	  - Code général des impôts, CGI. - art. 1649 quater H
 	  - Code général des impôts, CGI. - art. 209 B
