@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -864,7 +864,7 @@ A défaut de réception, il est procédé à la signification de l'ordonnance pa
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
 L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
-constituer avoué. 
+constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou
 adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de
@@ -923,7 +923,7 @@ poursuites pénales sont engagées, leur restitution est autorisée par l'autori
 Le procès-verbal et l'inventaire mentionnent le délai et la voie de recours. 
 
 Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie. Les
-parties ne sont pas tenues de constituer avoué. 
+parties ne sont pas tenues de constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
 ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
@@ -960,7 +960,7 @@ alinéas de l'article L. 47 et dans les conditions prévues à l'article L. 76 C
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 77
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
 
 	**Cite**:
 
@@ -2043,7 +2043,7 @@ L'exercice de cette faculté n'entraîne pas la suspension des opérations de vi
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
 l'espèce, l'existence des infractions dont la preuve est recherchée. Il se prononce par une mention expresse sur la saisie de
-biens et avoirs pouvant provenir directement ou indirectement des infractions dont la preuve est recherchée. 
+biens et avoirs pouvant provenir directement ou indirectement des infractions dont la preuve est recherchée.
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
 la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
@@ -2078,7 +2078,7 @@ A défaut de réception, il est procédé à la signification de l'ordonnance pa
 Le délai et la voie de recours sont mentionnés dans l'ordonnance.
 
 L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
-constituer avoué. 
+constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou
 adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de
@@ -2100,7 +2100,7 @@ Les agents de l'administration des douanes et droits indirects mentionnés au 1,
 l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
-dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
+dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable.
 
 4. Le procès-verbal de visite relatant les modalités et le déroulement de l'opération est dressé sur-le-champ par les agents
 de l'administration des douanes et droits indirects. Un inventaire des pièces et documents saisis, ainsi que des biens et
@@ -2109,9 +2109,9 @@ et l'inventaire sont signés par les agents de l'administration des douanes et d
 judiciaire ainsi que par les personnes mentionnées au premier alinéa du 3 ci-dessus ; en cas de refus de signer, mention en
 est faite au procès-verbal. 
 
-Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous
-scellés.L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en
-présence de l'officier de police judiciaire ; l'inventaire est alors établi. 
+Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés.
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
+l'officier de police judiciaire ; l'inventaire est alors établi. 
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a
 délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie
@@ -2119,7 +2119,7 @@ est également adressée par lettre recommandée avec demande d'avis de récepti
 au 1, nonobstant les dispositions de l'article L. 103. 
 
 Si le juge constate que les biens et avoirs saisis ne proviennent pas directement ou indirectement des infractions dont la
-preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés. 
+preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés.
 
 Les pièces et documents saisis sont restitués à l'occupant des lieux après exécution de la transaction consécutive à la
 rédaction du procès-verbal de constatation des infractions prévu par l'article L. 212 A ; en cas de poursuites judiciaires,
@@ -2127,7 +2127,7 @@ leur restitution est autorisée par l'autorité judiciaire compétente.
 
 Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie
 autorisées en application du 2. Le procès-verbal et l'inventaire rédigés à l'issue de ces opérations mentionnent le délai et
-la voie de recours. Les parties ne sont pas tenues de constituer avoué. 
+la voie de recours. Les parties ne sont pas tenues de constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
 ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
@@ -2139,7 +2139,7 @@ le code de procédure civile. Le délai du pourvoi en cassation est de quinze jo
 
 6. Les informations recueillies ne peuvent être exploitées dans le cadre d'une procédure de vérification de comptabilité ou
 de contrôle de revenu qu'après restitution des pièces ou de leur reproduction et mise en oeuvre des procédures de contrôle
-visées aux premier et deuxième alinéas de l'article L. 47.
+visées aux premier et deuxième alinéas de l'article L. 47. 
 
 7. Les dispositions des 1 à 6 peuvent être mises en oeuvre par les agents habilités à cet effet par le directeur général des
 finances publiques, pour la recherche et la constatation des infractions aux dispositions de l'article 290 quater et du III
@@ -2164,6 +2164,7 @@ compter de la date d'entrée en vigueur de la présente loi.
 
 	**Modifié par**:
 
+	  - Loi n°2011-94 du 25 janvier 2011 - art. 31
 	  - Loi n°2011-267 du 14 mars 2011 - art. 110
 
 	**Cite**:
@@ -2171,10 +2172,7 @@ compter de la date d'entrée en vigueur de la présente loi.
 	  - Code général des impôts, CGI. - art. 290 quater
 	  - Code général des impôts, CGI. - art. 298 bis
 	  - Livre des procédures fiscales - art. L103
-	  - Livre des procédures fiscales - art. L212 A
 	  - Livre des procédures fiscales - art. L47
-	  - Code de procédure pénale - art. 56
-	  - Code de procédure pénale - art. 58
 
 
 ##### Section III : Modalités d'exercice du droit de contrôle
@@ -2182,27 +2180,43 @@ compter de la date d'entrée en vigueur de la présente loi.
 ###### Article L45
 
 1. Les agents de l'administration des impôts peuvent assurer le contrôle et l'assiette de l'ensemble des impôts ou taxes dus
-par le contribuable qu'ils vérifient.
+par le contribuable qu'ils vérifient. 
 
 2. En matière d'impôts directs et de taxes assises sur les primes d'assurance, lorsque la situation d'un ou plusieurs
 contribuables présente un intérêt commun ou complémentaire pour plusieurs Etats membres de la Communauté européenne,
 l'administration peut convenir avec les administrations des autres Etats membres de procéder à des contrôles simultanés,
-chacune sur le territoire de l'Etat dont elle relève, en vue d'échanger les renseignements ainsi obtenus.
+chacune sur le territoire de l'Etat dont elle relève, en vue d'échanger les renseignements ainsi obtenus. 
+
+3. Les fonctionnaires des administrations des autres Etats membres de l'Union européenne dûment habilités par l'autorité
+requérante par un mandat écrit et autorisés par l'administration française peuvent, selon des modalités fixées par décret en
+Conseil d'Etat : 
+
+a) Etre présents dans les bureaux où les agents exécutent leurs tâches ; 
+
+b) Assister aux procédures administratives conduites sur le territoire français ; 
+
+c) Interroger les contribuables et leur demander des renseignements ; 
+
+d) Examiner des dossiers et recevoir des copies des informations recherchées. 
+
+Tout refus opposé par le contribuable à la présence de fonctionnaires des administrations des autres Etats membres dans le
+cadre des enquêtes prévues au 1 est considéré comme un refus opposé aux agents de l'administration et entraîne l'application,
+le cas échéant, des articles 1732 et 1734 du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 	**Cité par**:
 
 	  - Arrêté du 15 juillet 2015 (V)
 	  - Livre des procédures fiscales - art. L81 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1732 (V)
 
 
 ###### Article L45 B
@@ -2526,11 +2540,16 @@ contribuable présente ses observations ou accepte les rehaussements proposés, 
 l'article L. 57 ou dans la notification mentionnée à l'article L. 76, le montant des droits, taxes et pénalités résultant de
 ces rectifications. Lorsqu'à un stade ultérieur de la procédure de rectification contradictoire l'administration modifie les
 rehaussements, pour tenir compte des observations et avis recueillis au cours de cette procédure, cette modification est
-portée par écrit à la connaissance du contribuable avant la mise en recouvrement, qui peut alors intervenir sans délai.
+portée par écrit à la connaissance du contribuable avant la mise en recouvrement, qui peut alors intervenir sans délai. 
 
 Pour une société membre d'un groupe mentionné à l'article 223 A du code général des impôts, l'information prévue au premier
 alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forfaitaire annuelle et les pénalités
-correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe.
+correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe. 
+
+Pour l'assujetti membre d'un groupe mentionné à l'article 1693 ter du code général des impôts, l'information prévue au
+premier alinéa du présent article porte, en ce qui concerne la taxe sur la valeur ajoutée, les taxes, contributions et
+redevances mentionnées au 1 du même article 1693 ter et les pénalités correspondantes, sur les montants dont il serait
+redevable en l'absence d'appartenance au groupe. 
 
 Lorsqu'elle envisage d'accorder un échelonnement des mises en recouvrement des rappels de droits et pénalités consécutifs aux
 rectifications ou le bénéfice des dispositions visées au 3° de l'article L. 247, l'administration en informe les
@@ -2538,20 +2557,17 @@ contribuables dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 223 A
-	  - Livre des procédures fiscales - art. L247 (M)
-	  - Livre des procédures fiscales - art. L57 (M)
-	  - Livre des procédures fiscales - art. L76 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 50 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1693 ter (V)
+	  - Code général des impôts, CGI. - art. 223 A (VT)
+	  - Livre des procédures fiscales - art. L247 (V)
+	  - Livre des procédures fiscales - art. L57 (V)
+	  - Livre des procédures fiscales - art. L76 (V)
 
 	**Cité par**:
 
@@ -4694,16 +4710,15 @@ qu'après avoir garanti le montant de la taxation encourue.
 
 Le droit de communication permet aux agents de l'administration, pour l'établissement de l'assiette et le contrôle des
 impôts, d'avoir connaissance des documents et des renseignements mentionnés aux articles du présent chapitre dans les
-conditions qui y sont précisées.
+conditions qui y sont précisées. 
 
-Le droit prévu au premier alinéa s'exerce quel que soit le support utilisé pour la conservation des documents.
+Le droit prévu au premier alinéa s'exerce quel que soit le support utilisé pour la conservation des documents. 
 
 Le droit de communication est étendu, en ce qui concerne les documents mentionnés aux articles L. 83 à L. 95, au profit des
-agents des administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts.
+agents des administrations chargés du recouvrement des impôts, droits et taxes prévus par le code général des impôts. 
 
-**Nota:**
-
-Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
+Des fonctionnaires des administrations des autres Etats membres peuvent assister à l'exercice du droit de communication dans
+les conditions prévues au 3 de l'article L. 45.
 
 **Liens relatifs à cet article**
 
@@ -4731,15 +4746,7 @@ Ces dispositions entrent en vigueur à compter du 1er juillet 2003.
 
 	**Modifié par**:
 
-	  - Loi - art. 17 (V) JORF 31 décembre 2002 en vigueur le 1er juillet 2003
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2003
-
-	**Cite**:
-
-	  - Livre des procédures fiscales L83 à L95
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 
 ###### Article L81 A
@@ -5617,6 +5624,30 @@ l'administration, sur sa demande, les registres prévus à ces articles.
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R81-5 (V)
+
+
+##### 26° Agences immobilières
+
+###### Article L96 I
+
+Les personnes qui réalisent à titre habituel des opérations à caractère juridique, financier ou comptable relatives à des
+conventions de location ou de mise à disposition de biens mentionnés à l'article 1498 du code général des impôts doivent
+communiquer à l'administration fiscale, sur sa demande, les informations et tous les documents relatifs à la nature, au
+montant des loyers ainsi qu'aux caractéristiques des biens immobiliers faisant l'objet de ces conventions.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 34 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 34 (M)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1498 (V)
 
 
 ##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part
@@ -9026,6 +9057,30 @@ Ces résultats sont également communiqués aux commissaires du Gouvernement aup
 	  - Livre des procédures fiscales - art. L166 bis (T)
 
 
+##### 8° : Agence mentionnée à l'article L. 5311-1 du code de la santé publique
+
+###### Article L166 D
+
+L'administration chargée du recouvrement des taxes prévues aux articles 1600-0 N et 1600-0 O du code général des impôts
+transmet à l'agence mentionnée à l'article L. 5311-1 du code de la santé publique les  données collectées à partir des
+déclarations des redevables de ces  taxes, dans les conditions et suivant les modalités déterminées par  décret : le nom de
+l'établissement, l'identifiant SIRET, l'adresse de  l'établissement principal ou du siège du redevable et le montant
+acquitté pour chacune des taxes précitées. Les destinataires des  informations transmises sont astreints, pour les données
+dont ils ont à  connaître en application du présent article, au secret professionnel  sous les sanctions prévues à l'article
+226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1906 du 21 décembre 2011 - art. 26 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+	  - Livre des procédures fiscales - art. R166 D-1 (Ab)
+
+
 #### Chapitre IV : Les délais de prescription
 
 ###### Article L168
@@ -9576,7 +9631,7 @@ impôts.
 
 Pour les taxes sur le chiffre d'affaires, le droit de reprise de l'administration s'exerce jusqu'à la fin de la troisième
 année suivant celle au cours de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de l'article 269 du
-code général des impôts. 
+code général des impôts.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 deuxième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément au 2 de l'article 269 du code
@@ -9584,29 +9639,37 @@ général des impôts pour les contribuables dont les revenus bénéficient des 
 169 et pour les périodes pour lesquelles le service des impôts des entreprises a reçu une copie du compte rendu de mission
 prévu aux articles 1649 quater E et 1649 quater H du même code. Cette réduction de délai ne s'applique pas aux contribuables
 pour lesquels des pénalités autres que les intérêts de retard auront été appliquées sur les périodes d'imposition non
-prescrites visées au présent alinéa. 
+prescrites visées au présent alinéa.
 
 Par exception aux dispositions du premier alinéa, le droit de reprise de l'administration s'exerce jusqu'à la fin de la
 dixième année qui suit celle au titre de laquelle la taxe est devenue exigible conformément aux dispositions du 2 de
 l'article 269 du code général des impôts lorsque l'administration a dressé un procès-verbal de flagrance fiscale dans les
 conditions prévues à l'article L. 16-0 BA au titre d'une année postérieure ou lorsque le contribuable exerce une activité
-occulte. L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
+occulte.L'activité occulte est réputée exercée lorsque le contribuable n'a pas déposé dans le délai légal les déclarations
 qu'il était tenu de souscrire et soit n'a pas fait connaître son activité à un centre de formalités des entreprises ou au
-greffe du tribunal de commerce, soit s'est livré à une activité illicite. 
+greffe du tribunal de commerce, soit s'est livré à une activité illicite.
 
 Dans le cas où l'exercice ne correspond pas à une année civile, le délai part du début de la première période sur laquelle
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
-troisième année suivant celle au cours de laquelle se termine cette période. 
+troisième année suivant celle au cours de laquelle se termine cette période.
 
 Dans les cas prévus aux II et III de l'article 284 du code général des impôts, le droit de reprise de l'administration
 s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles est subordonné
 l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code ont cessé d'être remplies.
 
+La  taxe mentionnée sur les déclarations souscrites par les assujettis  membres d'un groupe mentionné à l'article 1693 ter du
+code général des  impôts qui a concouru à la détermination du crédit dont bénéficie le  redevable mentionné au 1 du même
+article en application du b du 3 dudit  article peut être remise en cause à hauteur du montant de ce crédit,  nonobstant les
+dispositions prévues aux premier et troisième alinéas du  présent article. 
+
+Si le groupe a cessé d'exister,  les règles définies à l'alinéa précédent demeurent applicables pour le  contrôle du crédit
+de taxe mentionné au dernier alinéa du même article  1693 ter A.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 65
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 50 (V)
 
 	**Cité par**:
 
@@ -9623,13 +9686,8 @@ l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code o
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1649 quater E (V)
-	  - Code général des impôts, CGI. - art. 1649 quater H (V)
-	  - Code général des impôts, CGI. - art. 269 (V)
-	  - Code général des impôts, CGI. - art. 278 sexies (V)
-	  - Code général des impôts, CGI. - art. 284 (V)
-	  - Livre des procédures fiscales - art. L16-0 BA (V)
-	  - Livre des procédures fiscales - art. L169 (V)
+	  - Code général des impôts, CGI. - art. 269
+	  - Code général des impôts, CGI. - art. 284
 
 
 ###### Article L177
@@ -9637,78 +9695,44 @@ l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code o
 En ce qui concerne la taxe sur la valeur ajoutée déductible dans les conditions fixées par l'article 271 du code général des
 impôts, les redevables doivent justifier du montant de la taxe déductible et du crédit de taxe dont ils demandent à
 bénéficier, par la présentation de documents même établis antérieurement à l'ouverture de la période soumise au droit de
-reprise de l'administration.
+reprise de l'administration. 
+
+Le premier alinéa s'applique aux assujettis membres du groupe mentionné à l'article 1693 ter du code général des impôts pour
+la justification de la taxe déductible et du crédit de taxe dont le redevable mentionné au 1 du même article a demandé à
+bénéficier.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 1968 2
-	  - Loi n°63-1316 1963-12-27 ART. 15 4
-	  - Loi n°66-10 1966-01-06 ART. 38, ART. 54
-	  - Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.
+	  - Décret n°81-859 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 50 (V)
 
 	**Cite**:
 
-	  - CGI 271
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
+	  - Code général des impôts, CGI. - art. 1693 ter (V)
+	  - Code général des impôts, CGI. - art. 271 (V)
 
 
 ##### Section III : Contributions indirectes
 
 ###### Article L178
 
-Pour les droits, taxes, redevances, soultes et autres impositions indirectes, le droit de reprise de l'administration
-s'exerce jusqu'à l'expiration de la première année suivant celle au cours de laquelle se situe le fait générateur de l'impôt.
+En matière de contributions indirectes et de réglementations se fondant sur les mêmes règles de procédure et de recouvrement,
+le délai de reprise de l'administration s'exerce jusqu'à la fin de la troisième année qui suit celle au titre de laquelle
+l'imposition est due.
 
-Toutefois, en ce qui concerne l'impôt sur les spectacles prévu à l'article 1559 du code général des impôts, le droit de
-reprise de l'administration s'exerce dans le délai fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires.
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 69 II : le présent article s'applique aux
+impositions dues à compter du 1er janvier 2012.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1559
-	  - Livre des procédures fiscales - art. L176 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2000
 
 	**Modifié par**:
-
-	  - Loi - art. 18 (V) JORF 31 décembre 1999
-	  - Loi - art. 30 () JORF 31 décembre 1999
-
-
-###### Article L178 A
-
-Pour les taxes, cotisations, redevances sur les céréales et produits dérivés, le droit de reprise de l'administration
-s'exerce jusqu'à l'expiration de la campagne suivant celle au cours de laquelle a été déposée la déclaration ou accomplie la
-formalité ayant permis d'asseoir, de calculer ou de liquider les sommes dues.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°63-1316 1963-12-27 aer. 48 JORF 29 DECEMBRE 1963
-
-	**Codifié par**:
-
-	  - Décret n°83-900 1983-10-06
-
-	**Liens**:
-
-	  - HISTO: Edition du 10 juillet 1983
-
-	**Abrogé par**:
 
 	  - Loi n°2011-1978 du 28 décembre 2011 - art. 69 (V)
 
@@ -11119,30 +11143,36 @@ de se soustraire à l'établissement et au paiement des impôts mentionnés par 
 
 Sous peine d'irrecevabilité, les plaintes tendant à l'application de sanctions pénales en matière d'impôts directs, de taxe
 sur la valeur ajoutée et autres taxes sur le chiffre d'affaires, de droits d'enregistrement, de taxe de publicité foncière et
-de droits de timbre sont déposées par l'administration sur avis conforme de la commission des infractions fiscales.
+de droits de timbre sont déposées par l'administration sur avis conforme de la commission des infractions fiscales. 
 
 La commission examine les affaires qui lui sont soumises par le ministre chargé du budget. Le contribuable est avisé de la
 saisine de la commission qui l'invite à lui communiquer, dans un délai de trente jours, les informations qu'il jugerait
-nécessaires.
+nécessaires. 
 
 Toutefois, la commission examine l'affaire sans que le contribuable soit avisé de la saisine ni informé de son avis lorsque
 le ministre chargé du budget fait valoir qu'existent des présomptions caractérisées qu'une infraction fiscale pour laquelle
-existe un risque de dépérissement des preuves résulte :
+existe un risque de dépérissement des preuves résulte : 
 
 1° Soit de l'utilisation, aux fins de se soustraire à l'impôt, de comptes ou de contrats souscrits auprès d'organismes
-établis dans un Etat ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en vue de
-lutter contre la fraude ou l'évasion fiscale entrée en vigueur au moment des faits et dont la mise en œuvre permet l'accès
-effectif à tout renseignement, y compris bancaire, nécessaire à l'application de la législation fiscale française ;
+établis dans un Etat ou territoire qui n'a pas conclu avec la France, depuis au moins trois ans au moment des faits, une
+convention d'assistance administrative permettant l'échange de tout renseignement nécessaire à l'application de la
+législation fiscale française ; 
 
 2° Soit de l'interposition, dans un Etat ou territoire mentionné au 1°, de personnes physiques ou morales ou de tout
-organisme, fiducie ou institution comparable ;
+organisme, fiducie ou institution comparable ; 
 
 3° Soit de l'usage d'une fausse identité ou de faux documents au sens de l'article 441-1 du code pénal, ou de toute autre
-falsification.
+falsification. 
 
-Le ministre est lié par les avis de la commission.
+Le ministre est lié par les avis de la commission. 
 
 Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commission.
+
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011 de finances rectificative pour 2011 article 58 II : le 1° de l'article L. 228 tel qu'il
+résulte de l'article 58-I 2° s'applique aux affaires soumises à compter du 1er janvier 2012 à la commission des infractions
+fiscales par le ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -11164,7 +11194,11 @@ Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commiss
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 58 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 441-1 (V)
 
 
 ###### Article L228 A
@@ -13424,51 +13458,46 @@ demandeur, celui-ci peut assigner devant le juge de l'exécution (1), le comptab
 
 ###### Article L283 A
 
-L'administration peut requérir des Etats membres de la Communauté européenne et est tenue de leur prêter assistance en
-matière de recouvrement et d'échange de renseignements relatifs à toutes les créances afférentes :
+I. - Au sens du présent livre, l'Etat membre requérant s'entend de l'Etat membre de l'Union européenne qui formule une
+demande d'assistance et l'Etat membre requis de l'Etat membre de l'Union européenne auquel cette demande est adressée.
 
-1° Aux cotisations et aux autres droits prévus dans le cadre de l'organisation commune des marchés dans le secteur du sucre ;
+II. - L'administration peut requérir des Etats membres de l'Union européenne et elle est tenue de leur prêter assistance en
+matière de recouvrement, de notification d'actes ou de décisions, y compris judiciaires, de prises de mesures conservatoires
+et d'échange de renseignements relatifs à toutes les créances afférentes :
 
-2° A la taxe sur la valeur ajoutée ;
+1° A l'ensemble des taxes, impôts et droits quels qu'ils soient, perçus par un Etat membre ou pour le compte de celui-ci ou
+par ses subdivisions territoriales ou administratives ou pour le compte de celles-ci, y compris les autorités locales, ou
+pour le compte de l'Union ;
 
-3° Aux droits d'accises sur :
+2° Aux sanctions, amendes, redevances et majorations administratives liées aux créances pouvant faire l'objet d'une demande
+d'assistance mutuelle conformément au 1° prononcées par les autorités administratives chargées de la perception des taxes,
+impôts ou droits concernés ou des enquêtes administratives y afférentes ou ayant été confirmées, à la demande desdites
+autorités administratives, par des organes administratifs ou judiciaires ;
 
-a. les tabacs manufacturés ;
+3° Aux redevances perçues pour les attestations et les documents similaires délivrés dans le cadre de procédures
+administratives relatives aux taxes, impôts et droits ;
 
-b. l'alcool et les boissons alcoolisées ;
+4° Aux intérêts et frais relatifs aux créances pouvant faire l'objet d'une demande d'assistance conformément aux 1° à 3°.
 
-4° Aux impôts sur le revenu et sur la fortune mentionnés au cinquième tiret de l'article 3 de la directive 76/308/CEE du
-Conseil, du 15 mars 1976, concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certains
-cotisations, droits, taxes et autres mesures ;
+III. - Sont exclus de cette assistance mutuelle :
 
-5° Aux taxes sur les primes d'assurances mentionnées au sixième tiret du même article ainsi qu'aux impôts et taxes de nature
-identique ou analogue qui viendraient s'ajouter à ces impôts ou taxes ou les remplacer ;
+1° Les cotisations sociales obligatoires dues à l'Etat membre ou à une de ses subdivisions ou aux organismes de sécurité
+sociale relevant du droit public ;
 
-6° Aux intérêts, aux pénalités, aux amendes administratives et aux frais relatifs aux créances visées aux 1° à 5°, à
-l'exclusion de toute sanction à caractère pénal.
+2° Les redevances qui ne sont pas mentionnées aux 2° et 3° du II ;
+
+3° Les droits de nature contractuelle, tels que la contrepartie versée pour l'exécution d'un service public ;
+
+4° Les sanctions pénales infligées sur la base de poursuites à la diligence du ministère public ou les autres sanctions
+pénales qui ne sont pas mentionnées au 2° du II.
+
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011, art. 59-V : les articles L. 283 A à L. 283 D du livre des procédures fiscales
+s'appliquent au recouvrement des créances étrangères à l'impôt, des amendes et condamnations pécuniaires recouvrées par les
+comptables de la direction générale des finances publiques, à l'exclusion des sanctions pénales.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CEE Directive 76/308 1976-03-15 Conseil art. 3
-
-	**Créé par**:
-
-	  - Loi - art. 42 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2002-1576 2002-12-30 art. 42 III
-	  - HISTO: Edition du 1er janvier 2003
-
-	**Codifié par**:
-
-	  - Décret n°2003-298 2003-03-31
-
-	**Modifié par**:
-
-	  - Décret n°2003-298 du 31 mars 2003 - art. 4 () JORF 2 avril 2003
 
 	**Cité par**:
 
@@ -13479,52 +13508,34 @@ l'exclusion de toute sanction à caractère pénal.
 	  - Livre des procédures fiscales - art. R283 A-1 (V)
 	  - Livre des procédures fiscales - art. R283 B-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
 
 ###### Article L283 B
 
-Le recouvrement des créances mentionnées à l'article L. 283 A est confié, selon la nature de la créance, aux comptables
-publics ou des douanes compétents en application du présent code.
+I. - L'administration compétente n'est pas tenue d'accorder l'assistance pour recouvrer ou prendre des mesures
+conservatoires, pour notifier des actes ou des décisions, y compris judiciaires, et pour fournir des renseignements lorsque
+la demande vise des créances exigibles depuis plus de cinq ans. Ce délai n'est pas opposable lorsqu'une première demande a
+été formulée avant cette échéance.
 
-L'administration compétente donne suite à la demande d'assistance au recouvrement d'un Etat membre de la Communauté
-européenne dès lors que : 
+II. - Les modalités de computation de ce délai sont les suivantes :
 
-1° Cette demande contient une déclaration certifiant que la créance ou le titre de recouvrement ne sont pas contestés dans
-l'Etat requérant et que les procédures de recouvrement appropriées mises en oeuvre dans cet Etat ne peuvent aboutir au
-paiement intégral de la créance ; 
+1° Lorsque la créance ou le titre de recouvrement initial font l'objet d'une contestation, le délai de cinq ans court à
+compter de la date à laquelle il a été définitivement statué sur la créance ou le titre de l'Etat requérant ;
 
-2° Le montant total de la créance ou des créances à la charge de la même personne est supérieur ou égal à 1 500 euros. 
+2° Lorsqu'un délai de paiement ou un paiement échelonné des créances a été accordé au redevable par l'Etat requérant, le
+délai de cinq ans court à compter de l'expiration du délai de paiement.
 
-Elle n'est pas tenue d'accorder l'assistance pour recouvrer la créance d'un Etat membre lorsque la demande initiale concerne
-des créances fondées sur un titre exécutoire établi depuis plus de cinq ans. Toutefois, si la créance ou le titre en cause
-font l'objet d'une contestation, le délai de cinq ans court à compter de la date à laquelle il a été définitivement statué
-sur la créance ou le titre de l'Etat requérant. 
+III. - Dans tous les cas, l'administration compétente n'est pas tenue d'accorder l'assistance lorsque la demande concerne des
+créances exigibles depuis plus de dix ans.
 
-Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance,
-l'administration compétente suspend le recouvrement de la créance jusqu'à la notification de la décision de l'instance
-compétente de l'Etat requérant, sauf si celui-ci la saisit d'une demande expresse de poursuite de la procédure de
-recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance contestée. 
+**Nota:**
 
-Les titres de recouvrement transmis par l'Etat membre requérant sont directement reconnus comme des titres exécutoires. Ils
-sont notifiés au débiteur. 
-
-Ces créances sont recouvrées selon les modalités applicables aux créances de même nature nées sur le territoire national,
-sous réserve des exceptions ci-après : 
-
-1° Elles ne bénéficient pas du privilège prévu aux articles 1920 à 1929 du code général des impôts ; 
-
-2° Les questions relatives à la prescription de l'action en recouvrement et au caractère interruptif ou suspensif des actes
-effectués par le comptable public pour le recouvrement des créances d'un autre Etat membre sont appréciées selon la
-législation de cet Etat.
-
-A la demande de l'Etat requérant, le comptable public compétent prend toutes mesures conservatoires utiles pour garantir le
-recouvrement de la créance de cet Etat. 
-
-Les administrations financières communiquent aux administrations des autres Etat membres, à leur demande, tous renseignements
-utiles pour le recouvrement de la créance, à l'exception de ceux qui ne pourraient être obtenus pour le recouvrement de leurs
-propres créances de même nature sur la base de la législation en vigueur. 
-
-Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel, ou dont la
-communication serait de nature à porter atteinte à la sécurité ou à l'ordre public français.
+Loi n° 2011-1978 du 28 décembre 2011, art. 59-V : les articles L. 283 A à L. 283 D du livre des procédures fiscales
+s'appliquent au recouvrement des créances étrangères à l'impôt, des amendes et condamnations pécuniaires recouvrées par les
+comptables de la direction générale des finances publiques, à l'exclusion des sanctions pénales.
 
 **Liens relatifs à cet article**
 
@@ -13542,12 +13553,160 @@ communication serait de nature à porter atteinte à la sécurité ou à l'ordre
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 97
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+
+###### Article L283 C
+
+I. ― Le recouvrement des créances, mentionnées à l'article L. 283 A, dont le montant est supérieur ou égal à 1 500 € et la
+prise de mesures conservatoires au titre des créances précitées issues des Etats membres de l'Union européenne sont confiés
+aux comptables publics compétents. 
+
+II. ― Ces créances sont recouvrées selon les modalités applicables aux créances de même nature nées sur le territoire
+national et les intérêts de retard courent à compter de la date de réception de la demande de recouvrement. 
+
+III. ― Si le recouvrement porte sur une créance qui n'a pas d'équivalent dans le système fiscal de l'autorité requise, la
+créance est recouvrée comme en matière d'impôt sur le revenu. 
+
+IV. ― Les créances mentionnées aux I et III ne bénéficient d'aucun privilège. 
+
+V. ― L'administration compétente donne suite à la demande d'assistance au recouvrement lorsque la créance a fait l'objet d'un
+titre de recouvrement. 
+
+VI. ― La demande d'assistance au recouvrement est accompagnée d'un instrument uniformisé établi par l'Etat membre requérant
+et permettant l'adoption de mesures exécutoires. Cet instrument reflète la substance du titre exécutoire initial. 
+
+Les informations minimales qu'il doit comporter sont fixées par voie réglementaire. 
+
+Cet instrument est transmis par l'Etat membre requérant. Il constitue le fondement unique des mesures de recouvrement et des
+mesures conservatoires qui sont prises pour garantir le recouvrement de la créance de cet Etat et il est directement reconnu
+comme un titre exécutoire. 
+
+VII. ― L'assistance au recouvrement est accordée pour autant que la créance ou le titre de recouvrement ne sont pas contestés
+dans l'Etat membre requérant et que les procédures de recouvrement appropriées ont été mises en œuvre dans cet Etat. 
+
+VIII. ― L'Etat membre requérant peut également demander l'assistance au recouvrement : 
+
+1° Lorsqu'il est manifeste qu'il n'existe pas d'actifs pouvant être recouvrés sur son territoire ou que les procédures de
+recouvrement ne peuvent aboutir au paiement intégral de la créance et qu'il dispose d'informations spécifiques indiquant que
+le redevable dispose d'actifs en France ; 
+
+2° Lorsque la mise en œuvre des procédures de recouvrement donne lieu à des difficultés ou à un coût disproportionnés pour
+l'Etat membre requérant. 
+
+IX. ― Dès qu'elle est informée par l'Etat membre requérant ou par le redevable du dépôt d'une contestation de la créance ou
+du titre, l'administration compétente suspend la procédure de recouvrement jusqu'à la notification de la décision de
+l'instance compétente de l'Etat membre requérant, sauf si celui-ci la saisit d'une demande expresse de poursuite de la
+procédure de recouvrement assortie d'une déclaration certifiant que son droit national lui permet de recouvrer la créance
+contestée. 
+
+X. ― A la demande de l'Etat membre requérant ou lorsqu'il l'estime nécessaire, le comptable public compétent prend toutes
+mesures conservatoires utiles pour garantir le recouvrement de la créance de cet Etat. 
+
+XI. ― L'administration compétente donne suite à une demande de prise de mesures conservatoires : 
+
+1° Lorsque la créance a fait l'objet d'un titre de recouvrement mais que la créance ou le titre de recouvrement sont
+contestés au moment où la demande est présentée ; 
+
+2° Lorsque la créance ne fait pas encore l'objet d'un titre de recouvrement, dans la mesure où la législation de l'Etat
+membre requérant permet de prendre des mesures conservatoires en l'absence d'un titre exécutoire. 
+
+XII. ― Les questions relatives à la prescription de l'action en recouvrement et au caractère interruptif ou suspensif des
+actes effectués par le comptable public pour le recouvrement des créances d'un autre Etat membre sont appréciées selon la
+législation de l'Etat requérant. 
+
+Lorsque la législation de l'Etat requis ne permet pas d'interrompre, de suspendre ou de proroger le délai de prescription,
+les actes effectués par l'administration de cet Etat sont réputés avoir les mêmes effets interruptifs ou suspensifs que s'ils
+avaient été accomplis dans l'Etat requérant. 
+
+Le présent XII s'applique sans préjudice de la possibilité pour l'Etat requérant de diligenter des actes destinés à
+interrompre, suspendre ou proroger le délai de prescription de l'action en recouvrement de ses créances.
+
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011, art. 59-V : les articles L. 283 A à L. 283 D du livre des procédures fiscales
+s'appliquent au recouvrement des créances étrangères à l'impôt, des amendes et condamnations pécuniaires recouvrées par les
+comptables de la direction générale des finances publiques, à l'exclusion des sanctions pénales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R283 C-1 (V)
+	  - Livre des procédures fiscales - art. R283 C-4 (V)
+	  - Livre des procédures fiscales - art. R283 C-5 (V)
+
+
+###### Article L283 D
+
+I. ― Les administrations financières communiquent aux administrations des autres Etats membres, à leur demande, toute
+information vraisemblablement pertinente pour le recouvrement des créances mentionnées aux 1° à 4° du II de l'article L. 283
+A, à l'exception de celle qui ne pourrait être obtenue pour le recouvrement de leurs propres créances de même nature sur la
+base de la législation en vigueur. 
+
+II. ― Elles ne peuvent fournir des renseignements qui révéleraient un secret commercial, industriel ou professionnel ou dont
+la communication serait de nature à porter atteinte à la sécurité ou à l'ordre publics. 
+
+Toutefois, les administrations financières ne peuvent refuser de fournir ces informations pour la seule raison qu'elles sont
+détenues par une banque, un autre établissement financier, une personne désignée ou agissant en qualité d'agent ou de
+fiduciaire ou qu'elles se rapportent à une participation au capital d'une personne. 
+
+III. ― Les informations échangées dans le cadre des dispositions des articles L. 283 A à L. 283 F ne peuvent être transmises
+qu'aux fins de mise en œuvre de mesures de recouvrement ou conservatoires portant sur les créances mentionnées aux 1° à 4° du
+II de l'article L. 283 A du présent livre. L'administration bénéficiaire de ces informations est soumise au secret
+professionnel dans les termes des articles 226-13 et 226-14 du code pénal. 
+
+IV. ― Les informations échangées dans le cadre des dispositions des articles L. 283 A à L. 283 F peuvent être invoquées ou
+utilisées comme preuve par les administrations financières.
+
+**Nota:**
+
+Loi n° 2011-1978 du 28 décembre 2011, art. 59-V : les articles L. 283 A à L. 283 D du livre des procédures fiscales
+s'appliquent au recouvrement des créances étrangères à l'impôt, des amendes et condamnations pécuniaires recouvrées par les
+comptables de la direction générale des finances publiques, à l'exclusion des sanctions pénales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1920 (VT)
-	  - Livre des procédures fiscales - art. L283 A (V)
+	  - Code pénal - art. 226-13 (V)
+
+
+###### Article L283 E
+
+En cas d'ouverture d'une procédure amiable entre les administrations financières de deux Etats membres de l'Union européenne
+relative à la répartition de la charge d'imposition, les mesures de recouvrement de la créance de l'Etat requérant sont
+suspendues ou interrompues jusqu'au terme de cette procédure, sans préjudice des éventuelles mesures conservatoires. 
+
+Toutefois, en cas de fraude ou d'organisation d'insolvabilité et lorsque l'urgence le commande, les mesures de recouvrement
+sont poursuivies.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+
+
+###### Article L283 F
+
+Les fonctionnaires des administrations des autres Etats membres dûment habilités par l'autorité requérante par un mandat
+écrit et autorisés par l'administration française peuvent assister les agents de l'administration dans le cadre des
+procédures judiciaires engagées en France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
 
 
 ### Titre V : Dispositions communes
@@ -17211,28 +17370,28 @@ registres des recettes plus de trois années au-delà de l'année courante.
 
 Le contribuable qui désire contester tout ou partie d'un impôt qui le concerne doit d'abord adresser une réclamation au
 service territorial, selon le cas, de l'administration des impôts ou de l'administration des douanes et droits indirects dont
-dépend le lieu de l'imposition.
+dépend le lieu de l'imposition. 
 
 Toutefois, en matière de droits d'enregistrement ou de taxe de publicité foncière, les réclamations relatives à la valeur
 vénale réelle d'immeubles, de fonds de commerce et des marchandises neuves qui en dépendent, de clientèles, de droits à un
 bail ou au bénéfice d'une promesse de bail portant sur tout ou partie d'un immeuble, de navires et de bateaux, sont adressées
-au service du lieu de situation des biens ou d'immatriculation des navires et bateaux.
+au service du lieu de situation des biens ou d'immatriculation des navires et bateaux. 
 
 Lorsque des biens ne formant qu'une seule exploitation sont situés sur plusieurs circonscriptions, le service compétent est
 celui de la circonscription sur le territoire de laquelle se trouve le siège de l'exploitation ou, à défaut de siège, la
-partie des biens présentant le plus grand revenu d'après la matrice cadastrale.
+partie des biens présentant le plus grand revenu d'après la matrice cadastrale. 
 
 Lorsque l'imposition contestée a été établie à l'initiative d'une direction des services fiscaux ou d'une direction des
 services déconcentrés de la direction générale des douanes et droits indirects autre que celle dont dépend le lieu de
 l'imposition, d'une direction spécialisée ou d'un service à compétence nationale, la réclamation est adressée au directeur
-chargé de cette direction ou de ce service.
+chargé de cette direction ou de ce service. 
 
 Les entreprises mentionnées aux deuxième à septième alinéas du I de l'article 1649 quater B quater du code général des impôts
 adressent au service chargé des grandes entreprises l'ensemble des réclamations portant sur les impôts qui relèvent de sa
-compétence ainsi que sur les dégrèvements prévus en matière de taxe professionnelle aux articles 1647 bis et 1647 B sexies,
-quelle que soit la période sur laquelle portent ces réclamations. Toutefois, les réclamations portant sur une imposition dont
-l'assiette a été établie à l'initiative d'une direction des services fiscaux, d'une direction spécialisée ou d'un autre
-service à compétence nationale sont adressées à cette direction ou à ce service.
+compétence ainsi que sur les dégrèvements prévus            aux articles 1647 bis, 1647 B sexies, 1647 C quinquies B et 1647
+C quinquies C, quelle que soit la période sur laquelle portent ces réclamations. Toutefois, les réclamations portant sur une
+imposition dont l'assiette a été établie à l'initiative d'une direction des services fiscaux, d'une direction spécialisée ou
+d'un autre service à compétence nationale sont adressées à cette direction ou à ce service. 
 
 Les réclamations font l'objet d'un récépissé adressé au contribuable.
 
@@ -17244,11 +17403,7 @@ Les réclamations font l'objet d'un récépissé adressé au contribuable.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1025 du 21 août 2006 - art. 1 () JORF 22 août 2006
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -17464,33 +17619,31 @@ double emploi.
 
 ###### Article R*196-2
 
-Pour être recevables, les réclamations relatives aux impôts directs locaux et aux taxes annexes, doivent être présentées à
-l'administration des impôts au plus tard le 31 décembre de l'année suivant, selon le cas :
+Pour être recevables, les réclamations relatives aux impôts directs locaux et aux taxes annexes doivent être présentées à
+l'administration des impôts au plus tard le 31 décembre de l'année suivant celle, selon le cas : 
 
-a) L'année de la mise en recouvrement du rôle ;
+a) De la mise en recouvrement du rôle ou de la notification d'un avis de mise en recouvrement ; 
 
-b) L'année de la réalisation de l'événement qui motive la réclamation ;
+b) De la réalisation de l'événement qui motive la réclamation ; 
 
-c) L'année de la réception par le contribuable d'un nouvel avis d'imposition réparant les erreurs d'expédition que contenait
-celui adressé précédemment ;
+c) De la réception par le contribuable d'un nouvel avis d'imposition réparant les erreurs d'expédition que contenait celui
+adressé précédemment ; 
 
-d) L'année au cours de laquelle le contribuable a eu connaissance certaine de cotisations d'impôts directs établies à tort ou
-faisant double emploi.
+d) Au cours de laquelle le contribuable a eu connaissance certaine de cotisations d'impôts directs établies à tort ou faisant
+double emploi ; 
+
+e) Du versement de l'impôt contesté lorsque cet impôt n'a pas donné lieu à l'établissement d'un rôle ou à la notification
+d'un avis de mise en recouvrement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1932 1 (P.)
-	  - CGI 1932 2 (P.)
-
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°93-1095 du 16 septembre 1993
 
 	**Modifié par**:
 
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1992
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -17780,28 +17933,24 @@ la vérification. Aucune déclaration n'est recevable après la clôture du proc
 A l'exception de celles qui concernent les impôts sur les revenus et taxes accessoires à ces impôts, ainsi que la taxe pour
 frais de chambre de métiers et de l'artisanat et les amendes fiscales, les réclamations en matière d'impôts directs sont
 communiquées, pour avis, au maire ou à la commission communale des impôts directs prévue à l'article 1650 du code général des
-impôts, lorsque le litige porte sur une question de fait.
+impôts, lorsque le litige porte sur une question de fait. 
 
-Elles sont communiquées au maire seul lorsqu'elles concernent la taxe foncière ou la taxe professionnelle et à la commission
-communale dans les autres cas.
+Elles sont communiquées au maire seul lorsqu'elles concernent la taxe foncière, la taxe professionnelle ou la cotisation
+foncière des entreprises et à la commission communale dans les autres cas.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1650
-
 	**Codifié par**:
 
-	  - Décret n°2006-357 2006-03-24
+	  - Décret n°2006-357 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-357 du 24 mars 2006 - art. 2 () JORF 26 mars 2006
+	  - Décret n°2011-2064 du 30 décembre 2011 - art. 2
 
-	**Liens**:
+	**Cite**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code général des impôts, CGI. - art. 1650 (V)
 
 	**Cité par**:
 
