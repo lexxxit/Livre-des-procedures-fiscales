@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-01-21
+Version Consolidée au 2012-02-16
 
 # Partie législative
 
@@ -22214,7 +22214,7 @@ d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'ar
 
 ― du chef du service juridique de la fiscalité ou de son représentant ; 
 
-― du sous-directeur de la sous-direction du contrôle fiscal ou de son représentant ; 
+― du          chef du service du contrôle fiscal ou de son représentant ; 
 
 ― du directeur en charge de la direction des vérifications nationales et internationales ou de son représentant ; 
 
@@ -22225,9 +22225,9 @@ Chaque représentant a au moins le grade de directeur divisionnaire des impôts 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 8 janvier 2010 - art. 1
+	  - Arrêté du 7 février 2012 - art. 1
 
 	**Cite**:
 
