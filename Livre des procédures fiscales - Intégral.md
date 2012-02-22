@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-02-16
+Version Consolidée au 2012-02-23
 
 # Partie législative
 
@@ -20222,6 +20222,51 @@ Les frais d'assiette et de recouvrement perçus par l'Etat sur les pénalités r
 
 ##### Section I : Modalités de recouvrement et mesures préalables aux poursuites
 
+###### Article R*256-1
+
+L'avis de mise en recouvrement prévu à l'article L. 256 indique pour chaque impôt ou taxe le montant global des droits, des
+pénalités et des intérêts de retard qui font l'objet de cet avis. 
+
+L'avis de mise en recouvrement mentionne également que d'autres intérêts de retard pourront être liquidés après le paiement
+intégral des droits. 
+
+Lorsque l'avis de mise en recouvrement est consécutif à une procédure de rectification, il fait référence à la proposition
+prévue à l'article L. 57 ou à la notification prévue à l'article L. 76 et, le cas échéant, au document adressé au
+contribuable l'informant d'une modification des droits, taxes et pénalités résultant des rectifications. 
+
+Lorsqu'en application des dispositions de l'article 223 A du code général des impôts la société mère d'un groupe est amenée à
+supporter les droits et pénalités résultant d'une procédure de rectification suivie à l'égard d'une ou de plusieurs sociétés
+du groupe, l'administration adresse à la société mère, préalablement à la notification de l'avis de mise en recouvrement
+correspondant, un document l'informant du montant global par impôt des droits, des pénalités et des intérêts de retard dont
+elle est redevable. L'avis de mise en recouvrement, qui peut être alors émis sans délai, fait référence à ce document. 
+
+Les dispositions de l'alinéa précédent sont applicables au redevable du groupe mentionné à l'article 1693 ter du code général
+des impôts, lorsqu'il est amené à supporter les droits et pénalités résultant d'une procédure de rectification suivie à
+l'égard d'un ou plusieurs membres du groupe. 
+
+L'avis de mise en recouvrement, dans le cas mentionné au troisième alinéa de l'article L. 256, indique seulement le montant
+de la somme indûment versée, et la date de son versement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2012-239 du 20 février 2012 (V)
+	  - Décret n°2015-964 du 31 juillet 2015 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-239 du 20 février 2012 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1693 ter (V)
+	  - Code général des impôts, CGI. - art. 223 A (VT)
+	  - Livre des procédures fiscales - art. L256 (V)
+	  - Livre des procédures fiscales - art. L57 (V)
+	  - Livre des procédures fiscales - art. L76 (V)
+
+
 ###### Article R*256-2
 
 Lorsque le comptable poursuit le recouvrement d'une créance à l'égard de débiteurs tenus conjointement ou solidairement au
@@ -20496,46 +20541,6 @@ Les effets de cette compensation peuvent être contestés dans les formes et dé
 	  - Livre des procédures fiscales - art. L257 B
 	  - Livre des procédures fiscales - art. L281
 	  - Livre des procédures fiscales - art. R*281-1
-
-
-##### II : Impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes et droits indirects
-
-###### Article R*256-1
-
-L'avis de mise en recouvrement prévu à l'article L. 256 indique pour chaque impôt ou taxe le montant global des droits, des
-pénalités et des intérêts de retard qui font l'objet de cet avis.
-
-L'avis de mise en recouvrement mentionne également que d'autres intérêts de retard pourront être liquidés après le paiement
-intégral des droits.
-
-Lorsque l'avis de mise en recouvrement est consécutif à une procédure de rectification, il fait référence à la proposition
-prévue à l'article L. 57 ou à la notification prévue à l'article L. 76 et, le cas échéant, au document adressé au
-contribuable l'informant d'une modification des droits, taxes et pénalités résultant des rectifications.
-
-Lorsqu'en application des dispositions de l'article 223 A du code général des impôts la société mère d'un groupe est amenée à
-supporter les droits et pénalités résultant d'une procédure de rectification suivie à l'égard d'une ou de plusieurs sociétés
-du groupe, l'administration adresse à la société mère, préalablement à la notification de l'avis de mise en recouvrement
-correspondant, un document l'informant du montant global par impôt des droits, des pénalités et des intérêts de retard dont
-elle est redevable. L'avis de mise en recouvrement, qui peut être alors émis sans délai, fait référence à ce document.
-
-L'avis de mise en recouvrement, dans le cas mentionné au troisième alinéa de l'article L. 256, indique seulement le montant
-de la somme indûment versée, et la date de son versement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 223 A
-	  - CGI Livre des procédures fiscales L256, L57, L76
-
-	**Modifié par**:
-
-	  - Décret n°2011-1302 du 14 octobre 2011 - art. 5
-
-	**Cité par**:
-
-	  - Décret n°2012-239 du 20 février 2012 (V)
-	  - Décret n°2015-964 du 31 juillet 2015 (V)
 
 
 ##### Section II : Exercice des poursuites
