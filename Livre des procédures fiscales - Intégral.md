@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-02-23
+Version Consolidée au 2012-03-01
 
 # Partie législative
 
@@ -7055,10 +7055,17 @@ alimentaire les renseignements mentionnés à l'article L. 151.
 
 ###### Article L133
 
-Les maires ou les présidents des organes délibérants des établissements publics mentionnés à l'article 1635 bis B du code
-général des impôts, peuvent recevoir de l'administration fiscale communication du montant des sommes dues et payées soit à la
-commune, soit à l'établissement public, par chaque redevable de la taxe locale d'équipement, ainsi que du montant du
-versement en cas de dépassement du plafond légal de densité mentionné à l'article L. 112-2 du code de l'urbanisme.
+Les maires ou les présidents des organes délibérants des établissements publics, peuvent recevoir de l'administration fiscale
+communication du montant des sommes dues et payées soit à la commune, soit à l'établissement public, par chaque redevable de
+la taxe d'aménagement, ainsi que du montant du versement en cas de dépassement du plafond légal de densité mentionné à
+l'article L. 112-2 du code de l'urbanisme et du versement pour sous-densité prévu par les articles L. 331-36 et L. 331-38 du
+même code.
+
+**Nota:**
+
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 III H : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012
+relatives à une demande ou déclaration préalable déposée avant cette date.
 
 **Liens relatifs à cet article**
 
@@ -7068,13 +7075,13 @@ versement en cas de dépassement du plafond légal de densité mentionné à l'a
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 87
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1635 bis B (V)
-	  - Code de l'urbanisme - art. L112-2 (V)
+	  - Code de l'urbanisme - art. L112-2
+	  - Code de l'urbanisme - art. L331-16 (V)
+	  - Code de l'urbanisme - art. L331-38 (V)
 
 
 ###### Article L134
@@ -12043,45 +12050,6 @@ litige devant le tribunal compétent, celui-ci fixe le taux des majorations ou p
 	  - HISTO: Edition du 1er juillet 1981
 
 
-##### Les taxes d'urbanisme
-
-###### Article L251 A
-
-I. Les assemblées délibérantes des collectivités territoriales ou établissements publics au profit desquels sont perçus les
-taxes et versements visés aux articles 1585 A, 1599-0 B, 1599 B, 1599 octies et 1723 octies du code général des impôts
-peuvent accorder la remise gracieuse des pénalités liquidées à défaut de paiement à la date d'exigibilité.
-
-II. Les décisions des assemblées délibérantes sont prises sur proposition du comptable public chargé du recouvrement et dans
-des conditions fixées par décret en conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1585 A, 1599-0 B, 1599 B, 1599 octies, 1723 octies
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 202, XXXIX JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 du 21 mai 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. R*251 A-1 (VT)
-
-
 ### Titre IV : Le recouvrement de l'impôt
 
 #### Chapitre premier : Les procédures de recouvrement
@@ -12293,23 +12261,16 @@ s'appliquent à l'impôt de solidarité sur la fortune dû à compter de l'anné
 
 ###### Article L255 A
 
-Les taxes, versements et participations prévus aux articles 1585 A et 1599 octies du code général des impôts et les taxes
-mentionnées au 1° de l'article L. 332-6-1 du code de l'urbanisme sont assis, liquidés et recouvrés en vertu d'un titre de
-recette individuel ou collectif délivré par le directeur départemental de l'équipement ou, dans des conditions fixées par
-décret en Conseil d'Etat, soit par le maire compétent pour délivrer les permis de construire ou d'aménager et pour se
-prononcer sur les projets faisant l'objet d'une déclaration préalable au nom de la commune en application de l'article L.
-422-1 du code de l'urbanisme, soit par le président de l'établissement public de coopération intercommunale, dans les
-communes ayant délégué à cet établissement public, en application de l'article L. 422-3 du même code, la compétence pour
-délivrer les permis de construire ou d'aménager et pour se prononcer sur les projets faisant l'objet d'une déclaration
-préalable, et pendant la durée de cette délégation.
+Les parts communale, départementale et régionale de la taxe d'aménagement prévues par les articles L. 331-1 à L. 331-4 du
+code de l'urbanisme et le versement pour sous-densité prévu par les articles L. 331-36 et L. 331-38 du même code sont assis,
+liquidés et recouvrés en vertu d'un titre de recettes individuel ou collectif délivré par le responsable chargé de
+l'urbanisme dans le département. Ce responsable peut déléguer sa signature aux agents placés sous son autorité.
 
-L'autorité précitée peut déléguer sa signature aux agents placés sous son autorité. 
+**Nota:**
 
-Dans les cas où la commune est compétente pour liquider les taxes d'urbanisme en vertu du premier alinéa et si le
-bénéficiaire est un établissement public de coopération intercommunale en vertu de l'article 1635 bis B du code général des
-impôts ou de l'article L. 5215-32-9 du code général des collectivités territoriales, la commune fournit à cet établissement,
-à sa demande, un état des taxes liquidées et des permis de construire correspondants ainsi que le détail des calculs
-d'assiette et de liquidation, en amont du recouvrement par le comptable du public compétent.
+Loi n° 2010-1658 du 29 décembre 2010 art. 28 III H : Ces dispositions sont applicables aux demandes d'autorisations et aux
+déclarations préalables déposées à compter du 1er mars 2012, y compris aux modifications ultérieures au 1er mars 2012
+relatives à une demande ou déclaration préalable déposée avant cette date.
 
 **Liens relatifs à cet article**
 
@@ -12322,15 +12283,14 @@ d'assiette et de liquidation, en amont du recouvrement par le comptable du publi
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 102 (V)
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1599 octies (V)
-	  - Code de l'urbanisme - art. L332-6-1, v. 8.1 (V)
-	  - Code de l'urbanisme - art. L422-1 (V)
-	  - Code de l'urbanisme - art. L422-3 (V)
+	  - Code de l'urbanisme - art. L331-1 (V)
+	  - Code de l'urbanisme - art. L331-36 (V)
+	  - Code de l'urbanisme - art. L331-38 (V)
 
 
 ###### Article L256
@@ -13044,80 +13004,6 @@ sont déchus de tous droits et de toute  action contre ce redevable.
 	**Modifié par**:
 
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-
-###### Article L274 A
-
-En ce qui concerne la taxe locale d'équipement, l'action en recouvrement de l'administration s'exerce jusqu'à l'expiration de
-la quatrième année suivant celle au cours de laquelle soit le permis de construire a été délivré ou la déclaration de
-construction déposée, soit le procès-verbal constatant une infraction a été établi.
-
-Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février 1994
-portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement est
-prolongé d'un an.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales L184
-
-	**Cite**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 11
-
-	**Codifié par**:
-
-	  - Décret n°95-1282 1995-12-11
-
-	**Modifié par**:
-
-	  - Décret n°95-1282 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
-
-
-###### Article L274 B
-
-En ce qui concerne le versement pour dépassement du plafond légal de densité, l'action en recouvrement de l'administration
-s'exerce jusqu'à l'expiration de la quatrième année suivant celle au cours de laquelle le permis de construire a été délivré
-ou considéré comme tacitement accordé.
-
-Lorsque la validité du permis de construire est prorogée en application de l'article 11 de la loi n° 94-112 du 9 février 1994
-portant diverses dispositions en matière d'urbanisme et de construction, le délai d'exercice de l'action en recouvrement est
-prolongé d'un an.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°95-1282 du 11 décembre 1995
-
-	**Modifié par**:
-
-	  - Décret n°95-1282 du 11 décembre 1995 - art. 1 () JORF 13 décembre 1995
-
-	**Liens**:
-
-	  - HISTO: Edition du 27 octobre 1995
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 28 (V)
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales L184
-
-	**Cite**:
-
-	  - Loi n°94-112 du 9 février 1994 - art. 11
 
 
 ###### Article L275 A
@@ -20086,134 +19972,6 @@ Modification effectuée en conséquence de l'article 55-IV [B et C] de la loi n�
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L247
-
-
-##### Les taxes d'urbanisme
-
-###### Article R*251 A-1
-
-La remise gracieuse des pénalités liquidées à défaut de paiement à la date d'exigibilité des taxes et versements mentionnés à
-l'article L. 251 A peut être totale ou partielle.
-
-Elle est subordonnée au paiement intégral de ces taxes et versements et peut être assortie de conditions relatives au
-paiement du principal fixées par l'assemblée délibérante de la collectivité territoriale ou de l'établissement public
-bénéficiaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 du 21 mai 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L251 A
-
-
-###### Article R*251 A-2
-
-La proposition de décision formulée par le comptable chargé du recouvrement est motivée. Y sont joints la demande de remise
-des pénalités formulée par le redevable et un bordereau de la situation du recouvrement indiquant les dates et montants des
-recouvrements opérés sur les taxes et versements, les dates et montants des pénalités appliquées, les dates des tentatives de
-recouvrement amiable ou forcé effectuées par le comptable au titre de ces pénalités, et le montant des recouvrements obtenus.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 202, XXXIX JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 du 21 mai 2001
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-
-###### Article R*251 A-3
-
-Il ne peut être accordé de remise gracieuse pour un montant inférieur à celui fixé par l'article 1965 L du code général des
-impôts. Ce montant s'apprécie par taxe ou versement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1965 L
-
-	**Modifié par**:
-
-	  - Loi n°2000-1208 2000-12-13 art. 202, XXXIX JORF 14 décembre 2000
-	  - Loi n°2000-1208 du 13 décembre 2000 - art. 202 () JORF 14 décembre 2000
-
-	**Codifié par**:
-
-	  - Décret n°2001-436 2001-05-21
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-
-###### Article R*251 A-4
-
-Les décisions des collectivités territoriales ou établissements publics sont transmises au comptable chargé du recouvrement
-pour notification au débiteur.
-
-L'absence de décision dans un délai de quatre mois à compter de la réception de la proposition du comptable vaut rejet de la
-demande.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°96-628 du 15 juillet 1996 - art. 4 (V) JORF 17 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-662 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-
-###### Article R*251 A-5
-
-Les frais d'assiette et de recouvrement perçus par l'Etat sur les pénalités remises ne sont pas restitués.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°96-628 du 15 juillet 1996 - art. 5 (V) JORF 17 juillet 1996
-
-	**Codifié par**:
-
-	  - Décret n°97-662 1997-05-28
-
-	**Abrogé par**:
-
-	  - Décret n°2012-87 du 25 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - HISTO: Edition du 11 avril 1997
 
 
 ### Titre IV : Le recouvrement de l'impôt
