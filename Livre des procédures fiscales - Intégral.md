@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-03-01
+Version Consolidée au 2012-03-16
 
 # Partie législative
 
@@ -6481,14 +6481,14 @@ collectivités, services, organismes publics et autres personnes dans les cas pr
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, 
 L. 127, L. 130, L. 135, 
 L. 135 B, L. 135 D, L. 135 E, L. 135 F, 
-L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, L. 152 A, L. 158, L. 158 A, L. 163 et L. 166 sont eux-mêmes soumis
-au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
+L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, L. 152, L. 152 A, L. 158, L. 158 A, L. 163, L. 166 et L. 166 D sont
+eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+	  - Loi n°2012-354 du 14 mars 2012 - art. 18
 
 	**Cité par**:
 
@@ -6508,7 +6508,6 @@ au secret professionnel dans les termes des articles 226-13 et 226-14 du code p�
 	  - Livre des procédures fiscales - art. L135 H
 	  - Livre des procédures fiscales - art. L152 A
 	  - Livre des procédures fiscales - art. L158
-	  - Livre des procédures fiscales - art. L163
 	  - Code pénal - art. 226-13
 
 
@@ -8613,10 +8612,15 @@ l'institution mentionnée à l'article L. 5312-1 du code du travail les informat
 
 4° à la détermination de l'assiette et du montant des cotisations et contributions ainsi qu'à leur recouvrement ; 
 
-5° Au recouvrement des prestations indûment versées. 
+5° Au recouvrement des prestations indûment versées ;
+
+6° A l'appréciation des conditions d'ouverture et de maintien des prestations versées dans le cadre de leur mission légale en
+matière d'action sanitaire et sociale ; 
+
+7° Au calcul des prestations versées dans le cadre de leur mission légale en matière d'action sanitaire et sociale.
 
 Le numéro d'inscription au répertoire national d'identification des personnes physiques peut être utilisé pour les demandes,
-échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 5°, lorsqu'elles concernent des
+échanges et traitements nécessaires à la communication des informations mentionnées aux 1° à 7°, lorsqu'elles concernent des
 personnes physiques. 
 
 Dans le but de contrôler les conditions d'ouverture, de maintien ou d'extinction des droits aux prestations de sécurité
@@ -8659,7 +8663,7 @@ spéciaux, au régime agricole de sécurité sociale ou à l'assurance chômage.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 92
+	  - Loi n°2012-354 du 14 mars 2012 - art. 18
 
 	**Cite**:
 
@@ -9064,23 +9068,42 @@ Ces résultats sont également communiqués aux commissaires du Gouvernement aup
 	  - Livre des procédures fiscales - art. L166 bis (T)
 
 
-##### 8° : Agence mentionnée à l'article L. 5311-1 du code de la santé publique
+##### 8° : Agence nationale de sécurité du médicament et des produits de santé
 
 ###### Article L166 D
 
-L'administration chargée du recouvrement des taxes prévues aux articles 1600-0 N et 1600-0 O du code général des impôts
-transmet à l'agence mentionnée à l'article L. 5311-1 du code de la santé publique les  données collectées à partir des
-déclarations des redevables de ces  taxes, dans les conditions et suivant les modalités déterminées par  décret : le nom de
-l'établissement, l'identifiant SIRET, l'adresse de  l'établissement principal ou du siège du redevable et le montant
-acquitté pour chacune des taxes précitées. Les destinataires des  informations transmises sont astreints, pour les données
-dont ils ont à  connaître en application du présent article, au secret professionnel  sous les sanctions prévues à l'article
-226-13 du code pénal.
+L'administration chargée du recouvrement des taxes prévues aux 
+articles 1600-0 N et 1600-0 O du code général des impôts
+transmet à l'agence mentionnée à l'
+article L. 5311-1 du code de la santé publique
+les données collectées à partir des déclarations des redevables de ces taxes, dans les conditions et suivant les modalités
+déterminées par décret : le nom de l'établissement, l'identifiant SIRET, l'adresse de l'établissement principal ou du siège
+du redevable et le montant acquitté pour chacune des taxes précitées. Les destinataires des informations transmises sont
+astreints, pour les données dont ils ont à connaître en application du présent article, au secret professionnel sous les
+sanctions prévues à l'
+article 226-13 du code pénal
+. 
+
+L'administration chargée du recouvrement du droit prévu à l'
+article 1635 bis AE du code général des impôts
+et l'agence mentionnée à l'
+article L. 5311-1 du code de la santé publique
+se transmettent spontanément ou sur demande les informations relatives aux droits perçus au titre de l'
+article 1635 bis AE du code général des impôts
+et aux quittances établies conformément à ce même article 1635 bis AE.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-1906 du 21 décembre 2011 - art. 26 (V)
+	  - Loi n°2012-354 du 14 mars 2012 - art. 18
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1600-0 N
+	  - Code général des impôts, CGI. - art. 1635 bis AE
+	  - Code pénal - art. 226-13
+	  - Code de la santé publique - art. L5311-1
 
 	**Cité par**:
 
