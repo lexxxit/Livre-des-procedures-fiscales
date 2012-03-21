@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-03-16
+Version Consolidée au 2012-03-22
 
 # Partie législative
 
@@ -17336,6 +17336,32 @@ sens de l'article 44 sexies-0 A du code général des impôts au titre d'un ou d
 	  - Code général des impôts, CGI. - art. 44 sexies-0 A (V)
 	  - Code rural - art. L724-7 (V)
 	  - Code de la sécurité sociale. - art. L243-7 (V)
+
+
+##### VII : Dérogations au profit d'organismes divers
+
+##### 8° : Agence nationale de sécurité du médicament et des produits de santé
+
+###### Article R166 D-1
+
+Les données mentionnées à l'article L. 166 D collectées à partir des déclarations des redevables sont transmises, chaque
+année, par l'administration chargée du recouvrement des taxes prévues aux articles 1600-0 N et 1600-0 O du code général des
+impôts à l'agence mentionnée à l'article L. 5311-1 du code de la santé publique sur support électronique dans des conditions
+permettant de garantir leur confidentialité. 
+
+Un protocole entre l'agence et l'administration chargée du recouvrement détermine la nature du support et le format des
+données transmises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-381 du 19 mars 2012 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1600-0 N
+	  - Code de la santé publique - art. L5311-1
 
 
 #### Chapitre IV : Les délais de prescription
