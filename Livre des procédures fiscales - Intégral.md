@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-03-22
+Version Consolidée au 2012-03-24
 
 # Partie législative
 
@@ -5075,26 +5075,27 @@ cet article, l'administration peut utiliser ces informations pour l'exercice de 
 ###### Article L85
 
 Les contribuables doivent communiquer à l'administration, sur sa demande, les livres dont la tenue est rendue obligatoire par
-les articles L123-12 à L123-28 du code de commerce ainsi que tous les livres et documents annexes, pièces de recettes et de
-dépenses.
+les articles L. 123-12 à L. 123-28 du code de commerce ainsi que tous les livres et documents annexes, pièces de recettes et
+de dépenses. 
 
-A l'égard des sociétés, le droit de communication porte également sur les registres de transfert d'actions et d'obligations
-et sur les feuilles de présence aux assemblées générales.
+A l'égard des sociétés, le droit de communication porte également sur le rapport de gestion mentionné à l'article L. 232-1 du
+code de commerce, ainsi que sur les registres de transfert d'actions et d'obligations et sur les feuilles de présence aux
+assemblées générales.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18 art. 4, I, 1 JORF 21 septembre 2000
-	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 1 (V) JORF 21 septembre 2000
-
 	**Codifié par**:
 
-	  - Décret n°2001-436 2001-05-21
+	  - Décret n°2001-436 du 21 mai 2001
+
+	**Modifié par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 9
 
 	**Cite**:
 
-	  - Code de commerce L123-12 à L123-28
+	  - Code de commerce - art. L123-12
+	  - Code de commerce - art. L232-1
 
 	**Cité par**:
 
@@ -5108,10 +5109,6 @@ et sur les feuilles de présence aux assemblées générales.
 	  - Code monétaire et financier - art. L755-13 (MMN)
 	  - Livre des procédures fiscales - art. R*85-1 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
 
 
 ##### 6° bis : Personnes versant des revenus de capitaux  mobiliers
@@ -6480,15 +6477,16 @@ collectivités, services, organismes publics et autres personnes dans les cas pr
 
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, 
 L. 127, L. 130, L. 135, 
-L. 135 B, L. 135 D, L. 135 E, L. 135 F, 
-L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, L. 152, L. 152 A, L. 158, L. 158 A, L. 163, L. 166 et L. 166 D sont
-eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
+L. 135 B, L. 135 D, L. 135 F, 
+L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 136, L. 139 A, 
+L. 152, L. 152 A, L. 158, L. 158 A, L. 163, 
+L. 166 et L. 166 D sont eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-354 du 14 mars 2012 - art. 18
+	  - Loi n°2012-387 du 22 mars 2012 - art. 112
 
 	**Cité par**:
 
@@ -6506,8 +6504,16 @@ eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et
 	  - Livre des procédures fiscales - art. L135 B
 	  - Livre des procédures fiscales - art. L135 D
 	  - Livre des procédures fiscales - art. L135 H
+	  - Livre des procédures fiscales - art. L135 J (V)
+	  - Livre des procédures fiscales - art. L135 O (VT)
+	  - Livre des procédures fiscales - art. L136 (V)
+	  - Livre des procédures fiscales - art. L139 A (V)
+	  - Livre des procédures fiscales - art. L152 (V)
 	  - Livre des procédures fiscales - art. L152 A
 	  - Livre des procédures fiscales - art. L158
+	  - Livre des procédures fiscales - art. L163 (V)
+	  - Livre des procédures fiscales - art. L166 (V)
+	  - Livre des procédures fiscales - art. L166 D (V)
 	  - Code pénal - art. 226-13
 
 
@@ -7370,39 +7376,6 @@ de l'économie et du ministre chargé du budget.
 
 	  - Code de commerce - art. L232-21
 	  - Code pénal - art. 226-13
-
-
-###### Article L135 E
-
-Les membres de la mission interministérielle d'enquête sur les marchés créée par l'article 1er de la loi n° 91-3 du 3 janvier
-1991 peuvent, pour les nécessités de l'enquête et sans se voir opposer le secret professionnel, accéder à tout document ou
-élément d'information détenu par l'administration des impôts.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 24 juin 1991
-
-	**Cite**:
-
-	  - Loi n°91-3 1991-01-03 art. 1
-
-	**Créé par**:
-
-	  - Loi n°91-3 1991-01-03 art. 1 JORF 5 janvier 1991
-
-	**Codifié par**:
-
-	  - Décret n°91-882 1991-09-09
-
-	**Abrogé par**:
-
-	  - Loi n°2012-387 du 22 mars 2012 - art. 112
-
-	**Cité par**:
-
-	  - Livre des procédures fiscales - art. L113 (VT)
 
 
 ###### Article L135 F
