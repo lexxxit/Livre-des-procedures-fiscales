@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-07-20
+Version Consolidée au 2012-08-17
 
 # Partie législative
 
@@ -9815,17 +9815,28 @@ l'expiration de la sixième année suivant le décès du donateur.
 
 La valeur des biens faisant l'objet des donations antérieures ajoutée à la valeur des biens compris dans une donation ou une
 déclaration de succession en vertu du deuxième alinéa de l'article 784 du code général des impôts peut, pour l'application de
-ce même alinéa seulement, être rectifiée.
+ce même alinéa seulement, être rectifiée. 
+
+La valeur des biens ayant fait l'objet des donations antérieures dont il est tenu compte pour l'application du troisième
+alinéa de l'article 793 bis du même code peut, pour la seule appréciation de la limite mentionnée au deuxième alinéa du même
+article, être rectifiée.
+
+**Nota:**
+
+Loi n° 2012-958 du 16 août 2012 de finances rectificative pour 2012, art. 5 IV: Ces dispositions s'appliquent, selon le cas,
+aux successions ouvertes et aux donations consenties à compter de la date de publication de la présente loi.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
 	  - Loi n°2011-900 du 29 juillet 2011 - art. 7 (V)
+	  - Loi n°2012-958 du 16 août 2012 - art. 5 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 784
+	  - Code général des impôts, CGI. - art. 793 bis (V)
 
 
 ###### Article L182
