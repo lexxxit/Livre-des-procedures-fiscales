@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-08-17
+Version Consolidée au 2012-12-16
 
 # Partie législative
 
@@ -21210,24 +21210,20 @@ d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'ar
 
 ― du chef du service juridique de la fiscalité ou de son représentant ; 
 
-― du          chef du service du contrôle fiscal ou de son représentant ; 
+― du chef du service du contrôle fiscal ou de son représentant ; 
 
 ― du directeur en charge de la direction des vérifications nationales et internationales ou de son représentant ; 
 
-― du chef des services fiscaux ou de l'administrateur général des finances publiques de la direction nationale de
-vérification des situations fiscales personnelles ou de son représentant. 
+― du directeur en charge de la direction nationale de vérification des situations fiscales personnelles ou de son
+représentant. 
 
-Chaque représentant a au moins le grade d'administrateur des finances publiques adjoint  ou un grade équivalent.
-
-**Nota:**
-
-Décret n° 2010-986 du 26 août 2010, art. 49-[5°] et 51.
+Chaque représentant a au moins le grade d'administrateur des finances publiques adjoint ou un grade équivalent.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 27 juin 2012 - art. 1
+	  - Arrêté du 29 novembre 2012 - art. 2
 
 	**Cite**:
 
@@ -21236,51 +21232,46 @@ Décret n° 2010-986 du 26 août 2010, art. 49-[5°] et 51.
 
 ###### Article A80 CB-3-2
 
-La compétence géographique de chaque collège territorial est définie en annexe I à l'arrêté du 5 février 2010 modifiant
-l'arrêté du 8 janvier 2010 pris pour l'application de l'article R. * 80 CB-3 du livre des procédures fiscales.
+La compétence géographique de chaque collège territorial est définie en annexe I à l'arrêté du 29 novembre 2012 pris pour
+l'application de l'article R. * 80 CB-3 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté du 5 février 2010
-	  - Livre des procédures fiscales - art. R*80 CB-3 (V)
+	  - Arrêté du 29 novembre 2012
+	  - Livre des procédures fiscales - art. R*80 CB-3
 
 	**Modifié par**:
 
-	  - Arrêté du 5 février 2010 - art. 1
+	  - Arrêté du 29 novembre 2012 - art. 2
 
 
 ###### Article A80 CB-3-3
 
 Les collèges territoriaux des finances publiques sont composés : 
 
-― d'un chef des services fiscaux ou d'un administrateur général des finances publiques d'une direction dont le département
-est de la compétence géographique du collège. Il est président du collège ;
+― d'un administrateur général des finances publiques d'une direction dont le département est de la compétence géographique du
+collège. Il est président du collège ;
 
-― d'un directeur de la direction de contrôle fiscal ou de la direction spécialisée des finances publiques en matière de
-contrôle fiscal dont l'un des départements de son ressort territorial est de la compétence géographique du collège. Il assure
-la présidence du collège en cas d'absence ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article
-R. * 80 CB-3 ; 
+― d'un directeur de la direction spécialisée des finances publiques en matière de contrôle fiscal dont l'un des départements
+de son ressort territorial est de la compétence géographique du collège. Il assure la présidence du collège en cas d'absence
+ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ; 
 
-― d'un directeur départemental des impôts ou d'un administrateur des finances publiques d'une direction dont le département
-est de la compétence géographique du collège ; 
+― d'un administrateur des finances publiques d'une direction dont le département est de la compétence géographique du
+collège ; 
 
-― de trois administrateurs des finances publiques adjoints  de directions dont le département est de la compétence
+― de trois administrateurs des finances publiques adjoints de directions dont le département est de la compétence
 géographique du collège. 
 
-Les membres du collège sont désignés par le chef des services fiscaux ou l'administrateur général des finances publiques de
-la direction de rattachement du collège.
-
-**Nota:**
-
-Décret n° 2010-986 du 26 août 2010, art. 49-[5°] et 51.
+Les membres du collège sont désignés par le directeur départemental ou, le cas échéant, régional des finances publiques de la
+direction de rattachement du collège.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 27 juin 2012 - art. 1
+	  - Arrêté du 29 novembre 2012 - art. 2
 
 	**Cite**:
 
