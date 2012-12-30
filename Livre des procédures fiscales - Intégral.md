@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2012-12-16
+Version Consolidée au 2012-12-31
 
 # Partie législative
 
@@ -7656,11 +7656,11 @@ informations et renseignements nécessaires à l'exercice de cette mission.
 
 	**Modifié par**:
 
-	  - Décret n°2012-654 du 4 mai 2012 - art. 1
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1617-5
+	  - Code général des collectivités territoriales - art. L1617-5 (V)
 
 
 ###### Article L135 R
@@ -20051,37 +20051,6 @@ Les biens meubles saisis ne peuvent être vendus qu'après autorisation du direc
 	**Modifié par**:
 
 	  - Décret n°2011-1302 du 14 octobre 2011 - art. 10
-
-
-###### Article R258-1
-
-Le comptable public compétent pour engager les poursuites en application de l'article L. 258 est le comptable du Trésor,
-celui de la direction générale des impôts ou de la direction générale des douanes et droits indirects selon la nature des
-impôts dont la perception leur incombe.
-
-**Nota:**
-
-Décret n° 2011-1303 du 14 octobre 2011 article 17 : Le présent article est abrogé. Il reste toutefois applicable aux créances
-étrangères à l'impôt et au domaine recouvrées comme en matière d'impôt direct jusqu'à une date fixée par décret et au plus
-tard jusqu'au 31 décembre 2012.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°93-265 1993-02-26 art. 10 2 et 15 JORF 28 février 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 du 16 septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1303 du 14 octobre 2011 - art. 17 (V)
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L258
 
 
 ##### Section III : Mesures particulières
