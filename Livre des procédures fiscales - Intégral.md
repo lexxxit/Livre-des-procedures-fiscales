@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-01-21
 
 # Partie législative
 
@@ -20508,6 +20508,25 @@ leur incombe.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L268
+
+
+##### 12° : Entrepreneur individuel à responsabilité limitée 
+
+###### Article R*273 B-1
+
+Pour l'application du troisième alinéa de l'article L. 273 B, le président du tribunal statue selon la procédure à jour fixe
+prévue aux articles 788 à 792 du code de procédure civile sans qu'il y ait lieu pour le demandeur d'établir l'urgence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-65 du 18 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L273 B
+	  - Code de procédure civile - art. 788
 
 
 #### Chapitre II : Le sursis de paiement
