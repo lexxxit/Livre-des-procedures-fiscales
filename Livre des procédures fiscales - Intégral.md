@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-02-15
+Version Consolidée au 2013-04-13
 
 # Partie législative
 
@@ -21625,8 +21625,7 @@ En accord avec le service vérificateur, d'autre supports pourront être utilis�
 
 Le collège national de la direction générale des finances publiques mentionné à l'article R. * 80 CB-3 est composé : 
 
-― du directeur, adjoint au directeur général des finances publiques, chargé de la fiscalité, ou de son représentant, qui
-assure la fonction de président du collège ; 
+― du directeur général des finances publiques, ou de son représentant, qui assure la fonction de président du collège ; 
 
 ― du directeur de la législation fiscale ou de son représentant. Il assure la présidence du collège en cas d'absence ou
 d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ; 
@@ -21646,7 +21645,7 @@ Chaque représentant a au moins le grade d'administrateur des finances publiques
 
 	**Modifié par**:
 
-	  - Arrêté du 29 novembre 2012 - art. 2
+	  - Arrêté du 13 mars 2013 - art. 2
 
 	**Cite**:
 
@@ -21971,13 +21970,13 @@ Les procès-verbaux sont rédigés à la requête du directeur général des imp
 
 Les autorités bénéficiaires de la délégation de signature du ministre chargé du budget pour saisir la commission des
 infractions fiscales prévue à l'article R. * 228-1 sont le directeur général des finances publiques, l'adjoint au directeur
-général chargé de la fiscalité, le chef du service du contrôle fiscal et le chef du bureau des affaires fiscales et pénales.
+général, le chef du service du contrôle fiscal et le chef du bureau des affaires fiscales et pénales.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 10 octobre 2011 - art. 1
+	  - Arrêté du 13 mars 2013 - art. 2
 
 	**Cite**:
 
