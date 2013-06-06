@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-04-26
+Version Consolidée au 2013-06-07
 
 # Partie législative
 
@@ -447,8 +447,7 @@ hors de France ― satisfaisant à l'une des conditions mentionnées au a, ou
 c) Dont plus de la moitié du capital ou des droits de vote est détenue, à la clôture de l'exercice, directement ou
 indirectement, par une entité juridique satisfaisant à l'une des conditions mentionnées au a, ou 
 
-d) Bénéficiant de l'agrément prévu à l'article 209 quinquies du code général des impôts, et, dans ce cas, toutes les
-entreprises imposables en France faisant partie du périmètre de consolidation, ou 
+d) (Périmé) 
 
 e) Appartenant à un groupe relevant du régime fiscal prévu à l'article 223 A du même code lorsque ce groupe comprend au moins
 une personne morale satisfaisant l'une des conditions mentionnées aux a, b, c ou d, 
@@ -507,13 +506,13 @@ applicables aux exercices ouverts à compter du 1er janvier 2010.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 209 quinquies
+	  - Code général des impôts, CGI. - art. 223 A (VT)
 
 	**Cité par**:
 
@@ -728,21 +727,22 @@ tout moyen et sur tout support.
 
 ###### Article L13 E
 
-En cas d'impossibilité d'effectuer la vérification prévue à l'article L. 13 D du présent livre ou si les contrôles mentionnés
-au 
-1° du VII de l'article 289 du code général des impôts
-ne permettent pas d'assurer l'authenticité de l'origine, l'intégrité du contenu et la lisibilité des factures, ces dernières
-ne sont pas considérées comme factures d'origine, sans préjudice des dispositions du 3 de l'article 283 du même code.
+En cas d'impossibilité d'effectuer la vérification prévue à l'article L. 13 D ou si les contrôles mentionnés au 1° du VII de
+l'article 289 du code général des impôts ne permettent pas d'assurer l'authenticité de l'origine, l'intégrité du contenu et
+la lisibilité des factures, ces dernières ne sont pas considérées comme factures d'origine, sans préjudice des dispositions
+du 3 de l'article 283 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 62 (V)
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 283 (V)
 	  - Code général des impôts, CGI. - art. 289
+	  - Livre des procédures fiscales - art. L13 D (V)
 
 
 ##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant
@@ -3833,19 +3833,13 @@ l'article L. 23 C dans les délais prévus au même article, la personne est tax
 l'article 755 du code général des impôts. 
 
 La décision de mettre en œuvre cette taxation d'office est prise par un agent de catégorie A détenant au moins un grade fixé
-par décret en Conseil d'Etat, qui vise à cet effet la notification prévue à l'article L. 76 du présent livre.
-
-**Nota:**
-
-Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, article 8 III : Ces dispositions s'appliquent aux
-demandes adressées par l'administration à compter du 1
-  <sup>er</sup> janvier 2013.
+par décret en Conseil d'Etat, qui vise à cet effet la notification prévue àl'article L. 76.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 8 (V)
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cité par**:
 
@@ -4990,11 +4984,11 @@ qu'après avoir garanti le montant de la taxation encourue.
 
 I. ― Pour rechercher et constater les infractions prévues au code général des impôts en matière de tabac, les agents de
 l'administration des douanes des catégories A et B ont accès aux informations contenues dans les traitements prévus à
-l'article 564 duodecies du même code, au moyen de la marque d'identification unique, sécurisée et indélébile mentionnée à ce
-même article. 
+l'article 569 du même code, au moyen de la marque d'identification unique, sécurisée et indélébile mentionnée à ce même
+article. 
 
 Les frais occasionnés par l'accès à ces traitements sont à la charge des personnes responsables de ces traitements se livrant
-aux activités mentionnées au premier alinéa dudit article 564 duodecies. 
+aux activités mentionnées au premier alinéa dudit article 569. 
 
 En cas de constatation d'une infraction, le résultat de la consultation mentionnée au deuxième alinéa est indiqué sur tout
 document, quel qu'en soit le support, annexé au procès-verbal constatant l'infraction. 
@@ -5004,13 +4998,12 @@ modalités d'accès aux données mentionnées au I par les agents de l'administr
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 13
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 564 duodecies (T)
 	  - Code général des impôts, CGI. - art. 569 (M)
 
 	**Cité par**:
@@ -7834,20 +7827,26 @@ et du rapporteur général de la commission en charge des affaires budgétaires.
 
 ###### Article L135 L
 
-Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
-publique, les agents de la direction générale des finances publiques, de la direction générale des douanes et droits
-indirects et de la    concurrence, de la consommation et de la répression des fraudes transmettent, spontanément ou sur
-demande, aux officiers et agents de police judiciaire les renseignements et documents de nature financière, fiscale ou
-douanière, sans que puisse être opposée l'obligation au secret. Dans ce même cadre, les officiers et agents de police
-judiciaire transmettent, spontanément ou sur demande, aux agents des trois directions précitées tous les éléments
-susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que puisse être opposée
-l'obligation au secret.
+Conformément à l'article L. 214-4 du code de la sécurité intérieure, dans le cadre de la lutte contre les activités
+lucratives non déclarées portant atteinte à l'ordre public et à la sécurité publique et sans que puisse être opposée
+l'obligation au secret, les agents chargés d'appliquer la législation en matière de douanes et droits indirects et d'impôts
+répondent aux demandes formulées par les officiers et agents de police judiciaire concernant les renseignements et documents
+de nature financière, fiscale ou douanière et les officiers et agents de police judiciaire communiquent à ces agents tous les
+éléments susceptibles de comporter une implication de nature financière, fiscale ou douanière.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article L. 214-4 du code de la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L214-4 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cité par**:
 
@@ -7877,26 +7876,30 @@ informations relatives à la situation des condamnés ayant à répondre financi
 
 ###### Article L135 N
 
-Les agents de la Commission de régulation de l'énergie, habilités et assermentés en application de l'article 43 de la loi n°
-2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, peuvent
-recevoir de l'administration fiscale les renseignements nécessaires à l'établissement du plafonnement de la contribution au
-service public de l'électricité institué par l'article 67 de la loi n° 2005-781 du 13 juillet 2005 de programme fixant les
-orientations de la politique énergétique.
+Les agents de la Commission de régulation de l'énergie, habilités et assermentés en application de l'article L. 135-13 du
+code de l'énergie (1), peuvent recevoir de l'administration fiscale les renseignements nécessaires à l'établissement du
+plafonnement de la contribution au service public de l'électricité prévu à l'article L. 121-21 du même code (2).
+
+**Nota:**
+
+(1) Modification effectuée en conséquence des art. 1er, 2, 4 [21°], 6 [6°] et 14 de l'ordonnance n° 2011-504 du 9 mai 2011.
+
+(2) Modification effectuée en conséquence des art. 1er, 2, 4 [25°] et 14 de l'ordonnance n° 2011-504 du 9 mai 2011.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2006
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (V)
 
 	**Cite**:
 
-	  - Loi n°2000-108 du 10 février 2000 - art. 43 (M)
-	  - Loi n°2005-781 2005-07-13 art. 67
-
-	**Créé par**:
-
-	  - Loi n°2005-781 2005-07-13 art. 67 II JORF 14 juillet 2005
+	  - Code de l'énergie - art. L121-21
+	  - Code de l'énergie - art. L135-13
 
 
 ###### Article L135 O
@@ -9766,20 +9769,22 @@ Pour le crédit d'impôt défini à l'article 244 quater B du code général des
 s'exerce jusqu'à la fin de la troisième année suivant celle du dépôt de la déclaration spéciale prévue pour le calcul de ce
 crédit d'impôt. 
 
-Le premier alinéa du présent article s'applique également au crédit d'impôt prévu à l'article 244 quater O du même code.
+Le premier alinéa du présent article s'applique également aux crédits d'impôt prévus aux articles 244 quater C et 244 quater
+O du même code. 
 
-Le premier alinéa s'applique également au crédit d'impôt prévu à l'article 244 quater C du même code.
+(Alinéa disjoint).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 35
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (VD)
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 66 (V)
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 244 quater B
+	  - Code général des impôts, CGI. - art. 244 quater C
 	  - Code général des impôts, CGI. - art. 244 quater O
 
 
@@ -11432,18 +11437,18 @@ tribunaux d'instance, les officiers et agents de police judiciaire, les agents d
 
 ###### Article L225 A
 
-Conformément à la première phrase de l'article L. 112-7 du code monétaire et financier les infractions aux dispositions de
-l'article L. 112-6 du même code sont constatées par des agents désignés par arrêté du ministre chargé du budget.
+Conformément à la première phrase de l'article L. 112-7 du code monétaire et financier les infractions aux dispositions des
+articles L. 112-6 et L. 112-6-1 du même code sont constatées par des agents désignés par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-357 2006-03-24
+	  - Décret n°2006-357 du 24 mars 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cité par**:
 
@@ -11452,12 +11457,8 @@ l'article L. 112-6 du même code sont constatées par des agents désignés par 
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L112-6 (M)
+	  - Code monétaire et financier - art. L112-6
 	  - Code monétaire et financier - art. L112-7 (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
 
 
 ##### Section II : Exercice des poursuites pénales
@@ -12233,27 +12234,30 @@ dettes dans les conditions fixées à l'article L. 626-6 du code de commerce.
 ###### Article L247 C
 
 Les administrations financières peuvent, lorsqu'un plan de sauvegarde prévu à l'article L. 626-1 du code de commerce est
-arrêté, consentir des remises de dettes dans les conditions fixées aux premier et deuxième alinéas de l'article L. 626-6 du
+arrêté ou, en vertu de l'article L. 351-4 du code rural et de la pêche maritime, lorsqu'un règlement amiable prévu à
+l'article L. 351-1 de ce code est arrêté, consentir des remises de dettes dans les conditions fixées à l'article L. 626-6 du
 même code.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article L. 351-4 du Code rural  et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-357 2006-03-24
+	  - Décret n°2006-357 du 24 mars 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-357 du 24 mars 2006 - art. 1 () JORF 26 mars 2006
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce. - art. L626-1 (M)
-	  - Code de commerce. - art. L626-6 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2006
+	  - Code de commerce - art. L626-1 (V)
+	  - Code de commerce - art. L626-6 (V)
+	  - Code rural - art. L351-1 (V)
+	  - Code rural - art. L351-4 (V)
 
 
 ###### Article L247 D
@@ -13969,24 +13973,33 @@ Pour l'application du présent livre, la société par actions simplifiée est a
 
 Toute personne tenue de respecter une date limite ou un délai pour présenter une demande, déposer une déclaration, exécuter
 un paiement ou produire un document auprès d'une autorité administrative peut satisfaire à cette obligation au plus tard à la
-date prescrite au moyen d'un envoi postal, le cachet de la poste faisant foi, ou d'un procédé télématique ou informatique
-homologué permettant de certifier la date d'envoi.
+date prescrite au moyen d'un envoi de correspondance, le cachet apposé par les prestataires de services postaux autorisés au
+titre de l'article L. 3 du code des postes et des communications électroniques faisant foi, ou d'un envoi par voie
+électronique, auquel cas fait foi la date figurant sur l'accusé de réception ou, le cas échéant, sur l'accusé
+d'enregistrement adressé à l'usager par la même voie conformément aux dispositions du II de l'article 5 de l'ordonnance n°
+2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre
+les autorités administratives. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Modification effectuée en conséquence de l'art art. 5-II de l'ordonnance n° 2005-1516 du 8 décembre 2005 et de l' art. 65 de
+la loi n° 2012-387 du 22 mars 2012.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-	**Modifié par**:
-
-	  - Loi n°2000-321 2000-04-12 art. 16 JORF 13 avril 2000
 
 	**Codifié par**:
 
-	  - Décret n°2001-436 2001-05-21
+	  - Décret n°2001-436 du 21 mai 2001
+
+	**Cite**:
+
+	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2013-464 du 3 juin 2013 - art. 1
 
 
 ###### Article L286 A
@@ -17188,10 +17201,10 @@ renseignements à l'administration d'un autre Etat membre de la communauté euro
 
 ###### Article R*114 A-5
 
-Les dispositions du décret n° 79-1025 du 28 novembre 1979, autres que celles du paragraphe 3 de l'article 4 et de l'article
-22 concernant les limites de l'échange de renseignements, sont étendues à l'assistance mutuelle en matière de recouvrement de
-la taxe sur la valeur ajoutée et de toutes sommes accessoires instituée par l'article 11-II de la loi n° 81-1179 du 31
-décembre 1981.
+Les dispositions du décret n° 79-1025 du 28 novembre 1979, autres que celles du (paragraphe) (1) 3 de l'article 4 et de
+l'article 22 concernant les limites de l'échange de renseignements, sont étendues à l'assistance mutuelle en matière de
+recouvrement de la taxe sur la valeur ajoutée et de toutes sommes accessoires instituée par le II de l'article 11  de la loi
+n° 81-1179 du 31 décembre 1981.
 
 Toutefois les attributions dévolues à la commission interministérielle instituée par l'article 3 du décret susvisé sont
 exercées : 
@@ -17202,6 +17215,10 @@ accessoires dont le recouvrement incombe à ses comptables.
 2° Par la direction générale des douanes et droits indirects en ce qui concerne les taxes sur le chiffre d'affaires, accises
 et autres taxes à la consommation relatives aux opérations de circulation intracommunautaire définies par l'article 1er du
 règlement n° 3-84 C. E. E. du 19 décembre 1983.
+
+**Nota:**
+
+(1) Ce mot est disjoint.
 
 **Liens relatifs à cet article**
 
@@ -17216,7 +17233,7 @@ règlement n° 3-84 C. E. E. du 19 décembre 1983.
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 40
+	  - Décret n°2013-464 du 3 juin 2013 - art. 2
 
 
 ##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics
@@ -18548,14 +18565,14 @@ juridiction.
 ###### Article R*200-10
 
 Ne peuvent être désignés comme experts les personnes constituées mandataires par l'une des parties au cours de l'instruction,
-ni un fonctionnaire affecté à la direction de              la direction générale des finances publiques ou de la direction
-générale des douanes et droits indirects  à laquelle a incombé l'établissement de l'imposition contestée.
+ni un fonctionnaire affecté à la direction générale des finances publiques ou à la direction générale des douanes et droits
+indirects à laquelle a incombé l'établissement de l'imposition contestée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 41
+	  - Décret n°2013-464 du 3 juin 2013 - art. 2
 
 
 ###### Article R*200-11
