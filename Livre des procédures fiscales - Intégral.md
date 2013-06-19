@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-06-07
+Version Consolidée au 2013-06-20
 
 # Partie législative
 
@@ -15214,6 +15214,24 @@ Modifications apportées en conséquence de l'article 35 I et IX de la loi n° 2
 
 
 ##### Section V : Procédures d'imposition d'office
+
+##### I : Taxation d'office
+
+###### Article R* 71-1
+
+La décision de mettre en œuvre la taxation d'office prévue au premier alinéa de l'article L. 71 est prise par un agent ayant
+au moins le grade d'inspecteur divisionnaire, qui vise à cet effet la notification de la proposition de rectification.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-509 du 17 juin 2013 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L71
+
 
 ##### IV : Notification et suite des impositions d'office
 
