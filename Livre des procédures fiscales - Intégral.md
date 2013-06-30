@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-06-20
+Version Consolidée au 2013-07-01
 
 # Partie législative
 
@@ -7928,36 +7928,31 @@ matière de droit de consommation sur les tabacs manufacturés.
 
 ###### Article L135 P
 
-Conformément au troisième alinéa de l'article L. 216-4 du code de l'environnement, le secret professionnel ne peut être
-opposé aux agents mentionnés à l'article L. 216-3 du même code qui sont chargés de procéder à la recherche et à la
-constatation des infractions aux dispositions des articles L. 211-2, L. 211-3, 
-L. 211-5, L. 211-7, L. 211-12, L. 211-14, du II de l'article L. 212-5-1, de l'article L. 213-10-8 et des articles L. 214-1 à
-L. 214-9, L. 214-11, L. 214-12, L. 214-17, L. 214-18, L. 216-6 à L. 216-8 et L. 216-10 à L. 216-12 du code précité, ainsi que
-des textes et des décisions pris pour leur application.
+Le secret professionnel ne peut être opposé aux agents mentionnés à l'article L. 216-3 du même code qui sont chargés de
+procéder à la recherche et à la constatation des infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L.
+211-7, L. 211-12, L. 211-14, du II de l'article L. 212-5-1, de l'article L. 213-10-8 et des articles L. 214-1 à L. 214-9, L.
+214-11, L. 214-12, L. 214-17, L. 214-18 et L. 216-6 du code précité, ainsi que des textes et des décisions pris pour leur
+application.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-654 du 4 mai 2012 - art. 1
+	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 26
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L211-12
-	  - Code de l'environnement - art. L211-14
+	  - Code de l'environnement - art. L211-14 (V)
 	  - Code de l'environnement - art. L211-2
-	  - Code de l'environnement - art. L211-3
 	  - Code de l'environnement - art. L211-5
 	  - Code de l'environnement - art. L211-7
-	  - Code de l'environnement - art. L212-5-1
-	  - Code de l'environnement - art. L213-10-8
+	  - Code de l'environnement - art. L212-5-1 (V)
+	  - Code de l'environnement - art. L213-10-8 (V)
 	  - Code de l'environnement - art. L214-1
 	  - Code de l'environnement - art. L214-11
-	  - Code de l'environnement - art. L214-12
 	  - Code de l'environnement - art. L214-17
-	  - Code de l'environnement - art. L216-10
 	  - Code de l'environnement - art. L216-3
-	  - Code de l'environnement - art. L216-4
 	  - Code de l'environnement - art. L216-6
 
 
@@ -19792,10 +19787,10 @@ son refus.
 Sauf en matière de contributions indirectes, la décision sur les demandes des contribuables tendant à obtenir une modération,
 remise ou transaction appartient : 
 
-a) Au directeur chargé d'une direction des services fiscaux ou au directeur chargé d'un service à compétence nationale ou
-d'une direction spécialisée pour les affaires relatives à des impositions établies à l'initiative des agents placés sous son
-autorité, lorsque les sommes faisant l'objet de la demande n'excèdent pas 150 000 € par cote, exercice ou affaire, selon la
-nature des impôts ; 
+a) Au directeur départemental des finances publiques ou au directeur chargé d'un service à compétence nationale ou d'une
+direction spécialisée pour les affaires relatives à des impositions établies à l'initiative des agents placés sous son
+autorité, lorsque les sommes faisant l'objet de la demande n'excèdent pas 200 000 € par cote, année, exercice ou affaire,
+selon la nature des sommes en cause ; 
 
 b) Au ministre chargé du budget, après avis du comité du contentieux fiscal, douanier et des changes, dans les autres cas.
 
@@ -19809,7 +19804,7 @@ b) Au ministre chargé du budget, après avis du comité du contentieux fiscal, 
 
 	**Modifié par**:
 
-	  - Décret n°2010-298 du 19 mars 2010 - art. 2
+	  - Décret n°2013-443 du 30 mai 2013 - art. 3
 
 
 ###### Article R*247-5
@@ -19817,13 +19812,14 @@ b) Au ministre chargé du budget, après avis du comité du contentieux fiscal, 
 En matière de contributions indirectes, la décision sur les demandes tendant à obtenir une transaction, remise ou modération
 appartient : 
 
-a) Au directeur chargé des services fiscaux dans le département, pour les matières qui relèvent de sa compétence, lorsque les
-droits ou la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes
-n'excèdent pas 150 000 € et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ; 
+a) Au directeur départemental des finances publiques, pour les matières qui relèvent de sa compétence, lorsque les droits ou
+la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes n'excèdent
+pas 150 000 € et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ; 
 
-b) Au directeur régional des douanes et droits indirects, pour les matières qui relèvent de sa compétence, lorsque les droits
-ou la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes n'excèdent
-pas 250 000 € et qu'en outre le montant des droits effectivement fraudés ne dépasse pas 100 000 € ; 
+b) Selon le cas, au directeur régional des douanes et droits indirects ou au directeur d'un service à compétence nationale,
+pour les matières qui relèvent de sa compétence, lorsque les droits ou la valeur qui servent de base au calcul des pénalités
+ou, en l'absence d'une telle base, le montant des amendes n'excèdent pas 250 000 € et qu'en outre le montant des droits
+effectivement fraudés ne dépasse pas 100 000 € ; 
 
 c) Au ministre chargé du budget après avis du comité du contentieux fiscal, douanier et des changes, dans les autres cas. 
 
@@ -19839,35 +19835,32 @@ douanier et des changes n'est pas saisi.
 
 	**Modifié par**:
 
-	  - Décret n°2010-298 du 19 mars 2010 - art. 1
+	  - Décret n°2013-443 du 30 mai 2013 - art. 4
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L249 (V)
+	  - Livre des procédures fiscales - art. L249
 
 
 ###### Article R*247-5 B
 
 En matière d'amendes prévues à l'article 467 du code des douanes, la décision sur les demandes tendant à obtenir une remise,
-modération ou transaction, relève de la compétence du directeur régional des douanes et droits indirects.
+modération ou transaction, relève de la compétence selon le cas, du directeur régional des douanes et droits indirects ou du
+directeur d'un service à compétence nationale.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°2004-639 du 2 juillet 2004 - art. 53 (V) JORF 3 juillet 2004
-
 	**Codifié par**:
 
-	  - Décret n°2004-1070 2004-10-08
+	  - Décret n°2004-1070 du 8 octobre 2004
+
+	**Modifié par**:
+
+	  - Décret n°2013-443 du 30 mai 2013 - art. 5
 
 	**Cite**:
 
-	  - Code des douanes - art. 467 (M)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 août 2004
+	  - Code des douanes - art. 467
 
 
 ###### Article R*247-5 C
@@ -20028,126 +20021,64 @@ satisfait aux conditions prévues à l'article R. 331-8-1 du code de la consomma
 
 ###### Article R247-2
 
-Le directeur des services fiscaux ou le directeur régional des douanes et droits indirects, selon le cas, peut se prononcer
-sans instruction préalable sur les demandes de transaction et de remise ou modération qui, en l'état des procédures en cours
-à l'époque où elles sont formées, ne peuvent être favorablement accueillies.
+L'autorité compétente peut se prononcer sans instruction préalable sur les demandes des contribuables tendant à obtenir une
+modération, remise ou transaction qui, en l'état des procédures en cours à l'époque où elles sont formées, ne peuvent être
+favorablement accueillies. 
 
 En matière d'impôts locaux, les demandes gracieuses sont soumises à l'avis du maire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGIAN3 418 (AL. 2, AL. 3)
-
-	**Créé par**:
-
-	  - Décret n°93-10 du 4 janvier 1993 - art. 4 (V) JORF 5 janvier 1993
-
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°93-1095 du 16 septembre 1993
 
 	**Cité par**:
 
 	  - Décret n°2013-443 du 30 mai 2013 - art. 11 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2013-443 du 30 mai 2013 - art. 2
+
 
 ###### Article R247-7
 
-La décision du directeur des services fiscaux ou du directeur chargé d'une direction spécialisée ou d'un service à compétence
-nationale ou la décision du directeur régional des douanes et droits indirects, selon le cas, peut être soumise au
-ministre chargé du budget. 
+La décision du directeur départemental des finances publiques, du directeur régional des douanes et droits indirects ou du
+directeur chargé d'une direction spécialisée des finances publiques ou d'un service à compétence nationale, selon le cas,
+peut être soumise au ministre chargé du budget. 
 
-La décision du            ministre chargé du budget peut faire l'objet de recours devant la même autorité, mais seulement si
-des faits nouveaux sont invoqués.
+La décision du ministre chargé du budget peut faire l'objet de recours devant la même autorité, mais seulement si des faits
+nouveaux sont invoqués.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-298 du 19 mars 2010 - art. 2
+	  - Décret n°2013-443 du 30 mai 2013 - art. 6
 
 	**Cité par**:
 
 	  - Décret n°2016-935 du 7 juillet 2016 - art. 21 (V)
 
 
-###### Article R247-8
-
-Les transactions ou les remises ou modérations prévues par les articles L. 247 et L. 248 peuvent être accordées sur
-proposition du directeur départemental des impôts ou du directeur régional des douanes et droits indirects selon le cas, dans
-les limites et conditions fixées par le directeur général des impôts ou le directeur général des douanes et droits indirects.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN3 421
-
-	**Créé par**:
-
-	  - Décret n°93-10 du 4 janvier 1993 - art. 4 (V) JORF 5 janvier 1993
-
-	**Codifié par**:
-
-	  - Décret n°93-1095 du 16 septembre 1993
-
-	**Abrogé par**:
-
-	  - Décret n°2013-443 du 30 mai 2013 - art. 10
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L247
-	  - Livre des procédures fiscales - art. L248
-
-
-###### Article R247-9
-
-Le directeur des services fiscaux ou le directeur chargé d'une direction spécialisée ou d'un service à compétence nationale
-peut, dans les conditions fixées par le directeur général des impôts, déléguer son pouvoir de décision aux agents placés sous
-son autorité.
-
-De même, le directeur régional des douanes et droits indirects peut, dans les conditions fixées par le directeur général des
-douanes et droits indirects, déléguer son pouvoir de décision aux agents placés sous son autorité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2000-1037 du 23 octobre 2000 - art. 3 () JORF 25 octobre 2000
-
-	**Abrogé par**:
-
-	  - Décret n°2013-443 du 30 mai 2013 - art. 10
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2001
-
-
 ###### Article R247-10
 
 Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
-mises en cause doivent, en ce qui concerne les impôts recouvrés par les comptables du Trésor, adresser une demande au
-trésorier-payeur général dont dépend le lieu d'imposition. 
+mises en cause doivent, en ce qui concerne les impôts recouvrés par les comptables de la direction générale des finances
+publiques, adresser une demande au directeur dont dépend le comptable chargé du recouvrement. 
 
-Après examen de la demande, la décision appartient : 
+La décision appartient : 
 
-a) au trésorier-payeur général sur avis conforme du directeur des services fiscaux lorsque les sommes n'excèdent pas 304 898,
-03 € par cote. Toutefois, lorsque les sommes n'excèdent pas 38 112,25 € par cote, le trésorier-payeur général prend la
-décision si le directeur des services fiscaux n'a pas formulé son avis dans le délai de deux mois. 
+a) Au directeur, dans la limite de 305 000 € par cote, année, exercice ou affaire, selon la nature des impôts ; 
 
-b) (abrogé à compter du 01/01/1998). 
-
-c) au ministre chargé du budget, dans les autres cas.
+b) Au ministre chargé du budget, dans les autres cas.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-298 du 19 mars 2010 - art. 2
+	  - Décret n°2013-443 du 30 mai 2013 - art. 7
 
 	**Cité par**:
 
@@ -20158,37 +20089,25 @@ c) au ministre chargé du budget, dans les autres cas.
 
 ###### Article R247-11
 
-Pour obtenir la dispense du paiement prévu au septième alinéa de l'article L. 247 la personne mise en cause doit, en ce qui
-concerne les impôts recouvrés par les comptables de la direction générale des impôts ou de la direction générale des douanes
-et droits indirects, selon le cas, adresser sa demande au directeur des services fiscaux ou au directeur régional des douanes
-et droits indirects, dont dépend le comptable chargé du recouvrement. 
+Pour obtenir la dispense du paiement d'impositions dues par d'autres personnes et mises à leur charge, les personnes ainsi
+mises en cause doivent, en ce qui concerne les impôts recouvrés par les comptables de la direction générale des douanes et
+droits indirects, adresser une demande au directeur dont dépend le comptable chargé du recouvrement. 
 
 La décision appartient : 
 
-a) au directeur des services fiscaux ou au directeur régional des douanes et droits indirects, selon le cas, lorsque les
-sommes faisant l'objet de la demande n'excèdent pas 304 898,03 € par exercice ou affaire, selon la nature des impôts ; 
+a) Au directeur, lorsque les sommes faisant l'objet de la demande n'excèdent pas 305 000 € par affaire ; 
 
-b) abrogé. 
-
-c) au ministre chargé du budget, dans les autres cas.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 55-IV [B et C] de la loi n° 2010-1658 du 29 décembre 2010.
+b) Au ministre chargé du budget, dans les autres cas.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-646 du 9 juin 2011 - art. 2
+	  - Décret n°2013-443 du 30 mai 2013 - art. 8
 
 	**Cité par**:
 
 	  - Décret n°2016-934 du 7 juillet 2016 - art. 2
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L247
 
 
 ### Titre IV : Le recouvrement de l'impôt
