@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-07-24
+Version Consolidée au 2013-07-28
 
 # Partie législative
 
@@ -22125,12 +22125,8 @@ des avances.
 Les autres valeurs mobilières cotées en bourse, les parts de fonds communs de placement autres que ceux prévus par la loi n°
 83-1 du 3 janvier 1983 et les actions de Sicav composées au moins pour moitié de valeurs françaises de première catégorie ou
 de valeur assimilées et gérées par la Caisse des dépôts et consignations ou un établissement de crédit agréé en qualité de
-banque par l'Autorité de contrôle prudentiel sont admises pour une valeur égale à 60 % du dernier cours pour les valeurs
-cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et pour les actions de Sicav.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 18 de l'ordonnance n° 2010-76 du 21 janvier 2010.
+banque par l'Autorité de contrôle prudentiel et de résolution sont admises pour une valeur égale à 60 % du dernier cours pour
+les valeurs cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et pour les actions de Sicav.
 
 **Liens relatifs à cet article**
 
@@ -22140,8 +22136,7 @@ Modification effectuée en conséquence de l'article 18 de l'ordonnance n° 2010
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
-	  - Arrêté du 9 juin 2011 - art. 1
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 	**Cité par**:
 
