@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-08-02
+Version Consolidée au 2013-08-07
 
 # Partie législative
 
@@ -8395,16 +8395,14 @@ rapporteurs de la Cour des comptes, des magistrats de lachambre régionale des c
 Cour de discipline budgétaire et financière, à l'occasion des enquêtes effectuées par ces magistrats, conseillers et
 rapporteurs dans le cadre de leurs attributions. 
 
+Les dispositions du II de l'article L. 141-5 du même code relatives aux experts désignés par la Cour des comptes sont
+applicables. 
+
 Conformément aux articles L. 141-9, 
 L. 241-4 et L. 314-4 du code des juridictions financières, les agents des services financiers dont l'audition est jugée
 nécessaire pour les besoins du contrôle ont l'obligation de répondre à la convocation de la Cour des comptes ou à celle de la
 chambre régionale des comptes dans le ressort de laquelle ils exercent leurs fonctions. Ils peuvent être interrogés en
 qualité de témoins par les rapporteurs auprès de la Cour de discipline budgétaire et financière.
-
-**Nota:**
-
-Modifications effectuées en conséquence des articles L. 141-5, L. 141-9, L. 241-2, L. 241-4 et L. 314-4 du code des
-juridictions financières.
 
 **Liens relatifs à cet article**
 
@@ -8414,7 +8412,7 @@ juridictions financières.
 
 	**Modifié par**:
 
-	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+	  - Loi n°2013-712 du 5 août 2013 - art. 8
 
 	**Cite**:
 
