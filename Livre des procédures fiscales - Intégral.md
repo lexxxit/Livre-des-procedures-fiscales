@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-08-07
+Version Consolidée au 2013-08-08
 
 # Partie législative
 
@@ -16988,6 +16988,149 @@ informations transmises ne fassent pas l'objet d'une diffusion à d'autres usage
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. R* 107 A-1
+
+
+###### Article R* 107 B-1
+
+I.-Les personnes physiques mentionnées au premier alinéa de l'article L. 107 B peuvent obtenir, par voie électronique et
+gratuitement, la communication des éléments d'informations relatifs aux mutations à titre onéreux de biens immobiliers
+comparables figurant dans le traitement automatisé de données personnelles dénommé " PATRIM " mis en œuvre par la direction
+générale des finances publiques et issues : 
+
+a) Du traitement " Base nationale des données patrimoniales " pour ce qui concerne les informations relatives aux
+mutations ; 
+
+b) Du traitement " Service de consultation du plan cadastral " pour ce qui concerne les données parcellaires utilisées par
+l'outil de géocodage ; 
+
+c) Du traitement de l'Institut national géographique pour ce qui concerne les données parcellaires utilisées par l'outil de
+géocodage ; 
+
+d) De l'annuaire de la direction générale des finances publiques pour ce qui concerne les informations d'authentification des
+usagers. 
+
+II.-L'accès à ce traitement automatisé est réalisé dans le cadre de la procédure sécurisée d'authentification prévue pour
+l'accès aux services en ligne mentionnée au cinquième alinéa de l'article L. 107 B. Il est assorti d'un outil de traçabilité
+permettant la conservation pendant une année des informations de recherche et de consultation du demandeur mentionnées au V,
+à la seule fin de vérifier le respect des conditions d'utilisation du service fixées par le cinquième alinéa de cet article. 
+
+III.-Lors de la procédure sécurisée d'authentification préalable, le demandeur précise l'objet de sa demande de communication
+d'informations, parmi les procédures ou déclarations mentionnées au premier alinéa de l'article L. 107 B. 
+
+IV.-Il indique dans le formulaire de demande les éléments suivants : 
+
+a) Le type et la superficie du bien immobilier dont il souhaite évaluer la valeur vénale ; 
+
+b) Le périmètre géographique ; 
+
+c) La période de recherche. 
+
+Il peut compléter sa demande en y ajoutant les critères de recherche facultatifs suivants : 
+
+a) Prix total ou ratio prix/ surface ; 
+
+b) Années de construction ; 
+
+c) Matériaux de construction ; 
+
+d) Nombre de niveaux ; 
+
+e) Nombre de pièces principales ; 
+
+f) Etage de situation ; 
+
+g) Présence d'ascenseur ; 
+
+h) Situation locative ; 
+
+i) Présence et nombre de dépendances ; 
+
+j) Surface de terrain. 
+
+V.-Les interrogations du service de traitement automatisé font l'objet d'un enregistrement journalier qui se traduit par la
+conservation, pour chaque connexion, des éléments suivants : 
+
+a) Date et heure de la recherche ; 
+
+b) Identifiant de l'usager ; 
+
+c) Adresse IP de l'usager ; 
+
+d) Motifs de la visite. 
+
+VI.-Dans le cadre d'une procédure de contrôle fiscal ou en vue de celle-ci, l'administration ne peut consulter ni utiliser
+les informations communiquées par le demandeur au titre des III et IV.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-718 du 2 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L107 B
+
+
+###### Article R* 107 B-2
+
+I.-Les informations communiquées au demandeur en application du troisième alinéa de l'article L. 107 B correspondent aux
+caractéristiques suivantes : 
+
+a) Type et superficie des biens ; 
+
+b) Code du département ; 
+
+c) Type et libellé de la voie ; 
+
+d) Code et libellé de la commune ; 
+
+e) Préfixe et code de la section cadastrale du lieu de situation des biens ; 
+
+f) Références de publication au fichier immobilier et date de la mutation ; 
+
+g) Prix total ; 
+
+h) Ratios prix/ surface et prix/ nombre de dépendances ; 
+
+i) Année de construction ; 
+
+j) Matériaux de construction ; 
+
+k) Nombre de niveaux ; 
+
+l) Nombre et types des pièces principales ; 
+
+m) Etage de situation ; 
+
+n) Présence d'ascenseur. 
+
+Elles reflètent les ventes, adjudications, expropriations ou échanges de biens immobiliers comparables au bien objet de la
+demande et ne peuvent concerner des opérations réalisées depuis plus de neuf ans, y compris l'année en cours. 
+
+II.-La délivrance des éléments d'informations au demandeur est immédiate et effectuée sous forme de tableau. Un outil de
+géolocalisation avec vue aérienne est utilisé. 
+
+III.-L'usage de l'application, et notamment les demandes et l'utilisation des résultats, est fait sous la seule
+responsabilité du demandeur. 
+
+IV.-L'utilisation du service est limitée à cinquante consultations par utilisateur par période de trois mois, sauf dérogation
+expresse et justifiée. Au-delà, l'utilisateur se voit interdire l'accès au service pendant six mois. 
+
+V.-Les droits d'opposition, d'accès et de rectification s'exercent dans les conditions prévues aux articles 38 à 40 de la loi
+n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés auprès du bureau en charge du traitement
+au sein de la direction générale des finances publiques.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+	  - Livre des procédures fiscales - art. L107 B
+
+	**Créé par**:
+
+	  - Décret n°2013-718 du 2 août 2013 - art. 1
 
 
 ###### Article R*109-1
