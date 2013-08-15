@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-08-08
+Version Consolidée au 2013-08-16
 
 # Partie législative
 
@@ -14848,6 +14848,126 @@ L. 34, L 34 A, L. 35, L. 36 et L. 36 A.
 
 ##### Section III : Modalités d'exercice du droit de contrôle
 
+###### Article R*45 F-1
+
+En application de l'article L. 45 F, les agents chargés du contrôle procèdent : 
+
+1° A l'identification des investissements et à la constatation matérielle de leur réalisation, de leur affectation, de leur
+exploitation et de leur conservation ; 
+
+2° A l'examen du respect des conditions législatives et réglementaires de réalisation, d'affectation, d'exploitation et de
+conservation des investissements. 
+
+A cette fin, ils peuvent se faire présenter les écritures comptables, factures, contrats, justificatifs et documents de toute
+nature relatifs aux investissements concernés. Ils peuvent obtenir ou prendre copie de ces documents, par tout moyen et sur
+tout support.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L45 F (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*45 F-4 (V)
+	  - Livre des procédures fiscales - art. R*45 F-5 (V)
+
+
+###### Article R*45 F-2
+
+Le lieu d'exploitation mentionné à l'article L. 45 F correspond : 
+
+1° Au siège social des entreprises ayant participé à la réalisation des investissements ainsi qu'à leurs différents
+établissements ; 
+
+2° A tout lieu où se situent les investissements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L45 F (V)
+
+
+###### Article R*45 F-3
+
+I. ― En Guadeloupe, en Guyane, en Martinique, à La Réunion et dans le Département de Mayotte, le contrôle est exercé par des
+agents appartenant à des corps de catégorie A ou B agissant dans le ressort territorial du service auquel ils sont affectés.
+
+II. ― En Nouvelle-Calédonie, en Polynésie française, à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, dans les
+îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, le contrôle est exercé par des agents
+appartenant à des corps de catégorie A ou B habilités par le directeur général des finances publiques. L'habilitation précise
+le ressort territorial dans lequel les agents exercent ce contrôle. Ce ressort peut être différent de celui de leur service
+d'affectation.
+
+Pour habiliter ces agents, le directeur général des finances publiques peut déléguer sa signature à un ou plusieurs
+fonctionnaires de l'administration centrale de la direction générale des finances publiques ayant au moins le grade
+d'administrateur civil ou d'administrateur général des finances publiques ou un grade équivalent, aux directeurs régionaux
+des finances publiques de la Guadeloupe pour les contrôles exercés à Saint-Barthélemy et Saint-Martin et de La Réunion pour
+les contrôles exercés dans les Terres australes et antarctiques françaises ou aux directeurs locaux des finances publiques de
+la Nouvelle-Calédonie, de la Polynésie française, de Saint-Pierre-et-Miquelon et de Wallis-et-Futuna pour les contrôles
+exercés dans chacune de ces collectivités.
+
+La liste des agents habilités précisant le ressort territorial dans lequel ils exercent le contrôle est publiée au recueil
+des actes administratifs des services de l'Etat dans chacune des collectivités mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+
+###### Article R*45 F-4
+
+Un avis informant du contrôle l'entreprise ayant participé à la réalisation des investissements : 
+
+1° Est adressé par voie postale à l'entreprise préalablement au contrôle ; 
+
+2° Est remis en main propre au représentant légal de l'entreprise ou à la personne recevant les agents en cas de contrôle
+inopiné portant sur les éléments mentionnés au 1° de l'article R. * 45 F-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*45 F-1 (V)
+
+
+###### Article R*45 F-5
+
+Les opérations de contrôle, les constatations matérielles et, le cas échéant, la liste des documents mentionnés au dernier
+alinéa de l'article R. * 45 F-1 sont consignées par procès-verbal signé par l'agent chargé du contrôle ainsi que par la
+personne qui a assisté au déroulement du contrôle. En cas de refus de signer ou d'absence de personne lors du contrôle,
+mention en est faite au procès-verbal. 
+
+L'original du procès-verbal est conservé par l'administration. Copie en est remise à la personne qui a assisté au déroulement
+du contrôle et adressée à l'entreprise contrôlée ayant participé à la réalisation des investissements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-731 du 12 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*45 F-1 (V)
+
+
 ###### Article R45 B-1
 
 I.-La réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt mentionné
@@ -14955,9 +15075,9 @@ Modifications effectuées en conséquence des articles 20-I, 22 et 24 du décret
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2012-654 du 4 mai 2012 - art. 2
+	  - DEPLACE: Décret n°2013-731 du 12 août 2013 - art. 1
 
 	**Cite**:
 
