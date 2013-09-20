@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-08-16
+Version Consolidée au 2013-09-21
 
 # Partie législative
 
@@ -6823,28 +6823,20 @@ L. 166 et L. 166 D sont eux-mêmes soumis au secret professionnel dans les terme
 ###### Article L114
 
 L'administration des impôts peut échanger des renseignements avec les administrations financières de Saint-Pierre-et-
-Miquelon, de Mayotte, de Nouvelle-Calédonie, de Polynésie française, des îles Wallis et Futuna et des Terres australes et
-antarctiques françaises et autres collectivités territoriales de la République française relevant d'un régime fiscal
-spécifique ainsi qu'avec les Etats ayant conclu avec la France une convention d'assistance réciproque en matière d'impôts
-pour les échanges de renseignements avec l'administration française.
+Miquelon, de Nouvelle-Calédonie, de Polynésie française, des îles Wallis et Futuna et des Terres australes et antarctiques
+françaises et autres collectivités territoriales de la République française relevant d'un régime fiscal spécifique ainsi
+qu'avec les Etats ayant conclu avec la France une convention d'assistance réciproque en matière d'impôts pour les échanges de
+renseignements avec l'administration française.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Décret n°2004-1070 du 8 octobre 2004
 
 	**Modifié par**:
 
-	  - Loi n°76-1212 du 24 décembre 1976 - art. 1 (Ab) JORF 28 décembre 1976
-	  - Loi n°99-209 du 19 mars 1999 - art. 1 (V) JORF 21 mars 1999
-	  - Loi n°99-209 du 19 mars 1999 - art. 233 (V) JORF 21 mars 1999
-	  - Loi n°2001-616 du 11 juillet 2001 - art. 1 (Ab) JORF 13 juillet 2001
-	  - Loi n°2003-660 2003-07-21 art. 61 I JORF 22 juillet 2003
-
-	**Codifié par**:
-
-	  - Décret n°2004-1070 2004-10-08
+	  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 33
 
 	**Cité par**:
 
