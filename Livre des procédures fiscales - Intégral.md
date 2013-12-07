@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-09-21
+Version Consolidée au 2013-12-08
 
 # Partie législative
 
@@ -271,13 +271,49 @@ contribuer à la preuve desdites infractions. Ils en portent le résultat à la 
 	  - Code pénal - art. 450-2-1 (Ab)
 
 
+###### Article L10 BA
+
+I. ― Avant ou après la délivrance du numéro individuel d'identification prévu à l'article 286 ter du code général des impôts,
+l'administration peut demander des informations complémentaires pour statuer sur l'attribution ou le maintien de cet
+identifiant ainsi que tout élément permettant de justifier de la réalisation ou de l'intention de réaliser des activités
+économiques prévues au cinquième alinéa de l'article 256 A du même code. 
+
+II. ― Les informations complémentaires demandées au I sont fournies dans un délai de trente jours à compter de la réception
+de la demande. 
+
+III. ― Lorsque l'administration demande des informations complémentaires, elle notifie à l'opérateur sa décision d'accepter,
+de rejeter ou d'invalider l'attribution du numéro individuel d'identification, dans un délai d'un mois à compter de la
+réception des informations demandées. 
+
+IV. ― Le numéro individuel d'identification n'est pas attribué ou est invalidé dans l'un des cas suivants : 
+
+1° Aucune réponse n'a été reçue dans le délai mentionné au II ; 
+
+2° Les conditions prévues à l'article 286 ter du code général des impôts ne sont pas remplies ; 
+
+3° De fausses données ont été communiquées afin d'obtenir une identification à la taxe sur la valeur ajoutée ; 
+
+4° Des modifications de données n'ont pas été communiquées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 10
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 256 A (V)
+	  - Code général des impôts, CGI. - art. 286 ter
+
+
 ###### Article L10-0 A
 
-L'administration peut demander communication auprès de tiers des relevés de compte du contribuable, afin d'examiner
-l'ensemble de ses relevés de compte sur les années au titre desquelles les obligations déclaratives prévues au deuxième
-alinéa de l'article 1649 A ou à l'article 1649 AA du code général des impôts n'ont pas été respectées, sans que cet examen
-constitue le début d'une procédure de vérification de comptabilité ou d'une procédure d'examen de situation fiscale
-personnelle.
+L'administration peut examiner l'ensemble des relevés de compte du contribuable sur les années au titre desquelles les
+obligations déclaratives prévues au deuxième alinéa de l'article 1649 A ou au premier alinéa de l'article 1649 AA du code
+général des impôts n'ont pas été respectées, sans que cet examen constitue le début d'une procédure de vérification de
+comptabilité ou d'une procédure d'examen de situation fiscale personnelle. Ces relevés de compte sont transmis à
+l'administration par des tiers, spontanément ou à sa demande. 
 
 Ces relevés de compte ne peuvent être opposés au contribuable pour l'établissement de l'impôt sur le revenu que dans le cadre
 d'une procédure mentionnée au premier alinéa du présent article, sauf pour l'application du dernier alinéa de l'article 1649
@@ -285,19 +321,42 @@ A ou du second alinéa de l'article 1649 AA du code général des impôts.
 
 **Nota:**
 
-Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, article 8 III : Ces dispositions s'appliquent aux
-demandes adressées par l'administration à compter du 1
-  <sup>er</sup> janvier 2013.
+Loi n° 2013-1117 du 6 décembre 2013 article 58 II : Les présentes dispositions s'appliquent aux demandes de relevés de compte
+adressées par l'administration et aux transmissions de ces relevés effectuées spontanément par des tiers à compter du 8
+décembre 2013.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 58 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1649 A (V)
+	  - Code général des impôts, CGI. - art. 1649 AA (VT)
+
+
+###### Article L10-0 AA
+
+Dans le cadre des procédures prévues au présent titre II, à l'exception de celles mentionnées aux articles L. 16 B et L. 38,
+ne peuvent être écartés au seul motif de leur origine les documents, pièces ou informations que l'administration utilise et
+qui sont régulièrement portés à sa connaissance soit dans les conditions prévues au chapitre II du présent titre II ou aux
+articles L. 114 et L. 114 A, soit en application des droits de communication qui lui sont dévolus par d'autres textes, soit
+en application des dispositions relatives à l'assistance administrative par les autorités compétentes des Etats étrangers.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 8 (VD)
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 37
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1649 AA
+	  - Livre des procédures fiscales - art. L114
+	  - Livre des procédures fiscales - art. L114 A
+	  - Livre des procédures fiscales - art. L16 B
+	  - Livre des procédures fiscales - art. L38
 
 
 ###### Article L11
@@ -743,6 +802,30 @@ du 3 de l'article 283 du même code.
 	  - Code général des impôts, CGI. - art. 283 (V)
 	  - Code général des impôts, CGI. - art. 289
 	  - Livre des procédures fiscales - art. L13 D (V)
+
+
+##### 2° quater : Dispositions relatives aux copies de documents
+
+###### Article L13 F
+
+Les agents de l'administration peuvent, sans que le contribuable puisse s'y opposer, prendre copie des documents dont ils ont
+connaissance dans le cadre des procédures de contrôle prévues aux articles L. 12 et L. 13. Les modalités de sécurisation des
+copies de documents sous forme dématérialisée sont précisées par arrêté du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 44
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1734 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L12
+	  - Livre des procédures fiscales - art. L13 (V)
 
 
 ##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant
@@ -2184,8 +2267,8 @@ conditions prévues à l'article L. 35.
 code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents
 habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les
 pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant
-directement ou indirectement sont susceptibles d'être détenus et procéder à leur saisie, quel qu'en soit le support. Ils sont
-accompagnés d'un officier de police judiciaire. 
+directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à leur saisie,
+quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire. 
 
 Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie des pièces et documents, quel qu'en soit le
 support, ainsi que des objets ou des marchandises se rapportant aux infractions précitées. Ils peuvent saisir les biens et
@@ -2267,8 +2350,9 @@ peut également être commencée pendant les heures d'ouverture de l'établissem
 des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en
 dehors des personnes relevant de son autorité ou de celle de l'administration des douanes et droits indirects. 
 
-Les agents de l'administration des douanes et droits indirects mentionnés au 1, l'occupant des lieux ou son représentant et
-l'officier de police judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie. 
+Les agents de l'administration des douanes et droits indirects mentionnés au 1, les personnes auxquelles ils ont
+éventuellement recours en application de l'article L. 103 B, l'occupant des lieux ou son représentant et l'officier de police
+judiciaire peuvent seuls prendre connaissance des pièces et documents avant leur saisie. 
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale ; l'article 58 de ce code est applicable. 
@@ -2283,6 +2367,31 @@ au procès-verbal.
 Si l'inventaire sur place présente des difficultés, les pièces, documents, biens et avoirs saisis sont placés sous scellés.
 L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de
 l'officier de police judiciaire ; l'inventaire est alors établi. 
+
+4 bis. Lorsque l'occupant des lieux ou son représentant fait obstacle à l'accès aux pièces ou documents présents sur un
+support informatique, à leur lecture ou à leur saisie, mention en est portée au procès-verbal. 
+
+Les agents habilités peuvent alors procéder à la copie de ce support et saisir ce dernier, qui est placé sous scellés. Ils
+disposent de quinze jours à compter de la date de la visite pour accéder aux pièces ou documents présents sur le support
+informatique placé sous scellés, à leur lecture et à leur saisie, ainsi qu'à la restitution de ce dernier et de sa copie. Ce
+délai est prorogé sur autorisation délivrée par le juge des libertés et de la détention. 
+
+A la seule fin de permettre la lecture des pièces ou documents présents sur le support informatique placé sous scellés, les
+agents habilités procèdent aux opérations nécessaires à leur accès ou à leur mise au clair. Ces opérations sont réalisées sur
+la copie du support. 
+
+L'occupant des lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés, à la lecture et à la saisie
+des pièces et documents présents sur ce support informatique, qui ont lieu en présence de l'officier de police judiciaire. 
+
+Un procès-verbal décrivant les opérations réalisées pour accéder à ces pièces et documents, à leur mise au clair et à leur
+lecture est dressé par les agents habilités. Un inventaire des pièces et documents saisis lui est annexé, s'il y a lieu. 
+
+Le procès-verbal et l'inventaire sont signés par les agents habilités et par un officier de police judiciaire ainsi que par
+l'occupant des lieux ou son représentant ; en l'absence de celui-ci ou en cas de refus de signer, mention en est faite au
+procès-verbal. 
+
+Il est procédé concomitamment à la restitution du support informatique et de sa copie. En l'absence de l'occupant des lieux
+ou de son représentant, l'administration accomplit alors sans délai toutes diligences pour les restituer. 
 
 5. Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a
 délivré l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie
@@ -2329,14 +2438,15 @@ de l'article 298 bis du code général des impôts.
 
 	**Modifié par**:
 
-	  - Décret n°2012-654 du 4 mai 2012 - art. 1
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 49
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 290 quater
 	  - Code général des impôts, CGI. - art. 298 bis
-	  - Livre des procédures fiscales - art. L103 (V)
-	  - Livre des procédures fiscales - art. L212 A (V)
+	  - Livre des procédures fiscales - art. L103
+	  - Livre des procédures fiscales - art. L212 A
 	  - Livre des procédures fiscales - art. L47
 
 
@@ -2633,15 +2743,37 @@ rectification mentionnée à l'article L. 57.
 Le contribuable est informé des noms et adresses administratives des agents par qui ou sous le contrôle desquels les
 opérations sont réalisées.
 
+III. - A. - Dans le cadre du contrôle inopiné mentionné au dernier alinéa de l'article L. 47, lorsque la comptabilité est
+tenue au moyen de systèmes informatisés, les agents de l'administration peuvent réaliser deux copies des fichiers relatifs
+aux informations, données et traitements informatiques ainsi que de la documentation relative aux analyses, à la
+programmation et à l'exécution des traitements mentionnés au deuxième alinéa de l'article L. 13. 
+
+Ces copies sont scellées selon des modalités définies par arrêté du ministre chargé du budget. Une copie est remise au
+contribuable ou à son représentant, l'autre copie est conservée par l'administration. 
+
+A l'issue du délai raisonnable mentionné au dernier alinéa de l'article L. 47, les deux copies sont confrontées. 
+
+B. - Par dérogation au I du présent article, en cas d'altération des scellés ou des fichiers copiés, de non-présentation de
+la copie des fichiers remise au contribuable ou du fichier des écritures comptables mentionné au même I, l'administration
+peut effectuer des tris, classements ainsi que tous calculs sur la copie des fichiers des écritures comptables conservée par
+ses soins. 
+
+C. - Par dérogation au II du présent article, si l'administration envisage des traitements informatiques, en cas d'altération
+des scellés ou des fichiers copiés, de non-présentation de la copie remise au contribuable ou d'impossibilité d'effectuer
+tout ou partie des traitements informatiques nécessaires au contrôle des informations, données et traitements informatiques
+mentionnés au deuxième alinéa de l'article L. 13, l'administration peut effectuer ces traitements sur la copie des fichiers
+conservée par ses soins. 
+
+D. - L'administration communique au contribuable, sous forme dématérialisée ou non, au choix de ce dernier, le résultat des
+traitements informatiques qui donnent lieu à des rehaussements au plus tard lors de l'envoi de la proposition de
+rectification mentionnée à l'article L. 57. L'administration détruit, avant la mise en recouvrement, la copie des fichiers
+mentionnée au A du présent III.
+
 **Nota:**
 
-dispositions applicables aux contrôles pour lesquels l'avis de vérification a été adressé à compter du 1er janvier 2008.
+
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 18 (V)
 
 	**Cité par**:
 
@@ -2660,9 +2792,13 @@ dispositions applicables aux contrôles pour lesquels l'avis de vérification a 
 	  - Livre des procédures fiscales - art. L80 K (VT)
 	  - Livre des procédures fiscales - art. L80 L (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 14
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 54 (V)
+	  - Code général des impôts, CGI. - art. 54
 
 
 ###### Article L47 B
@@ -2882,7 +3018,9 @@ l'administration a dressé un procès-verbal de flagrance fiscale dans les condi
 pour la vérification des années antérieures ; 
 
 6° Lorsqu'à la date d'expiration de ce délai, une enquête judiciaire ou une information ouverte par l'autorité judiciaire
-dans le cas mentionné à l'article L. 188 B est en cours. 
+dans le cas mentionné à l'article L. 188 B est en cours ;
+
+7° Si le contribuable s'est livré à une activité occulte, au sens du troisième alinéa de l'article L. 169. 
 
 III.-En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois de la durée de la vérification sur place
 est prorogée de la durée comprise entre la date du choix du contribuable pour l'une des options prévues à cet article pour la
@@ -2890,6 +3028,11 @@ réalisation du traitement et, respectivement selon l'option choisie, soit celle
 fichiers nécessaires par l'entreprise, soit celle de la remise des résultats des traitements réalisés par l'entreprise à
 l'administration, soit celle de la remise des copies de fichiers nécessaires à la réalisation des traitements par
 l'administration. Cette dernière date fait l'objet d'une consignation par écrit.
+
+**Nota:**
+
+Loi n° 2013-1117 du 6 décembre 2013 article 50 II A : Les présentes dispositions s'appliquent aux contrôles dont la première
+intervention sur place a lieu à compter du 8 décembre 2013.
 
 **Liens relatifs à cet article**
 
@@ -2901,8 +3044,7 @@ l'administration. Cette dernière date fait l'objet d'une consignation par écri
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 18 (V)
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 23
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 50
 
 	**Cite**:
 
@@ -3176,7 +3318,7 @@ Modifications effectuées en conséquence de l'article 18 I de la loi n° 2007-1
 
 ###### Article L57 A
 
-En cas de vérification de comptabilité d'une entreprise ou d'un contribuable exerçant une activité industrielle ou
+I.-En cas de vérification de comptabilité d'une entreprise ou d'un contribuable exerçant une activité industrielle ou
 commerciale dont le chiffre d'affaires est inférieur à 1 526 000 € s'il s'agit d'entreprises dont le commerce principal est
 de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou
 à 460 000 € s'il s'agit d'autres entreprises ou d'un contribuable se livrant à une activité non commerciale dont le chiffre
@@ -3185,21 +3327,27 @@ soixante jours à compter de la réception des observations du contribuable fais
 mentionnée au premier alinéa de l'article L. 57. Le défaut de notification d'une réponse dans ce délai équivaut à une
 acceptation des observations du contribuable. 
 
-Le délai de réponse mentionné au premier alinéa ne s'applique pas en cas de graves irrégularités privant de valeur probante
-la comptabilité.
+II.-Le délai de réponse mentionné au I ne s'applique pas : 
+
+1° Aux personnes morales ni aux sociétés mentionnées à l'article 238 bis M du code général des impôts à l'actif desquelles
+sont inscrits des titres de placement ou de participation pour un montant total égal ou supérieur à 7 600 000 € ; 
+
+2° En cas de graves irrégularités privant de valeur probante la comptabilité.
 
 **Nota:**
 
-dispositions applicables aux contrôles pour lesquels un avis de vérification a été adressé après le 1er janvier 2008.
+Loi n° 2013-1117 du 6 décembre 2013 article 51 II : Les présentes dispositions s'appliquent aux contrôles pour lesquels un
+avis de vérification a été adressé à compter du 8 décembre 2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 14
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 51 (V)
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 238 bis M (V)
 	  - Livre des procédures fiscales - art. L57
 
 
@@ -3731,8 +3879,7 @@ Toutefois, il n'y a pas lieu de procéder à cette mise en demeure :
 2° Si le contribuable a transféré son activité à l'étranger sans déposer la déclaration de ses résultats ou de ses revenus
 non commerciaux ; 
 
-3° Si le contribuable ne s'est pas fait connaître d'un centre de formalités des entreprises ou du greffe du tribunal de
-commerce ou s'il s'est livré à une activité illicite (1) ; 
+3° Si le contribuable s'est livré à une activité occulte, au sens du troisième alinéa de l'article L. 169 ;
 
 4° Si un contrôle fiscal n'a pu avoir lieu du fait du contribuable ou de tiers ; 
 
@@ -3743,14 +3890,16 @@ BA, au titre de l'année ou de l'exercice au cours duquel le procès-verbal est 
 
 **Nota:**
 
-(3) Loi 2009-1674 du 30 décembre 2009 article 18 IX : Ces dispositions sont applicables aux procédures de contrôle engagées à
-compter du 1er janvier 2010.
+Conformément à la loi n° 2013-1117 du 6 décembre 2013 article 50 II B, le 3° du présent article s'applique aux avis de
+vérification de comptabilité ou, en cas d'application de l'article L. 47 C du livre des procédures fiscales, aux avis
+d'examen contradictoire de la situation fiscale personnelle ou, dans les cas pour lesquels l'envoi de ces avis n'est pas
+requis, aux propositions de rectification adressées à compter du 8 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 18 (V)
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 50
 
 	**Cite**:
 
@@ -5135,26 +5284,18 @@ sur sa demande, les documents sur lesquels sont enregistrés les paiements.
 A l'occasion de toute instance devant les juridictions civiles ou criminelles, le ministère public peut communiquer les
 dossiers à l'administration des finances.
 
+Cette dernière porte à la connaissance du ministère public, spontanément dans un délai de six mois après leur transmission ou
+à sa demande, l'état d'avancement des recherches de nature fiscale auxquelles elle a procédé à la suite de la communication
+de ces dossiers. 
+
+Le résultat du traitement définitif de ces dossiers par l'administration des finances fait l'objet d'une communication au
+ministère public.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI L100
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-	**Modifié par**:
-
-	  - Loi n°1926-04-04 art. 6 JORF 4 avril 1926
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 6 (V) JORF 31 décembre 1992
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°93-1095 du 16 septembre 1993
 
 	**Cité par**:
 
@@ -5165,6 +5306,10 @@ dossiers à l'administration des finances.
 	  - Code général des impôts, CGI. - art. 1649 quater-0 B ter (V)
 	  - Livre des procédures fiscales - art. L12 (V)
 	  - Livre des procédures fiscales - art. R81-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 17 (V)
 
 
 ##### 4° : Administrations et entreprises publiques, établissements ou organismes contrôlés par l'autorité administrative
@@ -5375,6 +5520,51 @@ cet article, l'administration peut utiliser ces informations pour l'exercice de 
 	**Cite**:
 
 	  - Code monétaire et financier - art. L561-13 (V)
+
+
+##### 5° quater : Autorité de contrôle prudentiel et de résolution
+
+###### Article L84 D
+
+L'Autorité de contrôle prudentiel et de résolution est tenue de communiquer à l'administration fiscale tout document ou
+information qu'elle détient dans le cadre de ses missions et dont elle informe, en application de l'article L. 561-30 du code
+monétaire et financier, le service mentionné à l'article L. 561-23 du même code ou dont son président informe le procureur de
+la République territorialement compétent, en application de l'article L. 612-28 dudit code, s'agissant de sommes ou
+opérations susceptibles de provenir d'une fraude fiscale mentionnée au II de l'article L. 561-15 du même code, à l'exception
+des documents ou des informations qu'elle a reçus d'une autorité étrangère chargée d'une mission similaire à la sienne, sauf
+en cas d'accord préalable de cette autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 52
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L561-15
+	  - Code monétaire et financier - art. L561-23 (V)
+	  - Code monétaire et financier - art. L561-30 (V)
+	  - Code monétaire et financier - art. L612-28
+
+
+##### 5° quinquies : Autorité des marchés financiers
+
+###### Article L84 E
+
+Sous réserve des dispositions du III de l'article L. 632-7 du code monétaire et financier, l'Autorité des marchés financiers
+communique à l'administration fiscale, sur sa demande, sans pouvoir opposer le secret professionnel, tout document ou
+information qu'elle détient dans le cadre de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 52
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L632-7
 
 
 ##### 6° : Personnes ayant la qualité de commerçant
@@ -5947,6 +6137,32 @@ montant des loyers ainsi qu'aux caractéristiques des biens immobiliers faisant 
 	  - Code général des impôts, CGI. - art. 1498 (V)
 
 
+##### 27° Concepteurs et éditeurs de logiciels de comptabilité ou de caisse
+
+###### Article L96 J
+
+Les entreprises ou les opérateurs qui conçoivent ou éditent des logiciels de comptabilité, de gestion ou des systèmes de
+caisse ou interviennent techniquement sur les fonctionnalités de ces produits affectant, directement ou indirectement, la
+tenue des écritures mentionnées au 1° de l'article 1743 du code général des impôts sont tenus de présenter à l'administration
+fiscale, sur sa demande, tous codes, données, traitements ou documentation qui s'y rattachent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1743 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1734 (V)
+	  - Code général des impôts, CGI. - art. 1770 undecies (V)
+	  - Livre des procédures fiscales - art. L102 D (V)
+
+
 ##### Section II : Renseignements communiqués à l'administration sans demande préalable de sa part
 
 ###### Article L97
@@ -6126,27 +6342,29 @@ faire présumer une fraude commise en matière fiscale ou une manoeuvre quelconq
 résultat de frauder ou de compromettre un impôt, qu'il s'agisse d'une instance civile ou commerciale ou d'une information
 criminelle ou correctionnelle même terminée par un non-lieu.
 
+L'administration des finances porte à la connaissance du juge d'instruction ou du procureur de la République, spontanément
+dans un délai de six mois après leur transmission ou à sa demande, l'état d'avancement des recherches de nature fiscale
+auxquelles elle a procédé à la suite de la communication des indications effectuée en application du premier alinéa. 
+
+Le résultat du traitement définitif de ces dossiers par l'administration des finances fait l'objet d'une communication au
+ministère public.
+
+**Nota:**
+
+Conformément à l'article 17 III de la loi n° 2013-1117 du 6 décembre 2013, le traitement des dossiers transmis à la direction
+générale des finances publiques par l'autorité judiciaire en application des articles L. 82 C et L. 101 du livre des
+procédures fiscales fait l'objet d'un rapport annuel au Parlement. Conformément au IV du même article, ces dispositions
+entrent en vigueur pour les échanges intervenus à compter du 1er janvier 2014.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 1989 (al. 1)
-	  - Loi n°1926-04-04 art. 6 (al. 1)
-
-	**Liens**:
-
-	  - HISTO: Edition du 18 août 1993
-
-	**Modifié par**:
-
-	  - Loi n°1926-04-04 art. 6 JORF 4 avril 1926
-	  - Loi n°92-677 du 17 juillet 1992 - art. 108 (V) JORF 19 juillet 1992
-	  - Loi n°92-677 du 17 juillet 1992 - art. 121 (V) JORF 19 juillet 1992
-	  - Décret n°92-1431 du 30 décembre 1992 - art. 1 (V) JORF 31 décembre 1992
 
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°93-1095 du 16 septembre 1993
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 17 (V)
 
 	**Cité par**:
 
@@ -6356,6 +6574,32 @@ Un décret en Conseil d'Etat détermine et fixe les conditions et modalités d'a
 	  - Livre des procédures fiscales - art. R*102 C-1 (V)
 
 
+###### Article L102 D
+
+Pour l'application de l'article L. 96 J, les codes, données, traitements ainsi que la documentation doivent être conservés
+jusqu'à l'expiration de la troisième année suivant celle au cours de laquelle le logiciel ou le système de caisse a cessé
+d'être diffusé.
+
+**Nota:**
+
+Loi n° 2013-1117 du 6 décembre 2013, article 20 IV : Ces dispositions s'appliquent aux logiciels ou systèmes de caisse en
+cours de diffusion lors de l'entrée en vigueur de la présente loi.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1734 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L96 J
+
+
 #### Chapitre III : Le secret professionnel en matière fiscale
 
 ##### Section I : Portée et limites de la règle du secret professionnel
@@ -6437,6 +6681,37 @@ Les personnes consultées sont tenues au secret professionnel dans les condition
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L103 (V)
+
+
+###### Article L103 B
+
+En matière de contributions indirectes et de réglementations assimilées, les agents de l'administration peuvent solliciter
+toute personne qualifiée dont l'expertise est susceptible de les éclairer pour l'accomplissement de leurs missions. 
+
+Ces agents peuvent communiquer à cette personne, sans méconnaître les règles du secret professionnel, les renseignements,
+objets, produits, marchandises et documents destinés à lui permettre de remplir sa mission. 
+
+Les personnes ainsi appelées rédigent un rapport qui contient la description des opérations d'expertise ainsi que leurs
+conclusions. Ce rapport est communiqué aux agents de l'administration et est annexé à la procédure. En cas d'urgence, les
+conclusions des personnes ayant fourni leur expertise peuvent être recueillies par les agents de l'administration qui les
+consignent dans un procès-verbal. 
+
+Les personnes qualifiées effectuent les opérations d'expertise sous le contrôle des agents de l'administration et sont
+soumises au secret professionnel prévu à l'article L. 103.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L103
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L38 (V)
 
 
 ##### 1° : Délivrance de documents aux contribuables
@@ -10367,33 +10642,30 @@ pour les peines correctionnelles de droit commun et il s'applique dans les même
 ###### Article L188 A
 
 Lorsque l'administration a, dans le délai initial de reprise, demandé à l'autorité compétente d'un autre Etat ou territoire
-des renseignements concernant soit les relations d'un contribuable qui entrent dans les prévisions des articles 57 ou 209 B
-du code général des impôts avec une entreprise ou une entité juridique exploitant une activité ou établi dans cet Etat ou ce
-territoire, soit les biens, les avoirs ou les revenus dont un contribuable a pu disposer hors de France ou les activités
-qu'il a pu y exercer, soit ces deux catégories de renseignements, les omissions ou insuffisances d'imposition y afférentes
-peuvent être réparées, même si le délai initial de reprise est écoulé, jusqu'à la fin de l'année qui suit celle de la réponse
-à la demande et au plus tard jusqu'à la fin de la cinquième année qui suit celle au titre de laquelle l'imposition est due.
+des renseignements concernant un contribuable, elle peut réparer les omissions ou les insuffisances d'imposition afférentes à
+cette demande, même si le délai initial de reprise est écoulé, jusqu'à la fin de l'année qui suit celle de la réception de la
+réponse et, au plus tard, jusqu'au 31 décembre de la troisième année suivant celle au titre de laquelle le délai initial de
+reprise est écoulé.
 
-Le présent article s'applique sous réserve des dispositions de l'article L. 186 et dans la mesure où le contribuable a été
-informé de l'existence de la demande de renseignements, au moment où celle-ci a été formulée, ainsi que de l'intervention de
-la réponse de l'autorité compétente de l'autre Etat ou territoire au moment où cette réponse est parvenue à l'administration
-(1).
+Le présent article s'applique dans la mesure où le contribuable a été informé de l'existence de la demande de renseignements
+dans le délai de soixante jours suivant son envoi ainsi que de l'intervention de la réponse de l'autorité compétente de
+l'autre Etat ou territoire dans le délai de soixante jours suivant sa réception par l'administration.
 
 **Nota:**
 
-(1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en vigueur de la loi 96-314.
+Loi n° 2013-1117 du 6 décembre 2013 article 59 II : Les présentes dispositions s'appliquent aux demandes formulées dans les
+délais de reprise venant à expiration à compter du 8 décembre 2013.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 57, 209 B
-	  - Livre des procédures fiscales - art. L186 (M)
+	  - Livre des procédures fiscales - art. L186
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 2004-12-30 art. 104 III, IV Finances pour 2005 JORF 31 décembre 2004 en vigueur le 1er janvier 2006
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 104 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2006
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 59 (V)
 
 	**Cité par**:
 
@@ -10530,8 +10802,10 @@ imposition ou à l'exercice de droits à déduction ou à la restitution d'impos
 la règle de droit dont il a été fait application à une règle de droit supérieure, révélée par une décision juridictionnelle
 ou par un avis rendu au contentieux. 
 
-Ces actions sont introduites selon les règles de délais applicables aux réclamations mentionnées au premier alinéa. Un décret
-en Conseil d'Etat fixe les conditions d'application du présent alinéa.
+Ces actions sont introduites selon les règles de délais applicables aux réclamations mentionnées au premier alinéa et se
+prescrivent par deux ans, selon le cas, à compter de la mise en recouvrement du rôle ou de la notification de l'avis de mise
+en recouvrement ou, en l'absence de mise en recouvrement, du versement de l'impôt contesté ou de la naissance du droit à
+déduction. 
 
 Pour l'application du troisième alinéa, sont considérés comme des décisions juridictionnelles ou des avis rendus au
 contentieux les décisions du Conseil d'Etat ainsi que les avis rendus en application de l'article L. 113-1 du code de justice
@@ -10566,7 +10840,7 @@ janvier 2013.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 26 (V)
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 48
 
 	**Cite**:
 
@@ -11516,13 +11790,11 @@ Toutefois, la commission examine l'affaire sans que le contribuable soit avisé 
 le ministre chargé du budget fait valoir qu'existent des présomptions caractérisées qu'une infraction fiscale pour laquelle
 existe un risque de dépérissement des preuves résulte : 
 
-1° Soit de l'utilisation, aux fins de se soustraire à l'impôt, de comptes ou de contrats souscrits auprès d'organismes
-établis dans un Etat ou territoire qui n'a pas conclu avec la France, depuis au moins trois ans au moment des faits, une
-convention d'assistance administrative permettant l'échange de tout renseignement nécessaire à l'application de la
-législation fiscale française ; 
+1° Soit de l'utilisation, aux fins de se soustraire à l'impôt de comptes ouverts ou de contrats souscrits auprès d'organismes
+établis à l'étranger ; 
 
-2° Soit de l'interposition, dans un Etat ou territoire mentionné au 1°, de personnes physiques ou morales ou de tout
-organisme, fiducie ou institution comparable ; 
+2° Soit de l'interposition de personnes physiques ou morales ou de tout organisme, fiducie ou institution comparable établis
+à l'étranger ; 
 
 3° Soit de l'usage d'une fausse identité ou de faux documents au sens de l'article 441-1 du code pénal, ou de toute autre
 falsification ;
@@ -11555,7 +11827,7 @@ Un décret en Conseil d'Etat fixe les conditions de fonctionnement de la commiss
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 11
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 9
 
 	**Cite**:
 
@@ -11586,57 +11858,64 @@ l'article L. 561-23 du même code, en application du II de l'article L. 561-15.
 	  - Code monétaire et financier - art. L561-23
 
 
+###### Article L228 B
+
+La commission des infractions fiscales élabore chaque année à l'attention du Gouvernement et du Parlement un rapport
+d'activité, qui fait l'objet d'une publication, dans lequel figurent notamment le nombre de dossiers reçus et examinés, le
+nombre d'avis favorables et défavorables émis, répartis par impôts et taxes, ainsi que par catégories socio-professionnelles,
+en précisant le montant des droits visés pénalement.
+
+Les conditions du déclenchement des poursuites pénales en matière de fraude fiscale et les critères définis par la commission
+des infractions fiscales en la matière font l'objet d'un débat chaque année devant les commissions permanentes compétentes en
+matière de finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à la Constitution par la
+décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 16
+
+
 ###### Article L229
 
 Les plaintes sont déposées par le service chargé de l'assiette ou du recouvrement de l'impôt sans qu'il y ait lieu de mettre,
 au préalable, le contribuable en demeure de régulariser sa situation.
 
+Toutefois, les plaintes présentant un lien de connexité peuvent être déposées par un seul des services mentionnés au premier
+alinéa, compétent pour le dépôt de l'une de ces plaintes.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - CGI 1780 al. 1
-	  - Décret n°1934-07-20 annexe art. 146
-	  - Décret n°1948-12-09 art. 1966
-	  - Loi n°1934-07-06 art. 13
-	  - Loi n°48-23 1948-01-06 art. 47
-	  - Loi n°48-1268 du 17 août 1948 - art. 5, v. init.
-	  - Loi n°48-1268 du 17 août 1948 - art. 6, v. init.
-	  - Décret n°48-1986 1948-12-09 art. 115
+	  - Décret n°81-859 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 46
 
 	**Cité par**:
 
 	  - Code général des impôts, CGI. - art. 1741 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er juillet 1981
-
-	**Codifié par**:
-
-	  - Décret n°81-859 1981-09-15
-
 
 ###### Article L230
 
-Les plaintes peuvent être déposées jusqu'à la fin de la troisième année qui suit celle au cours de laquelle l'infraction a
-été commise.
+Les plaintes peuvent être déposées jusqu'à la fin de la sixième année qui suit celle au cours de laquelle l'infraction a été
+commise. 
 
 Lorsque l'infraction a été commise dans les conditions prévues à l'article 1837 du code général des impôts, la plainte doit
-être déposée dans les trois ans qui suivent l'affirmation jugée frauduleuse.
+être déposée dans les six ans qui suivent l'affirmation jugée frauduleuse. 
 
 La prescription de l'action publique est suspendue pendant une durée maximum de six mois entre la date de saisine de la
 commission des infractions fiscales et la date à laquelle cette commission émet son avis.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1837
-
 	**Modifié par**:
 
-	  - Décret n°84-686 1984-07-17 art. 6 JORF 24 juillet 1984
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 53
 
 	**Cité par**:
 
@@ -12151,10 +12430,12 @@ Aucune autorité publique ne peut accorder de remise totale ou partielle de droi
 foncière, de droits de timbre, de taxes sur le chiffre d'affaires, de contributions indirectes et de taxes assimilées à ces
 droits, taxes et contributions.
 
-**Nota:**
+L'administration ne peut transiger : 
 
-Loi n° 2010-1658 du 29 décembre 2010, article 55 IV-C : Ces dispositions entrent en vigueur au 1er janvier 2012, à
-l'exception des produits recouvrés par l'administration fiscale pour lesquels ils entrent en vigueur au 1er mars 2011.
+a) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les infractions mentionnées au code général des
+impôts ; 
+
+b) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire au bon déroulement du contrôle.
 
 **Liens relatifs à cet article**
 
@@ -12190,13 +12471,13 @@ l'exception des produits recouvrés par l'administration fiscale pour lesquels i
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 15
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1727 (V)
-	  - Code général des impôts, CGI. - art. 1912 (VT)
-	  - Livre des procédures fiscales - art. L209 (V)
+	  - Code général des impôts, CGI. - art. 1727
+	  - Code général des impôts, CGI. - art. 1912
+	  - Livre des procédures fiscales - art. L209
 
 
 ###### Article L247 A
@@ -12293,6 +12574,22 @@ applicables au plan de redressement.
 
 	  - Code de commerce - art. L626-6 (V)
 	  - Code de commerce - art. L631-19 (V)
+
+
+###### Article L247-0 A
+
+La détermination du montant de l'atténuation fixée en application du 3° de l'article L. 247 garantit le respect de la
+hiérarchie des sanctions prévues au chapitre II du livre II du code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 15
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L247
 
 
 ###### Article L248
@@ -12405,6 +12702,30 @@ litige devant le tribunal compétent, celui-ci fixe le taux des majorations ou p
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+##### Les taxes d'urbanisme
+
+###### Article L251 A
+
+Chaque année, le ministre chargé du budget publie un rapport sur l'application de la politique de remises et de transactions
+à titre gracieux par l'administration fiscale. Ce rapport peut faire l'objet d'un débat chaque année devant les commissions
+permanentes compétentes en matière de finances de l'Assemblée nationale et du Sénat. [Dispositions déclarées non conformes à
+la Constitution par la décision du Conseil constitutionnel n° 2013-679 DC du 4 décembre 2013].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2001-436 du 21 mai 2001
+
+	**Modifié par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 15
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*251 A-1 (VT)
 
 
 ### Titre IV : Le recouvrement de l'impôt
@@ -13014,6 +13335,35 @@ cessation des paiements et en connaissance de celle-ci.
 	  - Code de commerce - art. L632-2 (V)
 
 
+###### Article L263-0 A
+
+Peuvent faire l'objet d'un avis à tiers détenteur notifié par le comptable chargé du recouvrement, dans les conditions
+prévues aux articles L. 262 et L. 263, les sommes versées par un redevable souscripteur ou adhérent d'un contrat d'assurance
+rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de rachat des
+droits à la date de la notification de l'avis à tiers détenteur.
+
+**Nota:**
+
+Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
+saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
+2013.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L223-15 (VD)
+	  - Code des assurances - art. L132-14 (VD)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L262 (V)
+
+
 ##### 2° : Rémunérations du travail
 
 ###### Article L264
@@ -13230,7 +13580,7 @@ d'affaires, sous réserve des adaptations nécessaires.
 
 ###### Article L273 A
 
-I. - Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le compte de tiers sur la base d'un titre de
+I.-Les créances de l'Etat ou celles qu'il est chargé de recouvrer pour le compte de tiers sur la base d'un titre de
 perception délivré par lui en application de l'article L. 252 A peuvent être recouvrées par voie de saisie à tiers
 détenteur. 
 
@@ -13245,6 +13595,10 @@ sommes saisies disponibles à concurrence des sommes pour lesquelles la saisie e
 Sous peine de se voir réclamer les sommes saisies majorées du taux d'intérêt légal, les fonds doivent être reversés dans les
 trente jours qui suivent la réception de la saisie par le tiers détenteur auprès du comptable chargé du recouvrement. 
 
+La saisie à tiers détenteur peut s'exercer sur les sommes versées par un redevable souscripteur ou adhérent d'un contrat
+d'assurance rachetable, y compris si la possibilité de rachat fait l'objet de limitations, dans la limite de la valeur de
+rachat des droits à la date de la notification de la saisie 
+
 La saisie à tiers détenteur peut s'exercer sur les créances conditionnelles ou à terme ; dans ce cas, les fonds sont versés
 au comptable public chargé du recouvrement lorsque ces créances deviennent exigibles. 
 
@@ -13255,15 +13609,21 @@ Si les fonds détenus ou dus par le tiers détenteur sont indisponibles entre se
 chargé du recouvrement dès la réception de la saisie. 
 
 Les contestations relatives à la saisie doivent être adressées à l'administration dont dépend le comptable qui a exercé cette
-poursuite avant tout recours juridictionnel.
+poursuite avant tout recours juridictionnel. 
 
-II. - (Dispositions transférées sous l'article L. 135 X)
+II.-(Dispositions transférées sous l'article L. 135 X)
+
+**Nota:**
+
+Loi n° 2013-1117 du 6 décembre 2013, article 41 V : Les présentes dispositions s'appliquent aux avis à tiers détenteur,
+saisies à tiers détenteur, oppositions à tiers détenteur et oppositions administratives notifiés à compter du 8 décembre
+2013.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 41 (V)
 
 	**Cité par**:
 
@@ -13275,7 +13635,8 @@ II. - (Dispositions transférées sous l'article L. 135 X)
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L252 A
-	  - Code des procédures civiles d'exécution - art. L211-2 (VD)
+	  - Code des procédures civiles d'exécution - art. L162-1 (V)
+	  - Code des procédures civiles d'exécution - art. L211-2
 
 
 ##### 12° Entrepreneur individuel à responsabilité limitée
@@ -13324,9 +13685,15 @@ compter du 11 décembre 2010.
 
 ###### Article L274
 
-Les  comptables publics des administrations fiscales qui n'ont fait aucune  poursuite contre un redevable pendant quatre
-années consécutives à  compter du jour de la mise en recouvrement du rôle ou de l'envoi de  l'avis de mise en recouvrement
-sont déchus de tous droits et de toute  action contre ce redevable.
+Les comptables publics des administrations fiscales qui n'ont fait aucune poursuite contre un redevable pendant quatre années
+consécutives à compter du jour de la mise en recouvrement du rôle ou de l'envoi de l'avis de mise en recouvrement sont déchus
+de tous droits et de toute action contre ce redevable.
+
+Le délai de prescription de l'action en recouvrement prévu au premier alinéa est augmenté de deux années pour les redevables
+établis dans un Etat non membre de l'Union européenne avec lequel la France ne dispose d'aucun instrument juridique relatif à
+l'assistance mutuelle en matière de recouvrement ayant une portée similaire à celle prévue par la directive 2010/24/UE du
+Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts,
+droits et autres mesures.
 
 **Liens relatifs à cet article**
 
@@ -13343,7 +13710,7 @@ sont déchus de tous droits et de toute  action contre ce redevable.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+	  - Loi n°2013-1117 du 6 décembre 2013 - art. 47
 
 
 ###### Article L275 A
