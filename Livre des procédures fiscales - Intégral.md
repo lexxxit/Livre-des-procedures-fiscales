@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2013-12-25
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -444,16 +444,47 @@ occulte. Il en est de même lorsque, dans le délai initial d'un an, les article
 
 ###### Article L13
 
-Les agents de l'administration des impôts vérifient sur place, en suivant les règles prévues par le présent livre, la
-comptabilité des contribuables astreints à tenir et à présenter des documents comptables.
+I.-Les agents de l'administration des impôts vérifient sur place, en suivant les règles prévues par le présent livre, la
+comptabilité des contribuables astreints à tenir et à présenter des documents comptables. 
 
-Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contrôle porte sur l'ensemble des informations,
+II.-1. Les contribuables autres que ceux soumis au régime défini à l'article 50-0 du code général des impôts qui tiennent une
+comptabilité analytique sont tenus de présenter celle-ci lorsque leur chiffre d'affaires de l'exercice excède 152,4 millions
+d'euros, s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées
+à emporter ou à consommer sur place ou de fournir le logement, ou 76,2 millions d'euros, s'il s'agit d'autres entreprises. 
+
+2. Le 1 s'applique également aux contribuables qui tiennent une comptabilité analytique, quel que soit leur chiffre
+d'affaires : 
+
+1° Lorsque le total de leur actif brut est supérieur ou égal à 400 millions d'euros à la clôture de l'exercice ; 
+
+2° Ou lorsqu'ils appartiennent à l'une des catégories suivantes : 
+
+a) Personnes morales ou groupements de personnes de droit ou de fait détenant à la clôture de l'exercice, directement ou
+indirectement, plus de la moitié du capital ou des droits de vote d'une personne morale ou d'un groupement mentionné au 1 ou
+au 1° du présent 2 ; 
+
+b) Personnes morales ou groupements de personnes de droit ou de fait dont plus de la moitié du capital ou des droits de vote
+est détenue à la clôture de leur exercice, directement ou indirectement, par une personne ou un groupement mentionné aux
+mêmes 1 ou 1° ; 
+
+c) Personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A du code général des
+impôts lorsque celui-ci comprend au moins une personne mentionnée au 1 du présent II ou au 1° du présent 2. 
+
+III.-Les sociétés commerciales qui établissent, en application de l'article L. 233-16 du code de commerce, des comptes
+consolidés sont tenues de les présenter. 
+
+IV.-Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contrôle porte sur l'ensemble des informations,
 données et traitements informatiques qui concourent directement ou indirectement à la formation des résultats comptables ou
 fiscaux et à l'élaboration des déclarations rendues obligatoires par le code général des impôts ainsi que sur la
-documentation relative aux analyses, à la programmation et à l'exécution des traitements.
+documentation relative aux analyses, à la programmation et à l'exécution des traitements. 
 
-Les fiducies, en la personne de leur fiduciaire, sont soumises à vérification de comptabilité dans les conditions prévues au
-présent article.
+V.-Les fiducies, en la personne de leur fiduciaire, sont soumises à vérification de comptabilité dans les conditions prévues
+au présent article.
+
+**Nota:**
+
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 99 III : Ces dispositions s'appliquent aux avis de
+vérification adressés à compter de l'entrée en vigueur de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -471,13 +502,14 @@ présent article.
 	  - Livre des procédures fiscales - art. L52 (V)
 	  - Livre des procédures fiscales - art. R*13-1 (V)
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2007
-
 	**Modifié par**:
 
-	  - Loi n°2007-211 du 19 février 2007 - art. 10 () JORF 21 février 2007
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 99
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16 (V)
+	  - Code général des impôts, CGI. - art. 50-0 (V)
 
 
 ###### Article L13 A
@@ -550,6 +582,9 @@ explication concernant la sélection et l'application de la ou des méthodes ret
 ― lorsque la méthode choisie le requiert, une analyse des éléments de comparaison considérés comme pertinents par
 l'entreprise. 
 
+3° Les décisions de même nature que les interprétations, instructions et circulaires mentionnées à l'article L. 80 A, prises
+par les administrations fiscales étrangères à l'égard des entreprises associées. 
+
 III. ― Cette documentation, qui ne se substitue pas aux justificatifs afférents à chaque transaction, est tenue à la
 disposition de l'administration à la date d'engagement de la vérification de comptabilité. 
 
@@ -567,11 +602,11 @@ applicables aux exercices ouverts à compter du 1er janvier 2010.
 
 	**Modifié par**:
 
-	  - Décret n°2013-464 du 3 juin 2013 - art. 1
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 98
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 223 A (VT)
+	  - Code général des impôts, CGI. - art. 223 A
 
 	**Cité par**:
 
@@ -1013,10 +1048,11 @@ L'exercice de cette faculté n'entraîne pas la suspension des opérations de vi
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
 l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée. 
 
-Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
-la personne occupant les lieux visités est titulaire et où des pièces et documents se rapportant aux agissements visés au I
-sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance,
-procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-verbal prévu au IV. 
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit ou une
+société de financement dont la personne occupant les lieux visités est titulaire et où des pièces et documents se rapportant
+aux agissements visés au I sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge
+qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
+verbal prévu au IV. 
 
 La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. A cette fin, il
 donne toutes instructions aux agents qui participent à ces opérations. 
@@ -1169,34 +1205,31 @@ opérations sont réalisées.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 11
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 10
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L103 (V)
-	  - Livre des procédures fiscales - art. L47 (V)
-	  - Livre des procédures fiscales - art. L57 (V)
-	  - Livre des procédures fiscales - art. L76 (V)
-	  - Code de procédure pénale - art. 56 (V)
-	  - Code de procédure pénale - art. 58 (V)
+	  - Livre des procédures fiscales - art. L47
+	  - Livre des procédures fiscales - art. L57
 
 
 ###### Article L16 BA
 
 L'administration peut demander au preneur, dans les conditions définies à l'article L. 16 A, des justifications relatives aux
-travaux à raison desquels il a bénéficié du taux réduit de la taxe sur la valeur ajoutée prévu à l'article 279-0 bis du code
-général des impôts.
+travaux à raison desquels il a bénéficié du taux réduit de la taxe sur la valeur ajoutée prévu à l'article 278-0 ter ou à
+l'article 279-0 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 88 () JORF 31 décembre 2005
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 9
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 279-0 bis (VD)
-	  - Livre des procédures fiscales - art. L16 A (V)
+	  - Code général des impôts, CGI. - art. 278-0 ter (T)
+	  - Code général des impôts, CGI. - art. 279-0 bis
+	  - Livre des procédures fiscales - art. L16 A
 
 
 ###### Article L16-0 BA
@@ -2267,8 +2300,9 @@ conditions prévues à l'article L. 35.
 code général des impôts et aux législations édictant les mêmes règles en matière de procédure et de recouvrement, les agents
 habilités à cet effet par le ministre chargé des douanes peuvent procéder à des visites en tous lieux, même privés, où les
 pièces, documents, objets ou marchandises se rapportant à ces infractions ainsi que les biens et avoirs en provenant
-directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à leur saisie,
-quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire. 
+directement ou indirectement sont susceptibles d'être détenus ou d'être accessibles ou disponibles 
+
+et procéder à leur saisie, quel qu'en soit le support. Ils sont accompagnés d'un officier de police judiciaire. 
 
 Les agents habilités peuvent procéder, à l'occasion de la visite, à la saisie des pièces et documents, quel qu'en soit le
 support, ainsi que des objets ou des marchandises se rapportant aux infractions précitées. Ils peuvent saisir les biens et
@@ -2299,11 +2333,11 @@ Le juge motive sa décision par l'indication des éléments de fait et de droit 
 l'espèce, l'existence des infractions dont la preuve est recherchée. Il se prononce par une mention expresse sur la saisie de
 biens et avoirs pouvant provenir directement ou indirectement des infractions dont la preuve est recherchée. 
 
-Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit dont
-la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou marchandises se rapportant aux
-infractions visées au 1. sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge
-qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
-verbal prévu au 4. 
+Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit ou une
+société de financement dont la personne occupant les lieux visités est titulaire et où des pièces, documents, objets ou
+marchandises se rapportant aux infractions visées au 1. sont susceptibles de se trouver, ils peuvent, sur autorisation
+délivrée par tout moyen par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de
+cette autorisation est portée au procès-verbal prévu au 4. 
 
 Si, à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens
 ou avoirs se rapportant aux infractions visées au 1, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a
@@ -2438,6 +2472,7 @@ de l'article 298 bis du code général des impôts.
 
 	**Modifié par**:
 
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 10
 	  - Loi n°2013-1117 du 6 décembre 2013 - art. 43
 	  - Loi n°2013-1117 du 6 décembre 2013 - art. 49
 
@@ -2446,7 +2481,7 @@ de l'article 298 bis du code général des impôts.
 	  - Code général des impôts, CGI. - art. 290 quater
 	  - Code général des impôts, CGI. - art. 298 bis
 	  - Livre des procédures fiscales - art. L103
-	  - Livre des procédures fiscales - art. L212 A
+	  - Livre des procédures fiscales - art. L103 B (V)
 	  - Livre des procédures fiscales - art. L47
 
 
@@ -2457,14 +2492,13 @@ de l'article 298 bis du code général des impôts.
 1. Les agents de l'administration des impôts peuvent assurer le contrôle et l'assiette de l'ensemble des impôts ou taxes dus
 par le contribuable qu'ils vérifient. 
 
-2. En matière d'impôts directs et de taxes assises sur les primes d'assurance, lorsque la situation d'un ou plusieurs
-contribuables présente un intérêt commun ou complémentaire pour plusieurs Etats membres de la Communauté européenne,
-l'administration peut convenir avec les administrations des autres Etats membres de procéder à des contrôles simultanés,
-chacune sur le territoire de l'Etat dont elle relève, en vue d'échanger les renseignements ainsi obtenus. 
+2. Pour l'application de la législation fiscale lorsque la situation d'un ou plusieurs contribuables présente un intérêt
+commun ou complémentaire pour plusieurs Etats membres de l'Union européenne, l'administration peut convenir avec les
+administrations des autres Etats membres de procéder à des contrôles simultanés, chacune sur le territoire de l'Etat membre
+dont elle relève, en vue d'échanger les renseignements ainsi obtenus. 
 
 3. Les fonctionnaires des administrations des autres Etats membres de l'Union européenne dûment habilités par l'autorité
-requérante par un mandat écrit et autorisés par l'administration française peuvent, selon des modalités fixées par décret en
-Conseil d'Etat : 
+requérante par un mandat écrit et autorisés par l'administration française peuvent : 
 
 a) Etre présents dans les bureaux où les agents exécutent leurs tâches ; 
 
@@ -2482,7 +2516,7 @@ le cas échéant, des articles 1732 et 1734 du code général des impôts.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 59 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 72 (V)
 
 	**Cité par**:
 
@@ -2491,7 +2525,8 @@ le cas échéant, des articles 1732 et 1734 du code général des impôts.
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1732 (V)
+	  - Code général des impôts, CGI. - art. 1732
+	  - Code général des impôts, CGI. - art. 1734
 
 
 ###### Article L45 B
@@ -2713,13 +2748,18 @@ contribuable de se faire assister par un conseil.
 
 ###### Article L47 A
 
-I.-Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contribuable peut satisfaire à l'obligation de
-représentation des documents comptables mentionnés au premier alinéa de l'article 54 du code général des impôts en remettant,
-sous forme dématérialisée répondant à des normes fixées par arrêté du ministre chargé du budget, une copie des fichiers des
-écritures comptables définies aux articles 420-1 et suivants du plan comptable général. L'administration peut effectuer des
-tris, classements ainsi que tous calculs aux fins de s'assurer de la concordance entre la copie des enregistrements
-comptables et les déclarations fiscales du contribuable. L'administration restitue au contribuable, avant la mise en
-recouvrement, les copies des fichiers transmis et n'en conserve aucun double. 
+I.-Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contribuable satisfait à l'obligation de
+représentation des documents comptables mentionnés au premier alinéa de l'article 54 du code général des impôts en remettant
+au début des opérations de contrôle, sous forme dématérialisée répondant à des normes fixées par arrêté du ministre chargé du
+budget, une copie des fichiers des écritures comptables définies aux articles 420-1 et suivants du plan comptable général. 
+
+Le premier alinéa du présent article s'applique également aux fichiers des écritures comptables de tout contribuable soumis
+par le code général des impôts à l'obligation de tenir et de présenter des documents comptables autres que ceux mentionnés au
+premier alinéa du même article 54 et dont la comptabilité est tenue au moyen de systèmes informatisés. 
+
+L'administration peut effectuer des tris, classements ainsi que tous calculs aux fins de s'assurer de la concordance entre la
+copie des enregistrements comptables et les déclarations fiscales du contribuable. L'administration détruit, avant la mise en
+recouvrement, les copies des fichiers transmis. 
 
 II.-En présence d'une comptabilité tenue au moyen de systèmes informatisés et lorsqu'ils envisagent des traitements
 informatiques, les agents de l'administration fiscale indiquent par écrit au contribuable la nature des investigations
@@ -2741,9 +2781,9 @@ des traitements informatiques qui donnent lieu à des rehaussements au plus tard
 rectification mentionnée à l'article L. 57. 
 
 Le contribuable est informé des noms et adresses administratives des agents par qui ou sous le contrôle desquels les
-opérations sont réalisées.
+opérations sont réalisées. 
 
-III. - A. - Dans le cadre du contrôle inopiné mentionné au dernier alinéa de l'article L. 47, lorsque la comptabilité est
+III. ― A. ― Dans le cadre du contrôle inopiné mentionné au dernier alinéa de l'article L. 47, lorsque la comptabilité est
 tenue au moyen de systèmes informatisés, les agents de l'administration peuvent réaliser deux copies des fichiers relatifs
 aux informations, données et traitements informatiques ainsi que de la documentation relative aux analyses, à la
 programmation et à l'exécution des traitements mentionnés au deuxième alinéa de l'article L. 13. 
@@ -2753,25 +2793,27 @@ contribuable ou à son représentant, l'autre copie est conservée par l'adminis
 
 A l'issue du délai raisonnable mentionné au dernier alinéa de l'article L. 47, les deux copies sont confrontées. 
 
-B. - Par dérogation au I du présent article, en cas d'altération des scellés ou des fichiers copiés, de non-présentation de
+B. ― Par dérogation au I du présent article, en cas d'altération des scellés ou des fichiers copiés, de non-présentation de
 la copie des fichiers remise au contribuable ou du fichier des écritures comptables mentionné au même I, l'administration
 peut effectuer des tris, classements ainsi que tous calculs sur la copie des fichiers des écritures comptables conservée par
 ses soins. 
 
-C. - Par dérogation au II du présent article, si l'administration envisage des traitements informatiques, en cas d'altération
+C. ― Par dérogation au II du présent article, si l'administration envisage des traitements informatiques, en cas d'altération
 des scellés ou des fichiers copiés, de non-présentation de la copie remise au contribuable ou d'impossibilité d'effectuer
 tout ou partie des traitements informatiques nécessaires au contrôle des informations, données et traitements informatiques
 mentionnés au deuxième alinéa de l'article L. 13, l'administration peut effectuer ces traitements sur la copie des fichiers
 conservée par ses soins. 
 
-D. - L'administration communique au contribuable, sous forme dématérialisée ou non, au choix de ce dernier, le résultat des
+D. ― L'administration communique au contribuable, sous forme dématérialisée ou non, au choix de ce dernier, le résultat des
 traitements informatiques qui donnent lieu à des rehaussements au plus tard lors de l'envoi de la proposition de
 rectification mentionnée à l'article L. 57. L'administration détruit, avant la mise en recouvrement, la copie des fichiers
 mentionnée au A du présent III.
 
 **Nota:**
 
-
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 14 III : Ces dispositions s'appliquent aux
+contrôles pour lesquels l'avis de vérification est adressé après le 1
+  <sup>er</sup> janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -2794,11 +2836,13 @@ mentionnée au A du présent III.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 14
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 14 (VD)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 54
+	  - Livre des procédures fiscales - art. L13 (V)
+	  - Livre des procédures fiscales - art. L47 (V)
 
 
 ###### Article L47 B
@@ -3018,12 +3062,15 @@ l'administration a dressé un procès-verbal de flagrance fiscale dans les condi
 pour la vérification des années antérieures ; 
 
 6° Lorsqu'à la date d'expiration de ce délai, une enquête judiciaire ou une information ouverte par l'autorité judiciaire
-dans le cas mentionné à l'article L. 188 B est en cours ;
+dans le cas mentionné à l'article L. 188 B est en cours ; 
 
 7° Si le contribuable s'est livré à une activité occulte, au sens du troisième alinéa de l'article L. 169. 
 
-III.-En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois de la durée de la vérification sur place
-est prorogée de la durée comprise entre la date du choix du contribuable pour l'une des options prévues à cet article pour la
+III.-En cas de mise en œuvre du I de l'article L. 47 A, le délai de trois mois prévu au I du présent article est suspendu
+jusqu'à la remise de la copie des fichiers des écritures comptables à l'administration. 
+
+En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois de la durée de la vérification sur place est
+prorogée de la durée comprise entre la date du choix du contribuable pour l'une des options prévues à cet article pour la
 réalisation du traitement et, respectivement selon l'option choisie, soit celle de la mise à disposition du matériel et des
 fichiers nécessaires par l'entreprise, soit celle de la remise des résultats des traitements réalisés par l'entreprise à
 l'administration, soit celle de la remise des copies de fichiers nécessaires à la réalisation des traitements par
@@ -3031,8 +3078,12 @@ l'administration. Cette dernière date fait l'objet d'une consignation par écri
 
 **Nota:**
 
-Loi n° 2013-1117 du 6 décembre 2013 article 50 II A : Les présentes dispositions s'appliquent aux contrôles dont la première
-intervention sur place a lieu à compter du 8 décembre 2013.
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 14 III : Ces dispositions s'appliquent aux
+contrôles pour lesquels l'avis de vérification est adressé après le 1
+  <sup>er</sup> janvier 2014.
+
+Conformément à la loi n° 2013-1117 du 6 décembre 2013, article 50 II A, le 7° du II du présent article s'applique aux
+contrôles dont la première intervention sur place a lieu à compter du 8 décembre 2013.
 
 **Liens relatifs à cet article**
 
@@ -3044,6 +3095,7 @@ intervention sur place a lieu à compter du 8 décembre 2013.
 
 	**Modifié par**:
 
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 14 (VD)
 	  - Loi n°2013-1117 du 6 décembre 2013 - art. 50
 
 	**Cite**:
@@ -3052,6 +3104,7 @@ intervention sur place a lieu à compter du 8 décembre 2013.
 	  - Code général des impôts, CGI. - art. 69
 	  - Livre des procédures fiscales - art. L12
 	  - Livre des procédures fiscales - art. L16-0 BA
+	  - Livre des procédures fiscales - art. L169 (VT)
 	  - Livre des procédures fiscales - art. L188 B
 	  - Livre des procédures fiscales - art. L47 A
 
@@ -4141,18 +4194,26 @@ Modifications effectuées en conséquence des articles 84-II et 111 de la loi n�
 Les bases d'imposition sont évaluées d'office lorsque le contrôle fiscal ne peut avoir lieu du fait du contribuable ou de
 tiers. 
 
-Ces dispositions s'appliquent en cas d'opposition à la mise en oeuvre du contrôle dans les conditions prévues au II de
-l'article L. 47 A.
+Ces dispositions s'appliquent en cas d'opposition à la mise en oeuvre du contrôle dans les conditions prévues aux I et II de
+l'article L. 47 A (1). 
+
+Ces dispositions s'appliquent également au contrôle du contribuable mentionné au I de l'article L. 16 B lorsque
+l'administration a constaté dans les conditions prévues au IV bis du même article, dans les locaux occupés par ce
+contribuable, ou par son représentant en droit ou en fait s'il s'agit d'une personne morale, qu'il est fait obstacle à
+l'accès aux pièces ou documents sur support informatique, à leur lecture ou à leur saisie.
 
 **Nota:**
 
-Modifications effectuées en conséquence de l'article 18 I de la loi n° 2007-1824 du 25 décembre 2007.
+(1) Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, article 14 III : Ces dispositions s'appliquent
+aux contrôles pour lesquels l'avis de vérification est adressé après le 1
+  <sup>er</sup> janvier 2014.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 11
+	  - Loi n°2012-1510 du 29 décembre 2012 - art. 14 (VD)
 
 	**Cité par**:
 
@@ -4162,6 +4223,7 @@ Modifications effectuées en conséquence de l'article 18 I de la loi n° 2007-1
 
 	**Cite**:
 
+	  - Livre des procédures fiscales - art. L16 B (V)
 	  - Livre des procédures fiscales - art. L47 A
 
 
@@ -6013,6 +6075,34 @@ l'administration, sur sa demande, les registres prévus à ces articles.
 	  - Code de la sécurité sociale. - art. L114-20 (V)
 
 
+##### 20° : Intermédiaires pour des instruments financiers à terme
+
+###### Article L96 CA
+
+Les teneurs de compte des opérations réalisées sur les instruments financiers à terme mentionnés au 8° du I de l'article 35,
+au 5° du 2 de l'article 92 et à l'article 150 ter du code général des impôts ou, en l'absence de teneur de compte, les
+personnes cocontractantes de ces contrats financiers tiennent à la disposition de l'administration tous les documents de
+nature à justifier de la date de réalisation et du montant des profits ou pertes réalisés sur ces opérations par leurs
+clients ou leurs cocontractants.
+
+**Nota:**
+
+Loi n° 2013-1279 du 29 décembre 2013 article 43 IV : Les présentes dispositions s'appliquent aux profits ou pertes réalisés à
+compter du 1er janvier 2014.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 43 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 150 ter (V)
+	  - Code général des impôts, CGI. - art. 35 (V)
+	  - Code général des impôts, CGI. - art. 92 (V)
+
+
 ##### 22° : Etablissements diffuseurs ou distributeurs de services payants de programmes de télévision
 
 ###### Article L96 E
@@ -6418,6 +6508,74 @@ décès établis au cours du trimestre. Ces relevés sont certifiés par le mair
 	  - Loi n°2015-1785 du 29 décembre 2015 - art. 84
 
 
+###### Article L102 AA
+
+Les services du ministre chargé de l'agriculture transmettent aux agents de la direction générale des finances publiques,
+dans des conditions et suivant des modalités déterminées par décret, les informations nécessaires à la détermination de
+l'assiette et au recensement des assujettis aux redevances prévues aux articles 302 bis N à 302 bis WG du code général des
+impôts et L. 236-2 et L. 251-17-1 du code rural et de la pêche maritime.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 bis N (V)
+	  - Code rural - art. L236-2 (V)
+	  - Code rural - art. L251-17-1 (V)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1736 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1788 nonies (Ab)
+	  - Livre des procédures fiscales - art. R102 AA (P)
+	  - Livre des procédures fiscales - art. R102 AA-1 (P)
+
+
+###### Article L102 AB
+
+Les agents du Conseil national des activités privées de sécurité transmettent aux agents de la direction générale des
+finances publiques le nom, l'adresse, l'identifiant SIRET et la date d'agrément des établissements exerçant une activité
+privée de sécurité titulaires d'une autorisation ou d'un agrément valide en application du livre VI du code de la sécurité
+intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R102 AB-1 (V)
+
+
+###### Article L102 AC
+
+Les services du ministre chargé de l'énergie transmettent aux agents de la direction générale des finances publiques le nom,
+l'adresse et l'identifiant SIRET des établissements gestionnaires des réseaux publics de distribution d'électricité
+mentionnés à l'article L. 2224-31 du code général des collectivités territoriales, ainsi que le nombre de kilowattheures
+distribués à partir d'ouvrages exploités en basse tension dans les communes dont la population est inférieure à 2 000
+habitants et dans les autres communes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R102 AC-1 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-31 (V)
+
+
 #### Chapitre II bis : Obligation et délais de conservation des documents
 
 ###### Article L102 B
@@ -6439,14 +6597,15 @@ chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
 Le registre des opérations mentionné au 9 de l'article 298 sexdecies F est conservé pendant dix ans à compter du 31 décembre
 de l'année de l'opération. 
 
-II. - Lorsqu'ils ne sont pas déjà visés au I, les informations, données ou traitements soumis au contrôle prévu au deuxième
-alinéa de l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai prévu au premier
-alinéa de l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des traitements doit
-être conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
+II. - Lorsqu'ils ne sont pas déjà visés au I, les informations, données ou traitements soumis au contrôle prévu au IV de
+l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai prévu au premier alinéa de
+l'article L. 169. La documentation relative aux analyses, à la programmation et à l'exécution des traitements doit être
+conservée jusqu'à l'expiration de la troisième année suivant celle à laquelle elle se rapporte.
 
 **Nota:**
 
-
+Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 99 III : Ces dispositions s'appliquent aux avis de
+vérification adressés à compter de l'entrée en vigueur de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -6517,7 +6676,7 @@ alinéa de l'article L. 169. La documentation relative aux analyses, à la progr
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 62 (VD)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 99
 
 	**Cite**:
 
@@ -7100,8 +7259,8 @@ L. 166 et L. 166 D sont eux-mêmes soumis au secret professionnel dans les terme
 L'administration des impôts peut échanger des renseignements avec les administrations financières de Saint-Pierre-et-
 Miquelon, de Nouvelle-Calédonie, de Polynésie française, des îles Wallis et Futuna et des Terres australes et antarctiques
 françaises et autres collectivités territoriales de la République française relevant d'un régime fiscal spécifique ainsi
-qu'avec les Etats ayant conclu avec la France une convention d'assistance réciproque en matière d'impôts pour les échanges de
-renseignements avec l'administration française.
+qu'avec les Etats ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et
+l'évasion fiscales.
 
 **Liens relatifs à cet article**
 
@@ -7111,7 +7270,7 @@ renseignements avec l'administration française.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 33
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 72 (V)
 
 	**Cité par**:
 
@@ -7121,21 +7280,14 @@ renseignements avec l'administration française.
 
 ###### Article L114 A
 
-Sous réserve de réciprocité, les administrations financières peuvent communiquer aux administrations des Etats membres de la
-Communauté européenne des renseignements pour l'établissement et le recouvrement des impôts sur le revenu et sur la fortune,
-de la taxe sur la valeur ajoutée ainsi que des taxes assises sur les primes d'assurance.
-
-Un décret en conseil d'Etat précise les conditions d'application du présent article.
+L'administration des impôts communique aux administrations des autres Etats membres de l'Union européenne les renseignements
+pour l'application de la législation fiscale.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 22 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 72 (V)
 
 	**Cité par**:
 
@@ -8512,6 +8664,35 @@ et fondations à recevoir des dons ou legs ou à bénéficier des avantages fisc
 	**Créé par**:
 
 	  - Loi n°2010-1658 du 29 décembre 2010 - art. 67
+
+
+###### Article L135 ZB
+
+Les agents de la direction générale des finances publiques chargés du recouvrement des redevances prévues aux articles 302
+bis N à 302 bis WG du code général des impôts et L. 236-2 et L. 251-17-1 du code rural et de la pêche maritime transmettent
+aux services du ministre chargé de l'agriculture, dans les conditions et selon les modalités définies par décret, les données
+suivantes issues des déclarations des redevables de ces redevances : le nom de l'établissement, l'identifiant SIRET,
+l'adresse de l'établissement principal ou du siège du redevable et le montant acquitté pour chacune de ces redevances. 
+
+Les destinataires de ces informations sont astreints, pour les données dont ils ont à connaître en application du présent
+article, au secret professionnel sous les sanctions prévues à l'article 226-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 302 bis N (V)
+	  - Code pénal - art. 226-13 (V)
+	  - Code rural - art. L236-2 (V)
+	  - Code rural - art. L251-17-1 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R135 ZB-1 (V)
 
 
 ##### III : Dérogations au profit de diverses commissions
@@ -9970,33 +10151,6 @@ ter C du code général des impôts ;
 	  - Livre des procédures fiscales - art. L176 (V)
 
 
-###### Article L172 B
-
-Les conditions dans lesquelles est exercé le droit de reprise en ce qui concerne le prélèvement spécial sur la fraction des
-bénéfices résultant de la production, de la distribution ou de la représentation de films pornographiques ou d'incitation à
-la violence prévu à l'article 1605 sexies du code général des impôts sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
-
-	**Cité par**:
-
-	  - Code du cinéma et de l'image animée - art. L336-3 (Ab)
-	  - Code général des impôts, CGI. - art. 235 ter L (T)
-	  - Livre des procédures fiscales - art. R*172 B-1 (P)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1279 du 29 décembre 2013 - art. 20
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1605 sexies
-
-
 ###### Article L172 C
 
 En ce qui concerne le prélèvement prévu par l'article 244 bis du code général des impôts sur les plus-values réalisées par
@@ -10220,9 +10374,10 @@ Dans le cas où l'exercice ne correspond pas à une année civile, le délai par
 s'exerce le droit de reprise en matière d'impôt sur le revenu et d'impôt sur les sociétés et s'achève le 31 décembre de la
 troisième année suivant celle au cours de laquelle se termine cette période. 
 
-Dans les cas prévus aux II et III de l'article 284 du code général des impôts, le droit de reprise de l'administration
-s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles est subordonné
-l'octroi du taux prévu aux 2 à 12 du I de l'article 278 sexies du même code ont cessé d'être remplies. 
+Dans les cas prévus aux II, II bis et III de l'article 284 du code général des impôts, le droit de reprise de
+l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles
+est subordonné l'octroi des taux prévus, respectivement, aux 2 à 12 du I de l'article 278 sexies et au premier alinéa de
+l'article 279-0 bis A du même code ont cessé d'être remplies. 
 
 La taxe mentionnée sur les déclarations souscrites par les assujettis membres d'un groupe mentionné à l'article 1693 ter du
 code général des impôts qui a concouru à la détermination du crédit dont bénéficie le redevable mentionné au 1 du même
@@ -10249,7 +10404,7 @@ taxe mentionné au second alinéa du même article 1693 ter A.
 
 	**Modifié par**:
 
-	  - Décret n°2012-654 du 4 mai 2012 - art. 1
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 73
 
 	**Cite**:
 
@@ -10258,8 +10413,9 @@ taxe mentionné au second alinéa du même article 1693 ter A.
 	  - Code général des impôts, CGI. - art. 1693 ter
 	  - Code général des impôts, CGI. - art. 1693 ter A
 	  - Code général des impôts, CGI. - art. 269
-	  - Code général des impôts, CGI. - art. 278 sexies
-	  - Code général des impôts, CGI. - art. 284
+	  - Code général des impôts, CGI. - art. 278 sexies (V)
+	  - Code général des impôts, CGI. - art. 279-0 bis A (V)
+	  - Code général des impôts, CGI. - art. 284 (V)
 	  - Livre des procédures fiscales - art. L169
 
 
@@ -10758,33 +10914,6 @@ mention portée sur la proposition de rectification qu'elles pourront être éve
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L188 (V)
-
-
-###### Article L189 A
-
-Lorsqu'à la suite d'une proposition de rectification, une procédure amiable en vue d'éliminer la double imposition est
-ouverte entre la France et un autre Etat ou territoire sur le fondement d'une convention fiscale bilatérale ou de la
-convention européenne 90/436/CEE relative à l'élimination des doubles impositions en cas de correction des bénéfices
-d'entreprises associées du 23 juillet 1990, le cours du délai d'établissement de l'imposition correspondante est suspendu de
-la date d'ouverture de la procédure amiable au terme du troisième mois qui suit la date de la notification au contribuable de
-l'accord ou du constat de désaccord intervenu entre les autorités compétentes, sauf si les bénéfices ou revenus rectifiés ont
-bénéficié d'un régime fiscal privilégié dans l'autre Etat ou territoire au sens de l'article 238 A du code général des
-impôts.
-
-**Nota:**
-
-Loi n° 2013-1278 du 29 décembre 2013 de finances pour 2014, art. 101 : Cet article demeure applicable aux procédures amiables
-ouvertes avant le 1er janvier 2014.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 69 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 101
 
 
 ### Titre III : Le contentieux de l'impôt
@@ -12918,12 +13047,22 @@ impôts, au rôle de cet impôt, dans les conditions prévues aux articles 1658 
 L'avis d'imposition mentionne le total par nature d'impôt des sommes à acquitter, les conditions d'exigibilité, la date de
 mise en recouvrement et la date limite de paiement. 
 
+Par dérogation au premier alinéa du présent article, les avis d'imposition issus du rôle primitif de cotisation foncière des
+entreprises et de ses taxes additionnelles, d'imposition forfaitaire sur les entreprises de réseaux et de sa contribution
+additionnelle, ainsi que leur acompte, sont disponibles exclusivement sous forme dématérialisée dans le compte fiscal en
+ligne des contribuables dont l'obligation mentionnée au 3 de l'article 1681 sexies ou l'obligation de payer par téléréglement
+est née au plus tard l'année précédant l'émission du rôle. 
+
 Par dérogation au premier alinéa et pour le contribuable qui en fait expressément la demande, ses avis d'imposition sont
 exclusivement disponibles sous forme dématérialisée dans son compte fiscal en ligne.
 
 Les avis d'imposition des contribuables des communes soumises aux prélèvements prévus à l'article L 2531-13 du code général
 des collectivités territoriales mentionnent le montant de la contribution de leur commune au fonds de solidarité des communes
 de la région d'Ile-de-France.
+
+**Nota:**
+
+Loi n° 2012-1510 du 29 décembre 2012, article 43 VI : Ces dispositions entrent en vigueur le 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -12936,7 +13075,7 @@ de la région d'Ile-de-France.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VD)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
 	  - Loi n°2012-1510 du 29 décembre 2012 - art. 43 (V)
 
 	**Cite**:
@@ -14517,11 +14656,10 @@ ordonner le cas échéant sous astreintes les mesures proposées par la Commissi
 
 ###### Article L289
 
-Pour l'application de la législation en matière d'impôts directs                  et de taxes assises sur les primes
-d'assurance, l'administration, sur demande d'un Etat membre de la Communauté européenne, procède ou fait procéder à la
-notification de tout acte ou décision émanant de cet Etat selon les règles en vigueur en France pour la notification d'actes
-ou de décisions. Elle peut également demander à un Etat membre de la Communauté européenne de procéder ou de faire procéder à
-la notification d'actes ou de décisions afférents aux mêmes impôts.
+Pour l'application de la législation fiscale, l'administration, sur demande d'un autre Etat membre de l'Union  européenne,
+procède ou fait procéder à la notification de tout acte ou décision émanant de cet Etat selon les règles en vigueur en France
+pour la notification d'actes ou de décisions. Elle peut également demander à un Etat membre de  l'Union  européenne de
+procéder ou de faire procéder à la notification d'actes ou de décisions afférents aux mêmes impositions.
 
 Pour les droits d'accises sur l'alcool, les boissons  alcooliques et les tabacs manufacturés, il est fait application du
 règlement (CE) n° 2073 / 2004 du Conseil du 16  novembre 2004 relatif à la coopération administrative dans le domaine des
@@ -14531,7 +14669,7 @@ droits  d'accises.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1443 du 30 décembre 2008 - art. 69 (V)
+	  - Loi n°2013-1279 du 29 décembre 2013 - art. 72 (V)
 
 	**Cité par**:
 
@@ -15407,6 +15545,75 @@ réalité de l'affectation à la recherche de dépenses prises en compte pour la
 	**Cité par**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies N (V)
+
+
+###### Article R45 BA-1
+
+I. ― La réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série, pour lesquels les dépenses sont
+prises en compte pour la détermination du crédit d'impôt mentionné à l'article 244 quater O du code général des impôts, est
+vérifiée par un agent dûment mandaté par le directeur général de la compétitivité, de l'industrie et des services.
+
+L'intervention des agents des ministères chargés de l'industrie, du commerce et de l'artisanat peut résulter soit d'une
+initiative de ces ministères, soit d'une demande de l'administration des finances publiques dans le cadre d'un contrôle ou
+d'un contentieux fiscal. Lorsque l'administration des finances publiques sollicite dans le cadre d'un contrôle l'intervention
+d'un agent des ministères chargés de l'industrie, du commerce et de l'artisanat, ce dernier se coordonne avec le service en
+charge du contrôle.
+
+II. ― 1° Dans le cadre de la procédure mentionnée au I, les agents chargés du contrôle de la réalité de la création
+d'ouvrages réalisés en un seul exemplaire ou en petite série, pour lesquels les dépenses sont prises en compte pour la
+détermination du crédit d'impôt, envoient à l'entreprise contrôlée une demande d'éléments justificatifs. L'entreprise répond
+dans un délai de trente jours, éventuellement prorogé de la même durée à sa demande. L'entreprise joint à sa réponse les
+documents nécessaires au contrôle de l'éligibilité des dépenses. Leur liste est précisée dans la demande d'éléments
+justificatifs et comprend notamment :
+
+a) Les documents techniques nécessaires à l'appréciation de l'éligibilité des opérations de création d'ouvrages réalisés en
+un seul exemplaire ou en petite série réalisées en interne ou confiées à un prestataire ;
+
+b) Les justificatifs relatifs aux salariés directement affectés à la création d'ouvrages réalisés en un seul exemplaire ou en
+petite série (qualification, temps passé) ;
+
+c) Les documents fiscaux et comptables relatifs aux dépenses déclarées.
+
+Les agents chargés du contrôle peuvent envoyer à l'entreprise contrôlée une demande d'informations complémentaires à laquelle
+celle-ci doit répondre dans un délai de trente jours.
+
+L'entreprise a la faculté de demander un entretien, dans les délais mentionnés au 1° du présent II, afin de clarifier les
+conditions d'éligibilité des dépenses ;
+
+2° Les agents chargés du contrôle peuvent se rendre sur place après l'envoi d'un avis de visite pour, notamment :
+
+a) Consulter les documents comptables prévus par les articles L. 123-12 à L. 123-28 du code de commerce ainsi que tous les
+documents annexes ou justificatifs, en vue de s'assurer de la réalité des dépenses affectées à la création d'ouvrages
+réalisés en un seul exemplaire ou en petite série ;
+
+b) Effectuer toutes constatations matérielles, procéder à des vérifications techniques, en vue de s'assurer de la réalité de
+la création d'ouvrages réalisés en un seul exemplaire ou en petite série à laquelle les dépenses ont été affectées.
+
+III. ― L'avis sur la réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série est émis par les
+agents chargés du contrôle au vu de la réponse de l'entreprise à la demande d'éléments justificatifs qui lui a été adressée,
+des documents mentionnés au II, et, le cas échéant, des réponses aux demandes d'informations complémentaires et des éléments
+recueillis à l'occasion des échanges avec l'entreprise lors de l'entretien dans les locaux de l'administration ou de la
+visite sur place.
+
+Lorsque, dans les délais mentionnés au II, l'entreprise n'a pas répondu aux demandes d'informations qui lui ont été adressées
+ou a refusé de communiquer les pièces justificatives demandées ou lorsqu'elle n'a pas produit ces éléments en cas de visite
+sur place, les agents chargés du contrôle constatent que la réalité de la création d'ouvrages réalisés en un seul exemplaire
+ou en petite série n'est pas justifiée.
+
+L'avis est notifié à l'entreprise et communiqué à la direction générale des finances publiques. Il est motivé lorsque la
+réalité de la création d'ouvrages réalisés en un seul exemplaire ou en petite série, pour laquelle les dépenses sont prises
+en compte pour la détermination du crédit d'impôt, est contestée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1287 du 27 décembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L123-12
+	  - Code général des impôts, CGI. - art. 244 quater O
 
 
 ###### Article R45 G-1
