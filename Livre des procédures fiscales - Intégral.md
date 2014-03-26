@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-03-27
 
 # Partie législative
 
@@ -7596,8 +7596,8 @@ susceptibles d'être réquisitionnés en vertu de l'article L. 642-1 du même co
 
 ###### Article L124 B
 
-Les fournisseurs de données et les gestionnaires des observatoires nominatifs prévus par l'article 4 de la loi n° 90-449 du
-31 mai 1990 visant à la mise en œuvre du droit au logement peuvent recevoir des services fiscaux, sur leur demande,
+Les fournisseurs de données et les gestionnaires des observatoires nominatifs prévus à l'article 3 de la loi n° 90-449 du 31
+mai 1990 visant à la mise en œuvre du droit au logement peuvent recevoir des services fiscaux, sur leur demande,
 communication des renseignements qu'ils détiennent et qui sont nécessaires au recensement et au suivi du traitement des
 logements, locaux ou installations indignes et non décents.
 
@@ -7605,11 +7605,11 @@ logements, locaux ou installations indignes et non décents.
 
 	**Cite**:
 
-	  - Loi n°90-449 du 31 mai 1990 - art. 4
+	  - Loi n°90-449 du 31 mai 1990 - art. 3 (VT)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-323 du 25 mars 2009 - art. 95
+	  - Loi n°2014-366 du 24 mars 2014 - art. 37
 
 
 ###### Article L125
@@ -7960,10 +7960,15 @@ _
 L'administration fiscale transmet gratuitement, à leur demande, aux propriétaires faisant l'objet d'une procédure
 d'expropriation, aux services de l'Etat, aux collectivités territoriales, aux établissements publics de coopération
 intercommunale dotés d'une ficalité propre, aux établissements publics administratifs et aux établissements publics visés aux
-articles L. 321-1, L. 324-1 et L. 326-1 du code de l'urbanisme les éléments d'information qu'elle détient au sujet des
-valeurs foncières déclarées à l'occasion des mutations intervenues dans les cinq dernières années et qui sont nécessaires à
-l'exercice de leurs compétences en matière de politique foncière et d'aménagement. Cette administration ne peut, dans ce cas,
-se prévaloir de la règle du secret. 
+articles L. 122-4, L. 321-1, L. 324-1 et L. 326-1 du code de l'urbanisme, aux agences d'urbanisme mentionnées à l'article L.
+121-3 du même code, aux sociétés d'aménagement foncier et d'établissement rural mentionnées à l'article L. 141-1 du code
+rural et de la pêche maritime, aux concessionnaires des opérations d'aménagement mentionnés à l'article L. 300-4 du code de
+l'urbanisme, aux associations foncières urbaines mentionnées à l'article L. 322-1 du même code et aux observatoires des
+loyers mentionnés à l'article 16 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant
+modification de la loi n° 86-1290 du 23 décembre 1986 les éléments d'information qu'elle détient au sujet des valeurs
+foncières déclarées à l'occasion des mutations intervenues dans les cinq dernières années et qui sont nécessaires à
+l'exercice de leurs compétences en matière de politiques foncière, d'urbanisme et d'aménagement et de transparence des
+marchés fonciers et immobiliers. Cette administration ne peut, dans ce cas, se prévaloir de la règle du secret. 
 
 Ces dispositions ne font pas échec au secret de la défense nationale. 
 
@@ -8017,14 +8022,21 @@ des modalités définies par un décret en Conseil d'Etat.
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85
-	  - Code général des impôts, CGI. - art. 1407 bis
-	  - Code général des impôts, CGI. - art. 1647 B sexies
-	  - Code général des impôts, CGI. - art. 232
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Loi n°86-1290 du 23 décembre 1986 (V)
+	  - Loi n°89-462 du 6 juillet 1989 - art. 16 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Code général des impôts, CGI. - art. 1407 bis (V)
+	  - Code général des impôts, CGI. - art. 232 (V)
 	  - Livre des procédures fiscales - art. L190 (V)
+	  - Code rural - art. L141-1 (V)
+	  - Code de l'urbanisme - art. L121-3 (V)
+	  - Code de l'urbanisme - art. L122-4 (V)
+	  - Code de l'urbanisme - art. L300-4 (V)
 	  - Code de l'urbanisme - art. L321-1 (V)
-	  - Code de l'urbanisme - art. L326-1
+	  - Code de l'urbanisme - art. L322-1 (V)
+	  - Code de l'urbanisme - art. L324-1 (V)
+	  - Code de l'urbanisme - art. L326-1 (V)
 
 	**Cité par**:
 
@@ -8043,8 +8055,7 @@ des modalités définies par un décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 100
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 101
+	  - Loi n°2014-366 du 24 mars 2014 - art. 142
 
 
 ###### Article L135 D
