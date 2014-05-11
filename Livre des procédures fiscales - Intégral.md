@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-03-27
+Version Consolidée au 2014-05-12
 
 # Partie législative
 
@@ -18221,7 +18221,7 @@ informations saisies dès l'achèvement de son contrat.
 
 ###### Article R*135 S-1
 
-Le directeur central du renseignement intérieur, le directeur général de la sécurité extérieure, le directeur du
+Le    directeur général de la sécurité intérieure, le directeur général de la sécurité extérieure, le directeur du
 renseignement militaire et le directeur de la protection et de la sécurité de la défense délivrent les habilitations à
 formuler les demandes mentionnées à l'article L. 135 S à des agents relevant de leur service. 
 
@@ -18236,9 +18236,9 @@ l'identité et de la fonction des personnes habilitées et de toute modification
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1095 du 4 septembre 2009 - art. 1
+	  - Décret n°2014-445 du 30 avril 2014 - art. 10
 
 	**Cite**:
 
