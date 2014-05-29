@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-05-12
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -339,17 +339,17 @@ décembre 2013.
 
 ###### Article L10-0 AA
 
-Dans le cadre des procédures prévues au présent titre II, à l'exception de celles mentionnées aux articles L. 16 B et L. 38,
-ne peuvent être écartés au seul motif de leur origine les documents, pièces ou informations que l'administration utilise et
-qui sont régulièrement portés à sa connaissance soit dans les conditions prévues au chapitre II du présent titre II ou aux
-articles L. 114 et L. 114 A, soit en application des droits de communication qui lui sont dévolus par d'autres textes, soit
-en application des dispositions relatives à l'assistance administrative par les autorités compétentes des Etats étrangers.
+Dans le cadre des procédures prévues au présent titre, à l'exception de celles mentionnées aux articles L. 16 B et L. 38, ne
+peuvent être écartés au seul motif de leur origine les documents, pièces ou informations que l'administration utilise et qui
+sont régulièrement portés à sa connaissance soit dans les conditions prévues au chapitre II du présent titre ou aux articles
+L. 114 et L. 114 A, soit en application des droits de communication qui lui sont dévolus par d'autres textes, soit en
+application des dispositions relatives à l'assistance administrative par les autorités compétentes des Etats étrangers.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 37
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
@@ -380,6 +380,26 @@ d'un agent de l'administration des impôts est fixé à trente jours à compter 
 	  - Livre des procédures fiscales - art. L16 (V)
 	  - Livre des procédures fiscales - art. L21 B (V)
 	  - Livre des procédures fiscales - art. L57 (V)
+
+
+###### Article L11 A
+
+Tout membre du Gouvernement, à compter de sa nomination, fait l'objet d'une procédure de vérification de sa situation
+fiscale, dans les conditions prévues au présent titre, au titre de l'impôt sur le revenu et, le cas échéant, de l'impôt de
+solidarité sur la fortune. Cette procédure est placée sous le contrôle de la Haute Autorité pour la transparence de la vie
+publique.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 9 et 33 de la loi n° 2013-907.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 
 ##### 1° : Dispositions relatives à l'examen contradictoire de l'ensemble de la situation fiscale personnelle
@@ -468,7 +488,7 @@ est détenue à la clôture de leur exercice, directement ou indirectement, par 
 mêmes 1 ou 1° ; 
 
 c) Personnes morales qui appartiennent à un groupe relevant du régime fiscal prévu à l'article 223 A du code général des
-impôts lorsque celui-ci comprend au moins une personne mentionnée au 1 du présent II ou au 1° du présent 2. 
+impôts lorsque celui-ci comprend au moins une personne mentionnée au 1 ou au 1° du présent 2. 
 
 III.-Les sociétés commerciales qui établissent, en application de l'article L. 233-16 du code de commerce, des comptes
 consolidés sont tenues de les présenter. 
@@ -504,12 +524,12 @@ vérification adressés à compter de l'entrée en vigueur de la présente loi.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 99
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce - art. L233-16 (V)
-	  - Code général des impôts, CGI. - art. 50-0 (V)
+	  - Code de commerce - art. L233-16
+	  - Code général des impôts, CGI. - art. 50-0
 
 
 ###### Article L13 A
@@ -1216,18 +1236,18 @@ opérations sont réalisées.
 ###### Article L16 BA
 
 L'administration peut demander au preneur, dans les conditions définies à l'article L. 16 A, des justifications relatives aux
-travaux à raison desquels il a bénéficié du taux réduit de la taxe sur la valeur ajoutée prévu à l'article 278-0 ter ou à
+travaux à raison desquels il a bénéficié du taux réduit de la taxe sur la valeur ajoutée prévu à l'article 278-0 bis A ou à
 l'article 279-0 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 9
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 278-0 ter (T)
+	  - Code général des impôts, CGI. - art. 278-0 bis A (V)
 	  - Code général des impôts, CGI. - art. 279-0 bis
 	  - Livre des procédures fiscales - art. L16 A
 
@@ -2783,37 +2803,33 @@ rectification mentionnée à l'article L. 57.
 Le contribuable est informé des noms et adresses administratives des agents par qui ou sous le contrôle desquels les
 opérations sont réalisées. 
 
-III. ― A. ― Dans le cadre du contrôle inopiné mentionné au dernier alinéa de l'article L. 47, lorsque la comptabilité est
+III. ― a. ― Dans le cadre du contrôle inopiné mentionné au quatrième alinéa de l'article L. 47, lorsque la comptabilité est
 tenue au moyen de systèmes informatisés, les agents de l'administration peuvent réaliser deux copies des fichiers relatifs
 aux informations, données et traitements informatiques ainsi que de la documentation relative aux analyses, à la
-programmation et à l'exécution des traitements mentionnés au deuxième alinéa de l'article L. 13. 
+programmation et à l'exécution des traitements mentionnés au IV de l'article L. 13. 
 
 Ces copies sont scellées selon des modalités définies par arrêté du ministre chargé du budget. Une copie est remise au
 contribuable ou à son représentant, l'autre copie est conservée par l'administration. 
 
-A l'issue du délai raisonnable mentionné au dernier alinéa de l'article L. 47, les deux copies sont confrontées. 
+A l'issue du délai raisonnable mentionné au quatrième alinéa de l'article L. 47, les deux copies sont confrontées. 
 
-B. ― Par dérogation au I du présent article, en cas d'altération des scellés ou des fichiers copiés, de non-présentation de
-la copie des fichiers remise au contribuable ou du fichier des écritures comptables mentionné au même I, l'administration
-peut effectuer des tris, classements ainsi que tous calculs sur la copie des fichiers des écritures comptables conservée par
-ses soins. 
+b. ― Par dérogation au I, en cas d'altération des scellés ou des fichiers copiés, de non-présentation de la copie des
+fichiers remise au contribuable ou du fichier des écritures comptables mentionné au même I, l'administration peut effectuer
+des tris, classements ainsi que tous calculs sur la copie des fichiers des écritures comptables conservée par ses soins. 
 
-C. ― Par dérogation au II du présent article, si l'administration envisage des traitements informatiques, en cas d'altération
-des scellés ou des fichiers copiés, de non-présentation de la copie remise au contribuable ou d'impossibilité d'effectuer
-tout ou partie des traitements informatiques nécessaires au contrôle des informations, données et traitements informatiques
-mentionnés au deuxième alinéa de l'article L. 13, l'administration peut effectuer ces traitements sur la copie des fichiers
-conservée par ses soins. 
+c. ― Par dérogation au II, si l'administration envisage des traitements informatiques, en cas d'altération des scellés ou des
+fichiers copiés, de non-présentation de la copie remise au contribuable ou d'impossibilité d'effectuer tout ou partie des
+traitements informatiques nécessaires au contrôle des informations, données et traitements informatiques mentionnés au IV de
+l'article L. 13, l'administration peut effectuer ces traitements sur la copie des fichiers conservée par ses soins. 
 
-D. ― L'administration communique au contribuable, sous forme dématérialisée ou non, au choix de ce dernier, le résultat des
+d. ― L'administration communique au contribuable, sous forme dématérialisée ou non, au choix de ce dernier, le résultat des
 traitements informatiques qui donnent lieu à des rehaussements au plus tard lors de l'envoi de la proposition de
 rectification mentionnée à l'article L. 57. L'administration détruit, avant la mise en recouvrement, la copie des fichiers
-mentionnée au A du présent III.
+mentionnée au a.
 
 **Nota:**
 
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 14 III : Ces dispositions s'appliquent aux
-contrôles pour lesquels l'avis de vérification est adressé après le 1
-  <sup>er</sup> janvier 2014.
+Modifications effectuées en conséquence de la loi n° 2013-1278 du 29 décembre 2013, article 99-I [1°, c].
 
 **Liens relatifs à cet article**
 
@@ -2836,13 +2852,13 @@ contrôles pour lesquels l'avis de vérification est adressé après le 1
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 14 (VD)
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 54
 	  - Livre des procédures fiscales - art. L13 (V)
-	  - Livre des procédures fiscales - art. L47 (V)
+	  - Livre des procédures fiscales - art. L47
 
 
 ###### Article L47 B
@@ -2911,8 +2927,8 @@ rehaussements, pour tenir compte des observations et avis recueillis au cours de
 portée par écrit à la connaissance du contribuable avant la mise en recouvrement, qui peut alors intervenir sans délai. 
 
 Pour une société membre d'un groupe mentionné à l'article 223 A du code général des impôts, l'information prévue au premier
-alinéa porte, en ce qui concerne l'impôt sur les sociétés, l'imposition forfaitaire annuelle et les pénalités
-correspondantes, sur les montants dont elle serait redevable en l'absence d'appartenance à un groupe. 
+alinéa porte, en ce qui concerne l'impôt sur les sociétés et les pénalités correspondantes, sur les montants dont elle serait
+redevable en l'absence d'appartenance à un groupe. 
 
 Pour l'assujetti membre d'un groupe mentionné à l'article 1693 ter du code général des impôts, l'information prévue au
 premier alinéa du présent article porte, en ce qui concerne la taxe sur la valeur ajoutée, les taxes, contributions et
@@ -2927,15 +2943,15 @@ contribuables dans les mêmes conditions.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 50 (V)
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1693 ter (V)
-	  - Code général des impôts, CGI. - art. 223 A (VT)
-	  - Livre des procédures fiscales - art. L247 (V)
-	  - Livre des procédures fiscales - art. L57 (V)
-	  - Livre des procédures fiscales - art. L76 (V)
+	  - Code général des impôts, CGI. - art. 1693 ter
+	  - Code général des impôts, CGI. - art. 223 A
+	  - Livre des procédures fiscales - art. L247
+	  - Livre des procédures fiscales - art. L57
+	  - Livre des procédures fiscales - art. L76
 
 	**Cité par**:
 
@@ -4560,7 +4576,7 @@ moins six mois avant la date limite de dépôt de la première déclaration spé
 Pour l'examen des demandes mentionnées au premier alinéa, l'administration des impôts sollicite l'avis des services relevant
 du ministre chargé de la recherche ou d'organismes chargés de soutenir l'innovation dont la liste est fixée par décret en
 Conseil d'Etat lorsque l'appréciation du caractère scientifique et technique du projet de recherche présenté par l'entreprise
-le nécessite.
+le nécessite. 
 
 L'avis est notifié au contribuable et à l'administration des impôts. Lorsqu'il est favorable, celle-ci ne peut rejeter la
 demande du contribuable que pour un motif tiré de ce qu'une autre des conditions mentionnées à l'article 244 quater B du code
@@ -4584,7 +4600,7 @@ La prise de position des services relevant du ministre chargé de la recherche o
 l'innovation est notifiée au contribuable et à l'administration des impôts. Cette réponse doit être motivée. 
 
 Les personnes consultées en application du premier alinéa sont tenues au secret professionnel dans les conditions prévues à
-l'article L. 103. 
+l'article L. 103.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 3° bis ; 
 
@@ -4593,10 +4609,7 @@ a demandé, à partir d'une présentation écrite précise et complète de la si
 jeune entreprise innovante au sens de l'article 44 sexies-0 A du code général des impôts. Un décret en Conseil d'Etat précise
 les modalités d'application du présent 4° concernant les documents et informations qui doivent être fournis ; 
 
-5° Lorsque l'administration n'a pas répondu de manière motivée dans un délai de trois mois à un contribuable de bonne foi qui
-a demandé, à partir d'une présentation écrite précise et complète de la situation de fait, si son entreprise pouvait
-bénéficier des dispositions de l'article 44 undecies du code général des impôts. Un décret en Conseil d'Etat précise les
-modalités d'application du présent 5° concernant les documents et informations qui doivent être fournis ; 
+5° (périmé) ; 
 
 6° Lorsque l'administration n'a pas répondu dans un délai de trois mois à un contribuable de bonne foi qui a demandé, à
 partir d'une présentation écrite précise et complète de la situation de fait, l'assurance qu'il ne dispose pas en France d'un
@@ -4618,11 +4631,6 @@ société civile, si les résultats de son activité professionnelle sont soumis
 sociétés. 
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent 8°.
-
-**Nota:**
-
-LOI n° 2012-1509 du 29 décembre 2012 de finances pour 2013 art. 71 III : les présentes dispositions s'appliquent aux demandes
-adressées à compter du 1er janvier 2013.
 
 **Liens relatifs à cet article**
 
@@ -4664,7 +4672,7 @@ adressées à compter du 1er janvier 2013.
 
 	**Modifié par**:
 
-	  - Loi n°2012-1509 du 29 décembre 2012 - art. 71 (VD)
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
@@ -4683,9 +4691,8 @@ adressées à compter du 1er janvier 2013.
 	  - Code général des impôts, CGI. - art. 44 quindecies
 	  - Code général des impôts, CGI. - art. 44 sexies
 	  - Code général des impôts, CGI. - art. 44 sexies-0 A
-	  - Code général des impôts, CGI. - art. 44 undecies
 	  - Code général des impôts, CGI. - art. 92
-	  - Livre des procédures fiscales - art. L103
+	  - Livre des procédures fiscales - art. L103 (V)
 	  - Livre des procédures fiscales - art. L13 B
 	  - Livre des procédures fiscales - art. L80 A
 
@@ -6594,8 +6601,8 @@ alinéa sont établis ou reçus sur support informatique, ils doivent être cons
 Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
 chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa. 
 
-Le registre des opérations mentionné au 9 de l'article 298 sexdecies F est conservé pendant dix ans à compter du 31 décembre
-de l'année de l'opération. 
+Le registre des opérations mentionné au 9 de l'article 298 sexdecies F du code général des impôts est conservé pendant dix
+ans à compter du 31 décembre de l'année de l'opération. 
 
 II. - Lorsqu'ils ne sont pas déjà visés au I, les informations, données ou traitements soumis au contrôle prévu au IV de
 l'article L. 13 doivent être conservés sur support informatique jusqu'à l'expiration du délai prévu au premier alinéa de
@@ -6669,14 +6676,14 @@ vérification adressés à compter de l'entrée en vigueur de la présente loi.
 	  - Code monétaire et financier - art. L152-3 (V)
 	  - Code rural - art. D666-19 (V)
 	  - Livre des procédures fiscales - art. A102 B-1 (V)
-	  - Livre des procédures fiscales - art. L102 B (M)
+	  - Livre des procédures fiscales - art. L102 B (VT)
 	  - Livre des procédures fiscales - art. L102 C (V)
 	  - Livre des procédures fiscales - art. L96 A (V)
 	  - Livre des procédures fiscales - art. R80 F-3 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2013-1278 du 29 décembre 2013 - art. 99
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
@@ -7315,7 +7322,11 @@ communication ne peut lui être opposé.
 ###### Article L116
 
 Conformément à l'article L. 450-7 du code de commerce, l'administration fiscale ne peut opposer le secret professionnel aux
-agents des services d'instruction de l'Autorité de la concurrence habilités, mentionnés à l'article L. 450-1 du code précité.
+agents habilités, mentionnés à l'article L. 450-1 du code précité.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article L. 450-1 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -7325,7 +7336,7 @@ agents des services d'instruction de l'Autorité de la concurrence habilités, m
 
 	**Modifié par**:
 
-	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
@@ -8387,27 +8398,27 @@ matière de droit de consommation sur les tabacs manufacturés.
 
 ###### Article L135 P
 
-Le secret professionnel ne peut être opposé aux agents mentionnés à l'article L. 216-3 du même code qui sont chargés de
-procéder à la recherche et à la constatation des infractions aux dispositions des articles L. 211-2, L. 211-3, L. 211-5, L.
-211-7, L. 211-12, L. 211-14, du II de l'article L. 212-5-1, de l'article L. 213-10-8 et des articles L. 214-1 à L. 214-9, L.
-214-11, L. 214-12, L. 214-17, L. 214-18 et L. 216-6 du code précité, ainsi que des textes et des décisions pris pour leur
-application.
+Le secret professionnel ne peut être opposé aux agents mentionnés à l'article L. 216-3 du code de l'environnement qui sont
+chargés de procéder à la recherche et à la constatation des infractions aux dispositions des articles L. 211-2, L. 211-3, L.
+211-5, L. 211-7, L. 211-12, L. 211-14, du II de l'article L. 212-5-1, de l'article L. 213-10-8 et des articles L. 214-1 à L.
+214-9, L. 214-11, L. 214-12, L. 214-17, L. 214-18 et L. 216-6 du code précité, ainsi que des textes et des décisions pris
+pour leur application.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-34 du 11 janvier 2012 - art. 26
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
 	  - Code de l'environnement - art. L211-12
-	  - Code de l'environnement - art. L211-14 (V)
+	  - Code de l'environnement - art. L211-14
 	  - Code de l'environnement - art. L211-2
 	  - Code de l'environnement - art. L211-5
 	  - Code de l'environnement - art. L211-7
-	  - Code de l'environnement - art. L212-5-1 (V)
-	  - Code de l'environnement - art. L213-10-8 (V)
+	  - Code de l'environnement - art. L212-5-1
+	  - Code de l'environnement - art. L213-10-8
 	  - Code de l'environnement - art. L214-1
 	  - Code de l'environnement - art. L214-11
 	  - Code de l'environnement - art. L214-17
@@ -8547,16 +8558,26 @@ Modifications effectuées en conséquence de l'article L232-20 du code du sport.
 
 ###### Article L135 W
 
-Le groupement d'intérêt public mentionné à l'article 35 de la loi n° 2009-594 du 27 mai 2009 pour le développement économique
-des outre-mer, ainsi que les personnes déléguées par lui, peuvent se faire communiquer par l'administration fiscale tous
-documents et informations nécessaires à la réalisation de la mission du groupement, y compris ceux contenus dans un système
-informatique ou de traitement de données à caractère personnel, sans que puisse leur être opposé le secret professionnel.
+L'opérateur public foncier ou le groupement d'intérêt public chargé de la procédure de titrement mentionnée à l'article 35 de
+la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer, ainsi que les personnes qu'il délègue,
+peuvent se faire communiquer par l'administration fiscale tous documents et informations nécessaires à la réalisation de la
+procédure de titrement, y compris ceux contenus dans un système informatique ou de traitement de données à caractère
+personnel, sans que puisse leur être opposé le secret professionnel.
+
+Les agents de l'opérateur public foncier ou du groupement d'intérêt public chargé de la procédure de titrement et les
+personnes qu'il délègue sont tenus de respecter la confidentialité des informations recueillies au cours de leur mission,
+sous peine des sanctions prévues aux articles 226-13, 226-31 et 226-32 du code pénal.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'art. 35-III  de la loi n° 2009-594 du 27 mai 2009 et de l'art. 3 de la loi n°
+2013-922 du 17 octobre 2013.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-422  du 27 avril 2010 - art. 1
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 
 ###### Article L135 X
@@ -8824,19 +8845,23 @@ cinquième alinéa du II de l'article L. 331-3 du même code.
 
 ###### Article L139 B
 
-La Haute Autorité pour la transparence de la vie publique peut demander à l'administration fiscale communication de la copie
-des déclarations souscrites, en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en
+I. - La Haute Autorité pour la transparence de la vie publique peut demander à l'administration fiscale communication de la
+copie des déclarations souscrites, en application des articles 170 à 175 A du code général des impôts et, le cas échéant, en
 application du 1 du I de l'article 885 W du même code, par un député ou par son conjoint séparé de biens, son partenaire lié
 par un pacte civil de solidarité ou son concubin, en application de l'article LO 135-3 du code électoral, ou par les
 personnes mentionnées aux articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie
 publique, en application de l'article 6 de cette même loi.
 
+II. - Conformément au deuxième alinéa du I de l'article LO 135-2 du code électoral pour les députés et au premier alinéa du I
+de l'article 5 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique pour les membres du
+Gouvernement, l'administration fiscale fournit à la Haute Autorité pour la transparence de la vie publique tous les éléments
+lui permettant d'apprécier l'exhaustivité, l'exactitude et la sincérité des déclarations de situation patrimoniale qu'ils ont
+déposées.
+
 **Nota:**
 
-Conformément à l'article 33 de la loi n° 2013-907 du 11 octobre 2013, l'article L139 B du présent code entre en vigueur à la
-date de publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie
-publique. Le décret portant nomination du président de la Haute Autorité pour la transparence de la vie publique a été publié
-le 20 décembre 2013.
+Modification effectuée en conséquence de l'article LO 135-2-I, deuxième alinéa du code électoral et de l'article 5-I, premier
+alinéa de la loi n° 2013-907 du 11 octobre 2013.
 
 **Liens relatifs à cet article**
 
@@ -8849,7 +8874,7 @@ le 20 décembre 2013.
 
 	**Modifié par**:
 
-	  - Loi n°2013-907 du 11 octobre 2013 - art. 31
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions
@@ -8857,19 +8882,22 @@ le 20 décembre 2013.
 ###### Article L140
 
 Conformément aux articles L. 141-5, L. 241-2 et L. 314-4 du code des juridictions financières, les agents des services
-financiers sont déliés du secret professionnel à l'égard des magistrats, conseillers maîtres en service extraordinaire et
-rapporteurs de la Cour des comptes, des magistrats de lachambre régionale des comptes ainsi que des rapporteurs auprès de la
-Cour de discipline budgétaire et financière, à l'occasion des enquêtes effectuées par ces magistrats, conseillers et
-rapporteurs dans le cadre de leurs attributions. 
+financiers sont déliés du secret professionnel à l'égard des magistrats, conseillers maîtres en service extraordinaire,
+rapporteurs de la Cour des comptes et des experts qu'elle désigne, des magistrats de lachambre régionale des comptes ainsi
+que des rapporteurs auprès de la Cour de discipline budgétaire et financière, à l'occasion des enquêtes effectuées par ces
+magistrats, conseillers, rapporteurs et experts dans le cadre de leurs attributions. 
 
-Les dispositions du II de l'article L. 141-5 du même code relatives aux experts désignés par la Cour des comptes sont
-applicables. 
+(Alinéa disjoint).
 
 Conformément aux articles L. 141-9, 
 L. 241-4 et L. 314-4 du code des juridictions financières, les agents des services financiers dont l'audition est jugée
 nécessaire pour les besoins du contrôle ont l'obligation de répondre à la convocation de la Cour des comptes ou à celle de la
 chambre régionale des comptes dans le ressort de laquelle ils exercent leurs fonctions. Ils peuvent être interrogés en
 qualité de témoins par les rapporteurs auprès de la Cour de discipline budgétaire et financière.
+
+**Nota:**
+
+Modification effectuée en conséquence de l'article 8 de la loi n° 2013-712 du 5 août 2013.
 
 **Liens relatifs à cet article**
 
@@ -8879,11 +8907,10 @@ qualité de témoins par les rapporteurs auprès de la Cour de discipline budgé
 
 	**Modifié par**:
 
-	  - Loi n°2013-712 du 5 août 2013 - art. 8
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L141-5
 	  - Code des juridictions financières - art. L141-9
 	  - Code des juridictions financières - art. L241-2
 	  - Code des juridictions financières - art. L241-4
@@ -12581,10 +12608,10 @@ droits, taxes et contributions.
 
 L'administration ne peut transiger : 
 
-a) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les infractions mentionnées au code général des
+1°) Lorsqu'elle envisage de mettre en mouvement l'action publique pour les infractions mentionnées au code général des
 impôts ; 
 
-b) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire au bon déroulement du contrôle.
+2°) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nuire au bon déroulement du contrôle.
 
 **Liens relatifs à cet article**
 
@@ -12620,7 +12647,7 @@ b) Lorsque le contribuable met en œuvre des manœuvres dilatoires visant à nui
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 15
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
@@ -13053,27 +13080,23 @@ sincères.
 
 Un avis d'imposition est adressé sous pli fermé à tout contribuable inscrit au rôle des impôts directs ou, pour les
 redevables de l'impôt de solidarité sur la fortune relevant des dispositions du 2 du I de l'article 885 W du code général des
-impôts, au rôle de cet impôt, dans les conditions prévues aux articles 1658 à 1659 A du même code.
+impôts, au rôle de cet impôt, dans les conditions prévues aux articles 1658 à 1659 A du même code. 
 
 L'avis d'imposition mentionne le total par nature d'impôt des sommes à acquitter, les conditions d'exigibilité, la date de
 mise en recouvrement et la date limite de paiement. 
 
-Par dérogation au premier alinéa du présent article, les avis d'imposition issus du rôle primitif de cotisation foncière des
-entreprises et de ses taxes additionnelles, d'imposition forfaitaire sur les entreprises de réseaux et de sa contribution
-additionnelle, ainsi que leur acompte, sont disponibles exclusivement sous forme dématérialisée dans le compte fiscal en
-ligne des contribuables dont l'obligation mentionnée au 3 de l'article 1681 sexies ou l'obligation de payer par téléréglement
-est née au plus tard l'année précédant l'émission du rôle. 
+Par dérogation au premier alinéa, les avis d'imposition issus du rôle primitif de cotisation foncière des entreprises et de
+ses taxes additionnelles, d'imposition forfaitaire sur les entreprises de réseaux et de sa contribution additionnelle, ainsi
+que leur acompte, sont disponibles exclusivement sous forme dématérialisée dans le compte fiscal en ligne des contribuables
+dont l'obligation mentionnée au 3 de l'article 1681 sexies ou l'obligation de payer par téléréglement est née au plus tard
+l'année précédant l'émission du rôle. 
 
 Par dérogation au premier alinéa et pour le contribuable qui en fait expressément la demande, ses avis d'imposition sont
-exclusivement disponibles sous forme dématérialisée dans son compte fiscal en ligne.
+exclusivement disponibles sous forme dématérialisée dans son compte fiscal en ligne. 
 
 Les avis d'imposition des contribuables des communes soumises aux prélèvements prévus à l'article L 2531-13 du code général
 des collectivités territoriales mentionnent le montant de la contribution de leur commune au fonds de solidarité des communes
 de la région d'Ile-de-France.
-
-**Nota:**
-
-Loi n° 2012-1510 du 29 décembre 2012, article 43 VI : Ces dispositions entrent en vigueur le 1er janvier 2014.
 
 **Liens relatifs à cet article**
 
@@ -13086,12 +13109,14 @@ Loi n° 2012-1510 du 29 décembre 2012, article 43 VI : Ces dispositions entrent
 
 	**Modifié par**:
 
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (VT)
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 43 (V)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 2 (V)
+	  - Décret n°2014-550 du 26 mai 2014 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1658
+	  - Code général des impôts, CGI. - art. 1681 sexies (V)
+	  - Code général des impôts, CGI. - art. 885 W (V)
 	  - Code général des collectivités territoriales - art. L2531-13
 
 
@@ -16300,18 +16325,14 @@ des cotisations patronales de sécurité sociale dont dépend l'entreprise des s
 
 ###### Article R*80 B-8
 
-Le délai de trois mois prévu aux 4° et 5° de l'article L. 80 B court à compter de la réception de la demande d'appréciation
-ou, si les dispositions de l'article R. * 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
-
-**Nota:**
-
-Modifications apportées en conséquence de l'article 5 III 2° et IV de la loi n° 2008-776 du 4 août 2008
+Le délai de trois mois prévu au 4° de l'article L. 80 B court à compter de la réception de la demande d'appréciation ou, si
+les dispositions de l'article R. * 80 B-3 ont été mises en oeuvre, à compter de la réception des compléments demandés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-388 du 7 avril 2009 - art. 2
+	  - Décret n°2014-550 du 26 mai 2014 - art. 2
 
 	**Cite**:
 
@@ -16347,30 +16368,6 @@ dispositions du b ont été mises en oeuvre, à compter de la réception des com
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L80 B
-
-
-###### Article R*80 B-10
-
-Les dispositions des articles R. * 80 B-1 à R. * 80 B-3 sont applicables aux demandes d'appréciation mentionnées au 5° de
-l'article L. 80 B.
-
-Le directeur départemental ou, le cas échéant, régional des finances publiques informe l'organisme chargé du recouvrement des
-cotisations patronales de sécurité sociale dont dépend l'entreprise des suites données à sa demande d'appréciation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-430 du 29 mars 2012 - art. 25
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-550 du 26 mai 2014 - art. 2
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L80 B
-	  - Livre des procédures fiscales - art. R*80 B-1
 
 
 ###### Article R*80 B-11
@@ -18463,8 +18460,8 @@ plusieurs exercices donnés.
 ###### Article R166 D-1
 
 Les données mentionnées à l'article L. 166 D collectées à partir des déclarations des redevables sont transmises, chaque
-année, par l'administration chargée du recouvrement des taxes prévues aux articles 1600-0 N et 1600-0 O du code général des
-impôts à l'agence mentionnée à l'article L. 5311-1 du code de la santé publique sur support électronique dans des conditions
+année, par l'administration chargée du recouvrement de la taxe prévue à l'article 1600-0 O du code général des impôts à
+l'agence mentionnée à l'article L. 5311-1 du code de la santé publique sur support électronique dans des conditions
 permettant de garantir leur confidentialité. 
 
 Un protocole entre l'agence et l'administration chargée du recouvrement détermine la nature du support et le format des
@@ -18472,52 +18469,22 @@ données transmises.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-381 du 19 mars 2012 - art. 3
+	  - Décret n°2014-550 du 26 mai 2014 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2015-1058 du 24 août 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1600-0 N
+	  - Code général des impôts, CGI. - art. 1600-0 O
+	  - Livre des procédures fiscales - art. L166 D
 	  - Code de la santé publique - art. L5311-1
 
 
 #### Chapitre IV : Les délais de prescription
-
-##### Section I : Impôts directs et taxes assimilées
-
-##### I : Impôts directs d'État
-
-##### B : Dispositions particulières à certains impôts
-
-###### Article R*172 B-1
-
-Le droit de reprise fixé par l'article L. 176 en matière de taxes sur le chiffre d'affaires s'applique au prélèvement
-mentionné à l'article L. 172 B.
-
-**Nota:**
-
-En conséquence de l'article 20-XX [3°] de la loi n° 2013-1279 du 29 décembre 2013, cet article devient sans objet.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGIAN2 163 vicies (1ère PHRASE P.)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 1981-09-15
-
-	**Liens**:
-
-	  - PERIME: Décret n°2014-550 du 26 mai 2014 - art. 2
-
-	**Cite**:
-
-	  - Livre des procédures fiscales - art. L172 B
-	  - Livre des procédures fiscales - art. L176
-
 
 ##### Section III : Contributions indirectes
 
@@ -24041,7 +24008,11 @@ Les procès-verbaux constatant les infractions mentionnées à l'article L. 225 
 impôts, par les agents des douanes, ainsi que par les agents de la direction générale de la concurrence et de la consommation
 qui ont prêté le serment requis des agents des administrations financières pour l'exercice de leurs fonctions. 
 
-Les procès-verbaux sont rédigés à la requête du directeur général des impôts.
+Les procès-verbaux sont rédigés à la requête du directeur général des finances publiques.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles 1 er et 5 du décret n° 2008-310 du 3 avril 2008.
 
 **Liens relatifs à cet article**
 
@@ -24049,9 +24020,13 @@ Les procès-verbaux sont rédigés à la requête du directeur général des imp
 
 	  - Arrêté 1984-10-01
 
+	**Modifié par**:
+
+	  - Arrêté du 26 mai 2014 - art. 1
+
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L225 A (V)
+	  - Livre des procédures fiscales - art. L225 A
 
 
 ##### Section II : Exercice des poursuites pénales
@@ -24240,18 +24215,23 @@ des avances.
 Les autres valeurs mobilières cotées en bourse, les parts de fonds communs de placement autres que ceux prévus par la loi n°
 83-1 du 3 janvier 1983 et les actions de Sicav composées au moins pour moitié de valeurs françaises de première catégorie ou
 de valeur assimilées et gérées par la Caisse des dépôts et consignations ou un établissement de crédit agréé en qualité de
-banque par l'Autorité de contrôle prudentiel et de résolution sont admises pour une valeur égale à 60 % du dernier cours pour
-les valeurs cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et pour les actions de Sicav.
+banque par l'Autorité de contrôle prudentiel et de résolution et de résolution sont admises pour une valeur égale à 60 % du
+dernier cours pour les valeurs cotées ou du dernier prix de rachat pour les parts de fonds communs de placement et pour les
+actions de Sicav.
+
+**Nota:**
+
+Modifications effectuées en conséquence de l'article 24-I de la loi n° 2013-672 du 26 juillet 2013.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-1 du 3 janvier 1983 (V)
+	  - Loi n°83-1 du 3 janvier 1983
 
 	**Modifié par**:
 
-	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+	  - Arrêté du 26 mai 2014 - art. 1
 
 	**Cité par**:
 
