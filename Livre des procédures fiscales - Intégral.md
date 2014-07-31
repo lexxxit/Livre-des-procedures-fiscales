@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2014-08-01
 
 # Partie législative
 
@@ -17190,108 +17190,29 @@ Création effectuée en conséquence de l'article R. 152-10 du code monétaire e
 	  - Code monétaire et financier - art. R152-10
 
 
-##### 20° : Etablissements, personnes et sociétés tenant le compte des opérations réalisées par leurs clients sur un MATIF, sur un MONEP, sur un FCIMT, ou tenant le compte des opérations sur bons d'option
+##### 20° : Intermédiaires pour les instruments financiers à terme
 
-###### Article R96 C-1
+###### Article R96 CA-1
 
-Les établissements, personnes et sociétés mentionnés aux articles 41 septdecies J et 41 septdecies K de l'annexe III au code
-général des impôts doivent tenir à la disposition de l'administration tout document de nature à justifier la date de
-réalisation et le montant du profit ou de la perte dégagé par chacun de leurs clients à la clôture de chaque position ainsi
-que les caractéristiques des contrats et positions correspondants.
+Les teneurs de compte des opérations réalisées sur les instruments financiers à terme mentionnés au 8° du I de l'article 35,
+au 5° du 2 de l'article 92 et à l'article 150 ter du code général des impôts ou, en l'absence de teneur de compte, les
+personnes cocontractantes de ces contrats financiers tiennent à la disposition de l'administration tout document de nature à
+justifier la date de réalisation et le montant du profit ou de la perte dégagé par chacun de leurs clients à la clôture de
+chaque position ainsi que les caractéristiques des contrats ou positions correspondants. 
 
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°95-1329 du 28 décembre 1995 - art. 3 () JORF 30 décembre 1995
-	  - Décret n°95-1329 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies J
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies K
-
-
-###### Article R96 C-2
-
-Les établissements, personnes et sociétés mentionnés aux articles 41 septdecies N et 41 septdecies O de l'annexe III au code
-général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier par chacun de
-leurs clients la date de réalisation et le montant du profit ou de la perte dégagé par chacun de leurs clients à la clôture
-de chaque position, les caractéristiques des contrats et positions correspondants ainsi que, en cas d'exercice de l'option,
-le cours coté de l'actif sous-jacent à la date d'exercice de l'option.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°95-1330 du 28 décembre 1995 - art. 3 () JORF 30 décembre 1995
-	  - Décret n°95-1330 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies N
-
-
-###### Article R96 C-3
-
-Les établissements, personnes et sociétés mentionnés aux articles 41 septdecies R et 41 septdecies S de l'annexe III au code
-général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier la date de
-réalisation et le montant du profit ou de la perte dégagé par chacun de leurs clients à la clôture de chaque position, les
-caractéristiques des bons et positions correspondants ainsi que, lorsque l'exercice du droit attaché au bon d'option se
-traduit par la livraison de l'actif sous-jacent, le cours coté de cet actif sous-jacent à la date d'exercice.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°95-1331 du 28 décembre 1995 - art. 3 () JORF 30 décembre 1995
-	  - Décret n°95-1331 du 28 décembre 1995 - art. 4 () JORF 30 décembre 1995
-
-	**Abrogé par**:
-
-	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
-
-	**Cite**:
-
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies R
-
-	**Cité par**:
-
-	  - Code général des impôts, CGI. - art. 150 decies (Ab)
-
-
-###### Article R96 C-4
-
-Les établissements, personnes et sociétés visés aux articles 41 septdecies U et 41 septdecies W de l'annexe III au code
-général des impôts doivent tenir à la disposition de l'administration tous documents de nature à justifier la date et le
-montant des cessions ou des rachats réalisés par chacun des propriétaires de parts ou associés.
+Lorsque le contrat se dénoue par la livraison d'un instrument financier ou d'une marchandise, les teneurs de comptes et les
+personnes mentionnés au premier alinéa fournissent également la valeur au jour de la livraison de cet instrument financier ou
+de cette marchandise.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°95-1332 du 28 décembre 1995 - art. 5 (V) JORF 30 décembre 1995
-
-	**Codifié par**:
-
-	  - Décret n°96-557 du 21 juin 1996
-
-	**Abrogé par**:
-
 	  - Décret n°2014-852 du 29 juillet 2014 - art. 2
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies U
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 41 septdecies W
+	  - Code général des impôts, CGI. - art. 150 ter (V)
 
 
 ##### 21° : Organisme gestionnaire d'un plan d'épargne en actions
