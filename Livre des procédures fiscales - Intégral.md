@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-08-24
+Version Consolidée au 2014-11-01
 
 # Partie législative
 
@@ -10293,6 +10293,19 @@ O du même code.
 	  - Code général des impôts, CGI. - art. 244 quater O
 
 
+###### Article L172 H
+
+Pour le crédit d'impôt défini à l'article L. 2333-55-3 du code général des collectivités territoriales, le droit de reprise
+de l'administration s'exerce jusqu'à la fin de la troisième année suivant celle du dépôt de la demande prévue pour le calcul
+de ce crédit d'impôt.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 39 (V)
+
+
 ##### II : Impôts directs locaux et taxes assimilées
 
 ###### Article L173
@@ -18053,8 +18066,6 @@ règlement n° 3-84 C. E. E. du 19 décembre 1983.
 
 	  - Décret n°2013-464 du 3 juin 2013 - art. 2
 
-
-##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics
 
 ##### II : Dérogations au profit de certaines administrations, autorités administratives, collectivités, services et organismes publics et au profit de tiers
 
