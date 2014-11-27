@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-11-08
+Version Consolidée au 2014-11-28
 
 # Partie législative
 
@@ -22208,6 +22208,45 @@ sa demande, et en particulier, de la date à laquelle la décision ou l'acte a �
 ### Titre II : Le contrôle de l'impôt
 
 #### Chapitre premier : Le droit de contrôle de l'administration
+
+##### Section I : Dispositions générales
+
+##### 2 quater : Dispositions relatives aux copies de documents
+
+###### Article A13 F-1
+
+En application de l'article L. 13 F, les copies des documents sous forme dématérialisée sont remises selon des modalités
+définies en accord avec le service vérificateur. 
+
+Afin de garantir l'intégrité du contenu et la lisibilité de ces copies, elles sont remises à l'administration fiscale sous
+format PDF (Portable Document Format). A défaut, l'administration peut convertir les copies dans ce format.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du  - art. 1
+
+
+###### Article A13 F-2
+
+Les copies des documents électroniques sont détruites par l'administration fiscale après le prononcé d'une décision statuant
+sur la réclamation ou d'une décision juridictionnelle qui n'est plus susceptible d'appel et de pourvoi en cassation. 
+
+En l'absence de réclamation contentieuse, les copies sont détruites par l'administration fiscale à l'expiration du délai
+prévu par les articles R. * 196-1 et R. * 196-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du  - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. R*196-1
+	  - Livre des procédures fiscales - art. R*196-3
+
 
 ##### Section II : Dispositions particulières à certains impôts
 
