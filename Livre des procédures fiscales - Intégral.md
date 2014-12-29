@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2014-12-25
+Version Consolidée au 2014-12-30
 
 # Partie législative
 
@@ -2505,6 +2505,30 @@ de l'article 298 bis du code général des impôts.
 	  - Livre des procédures fiscales - art. L47
 
 
+##### D : Droit d'audition
+
+###### Article L39
+
+La personne à l'égard de laquelle il existe des raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre des
+faits constituant une infraction en matière de contributions indirectes ou de réglementations édictant les mêmes règles en
+matière de procédure et de recouvrement ne peut être entendue sur ces faits qu'après la notification des informations prévues
+à l'article 61-1 du code de procédure pénale. 
+
+S'il apparaît, au cours de l'audition d'une personne, des raisons plausibles de soupçonner qu'elle a commis ou tenté de
+commettre une infraction, ces informations lui sont communiquées sans délai.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-647 du 10 juillet 1991 - art. 64 (V)
+	  - Ordonnance n°92-1147 du 12 octobre 1992  - art. 23-1-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 93
+
+
 ##### Section III : Modalités d'exercice du droit de contrôle
 
 ###### Article L45
@@ -3714,6 +3738,39 @@ dispositions d'application.
 	  - Livre des procédures fiscales - art. L56 (MMN)
 	  - Livre des procédures fiscales - art. R62-1 (Ab)
 	  - Livre des procédures fiscales - art. R62-3 (Ab)
+
+
+###### Article L62 A
+
+Les bénéfices transférés, au sens de l'article 57 du code général des impôts, ou les produits mentionnés à l'article 238 A du
+même code et qualifiés de revenus distribués sur le fondement des 1° et 2° du 1 de l'article 109 et du c de l'article 111
+dudit code au profit d'entreprises liées, au sens du 12 de l'article 39 du même code, peuvent, sur demande écrite du
+redevable, ne pas être soumis à la retenue à la source prévue au 2 de l'article 119 bis dudit code si les conditions
+cumulatives suivantes sont satisfaites : 
+
+1° La demande du redevable de la retenue à la source intervient avant la mise en recouvrement des rappels de retenue à la
+source ; 
+
+2° Le redevable accepte, dans sa demande, les rehaussements et pénalités afférentes qui ont fait l'objet de la qualification
+de revenus distribués ; 
+
+3° Les sommes qualifiées de revenus distribués par l'administration sont rapatriées au profit du redevable. Ce rapatriement
+intervient dans un délai de soixante jours à compter de la demande ; 
+
+4° Le bénéficiaire des sommes qualifiées de revenus distribués n'est pas situé dans un Etat ou un territoire non coopératif,
+au sens de l'article 238-0 A du code général des impôts.
+
+**Nota:**
+
+Conformément au II de l'article 79 II de la loi n° 2014-1655 du 29 décembre 2014 de finances rectificative pour 2014, la mise
+en œuvre de la procédure prévue à l'article L 62 A fait l'objet d'un complément à l'annexe à la loi de finances prévue à
+l'article 136 de la loi n° 2010-1657 du 29 décembre 2010 de finances pour 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 79
 
 
 ##### III : Procédure spéciale de l'article 168 du code général des impôts
@@ -7805,9 +7862,8 @@ alimentaire les renseignements mentionnés au II de l'article L. 151 A.
 
 Les maires, les présidents des organes délibérants des établissements publics ou le président du conseil de la métropole de
 Lyon peuvent recevoir de l'administration fiscale communication du montant des sommes dues et payées soit à la commune, soit
-à l'établissement public, soit à la métropole de Lyon, par chaque redevable de la taxe d'aménagement, ainsi que du montant du
-versement en cas de dépassement du plafond légal de densité mentionné à l'article L. 112-2 du code de l'urbanisme et du
-versement pour sous-densité prévu par les articles L. 331-36 et L. 331-38 du même code.
+à l'établissement public, soit à la métropole de Lyon, par chaque redevable de la taxe d'aménagement et du versement pour
+sous-densité prévu par les articles L. 331-36 et L. 331-38 du même code.
 
 **Nota:**
 
@@ -7822,7 +7878,7 @@ compter des impositions dues au titre de 2015.
 
 	**Modifié par**:
 
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 7
+	  - Loi n°2014-1655 du 29 décembre 2014 - art. 44
 
 	**Cite**:
 
