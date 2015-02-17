@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-02-18
 
 # Partie législative
 
@@ -9389,10 +9389,10 @@ I.-Aux fins d'assurer l'exécution d'un titre exécutoire, l'huissier de justice
 desquels un compte est ouvert au nom du débiteur. 
 
 II.-Conformément aux dispositions de l'article L. 152-1 du code des procédures civiles d'exécution, les administrations
-fiscales communiquent à l'huissier de justice chargé de l'exécution, porteur d'un titre exécutoire, les renseignements
-qu'elles détiennent permettant de déterminer l'adresse du débiteur, l'identité et l'adresse de son employeur ou de tout tiers
-débiteur ou dépositaire de sommes liquides ou exigibles et la composition de son patrimoine immobilier, à l'exclusion de tout
-autre renseignement, sans pouvoir opposer le secret professionnel.
+fiscales communiquent à l'huissier de justice chargé de l'exécution        les renseignements qu'elles détiennent permettant
+de déterminer l'adresse du débiteur, l'identité et l'adresse de son employeur ou de tout tiers débiteur ou dépositaire de
+sommes liquides ou exigibles et la composition de son patrimoine immobilier, à l'exclusion de tout autre renseignement, sans
+pouvoir opposer le secret professionnel.
 
 **Liens relatifs à cet article**
 
@@ -9411,7 +9411,7 @@ autre renseignement, sans pouvoir opposer le secret professionnel.
 
 	**Modifié par**:
 
-	  - Décret n°2012-654 du 4 mai 2012 - art. 1
+	  - Loi n°2015-177 du 16 février 2015 - art. 11 (V)
 
 
 ##### VI : Dérogations au profit des autorités et des organismes chargés de l'application de la législation sociale
