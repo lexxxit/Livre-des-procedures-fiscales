@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-03-19
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -8442,21 +8442,17 @@ plafonnement de la contribution au service public de l'électricité prévu à l
 ###### Article L135 O
 
 Les maires peuvent se faire communiquer par l'administration en charge des contributions indirectes les éléments
-d'information que celle-ci détient en matière d'impôt sur les spectacles et de surtaxe sur les eaux minérales.
+d'information que celle-ci détient en matière d'impôt sur les spectacles et de surtaxe sur les eaux minérales. 
 
-Le président de la collectivité territoriale de Corse et les présidents des conseils généraux en Corse peuvent se faire
+Le président de la collectivité territoriale de Corse et les présidents des conseils départementaux en Corse peuvent se faire
 communiquer par l'administration en charge des contributions indirectes les éléments d'information que celle-ci détient en
 matière de droit de consommation sur les tabacs manufacturés.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 1er janvier 2007
-
-	**Créé par**:
-
-	  - Loi n°2006-1771 du 30 décembre 2006 - art. 101 () JORF 31 décembre 2006
+	  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 	**Cité par**:
 
@@ -18174,7 +18170,7 @@ règlement n° 3-84 C. E. E. du 19 décembre 1983.
 ###### Article R*135 B-1
 
 L'autorité territoriale destinataire des informations transmises par la direction générale des finances publiques, en
-application de l'article L. 135 B, est selon le cas le maire, le président du conseil général, le président du conseil
+application de l'article L. 135 B, est selon le cas le maire, le président du conseil départemental, le président du conseil
 régional, le président du conseil exécutif de Corse ou le président de l'établissement public doté d'une fiscalité propre.
 Elle peut désigner à cet effet un délégué dont l'identité est préalablement déclarée à cette direction. 
 
@@ -18189,7 +18185,7 @@ informations.
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 40
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cite**:
 
