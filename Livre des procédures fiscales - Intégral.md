@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-05-15
 
 # Partie législative
 
@@ -16958,19 +16958,10 @@ _
 
 ###### Article R*81-1
 
-I.-Le droit de communication défini à l'article L. 81 est exercé par les fonctionnaires titulaires ou stagiaires appartenant
-à des corps de catégorie A ou B ou par des fonctionnaires titulaires appartenant à des corps de catégorie C agissant soit
-dans l'ensemble de la région où est situé le service auquel ils sont affectés, soit, lorsqu'il est plus étendu, dans le
-ressort territorial de ce service. 
-
-II.-Dans le cadre prévu par l'article 376 de l'annexe II au code général des impôts et par dérogation au I du présent
-article, les agents mentionnés à ce même I peuvent exercer le droit de communication prévu à l'article L. 81 à l'égard de
-toute personne ou organisme soumis à l'exercice de ce droit.
-
-**Nota:**
-
-Modifications effectuées en conséquence de l'article 4-III du décret n° 2009-707 du 16 juin 2009  et de l'article 2 [1°, b]
-du décret n° 2010-939 du 24 août 2010.
+Le droit de communication défini à l'article L. 81 est exercé par les fonctionnaires titulaires ou stagiaires appartenant à
+des corps de catégorie A ou B ou par des fonctionnaires titulaires appartenant à des corps de catégorie C agissant sur
+l'ensemble du territoire métropolitain et des départements et régions d'outre-mer, pour l'exercice de leurs missions
+d'établissement de l'assiette, de contrôle et de recouvrement des impôts, droits et taxes.
 
 **Liens relatifs à cet article**
 
@@ -16984,40 +16975,12 @@ du décret n° 2010-939 du 24 août 2010.
 
 	**Modifié par**:
 
-	  - Décret n°2011-646 du 9 juin 2011 - art. 2
+	  - Décret n°2015-531 du 12 mai 2015 - art. 1
 
 	**Cite**:
 
-	  - Code général des impôts, annexe 2, CGIAN2. - art. 376 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 376
 	  - Livre des procédures fiscales - art. L81
-
-
-###### Article R*81-2
-
-Les fonctionnaires qui ont compétence pour procéder au contrôle d'une déclaration de revenu global ou à la vérification de la
-situation fiscale d'une exploitation ou d'une entreprise, ou d'un contribuable exerçant une activité professionnelle,
-peuvent, pour les besoins de ce contrôle ou de cette vérification, exercer le droit de communication prévu à l'article L. 81
-à l'égard de toute personne ou organisme soumis à l'exercice de ce droit.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI L81
-	  - Livre des procédures fiscales - art. L81
-
-	**Anciens textes**:
-
-	  - CGIAN2 406 bis (AL. 2)
-	  - CGIAN2 409 (P.)
-
-	**Codifié par**:
-
-	  - Décret n°81-860 du 15 septembre 1981
-
-	**Abrogé par**:
-
-	  - Décret n°2015-531 du 12 mai 2015 - art. 2
 
 
 ###### Article R*81-4
