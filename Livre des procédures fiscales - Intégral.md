@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-08-06
+Version Consolidée au 2015-08-08
 
 # Partie législative
 
@@ -5579,6 +5579,24 @@ mission.
 	  - Code de la construction et de l'habitation. - art. L321-4
 
 
+###### Article L83 E
+
+La société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction et de l'habitation peut communiquer
+à l'administration fiscale, spontanément ou à sa demande, tous les renseignements et documents recueillis dans le cadre de sa
+mission mentionnée à l'article L. 315-5-1 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 140
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (V)
+	  - Code de la construction et de l'habitation. - art. L315-5-1 (V)
+
+
 ###### Article L84
 
 Les renseignements individuels portant sur l'identité ou l'adresse des personnes ou d'ordre économique ou financier,
@@ -6950,6 +6968,23 @@ soumises au secret professionnel prévu à l'article L. 103.
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L38 (V)
+
+
+###### Article L103 C
+
+L'administration peut communiquer à la société mentionnée au dernier alinéa de l'article L. 312-1 du code de la construction
+et de l'habitation, sans méconnaître la règle du secret professionnel, les renseignements destinés à lui permettre de remplir
+sa mission de contrôle des opérations d'épargne-logement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 140
+
+	**Cite**:
+
+	  - Code de la construction et de l'habitation. - art. L312-1 (V)
 
 
 ##### 1° : Délivrance de documents aux contribuables
@@ -9248,14 +9283,14 @@ devant la juridiction saisie du litige.
 
 ###### Article L147 C
 
-Conformément au deuxième alinéa de l'article L. 1454-1 du code du travail, les agents de l'administration des impôts ou de
-l'administration des douanes et droits indirects doivent communiquer aux conseillers rapporteurs membres d'un conseil de
-prud'hommes, sur la demande de ceux-ci et sans pouvoir opposer le secret professionnel, les renseignements et documents
-relatifs au travail dissimulé, au marchandage ou au prêt illicite de main-d'oeuvre dont ils disposent.
+Conformément au          dernier alinéa de l'article L. 1454-1-2 du code du travail, les agents de l'administration des
+impôts ou de l'administration des douanes et droits indirects doivent communiquer aux conseillers rapporteurs membres d'un
+conseil de prud'hommes, sur la demande de ceux-ci et sans pouvoir opposer le secret professionnel, les renseignements et
+documents relatifs au travail dissimulé, au marchandage ou au prêt illicite de main-d'oeuvre dont ils disposent.
 
 **Nota:**
 
-_Modification effectuée en conséquence des articles 1, 3 et 12 I de l'ordonnance n° 2007-329 du 12 mars 2007.
+_
 
 _
 
@@ -9263,7 +9298,7 @@ _
 
 	**Modifié par**:
 
-	  - Décret n°2008-295 du 1er avril 2008 - art. 1
+	  - Loi n°2015-990 du 6 août 2015 - art. 258
 
 	**Cite**:
 
