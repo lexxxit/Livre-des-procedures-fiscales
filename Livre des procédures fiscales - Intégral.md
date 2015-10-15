@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-08-31
+Version Consolidée au 2015-10-16
 
 # Partie législative
 
@@ -9849,30 +9849,27 @@ informations indiquant si le demandeur est déjà détenteur de ce produit.
 	  - Code monétaire et financier - art. L221-38
 
 
-##### 6° : Groupement d'intérêt public France Télé numérique
+##### 6° : Agence nationale des fréquences
 
 ###### Article L166 B
 
-Pour les besoins de la gestion du fonds d'aide prévu à l'article 102 de la loi n° 86-1067 du 30 septembre 1986 relative à la
-liberté de communication, l'administration des impôts est autorisée à communiquer au groupement d'intérêt public créé par
-l'article 100 de la même loi, à sa demande, les nom, prénom et adresse des personnes visées aux 2° à 3° bis de l'article 1605
-bis du code général des impôts.
+L'Agence nationale des fréquences peut recevoir communication de l'administration fiscale des renseignements utiles à la
+gestion des aides instituées à l'article 99 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 102
-	  - Code général des impôts, CGI. - art. 1605 bis
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 99
 
 	**Cité par**:
 
 	  - Arrêté du 8 mars 1996 - art. 5 (V)
 	  - Arrêté du 25 mars 2016 - art. 2 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-1572 du 17 décembre 2009 - art. 5
+	  - Loi n°2015-1267 du 14 octobre 2015 - art. 17
 
 
 ##### 7° : Professionnels de l'expertise comptable autorisés
