@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-10-16
+Version Consolidée au 2015-11-07
 
 # Partie législative
 
@@ -16203,9 +16203,9 @@ présenté par l'entreprise le nécessite, l'avis de l'un des services ou organi
 1° Les services relevant du ministre chargé de la recherche, notamment les délégués régionaux à la recherche et à la
 technologie ; 
 
-2° L'Agence nationale de la recherche ; 
+2° L'Agence nationale de la recherche ;
 
-3° La société anonyme OSEO ; 
+3° (Abrogé) ; 
 
 d) La demande d'éléments complémentaires prévue à l'article R. * 80 B-3 peut être faite par : 
 
@@ -16215,9 +16215,9 @@ d'appréciation en application du b ;
 2° Le directeur général pour la recherche et l'innovation ou le délégué régional à la recherche et à la technologie dans le
 ressort territorial duquel se situe l'établissement où sera réalisé le projet de dépenses de recherche ; 
 
-3° Le directeur général de l'Agence nationale de la recherche ; 
+3° Le directeur général de l'Agence nationale de la recherche ;
 
-4° Le directeur général de la société anonyme OSEO ; 
+4° (Abrogé) ;
 
 e) Le service ou l'organisme consulté en application du c notifie son avis simultanément par pli recommandé avec demande
 d'avis de réception postal au contribuable et au service des impôts auquel est adressée la demande d'appréciation en
@@ -16227,19 +16227,19 @@ application du b.
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 22
+	  - Décret n°2015-1412 du 4 novembre 2015 - art. 1
 
 	**Cite**:
 
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344-0 A
-	  - Livre des procédures fiscales - art. L80 B (V)
+	  - Livre des procédures fiscales - art. L80 B
 	  - Livre des procédures fiscales - art. R*80 B-1
 	  - Livre des procédures fiscales - art. R*80 B-3
 
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. R*80 B-6 (V)
-	  - Livre des procédures fiscales - art. R*80 B-6-1 (M)
+	  - Livre des procédures fiscales - art. R*80 B-6-1 (V)
 
 
 ###### Article R*80 B-6
@@ -16278,12 +16278,12 @@ c) Elle est adressée par pli recommandé avec demande d'avis de réception post
 l'établissement où sera réalisé le projet de dépenses de recherche, si le demandeur entend obtenir une prise de position des
 services relevant du ministre chargé de la recherche ; 
 
-2° Ou à l'Agence nationale de la recherche si le demandeur entend obtenir une prise de position de celle-ci ; 
+2° Ou à l'Agence nationale de la recherche si le demandeur entend obtenir une prise de position de celle-ci ;
 
-3° Ou à la société anonyme OSEO si le demandeur entend obtenir une prise de position de celle-ci. 
+3° (Abrogé) ;
 
-La demande peut également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1°, 2° et
-3° ; 
+La demande peut également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1° et
+2° ; 
 
 d) Si la demande est incomplète au regard des dispositions du a et du b, il est demandé à son auteur, par pli recommandé avec
 demande d'avis de réception postal, de fournir les éléments complémentaires nécessaires. 
@@ -16294,25 +16294,23 @@ La demande d'éléments complémentaires est adressée :
 le ressort territorial duquel se situe l'établissement où sera réalisé le projet de dépenses de recherche, lorsqu'il a été
 fait application du 1° du c ; 
 
-2° Par le directeur général de l'Agence nationale de la recherche, lorsqu'il a été fait application du 2° du c ; 
+2° Par le directeur général de l'Agence nationale de la recherche, lorsqu'il a été fait application du 2° du c ;
 
-3° Par le directeur général de la société anonyme OSEO, lorsqu'il a été fait application du 3° du c. 
+3° (Abrogé).
 
 Les éléments complémentaires sont transmis par le demandeur par pli recommandé avec demande d'avis de réception postal. Ils
-peuvent également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1°, 2° et 3° du
-c.
+peuvent également faire l'objet d'un dépôt contre décharge auprès des services ou organismes mentionnés aux 1° et 2° du c.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-1249 du 22 octobre 2010 - art. 64 (V)
-	  - Décret n°2011-646 du 9 juin 2011 - art. 2
+	  - Décret n°2015-1412 du 4 novembre 2015 - art. 1
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L80 B
-	  - Livre des procédures fiscales - art. R*80 B-5
+	  - Livre des procédures fiscales - art. R*80 B-5 (V)
 
 	**Cité par**:
 
