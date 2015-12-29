@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2015-11-07
+Version Consolidée au 2015-12-30
 
 # Partie législative
 
@@ -9560,6 +9560,23 @@ _Modification effectuée en conséquence des articles L815-17, L815-28 et L815-2
 	  - Code de la sécurité sociale. - art. L815-24
 	  - Code de la sécurité sociale. - art. L815-28
 	  - Code de la sécurité sociale. - art. L815-29
+
+
+###### Article L153 A
+
+Les administrations fiscales transmettent chaque année aux départements, dans des conditions prévues par décret en Conseil
+d'Etat pris après avis de la Commission nationale de l'informatique et des libertés, les informations nécessaires à
+l'appréciation des ressources des bénéficiaires de l'allocation personnalisée d'autonomie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1776 du 28 décembre 2015 - art. 43
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. R232-43 (V)
 
 
 ###### Article L154
