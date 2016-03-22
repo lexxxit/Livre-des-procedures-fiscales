@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-02-25
+Version Consolidée au 2016-03-23
 
 # Partie législative
 
@@ -7139,15 +7139,17 @@ collectivités, services, organismes publics et autres personnes dans les cas pr
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, 
 L. 127, L. 130, L. 135, 
 L. 135 B, L. 135 D, L. 135 F, 
-L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 135 ZD, L. 136, L. 139 A,
+L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 135 ZD, L. 136, L. 139 A, 
 L. 152, L. 152 A, L. 154, L. 158, L. 158 A, L. 163, 
-L. 166 et L. 166 D sont eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal.
+L. 166, 
+L. 166 D et L. 166 F sont eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code
+pénal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 65
+	  - Loi n°2016-339 du 22 mars 2016 - art. 18
 
 	**Cité par**:
 
@@ -7169,13 +7171,14 @@ L. 166 et L. 166 D sont eux-mêmes soumis au secret professionnel dans les terme
 	  - Livre des procédures fiscales - art. L135 O
 	  - Livre des procédures fiscales - art. L135 ZD
 	  - Livre des procédures fiscales - art. L136
-	  - Livre des procédures fiscales - art. L139 A (V)
+	  - Livre des procédures fiscales - art. L139 A
 	  - Livre des procédures fiscales - art. L152
 	  - Livre des procédures fiscales - art. L152 A
 	  - Livre des procédures fiscales - art. L158
 	  - Livre des procédures fiscales - art. L163
 	  - Livre des procédures fiscales - art. L166
 	  - Livre des procédures fiscales - art. L166 D
+	  - Livre des procédures fiscales - art. L166 F
 	  - Code pénal - art. 226-13
 
 
@@ -9822,6 +9825,41 @@ coordonnées des personnes physiques concernées.
 	  - Code des assurances - art. L132-8 (V)
 	  - Code des assurances - art. L132-9-3
 	  - Code de la mutualité - art. L223-10-2
+
+
+##### 10° Exploitants de transports publics ferroviaires, guidés ou routiers
+
+###### Article L166 F
+
+L'obligation du secret professionnel ne fait pas obstacle à ce que l'administration fiscale transmette à la personne morale
+mentionnée au troisième alinéa de l'article L. 2241-2-1 du code des transports les renseignements, relatifs aux nom, prénoms,
+date et lieu de naissance ainsi qu'à l'adresse du domicile des auteurs des contraventions mentionnées à l'article 529-3 du
+code de procédure pénale, utiles à la réalisation de la transaction prévue à l'article 529-4 du même code.
+
+Le secret professionnel ne fait pas obstacle à ce que cette personne morale transmette aux agents de l'exploitant du service
+de transport chargés du recouvrement des sommes dues au titre de la transaction mentionnée au même article 529-4 les
+informations nécessaires à l'exercice de cette mission.
+
+L'exploitant mentionné au deuxième alinéa du présent article peut, par convention, mettre à disposition de l'administration
+fiscale des personnels afin d'exercer des missions contribuant à l'amélioration du recouvrement des amendes forfaitaires
+majorées mentionnées à l'article 529-5 du code de procédure pénale. L'obligation au secret professionnel ne fait pas obstacle
+à ce que ces personnels accèdent aux informations et documents nécessaires à l'exercice de la mission qui leur est confiée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-339 du 22 mars 2016 - art. 18
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VT)
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 529-3
+	  - Code de procédure pénale - art. 529-5
+	  - Code des transports - art. L2241-2-1
 
 
 #### Chapitre IV : Les délais de prescription
