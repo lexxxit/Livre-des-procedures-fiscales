@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-06-12
+Version Consolidée au 2016-06-13
 
 # Partie législative
 
@@ -8604,6 +8604,32 @@ l'immatriculation de leur véhicule.
 	  - Loi n°2015-1786 du 29 décembre 2015 - art. 123 (V)
 
 
+###### Article L135 ZF
+
+L'administration fiscale transmet au ministère chargé des transports les informations mentionnées au deuxième alinéa des
+articles 
+L. 3113-1
+et 
+L. 3211-1
+du code des transports relatives aux entreprises de transport public de personnes ou de marchandises inscrites au registre
+tenu par les autorités administratives compétentes de l'Etat.
+
+**Nota:**
+
+Modifications effectuées en conséquence des articles  L. 3113-1 et L. 3211-1 du code des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-776 du 10 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des transports - art. L3113-1
+	  - Code des transports - art. L3211-1
+
+
 ##### III : Dérogations au profit de diverses commissions
 
 ###### Article L136
@@ -14525,16 +14551,15 @@ un paiement ou produire un document auprès d'une autorité administrative peut 
 date prescrite au moyen d'un envoi de correspondance, le cachet apposé par les prestataires de services postaux autorisés au
 titre de l'article L. 3 du code des postes et des communications électroniques faisant foi, ou d'un envoi par voie
 électronique, auquel cas fait foi la date figurant sur l'accusé de réception ou, le cas échéant, sur l'accusé
-d'enregistrement adressé à l'usager par la même voie conformément aux dispositions du II de l'article 5 de l'ordonnance n°
-2005-1516 du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives et entre
-les autorités administratives. 
+d'enregistrement adressé à l'usager par la même voie conformément à l'
+article L. 112-11 du code des relations entre le public et l'administration
+. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'art art. 5-II de l'ordonnance n° 2005-1516 du 8 décembre 2005 et de l' art. 65 de
-la loi n° 2012-387 du 22 mars 2012.
+Modification effectuée en conséquence de l'art. 1er, 6-7° et 10-I de l'ordonnance n° 2015-1341 du 23 octobre 2015.
 
 **Liens relatifs à cet article**
 
@@ -14542,13 +14567,14 @@ la loi n° 2012-387 du 22 mars 2012.
 
 	  - Décret n°2001-436 du 21 mai 2001
 
-	**Cite**:
-
-	  - Ordonnance n°2005-1516 du 8 décembre 2005 - art. 5 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2013-464 du 3 juin 2013 - art. 1
+	  - Décret n°2016-776 du 10 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code des postes et des communications électroniques - art. L3
+	  - Code des relations entre le public et l'administration - art. L112-11
 
 
 ###### Article L286 A
@@ -14711,23 +14737,15 @@ droits  d'accises.
 L'administration soumet à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires les
 propositions mentionnées à l'article L. 1 au plus tard le 31 mai suivant l'année d'imposition.
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 66 1 (AL. 2 2ème LIGNE)
-
-	**Modifié par**:
-
-	  - Décret n°93-230 du 14 février 1993 - art. 1 () JORF 23 février 1993
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L1 (V)
+	  - Livre des procédures fiscales - art. L1
 
 
 ###### Article R*1-2
@@ -14741,19 +14759,15 @@ par un fonctionnaire de son service.
 Elle prend sa décision à la majorité des voix ou, en cas de partage des voix, dans les conditions prévues au second alinéa de
 l'article 1651 du code général des impôts au plus tard le 31 mai suivant l'année d'imposition.
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°93-230 du 14 février 1993 - art. 2 () JORF 23 février 1993
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1651 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
+	  - Code général des impôts, CGI. - art. 1651
 
 
 ###### Article R*2-1
@@ -14771,15 +14785,15 @@ copie du procès-verbal des travaux de la commission.
 Les bénéfices forfaitaires définitivement arrêtés sont publiés au Bulletin officiel des finances publiques-impôts (BOFiP-
 Impôts) .
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°81-860 du 15 septembre 1981
-
-	**Modifié par**:
-
-	  - Décret n°2014-1039 du 11 septembre 2014 - art. 1
 
 	**Cite**:
 
@@ -14793,16 +14807,10 @@ membres de la commission ayant assisté aux délibérations de cet organisme.
 
 Ceux-ci disposent d'un délai de cinq jours pour fournir leurs observations, lesquelles sont annexées au procès-verbal.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Créé par**:
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
 
-	  - Décret n°84-686 1984-07-17 art. 7 JORF 24 JUILLET 1984
-
-	**Liens**:
-
-	  - HISTO: Edition du 15 juillet 1985
-	  - TXT_ASSOCIE: Instruction 1998-12-09 5E-6-98
 
 
 ##### Section II :
@@ -14814,19 +14822,19 @@ de leur catégorie résultant du classement défini à l'article L. 4.
 
 Les exploitants intéressés peuvent faire appel du classement jusqu'à l'expiration de ce délai.
 
+**Nota:**
+
+En conséquence de l'article art. 33-II et V de la loi n° 2015-1786 du 29 décembre 2015, cet article devient sans objet.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - CGI 67 (AL. 3, AL. 4 1ère LIGNE P.)
 
 	**Codifié par**:
 
-	  - Décret n°81-860 1981-09-15
+	  - Décret n°81-860 du 15 septembre 1981
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L4 (V)
+	  - Livre des procédures fiscales - art. L4
 
 
 ### Titre II : Le contrôle de l'impôt
