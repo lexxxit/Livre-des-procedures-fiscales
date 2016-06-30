@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-06-13
+Version Consolidée au 2016-07-01
 
 # Partie législative
 
@@ -3281,30 +3281,27 @@ avis de vérification a été adressé à compter du 8 décembre 2013.
 Lorsque le désaccord persiste sur les rectifications notifiées, l'administration, si le contribuable le demande, soumet le
 litige à l'avis soit de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à
 l'article 1651 du code général des impôts, soit de la Commission nationale des impôts directs et des taxes sur le chiffre
-d'affaires prévue à l'article 1651 H du même code, soit de la commission départementale de conciliation prévue à l'article
-667 du même code. 
+d'affaires prévue à l'article 1651 H du même code, soit du comité consultatif prévu à l'article 1653 F du même code, soit de
+la commission départementale de conciliation prévue à l'article 667 du même code. 
 
 Les commissions peuvent également être saisies à l'initiative de l'administration.
-
-**Nota:**
-
-dispositions applicables aux propositions de rectifications adressées à compter du 1er juillet 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 16 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1651 (V)
+	  - Code général des impôts, CGI. - art. 1651
 	  - Code général des impôts, CGI. - art. 1651 H
+	  - Code général des impôts, CGI. - art. 1653 F (VD)
 	  - Code général des impôts, CGI. - art. 667
 
 	**Cité par**:
 
-	  - Code de commerce - art. L641-3 (M)
+	  - Code de commerce - art. L641-3 (V)
 	  - Livre des procédures fiscales - art. L192 (VD)
 	  - Livre des procédures fiscales - art. L250 (V)
 	  - Livre des procédures fiscales - art. L76 (VD)
@@ -3436,26 +3433,55 @@ dispositions applicables aux propositions de rectifications adressées à compte
 	  - Livre des procédures fiscales - art. R*60-1 (VD)
 
 
+###### Article L59 D
+
+Le comité consultatif prévu à l'article 1653 F du code général des impôts intervient lorsque le désaccord porte sur la
+réalité de l'affectation à la recherche des dépenses prises en compte pour la détermination du crédit d'impôt défini à
+l'article 244 quater B du même code. 
+
+Ce comité peut, sans trancher une question de droit, se prononcer sur les faits susceptibles d'être pris en compte pour
+l'examen de cette question de droit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1653 F (VD)
+	  - Code général des impôts, CGI. - art. 244 quater B (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. R*60-1 (VT)
+
+
 ###### Article L60
 
 Le rapport par lequel l'administration des impôts soumet le différend qui l'oppose au contribuable à la commission
-départementale ou nationale  des impôts directs et des taxes sur le chiffre d'affaires, ainsi que tous les autres documents
-dont l'administration fait état pour appuyer sa thèse, doivent être tenus à la disposition du contribuable intéressé.
+départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires prévue aux articles 1651 et 1651 H du
+code général des impôts ou au comité consultatif prévu à l'article 1653 F du même code, ainsi que tous les autres documents
+dont l'administration fait état pour appuyer sa thèse, doivent être tenus à la disposition du contribuable intéressé. 
 
 Cette communication doit être faite sous réserve du secret professionnel relatif aux renseignements concernant d'autres
-contribuables. Elle doit cependant porter sur les documents contenant des indications relatives aux bénéfices ou revenus de
+contribuables. La communication effectuée par la commission départementale ou nationale des impôts directs et des taxes sur
+le chiffre d'affaires doit cependant porter sur les documents contenant des indications relatives aux bénéfices ou revenus de
 tiers, de telle manière que l'intéressé puisse s'assurer que les points de comparaison retenus par l'administration
 concernent des entreprises dont l'activité est comparable à la sienne.
-
-**Nota:**
-
-dispositions applicables aux propositions de rectifications adressées à compter du 1er juillet 2008.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 16 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1651 (V)
+	  - Code général des impôts, CGI. - art. 1651 H (V)
+	  - Code général des impôts, CGI. - art. 1653 F (VD)
 
 	**Cité par**:
 
@@ -5113,6 +5139,35 @@ modalités d'accès aux données mentionnées au I par les agents de l'administr
 	  - Code des douanes - art. 67 quinquies (V)
 
 
+#### Chapitre Ier septies : Le droit de contrôle en matière d'information de leurs utilisateurs par les plates-formes de mise en relation par voie électronique 
+
+
+###### Article L80 P
+
+Les agents de l'administration fiscale constatent le défaut de communication du certificat mentionné au IV de l'article 242
+bis du code général des impôts en application de l'article L. 102 AD du présent livre. Ils établissent un procès-verbal
+consignant ce manquement et appliquent l'amende prévue à l'article 1731 ter du code général des impôts. Ils transmettent à
+l'entreprise une copie du procès-verbal qui informe l'entreprise qu'elle dispose d'un délai de trente jours pour formuler ses
+observations et, le cas échéant, fournir le certificat prévu au IV de l'article 242 bis du même code. Si l'entreprise
+présente le certificat dans le délai imparti, l'amende n'est pas appliquée.
+
+**Nota:**
+
+Loi n° 2015-1785 du 29 décembre 2015, article 87 IV : Les I et II du présent article s'appliquent aux transactions réalisées
+à compter du 1er juillet 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 87 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1731 ter (VD)
+	  - Code général des impôts, CGI. - art. 242 bis (VD)
+
+
 #### Chapitre II : Le droit de communication
 
 ###### Article L81
@@ -6458,6 +6513,27 @@ habitants et dans les autres communes.
 	  - Code général des collectivités territoriales - art. L2224-31 (V)
 
 
+###### Article L102 AD
+
+Les entreprises mentionnées au I de l'article 242 bis du code général des impôts doivent communiquer à l'administration
+fiscale, chaque année avant le 15 mars et par voie électronique, le certificat mentionné au IV du même article.
+
+**Nota:**
+
+Loi n° 2015-1785 du 29 décembre 2015, article 87 IV : Les I et II du présent article s'appliquent aux transactions réalisées
+à compter du 1er juillet 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 87 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 242 bis (VD)
+
+
 ###### Article L102 AE
 
 Les organismes mentionnés aux articles L. 411-2 et L. 481-1 du code de la construction et de l'habitation transmettent chaque
@@ -7138,17 +7214,17 @@ collectivités, services, organismes publics et autres personnes dans les cas pr
 Ceux qui bénéficient de ces dérogations en application des articles L. 123, L. 124, 
 L. 127, L. 130, L. 135, 
 L. 135 B, L. 135 D, L. 135 F, 
-L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 135 ZD, L. 136, L. 139 A, 
+L. 135 H, L. 135 I, L. 135 J, L. 135 O, L. 135 ZD, L. 136, L. 136-A, L. 139 A, 
 L. 152, L. 152 A, L. 154, L. 158, L. 158 A, L. 163, 
-L. 166, 
-L. 166 D et L. 166 F sont eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du code
-pénal.
+L. 166, L. 166 D et L. 166 F sont eux-mêmes soumis au secret professionnel dans les termes des articles 226-13 et 226-14 du
+code pénal.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2016-339 du 22 mars 2016 - art. 18
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 65
 
 	**Cité par**:
 
@@ -7170,14 +7246,15 @@ pénal.
 	  - Livre des procédures fiscales - art. L135 O
 	  - Livre des procédures fiscales - art. L135 ZD
 	  - Livre des procédures fiscales - art. L136
-	  - Livre des procédures fiscales - art. L139 A
+	  - Livre des procédures fiscales - art. L136 A (VD)
+	  - Livre des procédures fiscales - art. L139 A (V)
 	  - Livre des procédures fiscales - art. L152
 	  - Livre des procédures fiscales - art. L152 A
 	  - Livre des procédures fiscales - art. L158
 	  - Livre des procédures fiscales - art. L163
-	  - Livre des procédures fiscales - art. L166
-	  - Livre des procédures fiscales - art. L166 D
-	  - Livre des procédures fiscales - art. L166 F
+	  - Livre des procédures fiscales - art. L166 (V)
+	  - Livre des procédures fiscales - art. L166 D (V)
+	  - Livre des procédures fiscales - art. L166 F (V)
 	  - Code pénal - art. 226-13
 
 
@@ -7243,8 +7320,9 @@ communication ne peut lui être opposé.
 
 ###### Article L116
 
-Conformément à l'article L. 450-7 du code de commerce, l'administration fiscale ne peut opposer le secret professionnel aux
-agents habilités, mentionnés à l'article L. 450-1 du code précité.
+Conformément aux articles L. 450-7 du code de commerce et L. 512-14 du code de la consommation, l'administration fiscale ne
+peut opposer le secret professionnel aux agents habilités, mentionnés à l'article L. 450-1 du code de commerce et aux
+articles L. 511-3 et L. 511-21 du code de la consommation.
 
 **Nota:**
 
@@ -7258,12 +7336,11 @@ Modification effectuée en conséquence de l'article L. 450-1 du code de commerc
 
 	**Modifié par**:
 
-	  - Décret n°2014-550 du 26 mai 2014 - art. 1
+	  - Ordonnance n°2016-301 du 14 mars 2016 - art. 10
 
 	**Cite**:
 
 	  - Code de commerce - art. L450-1
-	  - Code de commerce - art. L450-7
 
 
 ###### Article L117
@@ -8658,6 +8735,27 @@ dispositions applicables aux propositions de rectifications adressées à compte
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L113 (VT)
+
+
+###### Article L136 A
+
+Le comité consultatif prévu à l'article 1653 F du code général des impôts peut recevoir des agents de l'administration
+fiscale, du ministère chargé de la recherche et du ministère chargé de l'innovation communication des renseignements utiles
+pour lui permettre de se prononcer sur les désaccords qui lui sont soumis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1653 F (VD)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. L113 (VD)
 
 
 ###### Article L137
@@ -11113,13 +11211,14 @@ la réduction de l'imposition.
 
 ###### Article L192
 
-Lorsque l'une des commissions visées à l'article L. 59 est saisie d'un litige ou d'une rectification, l'administration
-supporte la charge de la preuve en cas de réclamation, quel que soit l'avis rendu par la commission. 
+Lorsque l'une des commissions ou le comité mentionnés à l'article L. 59 est saisi d'un litige ou d'une rectification,
+l'administration supporte la charge de la preuve en cas de réclamation, quel que soit l'avis rendu par la commission ou le
+comité. 
 
 Toutefois, la charge de la preuve incombe au contribuable lorsque la comptabilité comporte de graves irrégularités et que
-l'imposition a été établie conformément à l'avis de la commission. La charge de la preuve des graves irrégularités invoquées
-par l'administration incombe, en tout état de cause, à cette dernière lorsque le litige ou la rectification est soumis au
-juge. 
+l'imposition a été établie conformément à l'avis de la commission ou du comité. La charge de la preuve des graves
+irrégularités invoquées par l'administration incombe, en tout état de cause, à cette dernière lorsque le litige ou la
+rectification est soumis au juge. 
 
 Elle incombe également au contribuable à défaut de comptabilité ou de pièces en tenant lieu, comme en cas de taxation
 d'office à l'issue d'un examen contradictoire de la situation fiscale personnelle en application des dispositions des
@@ -11133,16 +11232,16 @@ articles L. 16 et L. 69.
 
 	**Codifié par**:
 
-	  - Décret n°2005-331 2005-04-06
+	  - Décret n°2005-331 du 6 avril 2005
 
 	**Modifié par**:
 
-	  - Décret n°2005-331 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L16 (V)
-	  - Livre des procédures fiscales - art. L59 (V)
+	  - Livre des procédures fiscales - art. L16
+	  - Livre des procédures fiscales - art. L59
 
 
 ###### Article L193
