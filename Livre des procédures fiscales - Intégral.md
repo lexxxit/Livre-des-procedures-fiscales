@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-07-01
+Version Consolidée au 2016-07-10
 
 # Partie législative
 
@@ -20093,7 +20093,8 @@ la direction générale des finances publiques ;
 
 b) (Abrogé) 
 
-c) Au directeur régional des douanes et droits indirects, s'il s'agit de contributions indirectes, droits, taxes, redevances,
+c) Au directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au
+directeur régional des douanes et droits indirects, s'il s'agit de contributions indirectes, droits, taxes, redevances,
 impositions assimilées et de la contribution prévue par l'article 527 du code général des impôts recouvrés par les comptables
 de la direction générale des douanes et droits indirects. 
 
@@ -20104,7 +20105,7 @@ la décision soit du directeur mentionné au a ou au c soit du tribunal saisi.
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 30
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cite**:
 
@@ -20435,7 +20436,8 @@ pour frais de chambres de métiers et de l'artisanat.
 Les propositions de dégrèvements d'office et de restitutions prévues à l'article R. 211-1 peuvent être faites par les agents
 de la direction générale des finances publiques ou de la direction générale des douanes et droits indirects. Ces propositions
 sont portées sur des états adressés, selon le cas, au directeur départemental ou, le cas échéant, régional des finances
-publiques ou au directeur régional des douanes et droits indirects pour la suite à donner. 
+publiques ou au directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à
+Mayotte, au directeur régional des douanes et droits indirects pour la suite à donner. 
 
 Les agents appartenant au corps des géomètres-cadastreurs des finances publiques sont également admis, dans les conditions
 fixées par le directeur général des finances publiques, à proposer d'office, en matière de taxe foncière, le dégrèvement des
@@ -20449,7 +20451,7 @@ directs conformément à l'article R. 198-3.
 
 	**Modifié par**:
 
-	  - Décret n°2012-430 du 29 mars 2012 - art. 33
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cite**:
 
@@ -20947,9 +20949,10 @@ a) Au directeur départemental des finances publiques, pour les matières qui re
 la valeur qui servent de base au calcul des pénalités ou, en l'absence d'une telle base, le montant des amendes n'excèdent
 pas 150 000 € et qu'en outre le montant des droits effectivement fraudés ne dépasse pas le quart de ce chiffre ; 
 
-b) Selon le cas, au directeur régional des douanes et droits indirects ou au directeur d'un service à compétence nationale,
-pour les matières qui relèvent de sa compétence, lorsque les droits ou la valeur qui servent de base au calcul des pénalités
-ou, en l'absence d'une telle base, le montant des amendes n'excèdent pas 250 000 € et qu'en outre le montant des droits
+b) Selon le cas, au directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à
+Mayotte, au directeur régional des douanes et droits indirects ou au directeur d'un service à compétence nationale, pour les
+matières qui relèvent de sa compétence, lorsque les droits ou la valeur qui servent de base au calcul des pénalités ou, en
+l'absence d'une telle base, le montant des amendes n'excèdent pas 250 000 € et qu'en outre le montant des droits
 effectivement fraudés ne dépasse pas 100 000 € ; 
 
 c) Au ministre chargé du budget après avis du comité du contentieux fiscal, douanier et des changes, dans les autres cas. 
@@ -20966,7 +20969,7 @@ douanier et des changes n'est pas saisi.
 
 	**Modifié par**:
 
-	  - Décret n°2013-443 du 30 mai 2013 - art. 4
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cite**:
 
@@ -20976,7 +20979,8 @@ douanier et des changes n'est pas saisi.
 ###### Article R*247-5 B
 
 En matière d'amendes prévues à l'article 467 du code des douanes, la décision sur les demandes tendant à obtenir une remise,
-modération ou transaction, relève de la compétence selon le cas, du directeur régional des douanes et droits indirects ou du
+modération ou transaction, relève de la compétence selon le cas, du directeur interrégional des douanes et droits indirects
+ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, du directeur régional des douanes et droits indirects, ou du
 directeur d'un service à compétence nationale.
 
 **Liens relatifs à cet article**
@@ -20987,7 +20991,7 @@ directeur d'un service à compétence nationale.
 
 	**Modifié par**:
 
-	  - Décret n°2013-443 du 30 mai 2013 - art. 5
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cite**:
 
@@ -20999,24 +21003,25 @@ directeur d'un service à compétence nationale.
 En matière d'amendes prévues à l'article 1788 A du code général des impôts prononcées par les agents des douanes et droits
 indirects, la décision sur les demandes tendant à obtenir une remise, modération ou transaction appartient : 
 
-a) Au directeur régional des douanes et droits indirects, lorsque le montant des amendes n'excède pas 150 000 € ; 
+a) Au directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au
+directeur régional des douanes et droits indirects, lorsque le montant des amendes n'excède pas 150 000 € ; 
 
 b) Au ministre de l'économie, des finances et de l'industrie, après avis du comité du contentieux fiscal, douanier et des
 changes, dans les autres cas.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 18 () JORF 8 décembre 2005
-
 	**Codifié par**:
 
-	  - Décret n°2006-357 2006-03-24
+	  - Décret n°2006-357 du 24 mars 2006
+
+	**Modifié par**:
+
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1788 A (V)
+	  - Code général des impôts, CGI. - art. 1788 A
 
 	**Cité par**:
 
@@ -21175,9 +21180,10 @@ En matière d'impôts locaux, les demandes gracieuses sont soumises à l'avis du
 
 ###### Article R247-7
 
-La décision du directeur départemental des finances publiques, du directeur régional des douanes et droits indirects ou du
-directeur chargé d'une direction spécialisée des finances publiques ou d'un service à compétence nationale, selon le cas,
-peut être soumise au ministre chargé du budget. 
+La décision du directeur départemental des finances publiques, du directeur interrégional des douanes et droits indirects ou,
+en Guadeloupe, en Guyane, à La Réunion et à Mayotte, du directeur régional des douanes et droits indirects, ou du directeur
+chargé d'une direction spécialisée des finances publiques ou d'un service à compétence nationale, selon le cas, peut être
+soumise au ministre chargé du budget. 
 
 La décision du ministre chargé du budget peut faire l'objet de recours devant la même autorité, mais seulement si des faits
 nouveaux sont invoqués.
@@ -21186,7 +21192,7 @@ nouveaux sont invoqués.
 
 	**Modifié par**:
 
-	  - Décret n°2013-443 du 30 mai 2013 - art. 6
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cité par**:
 
@@ -21832,8 +21838,9 @@ service compétent est :
 a) Le directeur départemental des finances publiques ou le responsable du service à compétence nationale si le recouvrement
 incombe à un comptable de la direction générale des finances publiques ; 
 
-b) Le directeur régional des douanes et droits indirects si le recouvrement incombe à un comptable de la direction générale
-des douanes et droits indirects.
+b) Le directeur interrégional des douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, le
+directeur régional des douanes et droits indirects, si le recouvrement incombe à un comptable de la direction générale des
+douanes et droits indirects.
 
 **Liens relatifs à cet article**
 
@@ -21845,7 +21852,7 @@ des douanes et droits indirects.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1302 du 14 octobre 2011 - art. 11
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cite**:
 
@@ -21855,8 +21862,9 @@ des douanes et droits indirects.
 ###### Article R*281-3-1
 
 La demande prévue à l'article R. * 281-1 doit, sous peine d'irrecevabilité, être présentée, selon le cas, au directeur
-départemental des finances publiques, au responsable du service à compétence nationale ou au directeur régional des douanes
-et droits indirects dans un délai de deux mois à partir de la notification : 
+départemental des finances publiques, au responsable du service à compétence nationale ou au directeur interrégional des
+douanes et droits indirects ou, en Guadeloupe, en Guyane, à La Réunion et à Mayotte, au directeur régional des douanes et
+droits indirects dans un délai de deux mois à partir de la notification : 
 
 a) De l'acte de poursuite dont la régularité en la forme est contestée ; 
 
@@ -21866,9 +21874,9 @@ c) Du premier acte de poursuite permettant d'invoquer tout autre motif.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1302 du 14 octobre 2011 - art. 12
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cité par**:
 
@@ -21876,7 +21884,7 @@ c) Du premier acte de poursuite permettant d'invoquer tout autre motif.
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. R*281-1 (V)
+	  - Livre des procédures fiscales - art. R*281-1
 
 
 ###### Article R*281-4
@@ -21975,10 +21983,11 @@ sursis à statuer du tribunal administratif.
 ###### Article R*283-1
 
 La demande en revendication d'objets saisis prévue par l'article L 283 est adressée, suivant le cas, au directeur
-départemental des finances publiques ou au responsable du service à compétence nationale, ou au directeur régional des
-douanes et droits indirects de la région dans laquelle a été pratiquée la saisie. Elle doit, sous peine d'irrecevabilité,
-être présentée dans un délai de deux mois à partir de la date à laquelle la personne qui revendique les objets a eu
-connaissance de la saisie.
+départemental des finances publiques ou au responsable du service à compétence nationale, ou au directeur interrégional des
+douanes et droits indirects de la région dans laquelle a été pratiquée la saisie ou, en Guadeloupe, en Guyane, à La Réunion
+et à Mayotte, au directeur régional des douanes et droits indirects. Elle doit, sous peine d'irrecevabilité, être présentée
+dans un délai de deux mois à partir de la date à laquelle la personne qui revendique les objets a eu connaissance de la
+saisie.
 
 La demande reçoit une suite dans les conditions prévues aux articles R 281-4 et R 281-5. 
 
@@ -21989,7 +21998,7 @@ propriété est discutée.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1302 du 14 octobre 2011 - art. 13
+	  - Décret n°2016-935 du 7 juillet 2016 - art. 10
 
 	**Cité par**:
 
