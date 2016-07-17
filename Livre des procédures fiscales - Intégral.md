@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-07-10
+Version Consolidée au 2016-07-18
 
 # Partie législative
 
@@ -18658,6 +18658,31 @@ publiques détermine la nature du support et le format des données transmises p
 	  - Livre des procédures fiscales - art. L135 ZB
 	  - Code rural - art. L236-2
 	  - Code rural - art. L251-17-1
+
+
+###### Article R135 ZC-1
+
+Le préfet de police, le directeur général de la police nationale, le directeur général de la gendarmerie nationale, le
+directeur général de la sécurité intérieure et le directeur général des douanes et droits indirects délivrent les
+habilitations mentionnées à l'article L. 135 ZC aux agents, relevant de leurs services, individuellement désignés pour
+accéder aux fichiers contenant les informations mentionnées aux articles 1649 A et 1649 ter du code général des impôts. 
+
+Ces habilitations sont personnelles. 
+
+Le préfet de police, le directeur général de la police nationale et le directeur général de la sécurité intérieure ne peuvent
+déléguer l'exercice de cette compétence qu'aux directeurs des services actifs de la police nationale placés sous leur
+autorité. Le directeur général de la gendarmerie nationale ne peut la déléguer qu'au directeur des opérations et de l'emploi
+ou au sous-directeur de la police judiciaire. Le directeur général des douanes et droits indirects ne peut la déléguer qu'au
+magistrat délégué aux missions judiciaires de la douane. 
+
+Le directeur général des finances publiques est informé de l'identité et de la fonction des personnes habilitées et de toute
+modification relative à ces habilitations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-971 du 15 juillet 2016 - art. 1
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions
