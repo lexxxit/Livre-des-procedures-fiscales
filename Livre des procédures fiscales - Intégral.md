@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-10-10
+Version Consolidée au 2016-12-11
 
 # Partie législative
 
@@ -5376,45 +5376,21 @@ l'économie numérique.
 
 ###### Article L83 A
 
-Les agents de la direction générale des finances publiques et de la direction générale des douanes et droits indirects
-peuvent se communiquer spontanément tous les renseignements et documents recueillis dans le cadre de leurs missions
-respectives.
+Les agents de la direction générale des finances publiques, les agents de la direction générale des douanes et droits
+indirects et les agents de la concurrence, de la consommation et de la répression des fraudes peuvent se communiquer
+spontanément ou sur demande tous documents et renseignements détenus ou recueillis dans le cadre de l'ensemble de leurs
+missions respectives.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 25 février 2010 - art. 6 (V)
-	  - Code de la sécurité sociale. - art. L114-20 (M)
+	  - Code de la sécurité sociale. - art. L114-20 (V)
 
 	**Modifié par**:
-
-	  - Ordonnance n°2010-420  du 27 avril 2010 - art. 83
-
-
-###### Article L83 B
-
-Les                 agents de la concurrence, de la consommation et de la répression des fraudes et de la direction générale
-des douanes et droits indirects peuvent se communiquer spontanément tous les renseignements et documents recueillis dans le
-cadre de leurs missions respectives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2006-357 du 24 mars 2006
-
-	**Modifié par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 94
-
-	**Abrogé par**:
 
 	  - Loi n°2016-1691 du 9 décembre 2016 - art. 160
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. L114-20 (M)
 
 
 ###### Article L83 C
@@ -8705,6 +8681,26 @@ Modifications effectuées en conséquence des articles  L. 3113-1 et L. 3211-1 d
 
 	  - Code des transports - art. L3113-1
 	  - Code des transports - art. L3211-1
+
+
+###### Article L135 ZG
+
+Pour les besoins de l'accomplissement de leurs missions, les agents de la Haute Autorité pour la transparence de la vie
+publique, individuellement désignés par son président et dûment habilités selon des modalités fixées par décret, disposent
+d'un droit d'accès aux fichiers contenant les informations mentionnées à l'article L. 107 B du présent livre et les
+informations mentionnées aux articles 1649 A et 1649 ter du code général des impôts, ainsi qu'au traitement automatisé
+d'informations nominatives dénommé "Base nationale des données patrimoniales".
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+	  - Livre des procédures fiscales - art. R135 ZG-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 32
 
 
 ##### III : Dérogations au profit de diverses commissions
