@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2016-12-24
 
 # Partie législative
 
@@ -18766,6 +18766,55 @@ concernée contenus dans la demande avec ceux détenus par l'administration à l
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L152
+
+
+###### Article R*154-1
+
+Les demandes d'informations nominatives, dont la communication est demandée à l'administration fiscale en application de
+l'article L. 154, sont transmises dans les conditions prévues aux 1 et 2 du II et au III de l'article R. * 152-1. 
+
+Les informations nominatives communiquées par l'administration fiscale sont limitées aux éléments suivants de la situation
+fiscale des personnes concernées nécessaires à l'accomplissement par l'Agence nationale pour la garantie des droits des
+mineurs de sa mission : 
+
+1° La situation du foyer ; 
+
+2° Le nombre de parts ; 
+
+3° Le nombre de personnes à charge du foyer fiscal ; 
+
+4° Le montant des pensions alimentaires versées pour les enfants ; 
+
+5° L'adresse ; 
+
+6° Les traitements, salaires, pensions et rentes ; 
+
+7° Le revenu fiscal de référence ; 
+
+8° Les revenus fonciers ; 
+
+9° Les revenus des valeurs et capitaux mobiliers ; 
+
+10° Le montant des dépenses d'accueil dans un établissement pour personnes dépendantes ; 
+
+11° Un indicateur d'imposition à la contribution sociale généralisée au regard des seuils mentionnés au 1° et au 2° du III de
+l'article L. 136-8 du code de la sécurité sociale. 
+
+Les informations transmises ne peuvent pas être utilisées à d'autres fins que le service des prestations de l'Agence
+nationale pour la garantie des droits des mineurs et, le cas échéant, le recouvrement des prestations indûment versées. Elles
+ne peuvent être ni communiquées ni cédées sous forme nominative.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1806 du 21 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L154
+	  - Livre des procédures fiscales - art. R*152-1 (V)
+	  - Code de la sécurité sociale. - art. L136-8
 
 
 ###### Article R152-2
