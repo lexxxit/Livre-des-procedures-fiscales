@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2016-12-25
 
 # Partie législative
 
@@ -9391,8 +9391,9 @@ Le notaire joint à sa demande le mandat l'autorisant à agir au nom du bénéfi
 Les agents des administrations fiscales communiquent aux organismes et services chargés de la gestion d'un régime obligatoire
 de sécurité sociale, de l'attribution de la protection complémentaire en matière de santé visée à l'article L. 861-1 du code
 de la sécurité sociale, aux services chargés de la gestion et du paiement des pensions aux fonctionnaires de l'Etat et
-assimilés, aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale ainsi qu'à
-l'institution mentionnée à l'article L. 5312-1 du code du travail les informations nominatives nécessaires : 
+assimilés, aux institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale, au service
+mentionné au deuxième alinéa de l'article L. 815-7 du même code ainsi qu'à l'institution mentionnée à l'article L. 5312-1 du
+code du travail les informations nominatives nécessaires : 
 
 1° à l'appréciation des conditions d'ouverture et de maintien des droits aux prestations ; 
 
@@ -9453,7 +9454,7 @@ spéciaux, au régime agricole de sécurité sociale ou à l'assurance chômage.
 
 	**Modifié par**:
 
-	  - Loi n°2012-354 du 14 mars 2012 - art. 18
+	  - Loi n°2016-1827 du 23 décembre 2016 - art. 106
 
 	**Cite**:
 
