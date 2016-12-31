@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2016-12-25
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -188,21 +188,49 @@ application des dispositions relatives à l'assistance administrative par les au
 	  - Livre des procédures fiscales - art. L38
 
 
-###### Article L11
+###### Article L10-0 AB
 
-A moins qu'un délai plus long ne soit prévu par le présent livre, le délai accordé aux contribuables pour répondre aux
-demandes de renseignements, de justifications ou d'éclaircissements et, d'une manière générale, à toute notification émanant
-d'un agent de l'administration des impôts est fixé à trente jours à compter de la réception de cette notification.
+Pour rechercher les manquements aux règles fixées à l'article 4 B, au 2  bis de l'article 39, aux articles 57,123 bis, 155 A,
+209,209 B ou 238 A  du code général des impôts, les agents de la direction générale des  finances publiques des catégories A
+et B peuvent entendre toute  personne, à l'exception du contribuable concerné, susceptible de leur  fournir des informations
+utiles à l'accomplissement de leur mission. 
+
+La demande d'audition doit être reçue par la personne ou lui être  remise au moins huit jours avant la date de l'audition
+proposée. Elle  précise, dans les limites de l'article L. 103 du présent livre, l'objet  de l'audition. Elle indique
+également la possibilité pour la personne de  refuser d'être entendue et de demander le concours d'un interprète. 
+
+L'audition a lieu dans les locaux de l'administration ou, à la demande  de la personne auditionnée, dans d'autres locaux, à
+l'exclusion des  locaux à usage d'habitation et des parties des locaux à usage  professionnel affectés au domicile privé. 
+
+Chaque  audition fait l'objet d'un procès-verbal qui comporte l'identité et  l'adresse de la personne entendue, les questions
+posées et les réponses  apportées. Il est signé par l'agent ayant procédé à l'audition et  contresigné par la personne
+auditionnée. Le cas échéant, mention est  faite de son refus de signer. 
+
+Les informations  ainsi recueillies sont communiquées, s'il y a lieu, au contribuable  concerné dans les conditions prévues à
+l'article L. 76 B .
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°70-576 du 3 juillet 1970 - art. 13, v. init.
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 19
+
+
+###### Article L11
+
+A moins qu'un délai ne soit prévu par le présent livre, le délai accordé aux contribuables pour répondre aux demandes de
+renseignements, de justifications ou d'éclaircissements et, d'une manière générale, à toute notification émanant d'un agent
+de l'administration des impôts est fixé à trente jours à compter de la réception de cette notification.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°81-859 1981-09-15
+	  - Décret n°81-859 du 15 septembre 1981
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 	**Cité par**:
 
@@ -492,10 +520,10 @@ Le III de l'article L. 13 AA s'applique à cette documentation complémentaire.
 
 ###### Article L13 B
 
-Lorsque, au cours d'une vérification de comptabilité, l'administration a réuni des éléments faisant présumer qu'une
-entreprise, autre que celles mentionnées au I de l'article L. 13 AA, a opéré un transfert indirect de bénéfices, au sens des
-dispositions de l'article 57 du code général des impôts, elle peut demander à cette entreprise des informations et documents
-précisant : 
+Lorsque, au cours d'une vérification de comptabilité ou d'un examen de comptabilité, l'administration a réuni des éléments
+faisant présumer qu'une entreprise, autre que celles mentionnées au I de l'article L. 13 AA, a opéré un transfert indirect de
+bénéfices, au sens des dispositions de l'article 57 du code général des impôts, elle peut demander à cette entreprise des
+informations et documents précisant : 
 
 1° La nature des relations entrant dans les prévisions de l'article 57 du code général des impôts, entre cette entreprise et
 une ou plusieurs entreprises exploitées hors de France ou sociétés ou groupements établis hors de France ; 
@@ -522,16 +550,7 @@ rappeler les sanctions applicables en cas de défaut de réponse (1).
 
 (1) Ces dispositions s'appliquent aux contrôles engagés à compter de la date d'entrée en vigueur de la loi 96-314.
 
-**Nota:**
-
-LOI n° 2009-1674 du 30 décembre 2009 de finances rectificative pour 2009 art 22 VII 1 : les présentes dispositions sont
-applicables aux exercices ouverts à compter du 1er janvier 2010.
-
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 22 (V)
 
 	**Cité par**:
 
@@ -541,9 +560,13 @@ applicables aux exercices ouverts à compter du 1er janvier 2010.
 	  - Code général des impôts, CGI. - art. 57 (V)
 	  - Livre des procédures fiscales - art. L80 B (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
+
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L13 AA (V)
+	  - Livre des procédures fiscales - art. L13 AA
 
 
 ###### Article L13-0 A
@@ -688,14 +711,21 @@ du 3 de l'article 283 du même code.
 ###### Article L13 F
 
 Les agents de l'administration peuvent, sans que le contribuable puisse s'y opposer, prendre copie des documents dont ils ont
-connaissance dans le cadre des procédures de contrôle prévues aux articles L. 12 et L. 13. Les modalités de sécurisation des
-copies de documents sous forme dématérialisée sont précisées par arrêté du ministre chargé du budget.
+connaissance dans le cadre des procédures de contrôle prévues aux articles L. 12 et L. 13 et de la procédure d'instruction
+sur place prévue à l'article L. 198 A. Les modalités de sécurisation des copies de documents sous forme dématérialisée sont
+précisées par arrêté du ministre chargé du budget.
+
+**Nota:**
+
+Conformément au A du II de l'article 17 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du présent article, dans
+leur rédaction issue du I du même article de la même loi, s'appliquent aux demandes de remboursement de crédits de taxe sur
+la valeur ajoutée déposées à compter du 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 44
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 17 (V)
 
 	**Cité par**:
 
@@ -704,7 +734,20 @@ copies de documents sous forme dématérialisée sont précisées par arrêté d
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L12
-	  - Livre des procédures fiscales - art. L13 (V)
+	  - Livre des procédures fiscales - art. L13
+
+
+###### Article L13 G
+
+Dans les conditions prévues au présent livre, les agents de  l'administration peuvent, lorsque des contribuables astreints à
+tenir et  à présenter des documents comptables tiennent leur comptabilité au  moyen de systèmes informatisés, examiner cette
+comptabilité sans se  rendre sur place.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 
 ##### 3° : Dispositions relatives aux institutions et organismes qui n'ont pas la qualité de commerçant
@@ -856,7 +899,7 @@ les compléments de réponse qu'elle souhaite.
 
 ###### Article L16 B
 
-I.-Lorsque l'autorité judiciaire, saisie par l'administration fiscale, estime qu'il existe des présomptions qu'un
+I. - Lorsque l'autorité judiciaire, saisie par l'administration fiscale, estime qu'il existe des présomptions qu'un
 contribuable se soustrait à l'établissement ou au paiement des impôts sur le revenu ou sur les bénéfices ou des taxes sur le
 chiffre d'affaires en se livrant à des achats ou à des ventes sans facture, en utilisant ou en délivrant des factures ou des
 documents ne se rapportant pas à des opérations réelles ou en omettant sciemment de passer ou de faire passer des écritures
@@ -867,8 +910,12 @@ finances publiques, à rechercher la preuve de ces agissements, en effectuant de
 pièces et documents s'y rapportant sont susceptibles d'être détenus ou d'être accessibles ou disponibles et procéder à leur
 saisie, quel qu'en soit le support. 
 
-II.-Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande
-instance dans le ressort duquel sont situés les lieux à visiter. 
+II. - Chaque visite doit être autorisée par une ordonnance du juge des libertés et de la détention du tribunal de grande
+instance dans le ressort duquel sont situés les lieux à visiter.
+
+Lorsque ces lieux sont situés dans le ressort de plusieurs juridictions  et qu'une visite simultanée doit être menée dans
+chacun d'eux, une  ordonnance unique peut être délivrée par l'un des juges des libertés et  de la détention territorialement
+compétents. 
 
 Le juge doit vérifier de manière concrète que la demande d'autorisation qui lui est soumise est bien fondée ; cette demande
 doit comporter tous les éléments d'information en possession de l'administration de nature à justifier la visite. 
@@ -890,20 +937,30 @@ d) La mention de la faculté pour le contribuable de faire appel à un conseil d
 L'exercice de cette faculté n'entraîne pas la suspension des opérations de visite et de saisie. 
 
 Le juge motive sa décision par l'indication des éléments de fait et de droit qu'il retient et qui laissent présumer, en
-l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée. 
+l'espèce, l'existence des agissements frauduleux dont la preuve est recherchée.
 
 Si, à l'occasion de la visite, les agents habilités découvrent l'existence d'un coffre dans un établissement de crédit ou une
 société de financement dont la personne occupant les lieux visités est titulaire et où des pièces et documents se rapportant
 aux agissements visés au I sont susceptibles de se trouver, ils peuvent, sur autorisation délivrée par tout moyen par le juge
 qui a pris l'ordonnance, procéder immédiatement à la visite de ce coffre. Mention de cette autorisation est portée au procès-
-verbal prévu au IV. 
+verbal prévu au IV.
+
+Si, à l'occasion de la visite, les agents habilités découvrent des  éléments révélant l'existence en d'autres lieux de pièces
+et documents  se rapportant aux agissements mentionnés au I, ils peuvent, en cas  d'urgence, sur autorisation délivrée par
+tout moyen par le juge qui a  pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux  fins de saisie de ces
+pièces et documents. Mention de cette autorisation  est portée au procès-verbal prévu au IV. 
 
 La visite et la saisie de documents s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. A cette fin, il
 donne toutes instructions aux agents qui participent à ces opérations. 
 
-Il désigne un officier de police judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement. 
+Il désigne le chef du service qui nomme l'officier de police judiciaire chargé d'assister à ces opérations et de le tenir
+informé de leur déroulement.
 
-Il peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention. 
+Lorsqu'elles ont lieu en dehors du ressort de son tribunal de grande  instance, il délivre une commission rogatoire, pour
+exercer le contrôle  mentionné au treizième alinéa du présent II, au juge des libertés et de  la détention dans le ressort
+duquel s'effectue la visite. 
+
+Le juge peut, s'il l'estime utile, se rendre dans les locaux pendant l'intervention. 
 
 A tout moment, il peut décider la suspension ou l'arrêt de la visite. 
 
@@ -918,8 +975,8 @@ A défaut de réception, il est procédé à la signification de l'ordonnance pa
 
 Le délai et la voie de recours sont mentionnés dans l'ordonnance. 
 
-L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
-constituer avocat. 
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel dans le ressort de laquelle le juge
+a autorisé la mesure. Les parties ne sont pas tenues de constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, cet appel doit être exclusivement formé par déclaration remise ou
 adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai de
@@ -932,7 +989,7 @@ parties peuvent le consulter.
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation, selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
-III.-La visite, qui ne peut être commencée avant six heures ni après vingt et une heures, est effectuée en présence de
+III. - La visite, qui ne peut être commencée avant six heures ni après vingt et une heures, est effectuée en présence de
 l'occupant des lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins
 choisis en dehors des personnes relevant de son autorité ou de celle de l'administration des impôts. 
 
@@ -957,7 +1014,7 @@ de justifier de leur identité et de leur adresse.
 
 Mention des consentements est portée au compte rendu ainsi que, le cas échéant, du refus de signer. 
 
-IV.-Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
+IV. - Un procès-verbal relatant les modalités et le déroulement de l'opération et consignant les constatations effectuées est
 dressé sur-le-champ par les agents de l'administration des impôts. Un inventaire des pièces et documents saisis lui est
 annexé s'il y a lieu. Le procès-verbal et l'inventaire sont signés par les agents de l'administration des impôts et par
 l'officier de police judiciaire ainsi que par les personnes mentionnées au premier alinéa du III ; en cas de refus de signer,
@@ -967,7 +1024,7 @@ Si l'inventaire sur place présente des difficultés, les pièces et documents s
 lieux ou son représentant est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de
 police judiciaire ; l'inventaire est alors établi. 
 
-IV bis.-Lorsque l'occupant des lieux ou son représentant fait obstacle à l'accès aux pièces ou documents présents sur un
+IV bis. - Lorsque l'occupant des lieux ou son représentant fait obstacle à l'accès aux pièces ou documents présents sur un
 support informatique, à leur lecture ou à leur saisie, mention en est portée au procès-verbal. 
 
 Les agents de l'administration des impôts peuvent alors procéder à la copie de ce support et saisir ce dernier, qui est placé
@@ -993,7 +1050,7 @@ est faite au procès-verbal.
 Il est procédé concomitamment à la restitution du support informatique et de sa copie. En l'absence de l'occupant des lieux
 ou de son représentant, l'administration accomplit alors sans délai toutes diligences pour les restituer. 
 
-V.-Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la
+V. - Les originaux du procès-verbal et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a autorisé la
 visite ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant. Une copie est également
 adressée par lettre recommandée avec demande d'avis de réception à l'auteur présumé des agissements mentionnés au I,
 nonobstant les dispositions de l'article L. 103. 
@@ -1003,8 +1060,8 @@ poursuites pénales sont engagées, leur restitution est autorisée par l'autori
 
 Le procès-verbal et l'inventaire mentionnent le délai et la voie de recours. 
 
-Le premier président de la cour d'appel connaît des recours contre le déroulement des opérations de visite ou de saisie. Les
-parties ne sont pas tenues de constituer avocat. 
+Le premier président de la cour d'appel dans le ressort de laquelle le juge a autorisé la mesure connaît des recours contre
+le déroulement des opérations de visite ou de saisie. Les parties ne sont pas tenues de constituer avocat. 
 
 Suivant les règles prévues par le code de procédure civile, ce recours doit être exclusivement formé par déclaration remise
 ou adressée, par pli recommandé ou, à compter du 1er janvier 2009, par voie électronique, au greffe de la cour dans un délai
@@ -1014,9 +1071,9 @@ mentionnés au premier alinéa. Ce recours n'est pas suspensif.
 L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles prévues par
 le code de procédure civile. Le délai du pourvoi en cassation est de quinze jours. 
 
-VI.-L'administration des impôts ne peut opposer au contribuable les informations recueillies, y compris celles qui procèdent
-des traitements mentionnés au troisième alinéa, qu'après restitution des pièces et documents saisis ou de leur reproduction
-et mise en oeuvre des procédures de contrôle visées aux premier et deuxième alinéas de l'article L. 47. 
+VI. - L'administration des impôts ne peut opposer au contribuable les informations recueillies, y compris celles qui
+procèdent des traitements mentionnés au troisième alinéa, qu'après restitution des pièces et documents saisis ou de leur
+reproduction et mise en oeuvre des procédures de contrôle visées aux premier et deuxième alinéas de l'article L. 47. 
 
 Toutefois, si, à l'expiration d'un délai de trente jours suivant la notification d'une mise en demeure adressée au
 contribuable, à laquelle est annexé un récapitulatif des diligences accomplies par l'administration pour la restitution des
@@ -1049,7 +1106,7 @@ opérations sont réalisées.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 10
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 18
 
 	**Cite**:
 
@@ -2587,9 +2644,9 @@ pour l'exercice de leurs fonctions, toutes les fois qu'elles en sont requises.
 
 ###### Article L47
 
-Un examen contradictoire de la situation fiscale personnelle d'une personne physique au regard de l'impôt sur le revenu ou
-une vérification de comptabilité ne peut être engagée sans que le contribuable en ait été informé par l'envoi ou la remise
-d'un avis de vérification.
+Un examen contradictoire de la situation fiscale personnelle d'une personne physique au regard de l'impôt sur le revenu, une
+vérification de comptabilité ou un examen de comptabilité ne peut être engagé sans que le contribuable en ait été informé par
+l'envoi ou la remise d'un avis de vérification ou par l'envoi d'un avis d'examen de comptabilité.
 
 Cet avis doit préciser les années soumises à vérification et mentionner expressément, sous peine de nullité de la procédure,
 que le contribuable a la faculté de se faire assister par un conseil de son choix.
@@ -2618,21 +2675,22 @@ par un conseil.
 	  - Livre des procédures fiscales - art. L16 D (V)
 	  - Livre des procédures fiscales - art. L16-0 BA (V)
 	  - Livre des procédures fiscales - art. L38 (VT)
-	  - Livre des procédures fiscales - art. L47 A (M)
+	  - Livre des procédures fiscales - art. L47 A (V)
 	  - Livre des procédures fiscales - art. L80 H (V)
 	  - Livre des procédures fiscales - art. L86 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 86 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 
 ###### Article L47 A
 
-I.-Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contribuable satisfait à l'obligation de
-représentation des documents comptables mentionnés au premier alinéa de l'article 54 du code général des impôts en remettant
-au début des opérations de contrôle, sous forme dématérialisée répondant à des normes fixées par arrêté du ministre chargé du
-budget, une copie des fichiers des écritures comptables définies aux articles 420-1 et suivants du plan comptable général. 
+I. - Lorsque la comptabilité est tenue au moyen de systèmes informatisés, le contribuable qui fait l'objet d'une vérification
+de comptabilité satisfait à l'obligation de représentation des documents comptables mentionnés au premier alinéa de l'article
+54 du code général des impôts en remettant au début des opérations de contrôle, sous forme dématérialisée répondant à des
+normes fixées par arrêté du ministre chargé du budget, une copie des fichiers des écritures comptables définies aux articles
+420-1 et suivants du plan comptable général. 
 
 Le premier alinéa du présent article s'applique également aux fichiers des écritures comptables de tout contribuable soumis
 par le code général des impôts à l'obligation de tenir et de présenter des documents comptables autres que ceux mentionnés au
@@ -2642,27 +2700,35 @@ L'administration peut effectuer des tris, classements ainsi que tous calculs aux
 copie des enregistrements comptables et les déclarations fiscales du contribuable. L'administration détruit, avant la mise en
 recouvrement, les copies des fichiers transmis. 
 
-II.-En présence d'une comptabilité tenue au moyen de systèmes informatisés et lorsqu'ils envisagent des traitements
+II. - En présence d'une comptabilité tenue au moyen de systèmes informatisés et lorsqu'ils envisagent des traitements
 informatiques, les agents de l'administration fiscale indiquent par écrit au contribuable la nature des investigations
 souhaitées. Le contribuable formalise par écrit son choix parmi l'une des options suivantes : 
 
 a) Les agents de l'administration peuvent effectuer la vérification sur le matériel utilisé par le contribuable ; 
 
 b) Celui-ci peut effectuer lui-même tout ou partie des traitements informatiques nécessaires à la vérification. Dans ce cas,
-l'administration précise par écrit au contribuable, ou à un mandataire désigné à cet effet, les travaux à réaliser ainsi que
-le délai accordé pour les effectuer. Les résultats des traitements sont alors remis sous forme dématérialisée répondant à des
-normes fixées par arrêté du ministre chargé du budget ; 
+après, le cas échéant, la remise des copies prévue au second alinéa du présent b, l'administration précise par écrit au
+contribuable, ou à un mandataire désigné à cet effet, les travaux à réaliser ainsi que le délai accordé pour les effectuer.
+Les résultats des traitements sont alors remis sous forme dématérialisée répondant à des normes fixées par arrêté du ministre
+chargé du budget ;
+
+Toutefois, à la demande de l'administration, le contribuable met à sa  disposition, dans les quinze jours suivant cette
+demande, les copies des  documents, données et traitements soumis à contrôle. Ces copies sont  produites sur tous supports
+informatiques répondant à des normes fixées  par arrêté du ministre chargé du budget. L'administration peut effectuer  sur
+ces copies tout ou partie des traitements informatiques nécessaires  à la vérification. Dans ce cas, l'administration
+communique au  contribuable, sous forme dématérialisée ou non, au choix du  contribuable, le résultat des traitements
+informatiques qui donnent lieu  à des rehaussements au plus tard lors de l'envoi de la proposition de  rectification
+mentionnée à l'article L. 57 ; 
 
 c) Le contribuable peut également demander que le contrôle ne soit pas effectué sur le matériel de l'entreprise. Il met alors
-à la disposition de l'administration les copies des documents, données et traitements soumis à contrôle. Ces copies sont
-produites sur tous supports informatiques, répondant à des normes fixées par arrêté du ministre chargé du budget.
-L'administration restitue au contribuable avant la mise en recouvrement les copies des fichiers et n'en conserve pas de
-double. L'administration communique au contribuable, sous forme dématérialisée ou non au choix du contribuable, le résultat
-des traitements informatiques qui donnent lieu à des rehaussements au plus tard lors de l'envoi de la proposition de
-rectification mentionnée à l'article L. 57. 
+à la disposition de l'administration, dans les quinze jours suivant la formalisation par écrit de son choix,  les copies des
+documents, données et traitements soumis à contrôle. Ces copies sont produites sur tous supports informatiques, répondant à
+des normes fixées par arrêté du ministre chargé du budget. L'administration communique au contribuable, sous forme
+dématérialisée ou non au choix du contribuable, le résultat des traitements informatiques qui donnent lieu à des
+rehaussements au plus tard lors de l'envoi de la proposition de rectification mentionnée à l'article L. 57. 
 
 Le contribuable est informé des noms et adresses administratives des agents par qui ou sous le contrôle desquels les
-opérations sont réalisées. 
+opérations sont réalisées. L'administration détruit, avant la mise en recouvrement, les copies des fichiers transmis. 
 
 III. ― a. ― Dans le cadre du contrôle inopiné mentionné au dernier alinéa de l'article L. 47, lorsque la comptabilité est
 tenue au moyen de systèmes informatisés, les agents de l'administration peuvent réaliser deux copies des fichiers relatifs
@@ -2688,12 +2754,18 @@ traitements informatiques qui donnent lieu à des rehaussements au plus tard lor
 rectification mentionnée à l'article L. 57. L'administration détruit, avant la mise en recouvrement, la copie des fichiers
 mentionnée au a.
 
+**Nota:**
+
+Conformément au III de l'article 14 de la loi n° 2016-1918 du 29  décembre 2016, les dispositions du présent article, dans
+leur rédation issue du 5° du II du même article de la même loi, s'appliquent aux  contrôles dont les avis de vérification
+sont adressés à compter du 1er  janvier 2017.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Arrêté du 28 décembre 2007 (V)
-	  - Code général des impôts, CGI. - art. 1729 D (M)
+	  - Code général des impôts, CGI. - art. 1729 D (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 E (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Q (VD)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 371 Z sexies (V)
@@ -2709,13 +2781,46 @@ mentionnée au a.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 86 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 54
 	  - Livre des procédures fiscales - art. L13
-	  - Livre des procédures fiscales - art. L47
+	  - Livre des procédures fiscales - art. L47 (V)
+
+
+###### Article L47 AA
+
+1. Dans un délai de quinze jours à compter de la réception d'un avis  d'examen de comptabilité, le contribuable adresse à
+l'administration,  sous forme dématérialisée répondant aux normes fixées par arrêté du  ministre chargé du budget, une copie
+des fichiers des écritures  comptables. 
+
+2. Si le contribuable ne respecte pas  les obligations prévues au 1, l'administration peut l'informer que la  procédure
+prévue à l'article L. 13 G est annulée. 
+
+3. L'administration peut effectuer des tris, classements ainsi que tous  calculs aux fins de s'assurer de la concordance
+entre la copie des  fichiers des écritures comptables et les déclarations fiscales du  contribuable. Elle peut effectuer des
+traitements informatiques sur les  fichiers transmis par le contribuable autres que les fichiers des  écritures comptables. 
+
+4. Au plus tard six mois  après la réception de la copie des fichiers des écritures comptables  selon les modalités prévues
+au 1, l'administration envoie au  contribuable une proposition de rectification ou l'informe de l'absence  de rectification. 
+
+5. Au plus tard lors de l'envoi  de la proposition de rectification, l'administration informe le  contribuable de la nature
+et du résultat des traitements informatiques  qui donnent lieu à des rehaussements. 
+
+6. Avant la  mise en recouvrement ou avant d'informer le contribuable de l'absence  de rectification, l'administration
+détruit les copies des fichiers  transmis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
+
+	**Cité par**:
+
+	  - Livre des procédures fiscales - art. A47 AA-1 (V)
 
 
 ###### Article L47 B
@@ -2725,27 +2830,18 @@ sur des comptes financiers utilisés à la fois à titre privé et professionnel
 éclaircissements ou justifications sur ces opérations sans que cet examen et ces demandes constituent le début d'une
 procédure de vérification de comptabilité.
 
-Au cours d'une procédure de vérification de comptabilité, l'administration peut procéder aux mêmes examen et demandes, sans
-que ceux-ci constituent le début d'une procédure d'examen de situation fiscale personnelle.
+Au cours d'une procédure de vérification de comptabilité ou d'un examen de comptabilité, l'administration peut procéder aux
+mêmes examen et demandes, sans que ceux-ci constituent le début d'une procédure d'examen de situation fiscale personnelle.
 
 L'administration peut tenir compte, dans chacune de ces procédures, des constatations résultant de l'examen des comptes ou
 des réponses aux demandes d'éclaircissements ou de justifications, et faites dans le cadre de l'autre procédure conformément
-aux seules règles applicables à cette dernière (1).
-
-**Nota:**
-
-(1) Ces dispositions s'appliquent pour le règlement des litiges nés à compter de la date d'entrée en vigueur de la loi n°
-92-1476 du 31 décembre 1992 publiée au JO des 4 et 5 janvier 1993.
+aux seules règles applicables à cette dernière.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 18 août 1993
-
-	**Créé par**:
-
-	  - Loi - art. 86 (V) JORF 5 janvier 1993
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 
 ###### Article L47 C
@@ -2775,13 +2871,14 @@ d'engager une vérification de comptabilité pour régulariser la situation fisc
 
 ###### Article L48
 
-A l'issue d'un examen contradictoire de la situation fiscale personnelle au regard de l'impôt sur le revenu ou d'une
-vérification de comptabilité, lorsque des rectifications sont envisagées, l'administration doit indiquer, avant que le
-contribuable présente ses observations ou accepte les rehaussements proposés, dans la proposition prévue au premier alinéa de
-l'article L. 57 ou dans la notification mentionnée à l'article L. 76, le montant des droits, taxes et pénalités résultant de
-ces rectifications. Lorsqu'à un stade ultérieur de la procédure de rectification contradictoire l'administration modifie les
-rehaussements, pour tenir compte des observations et avis recueillis au cours de cette procédure, cette modification est
-portée par écrit à la connaissance du contribuable avant la mise en recouvrement, qui peut alors intervenir sans délai. 
+A l'issue d'un examen contradictoire de la situation fiscale personnelle au regard de l'impôt sur le revenu, d'une
+vérification de comptabilité ou d'un examen de comptabilité, lorsque des rectifications sont envisagées, l'administration
+doit indiquer, avant que le contribuable présente ses observations ou accepte les rehaussements proposés, dans la proposition
+prévue au premier alinéa de l'article L. 57 ou dans la notification mentionnée à l'article L. 76, le montant des droits,
+taxes et pénalités résultant de ces rectifications. Lorsqu'à un stade ultérieur de la procédure de rectification
+contradictoire l'administration modifie les rehaussements, pour tenir compte des observations et avis recueillis au cours de
+cette procédure, cette modification est portée par écrit à la connaissance du contribuable avant la mise en recouvrement, qui
+peut alors intervenir sans délai. 
 
 Pour une société membre d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis du code général des impôts,
 l'information prévue au premier alinéa porte, en ce qui concerne l'impôt sur les sociétés et les pénalités correspondantes,
@@ -2800,7 +2897,7 @@ contribuables dans les mêmes conditions.
 
 	**Modifié par**:
 
-	  - Loi n°2014-891 du 8 août 2014 - art. 20
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 	**Cite**:
 
@@ -2818,14 +2915,14 @@ contribuables dans les mêmes conditions.
 ###### Article L49
 
 Quand elle a procédé à un examen contradictoire de la situation fiscale personnelle d'une personne physique au regard de
-l'impôt sur le revenu ou à une vérification de comptabilité, l'administration des impôts doit en porter les résultats à la
-connaissance du contribuable, même en l'absence de rectification.
+l'impôt sur le revenu, à une vérification de comptabilité ou à un examen de comptabilité, l'administration des impôts doit en
+porter les résultats à la connaissance du contribuable, même en l'absence de rectification.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 
 ###### Article L50
@@ -2857,13 +2954,14 @@ Il est fait exception à cette règle dans les cas prévus aux articles L. 188 A
 
 ###### Article L51
 
-Lorsque la vérification de la comptabilité, pour une période déterminée, au regard d'un impôt ou taxe ou d'un groupe d'impôts
-ou de taxes est achevée, l'administration ne peut procéder à une nouvelle vérification de ces écritures au regard des mêmes
-impôts ou taxes et pour la même période. 
+Lorsque la vérification de comptabilité ou l'examen de comptabilité,  pour une période déterminée, au regard d'un impôt ou
+d'une taxe ou d'un  groupe d'impôts ou de taxes, est achevé, l'administration ne peut  procéder à une vérification de
+comptabilité ou à un examen de  comptabilité de ces mêmes écritures au regard des mêmes impôts ou taxes  et pour la même
+période. 
 
 Toutefois, il est fait exception à cette règle : 
 
-1° Lorsque la vérification a été limitée à des opérations déterminées ; 
+1° Lorsque la vérification ou l'examen de comptabilité a été limité  à des opérations déterminées ; 
 
 2° Dans les cas prévus à l'article L. 176 en matière de taxes sur le chiffre d'affaires ; 
 
@@ -2872,8 +2970,8 @@ Toutefois, il est fait exception à cette règle :
 4° Dans les cas où l'administration a dressé un procès-verbal de flagrance fiscale dans les conditions prévues à l'article L.
 16-0 BA, au titre d'une période postérieure ; 
 
-5° Dans les cas de vérification de la comptabilité des sociétés mères qui ont opté pour le régime prévu à l'article 223 A ou
-à l'article 223 A bis du code général des impôts ; 
+5° Dans les cas de vérification ou d'examen  de la comptabilité des sociétés mères qui ont opté pour le régime prévu à
+l'article 223 A ou à l'article 223 A bis du code général des impôts ; 
 
 6° Dans les cas prévus à l'article L. 188 A après l'intervention de la réponse de l'autorité compétente de l'autre Etat ou
 territoire ; 
@@ -2884,13 +2982,13 @@ territoire ;
 
 	**Modifié par**:
 
-	  - Loi n°2014-891 du 8 août 2014 - art. 20
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 223 A
 	  - Livre des procédures fiscales - art. L16-0 BA
-	  - Livre des procédures fiscales - art. L176
+	  - Livre des procédures fiscales - art. L176 (V)
 	  - Livre des procédures fiscales - art. L187
 	  - Livre des procédures fiscales - art. L188 A
 	  - Livre des procédures fiscales - art. L188 B
@@ -2905,8 +3003,8 @@ territoire ;
 
 ###### Article L52
 
-I.-Sous peine de nullité de l'imposition, la vérification sur place des livres ou documents comptables ne peut s'étendre sur
-une durée supérieure à trois mois en ce qui concerne : 
+I. - Sous peine de nullité de l'imposition, la vérification sur place des livres ou documents comptables ne peut s'étendre
+sur une durée supérieure à trois mois en ce qui concerne : 
 
 1° Les entreprises industrielles et commerciales ou les contribuables se livrant à une activité non commerciale dont le
 chiffre d'affaires ou le montant annuel des recettes brutes n'excède pas les limites prévues au I de l'article 302 septies A
@@ -2918,7 +3016,7 @@ prévue au b du II de l'article 69 du code général des impôts.
 Les dispositions des trois premiers alinéas sont valables dans les cas où un même vérificateur contrôle à la fois l'assiette
 de plusieurs catégories différentes d'impôts ou de taxes. 
 
-II.-Par dérogation au I, l'expiration du délai de trois mois n'est pas opposable à l'administration : 
+II. - Par dérogation au I, l'expiration du délai de trois mois n'est pas opposable à l'administration : 
 
 1° Pour l'instruction des observations ou des requêtes présentées par le contribuable, après l'achèvement des opérations de
 vérification ; 
@@ -2939,15 +3037,16 @@ dans le cas mentionné à l'article L. 188 B est en cours ;
 
 7° Si le contribuable s'est livré à une activité occulte, au sens du deuxième alinéa de l'article L. 169. 
 
-III.-En cas de mise en œuvre du I de l'article L. 47 A, le délai de trois mois prévu au I du présent article est suspendu
-jusqu'à la remise de la copie des fichiers des écritures comptables à l'administration. 
+III. - En cas de mise en œuvre du I de l'article L. 47 A, les délais de trois ou six mois prévus, respectivement, au I et au
+4° du II du présent article sont suspendus jusqu'à la remise de la copie des fichiers des écritures comptables à
+l'administration. 
 
-En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois de la durée de la vérification sur place est
-prorogée de la durée comprise entre la date du choix du contribuable pour l'une des options prévues à cet article pour la
-réalisation du traitement et, respectivement selon l'option choisie, soit celle de la mise à disposition du matériel et des
-fichiers nécessaires par l'entreprise, soit celle de la remise des résultats des traitements réalisés par l'entreprise à
-l'administration, soit celle de la remise des copies de fichiers nécessaires à la réalisation des traitements par
-l'administration. Cette dernière date fait l'objet d'une consignation par écrit.
+En cas de mise en oeuvre du II de l'article L. 47 A, la limitation à trois mois ou à six mois de la durée de la vérification
+sur place est prorogée de la durée comprise entre la date du choix du contribuable pour l'une des options prévues à cet
+article pour la réalisation du traitement et, respectivement selon l'option choisie, soit celle de la mise à disposition du
+matériel et des fichiers nécessaires par l'entreprise, soit celle de la remise des résultats des traitements réalisés par
+l'entreprise à l'administration, soit celle de la remise des copies de fichiers nécessaires à la réalisation des traitements
+par l'administration. Cette dernière date fait l'objet d'une consignation par écrit.
 
 **Nota:**
 
@@ -2957,6 +3056,10 @@ contrôles pour lesquels l'avis de vérification est adressé après le 1
 
 Conformément à la loi n° 2013-1117 du 6 décembre 2013, article 50 II A, le 7° du II du présent article s'applique aux
 contrôles dont la première intervention sur place a lieu à compter du 8 décembre 2013.
+
+Conformément au III de l'article 14 de la loi n° 2016-1918 du 29  décembre 2016, les dispositions du présent article, dans
+leur rédation  issue du 5° du II du même article de la même loi, s'appliquent aux  contrôles dont les avis de vérification
+sont adressés à compter du 1er  janvier 2017.
 
 **Liens relatifs à cet article**
 
@@ -2968,7 +3071,7 @@ contrôles dont la première intervention sur place a lieu à compter du 8 déce
 
 	**Modifié par**:
 
-	  - Loi n°2014-1654 du 29 décembre 2014 - art. 80
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 	**Cite**:
 
@@ -3243,36 +3346,31 @@ Modifications effectuées en conséquence de l'article 18 I de la loi n° 2007-1
 
 ###### Article L57 A
 
-I.-En cas de vérification de comptabilité d'une entreprise ou d'un contribuable exerçant une activité industrielle ou
-commerciale dont le chiffre d'affaires est inférieur à 1 526 000 € s'il s'agit d'entreprises dont le commerce principal est
-de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, ou
-à 460 000 € s'il s'agit d'autres entreprises ou d'un contribuable se livrant à une activité non commerciale dont le chiffre
-d'affaires ou le montant annuel des recettes brutes est inférieur à 460 000 €, l'administration répond dans un délai de
-soixante jours à compter de la réception des observations du contribuable faisant suite à la proposition de rectification
-mentionnée au premier alinéa de l'article L. 57. Le défaut de notification d'une réponse dans ce délai équivaut à une
-acceptation des observations du contribuable. 
+I. - En cas de vérification de comptabilité ou d'examen de comptabilité d'une entreprise ou d'un contribuable exerçant une
+activité industrielle ou commerciale dont le chiffre d'affaires est inférieur à 1 526 000 € s'il s'agit d'entreprises dont le
+commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de
+fournir le logement, ou à 460 000 € s'il s'agit d'autres entreprises ou d'un contribuable se livrant à une activité non
+commerciale dont le chiffre d'affaires ou le montant annuel des recettes brutes est inférieur à 460 000 €, l'administration
+répond dans un délai de soixante jours à compter de la réception des observations du contribuable faisant suite à la
+proposition de rectification mentionnée au premier alinéa de l'article L. 57. Le défaut de notification d'une réponse dans ce
+délai équivaut à une acceptation des observations du contribuable. 
 
-II.-Le délai de réponse mentionné au I ne s'applique pas : 
+II. - Le délai de réponse mentionné au I ne s'applique pas : 
 
 1° Aux personnes morales ni aux sociétés mentionnées à l'article 238 bis M du code général des impôts à l'actif desquelles
 sont inscrits des titres de placement ou de participation pour un montant total égal ou supérieur à 7 600 000 € ; 
 
 2° En cas de graves irrégularités privant de valeur probante la comptabilité.
 
-**Nota:**
-
-Loi n° 2013-1117 du 6 décembre 2013 article 51 II : Les présentes dispositions s'appliquent aux contrôles pour lesquels un
-avis de vérification a été adressé à compter du 8 décembre 2013.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 51 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 238 bis M (V)
+	  - Code général des impôts, CGI. - art. 238 bis M
 	  - Livre des procédures fiscales - art. L57
 
 
@@ -3546,14 +3644,16 @@ apportée selon les modalités prévues par le dernier alinéa de l'article 537 
 
 ###### Article L62
 
-Au cours d'une vérification de comptabilité et pour les impôts sur lesquels porte cette vérification, le contribuable peut
-régulariser les erreurs, inexactitudes, omissions ou insuffisances dans les déclarations souscrites dans les délais,
-moyennant le paiement d'un intérêt de retard égal à 70 % de l'intérêt de retard prévu à l'article 1727 du code général des
-impôts. 
+Au cours d'une vérification de comptabilité ou d'un examen de comptabilité et pour les impôts sur lesquels porte cette
+vérification ou cet examen, le contribuable peut régulariser les erreurs, inexactitudes, omissions ou insuffisances dans les
+déclarations souscrites dans les délais, moyennant le paiement d'un intérêt de retard égal à 70 % de l'intérêt de retard
+prévu à l'article 1727 du code général des impôts. 
 
 Cette procédure de régularisation spontanée ne peut être appliquée que si : 
 
-1° Le contribuable en fait la demande avant toute proposition de rectification ; 
+1° Le contribuable en fait la demande, en cas de vérification de  comptabilité, avant toute proposition de rectification et,
+en cas  d'examen de comptabilité, dans un délai de trente jours à compter de la  réception de la proposition de
+rectification ; 
 
 2° La régularisation ne concerne pas une infraction exclusive de bonne foi ; 
 
@@ -3561,21 +3661,15 @@ Cette procédure de régularisation spontanée ne peut être appliquée que si :
 suppléments de droits simples et des intérêts de retard au moment du dépôt de la déclaration, ou à la date limite de paiement
 portée sur l'avis d'imposition en cas de mise en recouvrement par voie de rôle.
 
-**Nota:**
-
-Loi 2005-1719 2005-12-30 art. 29 V Finances pour 2006 : 
-
-dispositions d'application.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 29 (V) JORF 31 décembre 2005
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 14 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1727 (V)
+	  - Code général des impôts, CGI. - art. 1727
 
 	**Cité par**:
 
@@ -6719,6 +6813,27 @@ cours de diffusion lors de l'entrée en vigueur de la présente loi.
 	  - Livre des procédures fiscales - art. L96 J
 
 
+###### Article L102 E
+
+Les organismes bénéficiaires de dons et versements qui délivrent des  documents mentionnés à l'article 1740 A du code général
+des impôts  permettant à un contribuable d'obtenir les réductions d'impôt prévues  aux articles 200,238 bis et 885-0 V bis A
+du code général des impôts  sont tenus de conserver pendant un délai de six ans à compter de la date  à laquelle ils ont été
+établis les documents et pièces de toute nature  permettant à l'administration de réaliser le contrôle prévu à l'article  L.
+14 A du présent livre.
+
+**Nota:**
+
+Conformément au C du II de l'article 17 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du présent article, dans
+leur rédaction issue du I du même article de la même loi, s'appliquent aux documents et pièces de toute nature afférents aux
+dons et versements effectués à compter du 1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 17 (V)
+
+
 #### Chapitre III : Le secret professionnel en matière fiscale
 
 ##### Section I : Portée et limites de la règle du secret professionnel
@@ -6968,9 +7083,10 @@ par voie électronique des informations visées à la phrase précédente.
 Sans préjudice des dispositions de l'article L. 135 B, toute personne physique faisant l'objet d'une procédure
 d'expropriation ou d'une procédure de contrôle portant sur la valeur d'un bien immobilier ou faisant état de la nécessité
 d'évaluer la valeur vénale d'un bien immobilier pour la détermination de l'assiette de l'impôt de solidarité sur la fortune
-ou des droits de mutation à titre gratuit peut obtenir, par voie électronique, communication des éléments d'information
-relatifs aux mutations à titre onéreux de biens immobiliers comparables intervenues dans un périmètre et pendant une période
-déterminés et qui sont utiles à la seule appréciation de la valeur vénale du bien concerné. 
+ou des droits de mutation à titre gratuit ainsi que pour le calcul du montant des aides personnelles au logement peut
+obtenir, par voie électronique, communication des éléments d'information relatifs aux mutations à titre onéreux de biens
+immobiliers comparables intervenues dans un périmètre et pendant une période déterminés et qui sont utiles à la seule
+appréciation de la valeur vénale du bien concerné. 
 
 Les biens immobiliers comparables s'entendent des biens de type et de superficie similaires à ceux précisés par le
 demandeur. 
@@ -6994,9 +7110,9 @@ modalités d'application du présent article, notamment les conditions de commun
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2011-1978 du 28 décembre 2011 - art. 57
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 136
 
 	**Cite**:
 
@@ -7925,6 +8041,10 @@ A compter de 2018, l'administration fiscale transmet chaque année aux villes et
 intercommunale ayant institué la taxe de séjour ou la taxe de séjour forfaitaire, la liste des locaux meublés exonérés de
 contribution foncière économique en application du 3° de l'article 1459 du code général des impôts.
 
+Elle transmet gratuitement aux collectivités territoriales et aux établissements publics de coopération intercommunale dotés
+d'une fiscalité propre la liste des locaux commerciaux et professionnels vacants qui n'ont pas fait l'objet d'une imposition
+à la cotisation foncière des entreprises l'année précédente.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -7934,10 +8054,10 @@ contribution foncière économique en application du 3° de l'article 1459 du co
 	  - Loi n°89-462 du 6 juillet 1989 - art. 16
 	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85
 	  - Code général des impôts, CGI. - art. 1407 bis
-	  - Code général des impôts, CGI. - art. 1459 (V)
-	  - Code général des impôts, CGI. - art. 1647 B sexies (V)
+	  - Code général des impôts, CGI. - art. 1459
+	  - Code général des impôts, CGI. - art. 1647 B sexies
 	  - Code général des impôts, CGI. - art. 232
-	  - Livre des procédures fiscales - art. L190
+	  - Livre des procédures fiscales - art. L190 (VD)
 	  - Code rural - art. L141-1
 	  - Code de l'urbanisme - art. L122-4
 	  - Code de l'urbanisme - art. L300-4
@@ -7963,7 +8083,11 @@ contribution foncière économique en application du 3° de l'article 1459 du co
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 59
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 76 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 76 (V)
 
 
 ###### Article L135 D
@@ -8138,23 +8262,25 @@ _Modifications effectuées en conséquence des articles L131-85 et L141-6 du cod
 ###### Article L135 J
 
 Afin de procéder à des rapprochements avec le répertoire des métiers, les chambres de métiers et de l'artisanat peuvent se
-faire communiquer par l'administration fiscale la liste nominative des assujettis à la taxe pour frais de chambres de métiers
-et de l'artisanat. 
+faire communiquer par l'administration fiscale ou par tout autre organisme chargé de son recouvrement et de son contrôle la
+liste nominative des assujettis à la taxe pour frais de chambres de métiers et de l'artisanat. 
 
-Les chambres de métiers et de l'artisanat et l'administration peuvent se communiquer mutuellement les informations
-nécessaires au recensement des assujettis à la taxe pour frais de chambres de métiers et de l'artisanat. 
+Les chambres de métiers et de l'artisanat et l'administration ou tout autre organisme chargé de son recouvrement et de son
+contrôle peuvent se communiquer mutuellement les informations nécessaires au recensement des assujettis à la taxe pour frais
+de chambres de métiers et de l'artisanat. 
 
 Les dispositions du onzième alinéa de l'article L. 135 B sont applicables aux informations ainsi transmises.
 
 **Nota:**
 
-Modification effectuée en conséquence de l'article 114 de la loi n° 2010-1657 du 29 décembre 2010.
+Conformément à l'article 41 VII de la loi n° 2016-1088 du 8 août 2016 modifié par l'article 28 de la loi n° 2016-1918 du 29
+décembre 2016, ces dispositions entrent en vigueur le 1er janvier 2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-646 du 9 juin 2011 - art. 1
+	  - Loi n°2016-1088 du 8 août 2016 - art. 41 (V)
 
 	**Cité par**:
 
@@ -10529,7 +10655,7 @@ troisième année suivant celle au cours de laquelle se termine cette période.
 
 Dans les cas prévus aux II, II bis et III de l'article 284 du code général des impôts, le droit de reprise de
 l'administration s'exerce jusqu'à la fin de la troisième année suivant celle au cours de laquelle les conditions auxquelles
-est subordonné l'octroi des taux prévus, respectivement, aux 2 à 12 du I de l'article 278 sexies et au premier alinéa de
+est subordonné l'octroi des taux prévus, respectivement, aux 2 à 13 du I de l'article 278 sexies et au premier alinéa de
 l'article 279-0 bis A du même code ont cessé d'être remplies. 
 
 La taxe mentionnée sur les déclarations souscrites par les assujettis membres d'un groupe mentionné à l'article 1693 ter du
@@ -10552,12 +10678,12 @@ taxe mentionné au second alinéa du même article 1693 ter A.
 	  - Livre des procédures fiscales - art. L177 A (MMN)
 	  - Livre des procédures fiscales - art. L178 (V)
 	  - Livre des procédures fiscales - art. L182 (V)
-	  - Livre des procédures fiscales - art. L51 (VD)
+	  - Livre des procédures fiscales - art. L51 (V)
 	  - Livre des procédures fiscales - art. R*172 B-1 (P)
 
 	**Modifié par**:
 
-	  - Loi n°2014-1654 du 29 décembre 2014 - art. 80
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 62
 
 	**Cite**:
 
@@ -10566,7 +10692,7 @@ taxe mentionné au second alinéa du même article 1693 ter A.
 	  - Code général des impôts, CGI. - art. 269
 	  - Code général des impôts, CGI. - art. 278 sexies
 	  - Code général des impôts, CGI. - art. 279-0 bis A
-	  - Code général des impôts, CGI. - art. 284
+	  - Code général des impôts, CGI. - art. 284 (V)
 
 
 ###### Article L177
@@ -11287,6 +11413,59 @@ et du droit de timbre, la preuve de la mauvaise foi et des manoeuvres frauduleus
 	**Liens**:
 
 	  - HISTO: Edition du 1er juillet 1981
+
+
+##### Section I : Procédure préalable auprès de l'administration
+
+##### III : Instruction des réclamations.
+
+###### Article L198 A
+
+I. - En vue d'instruire les demandes contentieuses de remboursement de  crédits de taxe sur la valeur ajoutée, les agents des
+impôts ayant au  moins le grade de contrôleur peuvent se rendre sur place après l'envoi  d'un avis d'instruction sur place
+pour procéder à des constats matériels  et consulter les livres ou documents comptables dont la présentation  est prévue par
+le code général des impôts ainsi que toutes les pièces  justificatives qui sont afférents à cette demande. Dans le cadre de
+l'intervention sur place, ces agents peuvent avoir accès, de 8 heures à  20 heures et durant les heures d'activité
+professionnelle de  l'assujetti, aux locaux à usage professionnel, à l'exclusion des parties  de ces locaux affectées au
+domicile privé, ainsi qu'aux terrains, aux  entrepôts, aux moyens de transport à usage professionnel et à leur  chargement.
+Ils peuvent recueillir sur place des renseignements et  justifications. 
+
+II. - L'administration dispose d'un  délai de soixante jours à compter de la première intervention sur place  pour prendre sa
+décision. La décision rejetant tout ou partie de la  demande de remboursement est motivée. 
+
+III. - Lorsque, du fait du contribuable, l'administration n'a pas pu  procéder aux constats matériels ou consulter sur place
+les livres,  documents et pièces justificatives mentionnés au I dans un délai de  soixante jours à compter de la date de
+notification de l'avis  d'instruction sur place, elle peut rejeter la demande de remboursement  pour défaut de justification.
+Cette faculté est mentionnée dans l'avis  d'instruction. 
+
+IV. - La décision de  l'administration ne peut en aucun cas intervenir après l'expiration d'un  délai de quatre mois à
+compter de la notification au contribuable de  l'avis d'instruction sur place mentionné au I. 
+
+V. - En l'absence de décision de l'administration dans les délais prévus  aux II et IV du présent article, il est fait droit
+à la demande de  remboursement. 
+
+VI. - Les opérations réalisées en  application du présent article ne constituent pas une vérification de  comptabilité au
+sens de l'article L. 13.
+
+**Nota:**
+
+Conformément au A du II de l'article 17 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du présent article, dans
+leur rédaction issue du I du même article de la même loi, s'appliquent aux demandes de remboursement de crédits de taxe sur
+la valeur ajoutée déposées à compter du 1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°93-1095 du 16 septembre 1993
+
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 17 (V)
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L45 A
 
 
 ##### Section II : Procédure devant les tribunaux
@@ -13262,14 +13441,17 @@ relatives à une demande ou déclaration préalable déposée avant cette date.
 
 ###### Article L256
 
-Un avis de mise en recouvrement est adressé par le comptable public  compétent à tout redevable des sommes, droits, taxes et
-redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la date d'exigibilité.
+Un avis de mise en recouvrement est adressé par le comptable public compétent à tout redevable des sommes, droits, taxes et
+redevances de toute nature dont le recouvrement lui incombe lorsque le paiement n'a pas été effectué à la date
+d'exigibilité. 
 
-Un avis de mise en recouvrement est également adressé par le comptable public  compétent pour la restitution des sommes,
-droits, taxes et redevances de toute nature mentionnés au premier alinéa et indûment versés par l'Etat.
+Un avis de mise en recouvrement est également adressé par le comptable public compétent pour la restitution des sommes,
+droits, taxes et redevances de toute nature mentionnés au premier alinéa et indûment versés par l'Etat. 
 
-L'avis de mise en recouvrement est individuel. Il est signé et rendu exécutoire par l'autorité administrative désignée par
-décret. Les pouvoirs de l'autorité administrative susmentionnée sont également exercés par le comptable public  compétent.
+L'avis de mise en recouvrement est individuel. Il est émis et rendu exécutoire par l'autorité administrative désignée par
+décret, selon les modalités prévues aux articles L. 212-1 et L. 212-2 du code des relations entre le public et
+l'administration. Les pouvoirs de l'autorité administrative susmentionnée sont également exercés par le comptable public
+compétent. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -13288,7 +13470,11 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'adminis... - art. L212-1 (V)
 
 
 ###### Article L256 A
@@ -13314,8 +13500,8 @@ créance et le montant des sommes restant dues.
 
 ###### Article L257 A
 
-Les avis de mises en recouvrement peuvent être signés et rendus exécutoires et les mises en demeure de payer peuvent être
-signées, sous l'autorité et la responsabilité du comptable public compétent, par les agents du service ayant reçu délégation.
+Les avis de mises en recouvrement peuvent être émis  et rendus exécutoires et les mises en demeure de payer peuvent être
+émises, sous l'autorité et la responsabilité du comptable public compétent, par les agents du service ayant reçu délégation.
 
 **Liens relatifs à cet article**
 
@@ -13325,7 +13511,7 @@ signées, sous l'autorité et la responsabilité du comptable public compétent,
 
 	**Modifié par**:
 
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 
 ###### Article L257 B
@@ -13652,6 +13838,56 @@ saisies à tiers détenteur, oppositions à tiers détenteur et oppositions admi
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L262 (V)
+
+
+##### 1° bis : Avis de saisie en matière de contributions indirectes 
+
+###### Article L263 B
+
+1. En matière de contributions indirectes, le comptable public compétent  peut procéder au recouvrement des sommes de toute
+nature résultant  d'une décision de condamnation ou d'une transaction, par voie d'avis de  saisie adressé aux personnes
+physiques ou morales qui détiennent des  fonds pour le compte du redevable, qui ont une dette envers lui ou qui  lui versent
+une rémunération. 
+
+L'avis de saisie  est notifié simultanément au redevable et au tiers détenteur.  L'exemplaire qui est notifié au redevable
+comporte, à peine de nullité,  la date de la décision de justice ou de la transaction. 
+
+2. Le tiers détenteur est tenu de rendre indisponibles les fonds qu'il  détient à concurrence du montant des sommes à
+recouvrer. 
+
+L'avis de saisie emporte l'effet d'attribution immédiate prévu à  l'article L. 211-2 du code des procédures civiles
+d'exécution. Les  articles L. 123-1, L. 162-1 et L. 162-2 du même code sont en outre  applicables. 
+
+Dans les trente jours qui suivent la  réception de l'avis de saisie, le tiers détenteur verse au comptable  public compétent
+les fonds saisis, sous peine d'être tenu au paiement de  cette somme majorée du taux d'intérêt légal. Le paiement consécutif
+à  un avis de saisie libère à due concurrence la personne qui l'a effectué à  l'égard du redevable. 
+
+3. L'effet de l'avis de  saisie s'étend aux créances conditionnelles ou à terme. Dans ces deux  cas, les fonds sont versés au
+comptable dès que ces créances deviennent  exigibles. 
+
+L'avis de saisie permet d'appréhender  les sommes versées par un redevable souscripteur ou adhérent d'un  contrat d'assurance
+rachetable, y compris si la possibilité de rachat  fait l'objet de limitations, dans la limite de la valeur de rachat des
+droits à la date de la notification de l'avis. 
+
+4.  Lorsqu'une personne est simultanément destinataire de plusieurs avis de  saisie établis au nom du redevable, elle doit,
+en cas d'insuffisance  des fonds, exécuter ces demandes en proportion de leurs montants  respectifs. 
+
+Dans un délai de quinze jours à  compter de la réception de l'avis de saisie, le destinataire de cet avis  informe le
+comptable public, selon le cas, du montant des fonds qu'il  doit au débiteur ou qu'il détient pour son compte, de
+l'indisponibilité  de ces fonds, du terme ou de la condition les affectant, ou de  l'inexistence de ces fonds. 
+
+L'exécution par le  destinataire d'un avis de saisie fondé sur un titre exécutoire n'est  affectée ni par une contestation de
+la procédure de saisie, engagée en  application de l'article L. 281 du présent livre, ni par une  contestation de l'existence
+du montant ou de l'exigibilité de la  créance, à moins que le juge n'en dispose autrement. 
+
+Dès réception de la décision portant sur la contestation, le comptable,  s'il y a lieu, donne une mainlevée, totale ou
+partielle, de l'avis de  saisie ou rembourse les sommes dues au redevable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
 
 
 ##### 2° : Rémunérations du travail
