@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-12
 
 # Partie législative
 
@@ -18916,6 +18916,35 @@ modification relative à ces habilitations.
 	**Créé par**:
 
 	  - Décret n°2016-971 du 15 juillet 2016 - art. 1
+
+
+###### Article R135 ZG-1
+
+Le président de la Haute Autorité pour la transparence de la vie publique délivre les habilitations mentionnées à l'article
+L. 135 ZG aux agents relevant de son autorité, individuellement désignés pour accéder aux fichiers, informations et
+traitement mentionnés à ce même article. 
+
+Ces habilitations sont personnelles. 
+
+Le président de la Haute Autorité pour la transparence de la vie publique ne peut déléguer l'exercice de cette compétence
+qu'au secrétaire général de cette autorité. 
+
+Le directeur général des finances publiques est informé de l'identité et de la fonction des personnes habilitées et de toute
+modification relative à ces habilitations.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 14 juin 1982 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2017-19 du 9 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. L135 ZG (V)
 
 
 ##### IV : Dérogations au profit des autorités judiciaires et des juridictions
