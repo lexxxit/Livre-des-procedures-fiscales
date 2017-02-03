@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-01-12
+Version Consolidée au 2017-02-04
 
 # Partie législative
 
@@ -24413,6 +24413,23 @@ est faite sur le procès-verbal.
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L47 A
+
+
+###### Article A47 AA-1
+
+La copie des fichiers des écritures comptables adressée par le contribuable à l'administration en application du 1 de
+l'article L. 47 AA respecte les normes fixées à l'article A. 47 A-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 6 janvier 2017 - art. 1
+
+	**Cite**:
+
+	  - Livre des procédures fiscales - art. A47 A-1
+	  - Livre des procédures fiscales - art. L47 AA
 
 
 ##### Section VI : Conséquences et limites des procédures de rectification 
