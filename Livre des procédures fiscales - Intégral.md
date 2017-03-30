@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-03-25
+Version Consolidée au 2017-03-31
 
 # Partie législative
 
@@ -6638,8 +6638,12 @@ Sans préjudice des dispositions du premier alinéa, lorsque les livres, registr
 alinéa sont établis ou reçus sur support informatique, ils doivent être conservés sous cette forme pendant une durée au moins
 égale au délai prévu au premier alinéa de l'article L. 169. 
 
-Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le
-chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa. 
+Sans préjudice du premier alinéa du présent I, lorsque les documents et  pièces sont établis ou reçus sur support papier, ils
+peuvent être  conservés sur support informatique ou sur support papier, pendant une  durée égale au délai prévu au même
+premier alinéa. Les modalités de  numérisation des factures papier sont fixées par arrêté du ministre  chargé du budget.  
+
+Les pièces justificatives relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le chiffre
+d'affaires sont conservées pendant le délai prévu au premier alinéa. 
 
 Les registres tenus en application du 9 de l'article 298 sexdecies F du code général des impôts et du 5 de l'article 298
 sexdecies G du même code sont conservés pendant dix ans à compter du 31 décembre de l'année de l'opération. 
@@ -6656,8 +6660,10 @@ alinéa de l'article L. 169. La documentation relative aux analyses, à la progr
 
 **Nota:**
 
-Conformément à l'article 33 IV de la loi n° 2014-1545 du 20 décembre 2014, les présentes dispositions entrent en vigueur à la
-date de publication de l'arrêté mentionné au III, et au plus tard, le 1er janvier 2016.
+Conformément au III de l'article 16 de la loi n° 2016-1918 du 29 décembre 2016,  les dispositions du présent article, dans
+leur rédaction issue du II du  même article de la même loi, entrent en vigueur à la date de publication  de  l'arrêté du
+ministre chargé du budget prévu au troisième alinéa du I de  l'article L. 102 B du livre des procédures fiscales, et au plus
+tard le  31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -6722,13 +6728,13 @@ date de publication de l'arrêté mentionné au III, et au plus tard, le 1er jan
 	  - Code rural - art. D666-19 (V)
 	  - Livre des procédures fiscales - art. A102 B-1 (V)
 	  - Livre des procédures fiscales - art. L102 B (M)
-	  - Livre des procédures fiscales - art. L102 C (V)
+	  - Livre des procédures fiscales - art. L102 C (VD)
 	  - Livre des procédures fiscales - art. L96 A (V)
 	  - Livre des procédures fiscales - art. R80 F-3 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2015-609 du 3 juin 2015 - art. 1
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 16 (V)
 
 	**Cite**:
 
@@ -6744,10 +6750,6 @@ Pour l'application des dispositions de l'article L. 102 B, les factures émises 
 leur compte, par leur client ou par un tiers, ainsi que toutes les factures qu'ils ont reçues, doivent être stockées sur le
 territoire français, lorsque ce stockage n'est pas effectué par voie électronique garantissant un accès immédiat, complet et
 en ligne aux données concernées.
-
-Afin de garantir le respect des exigences mentionnées au V de l'article 289 du code général des impôts, les factures doivent
-être stockées sous la forme originelle, papier ou électronique, sous laquelle elles ont été transmises ou mises à
-disposition. 
 
 Les assujettis ne peuvent stocker les factures transmises par voie électronique dans un pays non lié à la France par une
 convention prévoyant une assistance mutuelle ou n'offrant pas un droit d'accès en ligne immédiat, de téléchargement et
@@ -6770,17 +6772,20 @@ Un décret en Conseil d'Etat détermine et fixe les conditions et modalités d'a
 
 **Nota:**
 
-
+Conformément au III de l'article 16 de la loi n° 2016-1918 du 29 décembre 2016,  les dispositions du présent article, dans
+leur rédaction issue du II du  même article de la même loi, entrent en vigueur à la date de publication  de  l'arrêté du
+ministre chargé du budget prévu au troisième alinéa du I de  l'article L. 102 B du livre des procédures fiscales, et au plus
+tard le  31 mars 2017.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 62 (VD)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 16 (V)
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L102 B
+	  - Livre des procédures fiscales - art. L102 B (VD)
 
 	**Cité par**:
 
@@ -24721,6 +24726,48 @@ l'article 289 du code général des impôts.
 
 	  - Code général des impôts, CGI. - art. 289
 	  - Livre des procédures fiscales - art. L102 B
+
+
+###### Article A102 B-2
+
+I.-Le transfert des factures établies originairement sur support papier vers un support informatique est réalisé dans des
+conditions garantissant leur reproduction à l'identique. Le résultat de cette numérisation est la copie conforme à l'original
+en image et en contenu.
+
+Les couleurs sont reproduites à l'identique en cas de mise en place d'un code couleur. Les dispositifs de traitements sur
+l'image sont interdits.
+
+En cas de recours à la compression de fichier, cette dernière doit s'opérer sans perte.
+
+II.-L'archivage numérique peut être effectué par l'assujetti ou par un tiers mandaté à cet effet.
+
+Les opérations d'archivage numérique des factures établies originairement sur support papier sont définies selon une
+organisation documentée, faisant l'objet de contrôles internes, permettant d'assurer la disponibilité, la lisibilité et
+l'intégrité des factures ainsi numérisées durant toute la durée de conservation.
+
+III.-Afin de garantir l'intégrité des fichiers issus de la numérisation, chaque document ainsi numérisé est conservé sous
+format PDF (Portable Document Format) ou sous format PDF A/3 (ISO 19005-3) dans le but de garantir l'interopérabilité des
+systèmes et la pérennisation des données et est assorti :
+
+1° D'un cachet serveur fondé sur un certificat conforme, au moins au référentiel général de sécurité (RGS) de niveau une
+étoile ;
+
+2° D'une empreinte numérique ;
+
+3° D'une signature électronique fondée sur un certificat conforme, au moins, au référentiel général de sécurité (RGS) de
+niveau une étoile ;
+
+4° Ou de tout dispositif sécurisé équivalent fondé sur un certificat délivré par une autorité de certification figurant sur
+la liste de confiance française (Trust-service Status List-TSL).
+
+Chaque fichier est horodaté, au moins au moyen d'une source d'horodatage interne, afin de dater les différentes opérations
+réalisées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 22 mars 2017 - art. 1
 
 
 ### Titre III : Le contentieux de l'impôt
