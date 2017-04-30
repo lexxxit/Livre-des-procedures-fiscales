@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-03-31
+Version Consolidée au 2017-05-01
 
 # Partie législative
 
@@ -7087,18 +7087,18 @@ par voie électronique des informations visées à la phrase précédente.
 
 Sans préjudice des dispositions de l'article L. 135 B, toute personne physique faisant l'objet d'une procédure
 d'expropriation ou d'une procédure de contrôle portant sur la valeur d'un bien immobilier ou faisant état de la nécessité
-d'évaluer la valeur vénale d'un bien immobilier pour la détermination de l'assiette de l'impôt de solidarité sur la fortune
-ou des droits de mutation à titre gratuit ainsi que pour le calcul du montant des aides personnelles au logement peut
-obtenir, par voie électronique, communication des éléments d'information relatifs aux mutations à titre onéreux de biens
-immobiliers comparables intervenues dans un périmètre et pendant une période déterminés et qui sont utiles à la seule
-appréciation de la valeur vénale du bien concerné. 
+d'évaluer la valeur vénale d'un bien immobilier en tant que vendeur ou acquéreur potentiel de ce bien ou pour la
+détermination de l'assiette de l'impôt de solidarité sur la fortune ou des droits de mutation à titre gratuit ainsi que pour
+le calcul du montant des aides personnelles au logement peut obtenir, par voie électronique, communication des éléments
+d'information relatifs aux mutations à titre onéreux de biens immobiliers comparables intervenues dans un périmètre et
+pendant une période déterminés et qui sont utiles à la seule appréciation de la valeur vénale du bien concerné. 
 
 Les biens immobiliers comparables s'entendent des biens de type et de superficie similaires à ceux précisés par le
 demandeur. 
 
-Les informations communicables sont la rue et la commune, ainsi que la superficie, le type et les caractéristiques du bien
-immobilier, la nature et la date de mutation ainsi que la valeur foncière déclarée à cette occasion et les références de
-publication au fichier immobilier. 
+Les informations communicables sont les références cadastrales et l'adresse, ainsi que la superficie, le type et les
+caractéristiques du bien immobilier, la nature et la date de mutation ainsi que la valeur foncière déclarée à cette occasion
+et les références de publication au fichier immobilier. 
 
 Ces informations sont réservées à l'usage personnel du demandeur. 
 
@@ -7117,7 +7117,7 @@ modalités d'application du présent article, notamment les conditions de commun
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 136
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 24 (V)
 
 	**Cite**:
 
@@ -7981,20 +7981,51 @@ _
 
 ###### Article L135 B
 
-L'administration fiscale transmet gratuitement, à leur demande, aux propriétaires faisant l'objet d'une procédure
-d'expropriation, aux services de l'Etat, aux collectivités territoriales, aux établissements publics de coopération
-intercommunale dotés d'une ficalité propre, aux établissements publics administratifs et aux établissements publics visés aux
-articles L. 143-16, L. 321-1, L. 324-1 et L. 326-1 du code de l'urbanisme, aux agences d'urbanisme mentionnées par le code de
-l'urbanisme, aux sociétés d'aménagement foncier et d'établissement rural mentionnées à l'article L. 141-1 du code rural et de
-la pêche maritime, aux concessionnaires des opérations d'aménagement mentionnés à l'article L. 300-4 du code de l'urbanisme,
-aux associations foncières urbaines mentionnées à l'article L. 322-1 du même code et aux observatoires des loyers mentionnés
-à l'article 16 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la
-loi n° 86-1290 du 23 décembre 1986 les éléments d'information qu'elle détient au sujet des valeurs foncières déclarées à
-l'occasion des mutations intervenues dans les cinq dernières années et qui sont nécessaires à l'exercice de leurs compétences
-en matière de politiques foncière, d'urbanisme et d'aménagement et de transparence des marchés fonciers et immobiliers. Cette
-administration ne peut, dans ce cas, se prévaloir de la règle du secret. 
+L'administration fiscale transmet, soit directement, soit par l'intermédiaire d'un opérateur, des éléments d'information
+qu'elle détient au sujet des valeurs foncières déclarées à l'occasion des mutations intervenues dans les cinq dernières
+années et qui sont nécessaires à l'exercice de leurs compétences en matière de politiques foncière, d'urbanisme et
+d'aménagement et de transparence des marchés fonciers et immobiliers : 
 
-Ces dispositions ne font pas échec au secret de la défense nationale. 
+1° Aux chercheurs ; 
+
+2° Aux personnes dont l'activité économique consiste à développer des services contribuant à l'information des vendeurs et
+des acquéreurs et à la transparence du marché immobilier ; 
+
+3° Aux services de l'Etat ; 
+
+4° Aux collectivités territoriales et aux établissements publics de coopération intercommunale à fiscalité propre ; 
+
+5° Aux établissements publics administratifs et aux établissements publics mentionnés aux articles L. 143-16, L. 321-1, L.
+321-14, L. 321-29, L. 321-36-1, L. 321-37, L. 324-1 et L. 326-1 du code de l'urbanisme ; 
+
+6° Aux agences d'urbanisme mentionnées à l'article L. 132-6 du même code ; 
+
+7° A l'établissement public mentionné à l'article 44 de la loi n° 2013-431 du 28 mai 2013 portant diverses dispositions en
+matière d'infrastructures et de services de transports ; 
+
+8° Aux sociétés d'aménagement foncier et d'établissement rural mentionnées à l'article L. 141-1 du code rural et de la pêche
+maritime ; 
+
+9° Aux concessionnaires des opérations d'aménagement mentionnés à l'article L. 300-4 du code de l'urbanisme ; 
+
+10° Aux associations foncières urbaines mentionnées à l'article L. 322-1 du même code ; 
+
+11° Aux observatoires des loyers mentionnés à l'article 16 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les
+rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986 ; 
+
+12° Aux professionnels de l'immobilier ; 
+
+13° Aux associations d'information sur le logement mentionnées à l'article L. 366-1 du code de la construction et de
+l'habitation. 
+
+La transmission, est effectuée à titre gratuit, sous forme dématérialisée dans le cadre d'une procédure en ligne. Elle est
+subordonnée à une déclaration de motifs préalable, aux fins de laquelle le demandeur doit justifier de sa qualité et accepter
+les conditions générales d'accès au service. 
+
+Hors le cas des informations protégées au titre du secret de la défense nationale, l'administration fiscale ne peut se
+prévaloir de la règle du secret. Toutefois, les informations transmises excluent toute identification nominative du
+propriétaire d'un bien et les bénéficiaires de la transmission ne doivent à aucun moment pouvoir reconstituer des listes de
+biens appartenant à des propriétaires désignés. 
 
 L'administration fiscale est tenue de transmettre, chaque année, aux collectivités locales et à leurs groupements dotés d'une
 fiscalité propre : 
@@ -8058,18 +8089,24 @@ d'une fiscalité propre la liste des locaux commerciaux et professionnels vacant
 	  - Loi n°86-1290 du 23 décembre 1986
 	  - Loi n°89-462 du 6 juillet 1989 - art. 16
 	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85
-	  - Code général des impôts, CGI. - art. 1407 bis
+	  - Loi n°2013-431 du 28 mai 2013 - art. 44
 	  - Code général des impôts, CGI. - art. 1459
 	  - Code général des impôts, CGI. - art. 1647 B sexies
 	  - Code général des impôts, CGI. - art. 232
-	  - Livre des procédures fiscales - art. L190 (VD)
+	  - Livre des procédures fiscales - art. L190 (V)
 	  - Code rural - art. L141-1
-	  - Code de l'urbanisme - art. L122-4
+	  - Code de l'urbanisme - art. L132-6 (V)
+	  - Code de l'urbanisme - art. L143-16
 	  - Code de l'urbanisme - art. L300-4
 	  - Code de l'urbanisme - art. L321-1
-	  - Code de l'urbanisme - art. L322-1
+	  - Code de l'urbanisme - art. L321-14
+	  - Code de l'urbanisme - art. L321-29
+	  - Code de l'urbanisme - art. L321-36-1
+	  - Code de l'urbanisme - art. L321-37
+	  - Code de l'urbanisme - art. L322-1 (V)
 	  - Code de l'urbanisme - art. L324-1
 	  - Code de l'urbanisme - art. L326-1
+	  - Code de la construction et de l'habitation. - art. L366-1
 
 	**Cité par**:
 
@@ -8088,10 +8125,7 @@ d'une fiscalité propre la liste des locaux commerciaux et professionnels vacant
 
 	**Modifié par**:
 
-	  - Loi n°2016-1918 du 29 décembre 2016 - art. 76 (V)
-
-	**Abrogé par**:
-
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 24 (V)
 	  - Loi n°2016-1918 du 29 décembre 2016 - art. 76 (V)
 
 
@@ -8274,18 +8308,13 @@ Les chambres de métiers et de l'artisanat et l'administration ou tout autre org
 contrôle peuvent se communiquer mutuellement les informations nécessaires au recensement des assujettis à la taxe pour frais
 de chambres de métiers et de l'artisanat. 
 
-Les dispositions du onzième alinéa de l'article L. 135 B sont applicables aux informations ainsi transmises.
-
-**Nota:**
-
-Conformément à l'article 41 VII de la loi n° 2016-1088 du 8 août 2016 modifié par l'article 28 de la loi n° 2016-1918 du 29
-décembre 2016, ces dispositions entrent en vigueur le 1er janvier 2017.
+Les dispositions de l'avant-dernier alinéa de l'article L. 135 B sont applicables aux informations ainsi transmises.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2016-1088 du 8 août 2016 - art. 41 (V)
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 24 (V)
 
 	**Cité par**:
 
@@ -8293,7 +8322,7 @@ décembre 2016, ces dispositions entrent en vigueur le 1er janvier 2017.
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L135 B (V)
+	  - Livre des procédures fiscales - art. L135 B (VD)
 
 
 ###### Article L135 K
@@ -18238,47 +18267,48 @@ les informations communiquées par le demandeur au titre des III et IV.
 ###### Article R* 107 B-2
 
 I.-Les informations communiquées au demandeur en application du troisième alinéa de l'article L. 107 B correspondent aux
-caractéristiques suivantes : 
+caractéristiques suivantes :
 
-a) Type et superficie des biens ; 
+a) Type et superficie des biens ;
 
-b) Code du département ; 
+b) Code du département ;
 
-c) Type et libellé de la voie ; 
+c) Numéro de voie, indice de répétition, type et libellé de la voie ;
 
-d) Code et libellé de la commune ; 
+d) Code et libellé de la commune ;
 
-e) Préfixe et code de la section cadastrale du lieu de situation des biens ; 
+e) Préfixe et code de la section cadastrale, numéro de plan du lieu de situation des biens et, le cas échéant, numéro de lot
+de copropriété ou numéro de volume ;
 
-f) Références de publication au fichier immobilier et date de la mutation ; 
+f) Références de publication au fichier immobilier et date de la mutation ;
 
-g) Prix total ; 
+g) Prix total ;
 
-h) Ratios prix/ surface et prix/ nombre de dépendances ; 
+h) Ratios prix/ surface et prix/ nombre de dépendances ;
 
-i) Année de construction ; 
+i) Année de construction ;
 
-j) Matériaux de construction ; 
+j) Matériaux de construction ;
 
-k) Nombre de niveaux ; 
+k) Nombre de niveaux ;
 
-l) Nombre et types des pièces principales ; 
+l) Nombre et types des pièces principales ;
 
-m) Etage de situation ; 
+m) Etage de situation ;
 
-n) Présence d'ascenseur. 
+n) Présence d'ascenseur.
 
 Elles reflètent les ventes, adjudications, expropriations ou échanges de biens immobiliers comparables au bien objet de la
-demande et ne peuvent concerner des opérations réalisées depuis plus de neuf ans, y compris l'année en cours. 
+demande et ne peuvent concerner des opérations réalisées depuis plus de neuf ans, y compris l'année en cours.
 
 II.-La délivrance des éléments d'informations au demandeur est immédiate et effectuée sous forme de tableau. Un outil de
-géolocalisation avec vue aérienne est utilisé. 
+géolocalisation avec vue aérienne est utilisé.
 
 III.-L'usage de l'application, et notamment les demandes et l'utilisation des résultats, est fait sous la seule
-responsabilité du demandeur. 
+responsabilité du demandeur.
 
 IV.-L'utilisation du service est limitée à cinquante consultations par utilisateur par période de trois mois, sauf dérogation
-expresse et justifiée. Au-delà, l'utilisateur se voit interdire l'accès au service pendant six mois. 
+expresse et justifiée. Au-delà, l'utilisateur se voit interdire l'accès au service pendant six mois.
 
 V.-Les droits d'opposition, d'accès et de rectification s'exercent dans les conditions prévues aux articles 38 à 40 de la loi
 n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés auprès du bureau en charge du traitement
@@ -18288,12 +18318,12 @@ au sein de la direction générale des finances publiques.
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
 	  - Livre des procédures fiscales - art. L107 B
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-718 du 2 août 2013 - art. 1
+	  - Décret n°2017-521 du 11 avril 2017 - art. 1
 
 
 ###### Article R*109-1
