@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-05-05
+Version Consolidée au 2017-07-01
 
 # Partie législative
 
@@ -2053,9 +2053,9 @@ vins, vins de liqueur et eaux-de-vie.
 Les entrepositaires agréés sont tenus, à première réquisition, de présenter la comptabilité matières mentionnée au III de
 l'article 302 G du code général des impôts. Les agents de l'administration contrôlent la régularité des énonciations qui y
 sont portées. A l'occasion de cet examen, les agents peuvent contrôler la cohérence entre les indications portées dans la
-comptabilité matières et les pièces de recettes et de dépenses et sur les documents d'accompagnement visés à l'article 302 M
-du code précité. Ils peuvent demander, en outre, tous renseignements, justifications ou éclaircissements, relatifs aux
-indications portées dans la comptabilité matières. 
+comptabilité matières et les pièces de recettes et de dépenses et sur les documents d'accompagnement mentionnés aux articles
+302 M à 302 M ter du code précité. Ils peuvent demander, en outre, tous renseignements, justifications ou éclaircissements,
+relatifs aux indications portées dans la comptabilité matières. 
 
 Chaque intervention fait l'objet d'un procès-verbal relatant les opérations effectuées, dont copie est transmise à l'occupant
 des locaux contrôlés.
@@ -2074,16 +2074,12 @@ des locaux contrôlés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2001-766 du 29 août 2001 - art. 15 () JORF 31 août 2001
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 81 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 302 G (V)
-	  - Code général des impôts, CGI. - art. 302 M (V)
-
-	**Liens**:
-
-	  - HISTO: Edition du 31 mars 2002
+	  - Code général des impôts, CGI. - art. 302 G (VD)
+	  - Code général des impôts, CGI. - art. 302 M (VD)
 
 
 ###### Article L34 A
@@ -8329,27 +8325,26 @@ Les dispositions de l'avant-dernier alinéa de l'article L. 135 B sont applicabl
 
 Les agents des services financiers, les commissaires aux comptes ainsi que les représentants des autorités publiques de
 contrôle et de régulation sont déliés du secret professionnel à l'égard des membres du Parlement chargés de suivre et de
-contrôler, au nom de la commission compétente, les entreprises et organismes visés aux articles L. 133-1 à L. 133-5 du code
-des juridictions financières, un organisme gérant un système légalement obligatoire de sécurité sociale, les recettes de
-l'Etat ou le budget d'un département ministériel. Lorsque ces compétences de suivi et de contrôle sont exercées par les
-membres du Parlement chargés de présenter, au nom de la commission compétente, le rapport sur le budget d'un département
-ministériel, la levée du secret professionnel qui leur serait éventuellement opposé est subordonnée à l'accord du président
-et du rapporteur général de la commission en charge des affaires budgétaires.
+contrôler, au nom de la commission compétente, les entreprises et organismes visés aux articles L. 111-8, L. 111-16, L.
+111-17, L. 133-1, L. 133-2 et L. 133-5 du code des juridictions financières, un organisme gérant un système légalement
+obligatoire de sécurité sociale, les recettes de l'Etat ou le budget d'un département ministériel. Lorsque ces compétences de
+suivi et de contrôle sont exercées par les membres du Parlement chargés de présenter, au nom de la commission compétente, le
+rapport sur le budget d'un département ministériel, la levée du secret professionnel qui leur serait éventuellement opposé
+est subordonnée à l'accord du président et du rapporteur général de la commission en charge des affaires budgétaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2000-656 du 13 juillet 2000 - art. 30 () JORF 14 juillet 2000
-	  - Loi n°2000-656 du 13 juillet 2000 - art. 31 () JORF 14 juillet 2000
-
 	**Codifié par**:
 
-	  - Décret n°2001-436 2001-05-21
+	  - Décret n°2001-436 du 21 mai 2001
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 51
 
 	**Cite**:
 
-	  - Code des juridictions financières - art. L133-1 (V)
+	  - Code des juridictions financières - art. L133-5
 
 
 ###### Article L135 L
@@ -9061,23 +9056,17 @@ loi n° 94-1000 du 5 février 1994.
 
 ###### Article L140
 
-Conformément aux articles L. 141-5, L. 241-2 et L. 314-4 du code des juridictions financières, les agents des services
+Conformément aux articles L. 141-9, L. 241-11 et L. 314-5 du code des juridictions financières, les agents des services
 financiers sont déliés du secret professionnel à l'égard des magistrats, conseillers maîtres en service extraordinaire,
 rapporteurs de la Cour des comptes et des experts qu'elle désigne, des magistrats de lachambre régionale des comptes ainsi
 que des rapporteurs auprès de la Cour de discipline budgétaire et financière, à l'occasion des enquêtes effectuées par ces
 magistrats, conseillers, rapporteurs et experts dans le cadre de leurs attributions. 
 
-(Alinéa disjoint).
-
-Conformément aux articles L. 141-9, 
-L. 241-4 et L. 314-4 du code des juridictions financières, les agents des services financiers dont l'audition est jugée
-nécessaire pour les besoins du contrôle ont l'obligation de répondre à la convocation de la Cour des comptes ou à celle de la
-chambre régionale des comptes dans le ressort de laquelle ils exercent leurs fonctions. Ils peuvent être interrogés en
-qualité de témoins par les rapporteurs auprès de la Cour de discipline budgétaire et financière.
-
-**Nota:**
-
-Modification effectuée en conséquence de l'article 8 de la loi n° 2013-712 du 5 août 2013.
+Conformément aux articles L. 143-0-1, L. 241-7 et L. 314-5 du code des juridictions financières, les agents des services
+financiers dont l'audition est jugée nécessaire pour les besoins du contrôle ont l'obligation de répondre à la convocation de
+la Cour des comptes ou à celle de la chambre régionale des comptes dans le ressort de laquelle ils exercent leurs fonctions.
+Ils peuvent être interrogés en qualité de témoins par les rapporteurs auprès de la Cour de discipline budgétaire et
+financière.
 
 **Liens relatifs à cet article**
 
@@ -9087,7 +9076,7 @@ Modification effectuée en conséquence de l'article 8 de la loi n° 2013-712 du
 
 	**Modifié par**:
 
-	  - Décret n°2014-550 du 26 mai 2014 - art. 1
+	  - Ordonnance n°2016-1360 du 13 octobre 2016 - art. 51
 
 	**Cite**:
 
