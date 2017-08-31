@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-07-01
+Version Consolidée au 2017-09-01
 
 # Partie législative
 
@@ -3373,10 +3373,10 @@ sont inscrits des titres de placement ou de participation pour un montant total 
 ###### Article L59
 
 Lorsque le désaccord persiste sur les rectifications notifiées, l'administration, si le contribuable le demande, soumet le
-litige à l'avis soit de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à
-l'article 1651 du code général des impôts, soit de la Commission nationale des impôts directs et des taxes sur le chiffre
-d'affaires prévue à l'article 1651 H du même code, soit du comité consultatif prévu à l'article 1653 F du même code, soit de
-la commission départementale de conciliation prévue à l'article 667 du même code. 
+litige à l'avis soit de la commission des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du
+code général des impôts, soit de la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires prévue à
+l'article 1651 H du même code, soit du comité consultatif prévu à l'article 1653 F du même code, soit de la commission
+départementale de conciliation prévue à l'article 667 du même code. 
 
 Les commissions peuvent également être saisies à l'initiative de l'administration.
 
@@ -3384,20 +3384,20 @@ Les commissions peuvent également être saisies à l'initiative de l'administra
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 	**Cite**:
 
 	  - Code général des impôts, CGI. - art. 1651
 	  - Code général des impôts, CGI. - art. 1651 H
-	  - Code général des impôts, CGI. - art. 1653 F (VD)
+	  - Code général des impôts, CGI. - art. 1653 F
 	  - Code général des impôts, CGI. - art. 667
 
 	**Cité par**:
 
-	  - Code de commerce - art. L641-3 (V)
+	  - Code de commerce - art. L641-3 (M)
 	  - Livre des procédures fiscales - art. L192 (VD)
-	  - Livre des procédures fiscales - art. L250 (V)
+	  - Livre des procédures fiscales - art. L250 (VD)
 	  - Livre des procédures fiscales - art. L76 (VD)
 	  - Livre des procédures fiscales - art. R*59-1 (V)
 	  - Loi n°87-502 du 8 juillet 1987 - art. 10 (V)
@@ -3405,8 +3405,7 @@ Les commissions peuvent également être saisies à l'initiative de l'administra
 
 ###### Article L59 A
 
-I.-La commission départementale des impôts directs et des taxes sur le chiffre d'affaires intervient lorsque le désaccord
-porte : 
+I.-La commission des impôts directs et des taxes sur le chiffre d'affaires intervient lorsque le désaccord porte : 
 
 1° Sur le montant du résultat industriel et commercial, non commercial, agricole ou du chiffre d'affaires, déterminé selon un
 mode réel d'imposition ; 
@@ -3424,9 +3423,9 @@ code ;
 immobilières servant de base à la taxe sur la valeur ajoutée, en application du 6° et du 1 du 7° de l'article 257 du même
 code. 
 
-II.-Dans les domaines mentionnés au I, la commission départementale des impôts directs et des taxes sur le chiffre d'affaires
-peut, sans trancher une question de droit, se prononcer sur les faits susceptibles d'être pris en compte pour l'examen de
-cette question de droit. 
+II.-Dans les domaines mentionnés au I, la commission des impôts directs et des taxes sur le chiffre d'affaires peut, sans
+trancher une question de droit, se prononcer sur les faits susceptibles d'être pris en compte pour l'examen de cette question
+de droit. 
 
 Par dérogation aux dispositions du premier alinéa, la commission peut se prononcer sur le caractère anormal d'un acte de
 gestion, sur le principe et le montant des amortissements et des provisions ainsi que sur le caractère de charges déductibles
@@ -3440,30 +3439,26 @@ Ces dispositions sont applicables aux propositions de rectification adressées �
 
 	**Codifié par**:
 
-	  - Décret n°2005-331 2005-04-06
+	  - Décret n°2005-331 du 6 avril 2005
 
 	**Modifié par**:
 
-	  - Décret n°2005-331 du 6 avril 2005 - art. 1 () JORF 8 avril 2005
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 111 (V)
+	  - Code général des impôts, CGI. - art. 111
 	  - Code général des impôts, CGI. - art. 244 quater B (V)
-	  - Code général des impôts, CGI. - art. 257 (V)
-	  - Code général des impôts, CGI. - art. 39 (VT)
+	  - Code général des impôts, CGI. - art. 257
+	  - Code général des impôts, CGI. - art. 39
 
 	**Cité par**:
 
-	  - Code général des impôts, CGI. - art. 1651 C (V)
+	  - Code général des impôts, CGI. - art. 1651 C (VD)
 	  - Code général des impôts, CGI. - art. 1651 K (V)
 	  - Livre des procédures fiscales - art. L250 (VD)
 	  - Livre des procédures fiscales - art. L59 C (V)
 	  - Livre des procédures fiscales - art. R*60-1 (VD)
-
-	**Liens**:
-
-	  - HISTO: Edition du 1er janvier 2005
 
 
 ###### Article L59 B
@@ -3554,28 +3549,28 @@ l'examen de cette question de droit.
 
 ###### Article L60
 
-Le rapport par lequel l'administration des impôts soumet le différend qui l'oppose au contribuable à la commission
-départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires prévue aux articles 1651 et 1651 H du
-code général des impôts ou au comité consultatif prévu à l'article 1653 F du même code, ainsi que tous les autres documents
-dont l'administration fait état pour appuyer sa thèse, doivent être tenus à la disposition du contribuable intéressé. 
+Le rapport par lequel l'administration des impôts soumet le différend qui l'oppose au contribuable à la commission  des
+impôts directs et des taxes sur le chiffre d'affaires prévue, selon le cas, à l'article 1651 ou à l'article 1651 H du code
+général des impôts ou au comité consultatif prévu à l'article 1653 F du même code, ainsi que tous les autres documents dont
+l'administration fait état pour appuyer sa thèse, doivent être tenus à la disposition du contribuable intéressé. 
 
 Cette communication doit être faite sous réserve du secret professionnel relatif aux renseignements concernant d'autres
-contribuables. La communication effectuée par la commission départementale ou nationale des impôts directs et des taxes sur
-le chiffre d'affaires doit cependant porter sur les documents contenant des indications relatives aux bénéfices ou revenus de
-tiers, de telle manière que l'intéressé puisse s'assurer que les points de comparaison retenus par l'administration
-concernent des entreprises dont l'activité est comparable à la sienne.
+contribuables. La communication effectuée par la commission  des impôts directs et des taxes sur le chiffre d'affaires
+prévue, selon  le cas, à l'article 1651 ou à l'article 1651 H dudit code doit cependant porter sur les documents contenant
+des indications relatives aux bénéfices ou revenus de tiers, de telle manière que l'intéressé puisse s'assurer que les points
+de comparaison retenus par l'administration concernent des entreprises dont l'activité est comparable à la sienne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2015-1786 du 29 décembre 2015 - art. 46 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1651 (V)
-	  - Code général des impôts, CGI. - art. 1651 H (V)
-	  - Code général des impôts, CGI. - art. 1653 F (VD)
+	  - Code général des impôts, CGI. - art. 1651
+	  - Code général des impôts, CGI. - art. 1651 H
+	  - Code général des impôts, CGI. - art. 1653 F
 
 	**Cité par**:
 
@@ -4252,8 +4247,8 @@ aux contrôles pour lesquels l'avis de vérification est adressé après le 1
 Les bases ou éléments servant au calcul des impositions d'office et leurs modalités de détermination sont portées à la
 connaissance du contribuable trente jours au moins avant la mise en recouvrement des impositions. Cette notification est
 interruptive de prescription. Lorsque le contribuable est taxé d'office en application de l'article L. 69, à l'issue d'un
-examen contradictoire de sa situation fiscale personnelle, la commission départementale des impôts directs et des taxes sur
-le chiffre d'affaires peut être saisie dans les conditions prévues à l'article L. 59. 
+examen contradictoire de sa situation fiscale personnelle, la commission des impôts directs et des taxes sur le chiffre
+d'affaires peut être saisie dans les conditions prévues à l'article L. 59. 
 
 La prescription des sanctions fiscales autres que celles prévues au troisième alinéa de l'article L. 188 est interrompue par
 l'information notifiée au contribuable qu'elles pourront être éventuellement appliquées. 
@@ -4267,7 +4262,7 @@ Les dispositions du présent article ne sont pas applicables dans les cas prévu
 	  - Décret n°2016-230 du 26 février 2016 - art.
 	  - Code de la construction et de l'habitation. - art. R452-25-3 (V)
 	  - Code des transports - art. R1261-8 (V)
-	  - Code général des impôts, CGI. - art. 1651 F (V)
+	  - Code général des impôts, CGI. - art. 1651 F (VD)
 	  - Code général des impôts, CGI. - art. 1770 duodecies (VD)
 	  - Livre des procédures fiscales - art. L16 B (VT)
 	  - Livre des procédures fiscales - art. L190 (VD)
@@ -4279,20 +4274,16 @@ Les dispositions du présent article ne sont pas applicables dans les cas prévu
 	  - Livre des procédures fiscales - art. L77 (V)
 	  - Livre des procédures fiscales - art. R*256-1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - HISTO: Edition du 31 août 2004
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L188 (V)
-	  - Livre des procédures fiscales - art. L59 (V)
-	  - Livre des procédures fiscales - art. L67 (V)
-	  - Livre des procédures fiscales - art. L69 (V)
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-281 2004-12-25 art. 27 JORF 27 mars 2004 en vigueur le 1er juin 2004
+	  - Livre des procédures fiscales - art. L188
+	  - Livre des procédures fiscales - art. L59
+	  - Livre des procédures fiscales - art. L67
+	  - Livre des procédures fiscales - art. L69
 
 
 ###### Article L76 A
@@ -8862,11 +8853,11 @@ d'informations nominatives dénommé "Base nationale des données patrimoniales"
 
 ###### Article L136
 
-La commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du code
-général des impôts ou la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article
-1651 H du même code peut recevoir des agents des impôts communication des renseignements utiles pour lui permettre de se
-prononcer sur les désaccords qui lui sont soumis. Ces renseignements peuvent porter sur les éléments de comparaison extraits
-des déclarations d'autres contribuables.
+La commission des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du code général des impôts ou
+la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 H du même code peut
+recevoir des agents des impôts communication des renseignements utiles pour lui permettre de se prononcer sur les désaccords
+qui lui sont soumis. Ces renseignements peuvent porter sur les éléments de comparaison extraits des déclarations d'autres
+contribuables.
 
 **Nota:**
 
@@ -8876,11 +8867,11 @@ dispositions applicables aux propositions de rectifications adressées à compte
 
 	**Modifié par**:
 
-	  - Loi n°2007-1824 du 25 décembre 2007 - art. 16 (V)
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1651 (V)
+	  - Code général des impôts, CGI. - art. 1651
 	  - Code général des impôts, CGI. - art. 1651 H
 
 	**Cité par**:
@@ -11282,8 +11273,8 @@ dans la détermination d'un résultat déficitaire ou d'un excédent de taxe sur
 valeur ajoutée collectée au titre d'une période donnée, même lorsque ces erreurs n'entraînent pas la mise en recouvrement
 d'une imposition supplémentaire. Les réclamations peuvent être présentées à compter de la réception de la réponse aux
 observations du contribuable mentionnée à l'article L. 57, ou à compter d'un délai de 30 jours après la notification prévue à
-l'article L. 76 ou, en cas de saisine de la commission départementale ou nationale des impôts directs et des taxes sur le
-chiffre d'affaires, à compter de la notification de l'avis rendu par cette commission. 
+l'article L. 76 ou, en cas de saisine de la commission des impôts directs et des taxes sur le chiffre d'affaires compétente,
+à compter de la notification de l'avis rendu par cette commission. 
 
 Sont instruites et jugées selon les règles du présent chapitre toutes actions tendant à la décharge ou à la réduction d'une
 imposition ou à l'exercice de droits à déduction ou à la restitution d'impositions indues, fondées sur la non-conformité de
@@ -11301,12 +11292,6 @@ administrative, les arrêts de la Cour de cassation ainsi que les avis rendus en
 l'organisation judiciaire (2), les arrêts du Tribunal des conflits et les arrêts de la Cour de justice de l'Union européenne
 se prononçant sur un recours en annulation, sur une action en manquement ou sur une question préjudicielle.
 
-**Nota:**
-
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 26 III : Ces dispositions s'appliquent aux
-réclamations et demandes fondées sur une décision juridictionnelle ou un avis rendu au contentieux prononcés à compter du 1er
-janvier 2013.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -11319,7 +11304,7 @@ janvier 2013.
 	  - Décret n°2017-866 du 9 mai 2017 - art. 1
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 408 (V)
 	  - Code général des impôts, annexe 2, CGIAN2. - art. 95 ZO (VD)
-	  - Livre des procédures fiscales - art. L135 B (VD)
+	  - Livre des procédures fiscales - art. L135 B (VT)
 	  - Livre des procédures fiscales - art. L61 (V)
 	  - Livre des procédures fiscales - art. L76 A (V)
 	  - Livre des procédures fiscales - art. R*196-1 (V)
@@ -11328,7 +11313,7 @@ janvier 2013.
 
 	**Modifié par**:
 
-	  - Loi n°2013-1117 du 6 décembre 2013 - art. 48
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 	**Cite**:
 
@@ -13179,23 +13164,22 @@ La remise ne peut être accordée qu'après avis conforme du président de la ju
 ###### Article L250
 
 Les demandes présentées par les contribuables en vue d'obtenir la remise des majorations prévues par l'article 1729 du code
-général des impôts sont soumises pour avis à la commission départementale des impôts directs et des taxes sur le chiffre
-d'affaires ou à la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires lorsque ces majorations
-sont consécutives à des rectifications relevant de la compétence de l'une ou l'autre de ces commissions, telle qu'elle est
-définie aux articles L. 59, L. 59 A et L. 59 C.
+général des impôts sont soumises pour avis à la commission des impôts directs et des taxes sur le chiffre d'affaires
+compétente  lorsque ces majorations sont consécutives à des rectifications relevant de la compétence de l'une ou l'autre de
+ces commissions, telle qu'elle est définie aux articles L. 59, L. 59 A et L. 59 C.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-388 du 7 avril 2009 - art. 1
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 90 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1729 (V)
-	  - Livre des procédures fiscales - art. L59 (V)
-	  - Livre des procédures fiscales - art. L59 A (V)
-	  - Livre des procédures fiscales - art. L59 C (V)
+	  - Code général des impôts, CGI. - art. 1729
+	  - Livre des procédures fiscales - art. L59 (VD)
+	  - Livre des procédures fiscales - art. L59 A
+	  - Livre des procédures fiscales - art. L59 C
 
 
 ###### Article L251
@@ -16195,68 +16179,64 @@ rectification adressées à compter du 1er juillet 2016.
 
 ###### Article R*60-1
 
-Lorsque le litige est soumis à la commission départementale des impôts directs et des taxes sur le chiffre d'affaires, en
-application de l'article L. 59 A, ou à la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires, en
-application de l'article L. 59 C, ou au comité consultatif du crédit d'impôt pour dépenses de recherche, en application de
-l'article L. 59 D, le contribuable est convoqué trente jours au moins avant la date de la réunion. Cette convocation peut
-être envoyée par tout moyen, y compris par courrier électronique. Le rapport et les documents mentionnés à l'article L. 60
-doivent être tenus à sa disposition, au secrétariat de la commission ou du comité consultatif, pendant le délai de trente
-jours qui précède la réunion de cette commission ou de ce comité. Ils peuvent également être communiqués au contribuable par
-courrier électronique.
-
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
-rectification adressées à compter du 1er juillet 2016.
+Lorsque le litige est soumis à la commission des impôts directs et des taxes sur le chiffre d'affaires, en application de
+l'article L. 59 A, ou à la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires, en application de
+l'article L. 59 C, ou au comité consultatif du crédit d'impôt pour dépenses de recherche, en application de l'article L. 59
+D, le contribuable est convoqué trente jours au moins avant la date de la réunion. Cette convocation peut être envoyée par
+tout moyen, y compris par courrier électronique. Le rapport et les documents mentionnés à l'article L. 60 doivent être tenus
+à sa disposition, au secrétariat de la commission ou du comité consultatif, pendant le délai de trente jours qui précède la
+réunion de cette commission ou de ce comité. Ils peuvent également être communiqués au contribuable par courrier
+électronique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-766 du 9 juin 2016 - art. 2
+	  - Décret n°2017-769 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
 	  - Livre des procédures fiscales - art. L59 A
 	  - Livre des procédures fiscales - art. L59 C
-	  - Livre des procédures fiscales - art. L59 D (V)
 	  - Livre des procédures fiscales - art. L60
 
 
 ###### Article R*60-2
 
-Devant la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires ou le comité
-consultatif du crédit d'impôt pour dépenses de recherche, le contribuable peut se faire assister par deux conseils de son
-choix.
-
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
-rectification adressées à compter du 1er juillet 2016.
+Devant la commission des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du code général des
+impôts, la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 H du même
+code ou le comité consultatif du crédit d'impôt pour dépenses de recherche, le contribuable peut se faire assister par deux
+conseils de son choix.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-766 du 9 juin 2016 - art. 2
+	  - Décret n°2017-769 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1651 (VT)
+	  - Code général des impôts, CGI. - art. 1651 H (V)
 
 
 ###### Article R*60-3
 
-L'avis ou la décision de la commission départementale ou nationale des impôts directs et des taxes sur le chiffre d'affaires
-ou du comité consultatif du crédit d'impôt pour dépenses de recherche doit être motivé. Il est notifié au contribuable par
-l'administration des impôts.
-
-**Nota:**
-
-Conformément à l'article 4 du décret n° 2016-766 du 9 juin 2016, ces dispositions sont applicables aux propositions de
-rectification adressées à compter du 1er juillet 2016.
+L'avis ou la décision de la commission des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du
+code général des impôts, de la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires prévue à
+l'article 1651 H du même code ou du comité consultatif du crédit d'impôt pour dépenses de recherche doit être motivé. Il est
+notifié au contribuable par l'administration des impôts.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2016-766 du 9 juin 2016 - art. 2
+	  - Décret n°2017-769 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1651 (VT)
+	  - Code général des impôts, CGI. - art. 1651 H (V)
 
 
 ###### Article R*61 A-1
@@ -16368,11 +16348,13 @@ rectification adressées à compter du 1er juillet 2016.
 
 ###### Article R60-2 A
 
-A la demande de l'un de ses membres, la commission départementale ou nationale des impôts directs et des taxes sur le chiffre
-d'affaires et le comité consultatif du crédit d'impôt pour dépenses de recherche peuvent, s'ils l'estiment utile, entendre en
-séance tout fonctionnaire ou agent qui a pris part à la détermination de la base d'imposition ou à la qualification des
-dépenses prises en compte pour la détermination du crédit d'impôt défini à l'article 244 quater B du code général des impôts
-qui fait l'objet du désaccord dont ils sont saisis ou, en cas d'absence ou de mutation, son successeur ou remplaçant.
+A la demande de l'un de ses membres, la commission des impôts directs et des taxes sur le chiffre d'affaires prévue à
+l'article 1651 du code général des impôts, la Commission nationale des impôts directs et des taxes sur le chiffre d'affaires
+prévue à l'article 1651 H du même code et le comité consultatif du crédit d'impôt pour dépenses de recherche peuvent, s'ils
+l'estiment utile, entendre en séance tout fonctionnaire ou agent qui a pris part à la détermination de la base d'imposition
+ou à la qualification des dépenses prises en compte pour la détermination du crédit d'impôt défini à l'article 244 quater B
+du code général des impôts qui fait l'objet du désaccord dont ils sont saisis ou, en cas d'absence ou de mutation, son
+successeur ou remplaçant.
 
 **Nota:**
 
@@ -16383,10 +16365,12 @@ rectification adressées à compter du 1er juillet 2016.
 
 	**Modifié par**:
 
-	  - Décret n°2016-766 du 9 juin 2016 - art. 2
+	  - Décret n°2017-769 du 4 mai 2017 - art. 3
 
 	**Cite**:
 
+	  - Code général des impôts, CGI. - art. 1651 (VT)
+	  - Code général des impôts, CGI. - art. 1651 H (V)
 	  - Code général des impôts, CGI. - art. 244 quater B
 
 
@@ -19954,23 +19938,24 @@ Les jugements des tribunaux administratifs peuvent faire l'objet des recours pr�
 ###### Article R*200-1
 
 Les dispositions du code de justice administrative sont applicables aux affaires portées devant le tribunal administratif ou
-devant la cour administrative d'appel, sous réserve des dispositions particulières prévues par le présent livre.
-
-Un membre du tribunal ou de la cour ne peut siéger dans le jugement d'un litige portant sur une imposition dont il a eu à
-apprécier la base comme président de la commission départementale des impôts directs et des taxes sur le chiffre d'affaires.
+devant la cour administrative d'appel, sous réserve des dispositions particulières prévues par le présent livre. Un membre du
+tribunal ou de la cour ne peut siéger dans le jugement d'un litige portant sur une imposition dont il a eu à apprécier la
+base comme président de la commission des impôts directs et des taxes sur le chiffre d'affaires mentionnée à l'article 1651
+du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2000-389 du 4 mai 2000 - art. 1 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-	  - Décret n°2000-389 du 4 mai 2000 - art. 3 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-	  - Décret n°2000-389 du 4 mai 2000 - art. 5 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-	  - Décret n°2000-389 du 4 mai 2000 - art. 7 (V) JORF 7 mai 2000 en vigueur le 1er janvier 2001
-
 	**Codifié par**:
 
-	  - Décret n°2001-436 2001-05-21
+	  - Décret n°2001-436 du 21 mai 2001
+
+	**Modifié par**:
+
+	  - Décret n°2017-769 du 4 mai 2017 - art. 3
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1651 (VD)
 
 
 ###### Article R*200-2
@@ -24539,7 +24524,7 @@ Chaque représentant a au moins le grade d'administrateur des finances publiques
 
 ###### Article A80 CB-3-2
 
-La compétence géographique de chaque collège territorial est définie en annexe I à l'arrêté du 29 novembre 2012 pris pour
+La compétence géographique de chaque collège territorial est définie en annexe I à l'arrêté du 13 avril 2017 pris pour
 l'application de l'article R. * 80 CB-3 du livre des procédures fiscales.
 
 **Liens relatifs à cet article**
@@ -24551,34 +24536,38 @@ l'application de l'article R. * 80 CB-3 du livre des procédures fiscales.
 
 	**Modifié par**:
 
-	  - Arrêté du 29 novembre 2012 - art. 2
+	  - Arrêté du 13 avril 2017 - art. 2
 
 
 ###### Article A80 CB-3-3
 
-Les collèges territoriaux des finances publiques sont composés : 
+Les collèges territoriaux des finances publiques sont composés :
 
 ― d'un administrateur général des finances publiques d'une direction dont le département est de la compétence géographique du
 collège. Il est président du collège ;
 
 ― d'un directeur de la direction spécialisée des finances publiques en matière de contrôle fiscal dont l'un des départements
 de son ressort territorial est de la compétence géographique du collège. Il assure la présidence du collège en cas d'absence
-ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ; 
+ou d'empêchement du président ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3 ;
 
 ― d'un administrateur des finances publiques d'une direction dont le département est de la compétence géographique du
-collège ; 
+collège ;
 
 ― de trois administrateurs des finances publiques adjoints de directions dont le département est de la compétence
-géographique du collège. 
+géographique du collège.
 
 Les membres du collège sont désignés par le directeur départemental ou, le cas échéant, régional des finances publiques de la
-direction de rattachement du collège.
+direction de rattachement du collège. Un administrateur général des finances publiques d'une direction dont le département
+est de la compétence géographique du collège est désigné, par le directeur départemental ou, le cas échéant, régional des
+finances publiques de la direction de rattachement du collège, suppléant du président du collège en cas d'absence ou
+d'empêchement du président et du directeur de la direction spécialisée des finances publiques en matière de contrôle fiscal,
+ou dans le cas prévu au cinquième alinéa de l'article R. * 80 CB-3.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 29 novembre 2012 - art. 2
+	  - Arrêté du 13 avril 2017 - art. 2
 
 	**Cite**:
 
