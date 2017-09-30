@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-09-01
+Version Consolidée au 2017-10-01
 
 # Partie législative
 
@@ -15071,6 +15071,35 @@ ordonner le cas échéant sous astreintes les mesures proposées par la Commissi
 	**Liens**:
 
 	  - HISTO: Edition du 31 mars 2000
+
+
+###### Article L288 A
+
+Sur la base du numéro d'inscription au répertoire national d'identification des personnes physiques et des éléments d'Etat
+civil communiqués par les débiteurs de la retenue à la source mentionnés à l'article 204 A du code général des impôts,
+l'administration fiscale transmet à ceux-ci le taux de prélèvement prévu à l'article 204 E du même code avec le numéro
+d'inscription au répertoire national d'identification des personnes physiques correspondant. 
+
+Ces opérations sont réalisées et ces informations recueillies, détenues ou transmises aux seules fins des missions définies
+au présent article ainsi qu'à l'article 204 A du code général des impôts. 
+
+L'obligation de secret professionnel prévue à l'article L. 103 du présent livre s'étend à ces informations.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 A (VD)
+	  - Code général des impôts, CGI. - art. 204 E (VD)
+	  - Livre des procédures fiscales - art. L103 (V)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1753 bis C (VD)
 
 
 #### Chapitre III : Dispositions communautaires
