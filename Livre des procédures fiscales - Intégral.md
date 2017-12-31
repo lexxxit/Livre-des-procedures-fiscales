@@ -1,5 +1,5 @@
 # Livre des procédures fiscales  
-Version Consolidée au 2017-10-01
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -781,6 +781,34 @@ livres de comptabilité et pièces annexes dont ils disposent ainsi que les docu
 	**Cité par**:
 
 	  - Livre des procédures fiscales - art. L87 (V)
+
+
+###### Article L14 A
+
+L'administration contrôle sur place, en suivant les règles prévues par  le présent livre, que les montants portés sur les
+documents mentionnés à  l'article 1740 A du code général des impôts délivrés par les organismes  bénéficiaires de dons et
+versements et destinés à permettre à un  contribuable d'obtenir les réductions d'impôts prévues aux articles  200,238 bis et
+885-0 V bis A du même code, correspondent à ceux des dons  et versements effectivement perçus et ayant donné lieu à la
+délivrance  de ces documents. 
+
+Ces organismes sont tenus de  présenter à l'administration les documents et pièces de toute nature  mentionnés à l'article L.
+102 E du présent livre permettant à celle-ci  de réaliser son contrôle. 
+
+Les opérations  réalisées lors de ce contrôle ne constituent pas une vérification de  comptabilité au sens de l'article L.
+13. Toutefois, les organismes  faisant l'objet de ce contrôle bénéficient, dans des conditions  déterminées par décret en
+Conseil d'Etat, des garanties prévues par le  présent livre pour les contribuables vérifiés.
+
+**Nota:**
+
+Conformément au B du II de l'article 17 de la loi n° 2016-1918 du 29 décembre 2016, les dispositions du présent article, dans
+leur rédaction issue du I du même article de la même loi, s'appliquent à compter du 1er janvier 2018 aux dons et versements
+effectués à compter du 1er janvier 2017.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 17 (V)
 
 
 ##### Section II : Dispositions particulières à certains impôts
@@ -5011,27 +5039,39 @@ B du code général des impôts.
 
 Les agents des douanes, ayant au moins le grade de contrôleur, peuvent disposer du droit d'enquête prévu aux articles L. 80 F
 à L. 80 H pour rechercher les manquements à l'application des règles de facturation afférentes aux acquisitions et
-livraisons, entrant dans le champ d'application de la taxe sur la valeur ajoutée, effectuées avec des Etats membres de la
-Communauté européenne.
+livraisons, entrant dans le champ d'application de la taxe sur la valeur ajoutée, effectuées avec des Etats membres de
+l'Union européenne. Ils peuvent également disposer de ce droit d'enquête afin d'effectuer les recherches requises pour
+l'octroi et le renouvellement de l'agrément prévu à l'article 262-0 bis du code général des impôts.
+
+**Nota:**
+
+Loi n° 2016-1918 du 29 décembre 2016, art. 87-VI : Ces dispostions entrent en vigueur à une date fixée par décret,
+postérieure à l'expiration du délai mentionné à l'article 6 de la directive (UE) 2015/1535 du Parlement européen et du
+Conseil du 9 septembre 2015 prévoyant une procédure d'information dans le domaine des réglementations techniques et des
+règles relatives aux services de la société de l'information, et au plus tard le 1er janvier 2018.
+
+Toutefois, les opérateurs de détaxe exerçant leur activité avant la date mentionnée ci-dessus peuvent continuer à exercer
+leur activité sans agrément jusqu'au 1er juillet 2019. A compter de cette date, ils ne peuvent continuer à exercer leur
+activité que s'ils ont obtenu l'agrément prévu à l'article 262-0 bis du code général des impôts.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
-
 	**Codifié par**:
 
-	  - Décret n°95-1282 1995-12-11
+	  - Décret n°95-1282 du 11 décembre 1995
 
 	**Cité par**:
 
 	  - Arrêté du 1 juillet 2003 - art. 7 (V)
 	  - Livre des procédures fiscales - art. L80 J (V)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
+
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L80 F (V)
+	  - Livre des procédures fiscales - art. L80 F
 
 
 ###### Article L80 J
@@ -5218,6 +5258,58 @@ modalités d'accès aux données mentionnées au I par les agents de l'administr
 	**Cité par**:
 
 	  - Code des douanes - art. 67 quinquies (V)
+
+
+#### Chapitre Ier sexies : Le droit de contrôle en matière de détention de logiciels de comptabilité ou de gestion ou de systèmes de caisse 
+
+
+
+###### Article L80 O
+
+Les agents de l'administration fiscale ayant au moins le grade de contrôleur peuvent intervenir de manière inopinée dans les
+locaux professionnels d'une personne assujettie à la taxe sur la valeur ajoutée, à l'exclusion des parties de ces locaux
+affectées au domicile privé, pour vérifier la détention par cette personne de l'attestation ou du certificat prévu au 3° bis
+du I de l'article 286 du code général des impôts pour chacun des logiciels de comptabilité ou de gestion ou systèmes de
+caisse qu'elle détient. 
+
+A cette fin, ils peuvent intervenir entre huit heures et vingt heures ou, en dehors de ces heures, durant les heures
+d'activité professionnelle de l'assujetti. 
+
+Au début de leur intervention, les agents de l'administration remettent à l'assujetti ou à son représentant un avis
+d'intervention. 
+
+A l'issue de leur intervention, ils établissent un procès-verbal consignant les références du ou des logiciels ou systèmes de
+caisse détenus par l'assujetti ainsi que les éventuels manquements à l'obligation prévue au 3° bis du I de l'article 286 du
+code général des impôts. Le procès-verbal est signé par les agents de l'administration ainsi que par l'assujetti ou son
+représentant. En cas de refus de signer, mention en est faite au procès-verbal. Une copie de celui-ci est remise à
+l'intéressé. 
+
+Lorsque les agents de l'administration constatent un manquement à l'obligation prévue au 3° bis du I du même article 286 et
+appliquent l'amende prévue à l'article 1770 duodecies du même code, le procès-verbal mentionne les dispositions du second
+alinéa du même article 1770 duodecies et informe l'assujetti qu'il dispose d'un délai de trente jours pour formuler ses
+observations et, le cas échéant, fournir l'attestation ou le certificat prévus au 3° bis du I de l'article 286 dudit code.
+Les observations de l'assujetti sont annexées au procès-verbal. Si l'intéressé apporte les justificatifs demandés dans le
+délai imparti, l'amende n'est pas appliquée. 
+
+Dans le cas où l'assujetti ou son représentant refuse l'intervention des agents de l'administration, ceux-ci en dressent
+procès-verbal et font application de l'amende prévue à l'article 1770 duodecies du même code. 
+
+L'intervention des agents de l'administration sur le fondement du présent article ne relève pas des procédures de contrôle de
+l'impôt régies par les articles L. 10 à L. 54 A du présent livre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 88 (V)
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 286 (VT)
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1770 duodecies (VD)
 
 
 #### Chapitre Ier septies : Le droit de contrôle en matière d'information de leurs utilisateurs par les plates-formes de mise en relation par voie électronique 
@@ -8392,15 +8484,14 @@ informations relatives à la situation des condamnés ayant à répondre financi
 Les maires peuvent se faire communiquer par l'administration en charge des contributions indirectes les éléments
 d'information que celle-ci détient en matière d'impôt sur les spectacles et de surtaxe sur les eaux minérales. 
 
-Le président de la collectivité territoriale de Corse et les présidents des conseils départementaux en Corse peuvent se faire
-communiquer par l'administration en charge des contributions indirectes les éléments d'information que celle-ci détient en
-matière de droit de consommation sur les tabacs manufacturés.
-
-**Nota:**
-
-Modification effectuée en conséquence des articles art. 1er [1°] et art. 51 de la loi n° 2013-403 du 17 mai 2013.
+Le président du conseil exécutif de Corse peut se faire communiquer par l'administration en charge des contributions
+indirectes les éléments d'information que celle-ci détient en matière de droit de consommation sur les tabacs manufacturés.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -13337,6 +13428,28 @@ constatées à la date du procès-verbal de flagrance fiscale.
 Ce produit ne peut être inférieur à celui résultant de l'application, au montant déterminé au deuxième alinéa du présent 1°,
 du taux de 33 1/3 % ; 
 
+I bis.-Lorsque le procès-verbal mentionné à l'article L. 80 F fait apparaître : 
+
+1° Les deux faits suivants : 
+
+a) La taxe sur la valeur ajoutée afférente à une livraison de biens est  devenue exigible dans les conditions prévues au a du
+2 de l'article 269  du code général des impôts sans que soit échue l'obligation déclarative  prévue à l'article 287 du même
+code ; 
+
+b) Le  montant obtenu par application des taux prévus aux articles 278 à 281  nonies dudit code à la base des opérations
+taxables réalisées jusqu'à la  date du procès-verbal précité au titre de la période comprise dans la  prochaine obligation
+déclarative et sous déduction de la taxe déductible  dans les conditions prévues aux articles 271 à 273 septies C du même
+code excède le montant de taxe sur la valeur ajoutée compris dans les  factures émises durant les douze mois précédant la
+livraison mentionnée  au a du présent 1° ; 
+
+2° Et que les circonstances sont susceptibles de menacer le recouvrement de la taxe, 
+
+le comptable peut, dans la limite du premier montant mentionné au b du  1° du présent I bis, procéder à la saisie à tiers
+débiteur de la créance  dont le redevable est détenteur auprès du destinataire de la livraison à  raison de celle-ci. La
+saisie est notifiée à l'un et à l'autre et  mentionne les délais et voies de recours. Elle emporte l'effet prévu à  l'article
+L. 523-1 du code des procédures civiles d'exécution à  concurrence des sommes pour lesquelles elle est pratiquée. Le
+comptable  ne peut en demander le paiement avant que soit échue l'obligation  déclarative mentionnée au a du 1°.  
+
 2° Pour l'impôt sur les sociétés, le produit résultant de l'application des taux prévus à l'article 219 du code général des
 impôts au montant du chiffre d'affaires hors taxes réalisé au titre de chaque année ou exercice pour lequel aucune obligation
 déclarative n'est échue, jusqu'à la date du procès-verbal de flagrance fiscale diminué d'un abattement représentatif de
@@ -13354,9 +13467,9 @@ article 1740 B du code général des impôts
 , le montant de cette amende. 
 
 II. Le juge du référé administratif mentionné à l'article L. 279, saisi dans un délai de huit jours à compter de la
-signification des mesures conservatoires mentionnées au I, ordonne qu'il soit mis fin à l'exécution de ces mesures en cas
-d'urgence et s'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux sur la régularité de
-cette procédure. 
+signification des mesures conservatoires mentionnées au I ou de la saisie à tiers débiteur mentionnée au I bis, ordonne qu'il
+soit mis fin à l'exécution de ces mesures en cas d'urgence et s'il est fait état d'un moyen propre à créer, en l'état de
+l'instruction, un doute sérieux sur la régularité de cette procédure. 
 
 Le juge du référé statue dans un délai de quinze jours. Faute d'avoir statué dans ce délai, le juge des référés est dessaisi
 au profit du tribunal administratif qui se prononce en urgence. 
@@ -13370,29 +13483,31 @@ conservatoires entraîne leur mainlevée immédiate.
 III. Le paiement des impositions dues au titre de l'exercice ou de la période comprenant celle couverte par le procès-verbal
 prévu à l'article L. 16-0 BA entraîne la mainlevée des mesures conservatoires prévues au I, sauf si l'administration réunit
 des éléments permettant d'établir que les déclarations du contribuable au vu desquelles ce paiement est intervenu ne sont pas
-sincères.
+sincères.  Il en va de même pour la saisie à tiers débiteur mentionnée au I bis  pour le paiement de la taxe sur la valeur
+ajoutée qu'elle vise.
 
 **Nota:**
 
-
+Loi n° 2016-1917 du 29 décembre 2016, article 103 III : Ces dispositions sont applicables aux livraisons de biens et
+prestations de services dont le fait générateur est intervenu à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2012-1510 du 29 décembre 2012 - art. 11
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 105 (V)
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1649 quater-0 B bis (V)
+	  - Code général des impôts, CGI. - art. 1649 quater-0 B bis
 	  - Code général des impôts, CGI. - art. 1740 B
-	  - Code général des impôts, CGI. - art. 197 (V)
+	  - Code général des impôts, CGI. - art. 197
 	  - Code général des impôts, CGI. - art. 219
-	  - Code général des impôts, CGI. - art. 271 (V)
-	  - Code général des impôts, CGI. - art. 278 (V)
+	  - Code général des impôts, CGI. - art. 271
+	  - Code général des impôts, CGI. - art. 278
 	  - Code général des impôts, CGI. - art. 50-0
-	  - Livre des procédures fiscales - art. L279 (V)
-	  - Code des procédures civiles d'exécution - art. L521-1 (V)
+	  - Livre des procédures fiscales - art. L279
+	  - Code des procédures civiles d'exécution - art. L521-1
 
 	**Cité par**:
 
@@ -13578,11 +13693,11 @@ Pour l'application  du premier alinéa, les créances doivent être liquides et 
 
 ###### Article L257-0 A
 
-1. A défaut de paiement des sommes mentionnées sur l'avis d'imposition à la date limite de paiement ou de celles mentionnées
-sur l'avis de mise en recouvrement et en l'absence d'une réclamation assortie d'une demande de sursis de paiement formulée
-dans les conditions prévues au premier alinéa de l'article L. 277, le comptable public compétent adresse au contribuable une
-mise en demeure de payer avant la notification du premier acte de poursuite devant donner lieu à des frais au sens de
-l'article 1912 du code général des impôts. 
+1. A défaut de paiement de l'acompte mentionné à l'article 1663 C du code général des impôts ou des sommes mentionnées sur
+l'avis d'imposition à la date limite de paiement ou de celles mentionnées sur l'avis de mise en recouvrement et en l'absence
+d'une réclamation assortie d'une demande de sursis de paiement formulée dans les conditions prévues au premier alinéa de
+l'article L. 277, le comptable public compétent adresse au contribuable une mise en demeure de payer avant la notification du
+premier acte de poursuite devant donner lieu à des frais au sens de l'article 1912 du code général des impôts. 
 
 2. Lorsque la mise en demeure de payer n'a pas été suivie de paiement ou d'une demande de sursis de paiement au sens de
 l'article L. 277, le comptable public compétent peut engager des poursuites à l'expiration d'un délai de trente jours suivant
@@ -13593,15 +13708,12 @@ conditions prévues à l'article L. 281.
 
 4. Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
+**Nota:**
+
+Aux termes de l'article 60 I G de la loi n° 2016-1917 du 29 décembre 2016 les présentes dispositions s'appliquent aux revenus
+perçus ou réalisés à compter du 1er janvier 2018.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
-
-	**Modifié par**:
-
-	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (M)
 
 	**Cité par**:
 
@@ -13615,10 +13727,15 @@ conditions prévues à l'article L. 281.
 	  - Livre des procédures fiscales - art. R*257-0 B-2 (V)
 	  - Livre des procédures fiscales - art. R*257-0 C (T)
 
+	**Modifié par**:
+
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 60 (V)
+
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1912 (V)
-	  - Livre des procédures fiscales - art. L277 (V)
+	  - Code général des impôts, CGI. - art. 1663 C (VD)
+	  - Code général des impôts, CGI. - art. 1912
+	  - Livre des procédures fiscales - art. L277
 	  - Livre des procédures fiscales - art. L281
 
 
@@ -19449,6 +19566,26 @@ double emploi.
 	  - Livre des procédures fiscales - art. L190
 
 
+###### Article R*196-1-1
+
+Sans préjudice des réclamations qui peuvent être présentées par les contribuables après la mise en recouvrement du rôle
+d'impôt sur le revenu, dans le délai fixé au deuxième alinéa de l'article R. * 196-1, et par dérogation aux dispositions des
+troisième et septième alinéas de cet article, les réclamations relatives au prélèvement prévu à l'article 204 A du code
+général des impôts doivent être présentées par le débiteur ou le bénéficiaire des revenus faisant l'objet de ce prélèvement
+au plus tard le dernier jour du mois de février de l'année suivant celle au cours de laquelle ces revenus ont été mis à
+disposition ou réalisés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-697 du 2 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 A
+
+
 ###### Article R*196-2
 
 Pour être recevables, les réclamations relatives aux impôts directs locaux et aux taxes annexes doivent être présentées à
@@ -19583,33 +19720,36 @@ effectué le versement de la somme contestée.
 
 ###### Article R*197-1
 
-Les réclamations doivent être individuelles.
+Les réclamations doivent être individuelles. 
 
-Toutefois, peuvent formuler une réclamation collective :
+Toutefois, peuvent formuler une réclamation collective : 
 
-a) Les contribuables imposés collectivement ;
+a) Les contribuables imposés collectivement ; 
 
-b) Les membres des sociétés de personnes qui contestent les impôts à la charge de la société ;
+b) Les membres des sociétés de personnes qui contestent les impôts à la charge de la société ; 
 
-c) Les maires qui sollicitent au nom de leurs administrés un dégrèvement de taxe foncière pour pertes de récoltes.
+c) Les maires qui sollicitent au nom de leurs administrés un dégrèvement de taxe foncière pour pertes de récoltes. 
+
+d) Les bénéficiaires de revenus mentionnés à l'article 204 B du code général des impôts qui contestent le montant de la
+retenue à la source prévue au 1° du 2 de l'article 204 A du même code opérée par un même débiteur. 
 
 En outre, en cas de calamité agricole, le preneur et le bailleur d'un bien rural peuvent, ensemble ou séparément, présenter
 une demande de réduction ou d'exonération d'impôt foncier.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - CGI 1933 1
-	  - CGI 1934 3
-
 	**Codifié par**:
 
-	  - Décret n°93-1095 1993-09-16
+	  - Décret n°93-1095 du 16 septembre 1993
 
 	**Modifié par**:
 
-	  - Décret n°93-1095 du 16 septembre 1993 - art. 2 () JORF 18 septembre 1992
+	  - Décret n°2017-697 du 2 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 204 A
+	  - Code général des impôts, CGI. - art. 204 B
 
 
 ###### Article R*197-2
@@ -21871,31 +22011,24 @@ Modifications effectuées en conséquence des articles 9 et 16-II du décret n°
 Pour l'application du 1 de l'article L. 257-0 B
 , constituent une même catégorie d'impositions : 
 
-a) L'impôt sur le revenu, les prélèvements sociaux recouvrés comme en matière d'impôt sur le revenu, la taxe d'habitation,
-les taxes foncières sur les propriétés bâties et non bâties, les impositions recouvrées comme les impositions précitées ainsi
-que l'impôt de solidarité sur la fortune ; 
+a) L'impôt sur le revenu, l'acompte prévu à l'article 1663 C du code général des impôts, les prélèvements sociaux recouvrés
+comme en matière d'impôt sur le revenu, la taxe d'habitation, les taxes foncières sur les propriétés bâties et non bâties,
+les impositions recouvrées comme les impositions précitées ainsi que l'impôt de solidarité sur la fortune ; 
 
 b) Les droits d'enregistrement, la taxe de publicité foncière et les droits de timbre ; 
 
 c) Les impositions autres que celles mentionnées au a et au b.
 
-**Nota:**
-
-Modifications effectuées en conséquence des articles 9 et 16-II du décret n° 2011-1302 du 14 octobre 2011.
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-654 du 4 mai 2012 - art. 2
+	  - Décret n°2017-697 du 2 mai 2017 - art. 1
 
 	**Cite**:
 
-	  - Livre des procédures fiscales - art. L257-0 B (V)
-
-	**Anciens textes**:
-
-	  - Livre des procédures fiscales - art. R*257-0 B (T)
+	  - Code général des impôts, CGI. - art. 1663 C
+	  - Livre des procédures fiscales - art. L257-0 B
 
 
 ###### Article R*257-0 B-2
